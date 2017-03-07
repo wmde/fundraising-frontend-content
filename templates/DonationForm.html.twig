@@ -17,29 +17,29 @@
 </div>
 
 <div id="paymentPage">
-    {% include 'DonationForm_Payment' %}
+    {% include 'DonationForm_Payment.html.twig' %}
 </div>
 
 <div id="personalDataPage">
-    {% include 'DonationForm_PersonalData' %}
+    {% include 'DonationForm_PersonalData.html.twig' %}
 </div>
 
 <div id="bankConfirmationPage">
-    {% include 'DonationForm_BankDataConfirmation' %}
+    {% include 'DonationForm_BankDataConfirmation.html.twig' %}
 </div>
 
 <div class="wlightbox-contents">
 
-<div id="wlightbox-wohin-geht-das-geld"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_Wohin_geht_das_Geld}}<html></div>
+<div id="wlightbox-wohin-geht-das-geld">{% include '10h16_Lightbox_Wohin_geht_das_Geld.html.twig' %}</div>
 
-<div id="wlightbox-steuerlich-absetzbar"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_Steuer}}<html></div>
+<div id="wlightbox-steuerlich-absetzbar">{% include '10h16_Lightbox_Steuer.html.twig' %}</div>
 
-<div id="wlightbox-bitcoin"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_BitCoin}}<html></div>
+<div id="wlightbox-bitcoin">{% include '10h16_Lightbox_BitCoin.html.twig' %}</div>
 
-<div id="wlightbox-spendenkommentare"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_Spendenkommentare}}<html></div>
+<div id="wlightbox-spendenkommentare">{% include '10h16_Lightbox_Spendenkommentare.html.twig' %}</div>
 
-<div id="wlightbox-supporter-list" style="width: 686px;"></html>{{Web:Spendenseite-DefaultSkin/test/Supporter_List}}<html></div>
+<div id="wlightbox-supporter-list" style="width: 686px;">{% include 'Supporter_List.html.twig' %}</div>
 
 </div>
-</html>{{Web:Spendenseite-DefaultSkin/test/Bank Detail Banner}}<html>
+{% include 'Bank_Detail_Banner.html.twig' %}
 </html>

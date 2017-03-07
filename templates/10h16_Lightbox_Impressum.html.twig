@@ -1,4 +1,3 @@
-{{#tag:html|
 <div class="wlightbox-title clearfix">
 	<span class="icon-hand-right wlightbox-icon"></span>Impressum
 </div>
@@ -9,15 +8,15 @@
 	</p>
 	<p>
 		<strong>Diensteanbieter</strong><br />
-		{{Web:Spendenseite-DefaultSkin/test/Imprint Address of Suborganization|html=true}}
+		{% include 'Imprint_Address_of_Suborganization.html.twig' | nl2br %}
 		E-Mail: spenden@wikimedia.de <br/>
 		Telefon: +49 (0)30-219 15 826-0 <br/>
 		Fax: +49 (0)180-522 71 17-619 (aus dem Festnetz: 14 ct/min, Mobilfunk max.: 42 ct/min) <br/>
 	</p>
 
 	<p>
-		<strong>{{Web:Spendenseite-DefaultSkin/test/Imprint Title Head of Suborganization}}</strong><br />
-		{{Web:Spendenseite-DefaultSkin/test/Imprint Name Head of Suborganization}}<br/>
+		<strong>{% include 'Imprint_Title_Head_of_Suborganization.html.twig' %}</strong><br />
+		{% include 'Imprint_Name_Head_of_Suborganization.html.twig' %}<br/>
 	</p>
 
 	<p>
@@ -42,4 +41,3 @@
 		durch das Vertrauen auf die Inhalte dieser Website oder deren Gebrauch entstehen.
 	</p>
 </div>
-}}
