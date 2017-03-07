@@ -1,0 +1,45 @@
+<html>
+<script id="init-form" src="{$ basepath|e('html_attr') $}{$ '/res/js/donationForm.js'|prefix_file $}"
+        data-initial-form-values="{% if initialFormValues %}{$ initialFormValues|json_encode|e('html_attr') $}{% else %}{}{% endif %}"
+        data-violated-fields="{% if violatedFields %}{$ violatedFields|json_encode|e('html_attr') $}{% else %}{}{% endif %}"
+        data-initial-validation-result="{% if validationResult %}{$ validationResult|json_encode|e('html_attr') $}{% else %}{}{% endif %}"
+        data-validate-amount-url="{$ basepath|e('html_attr') $}/validate-payment-data"
+        data-validate-address-url="{$ basepath|e('html_attr') $}/validate-address"
+        data-validate-email-address-url="{$ basepath|e('html_attr') $}/validate-email"
+        data-validate-iban-url="{$ basepath|e('html_attr') $}/check-iban"
+        data-generate-iban-url="{$ basepath|e('html_attr') $}/generate-iban"
+>
+</script>
+
+<div id="validation-errors" class="errorbox" style="display:none">
+    <strong>Bei der Prüfung Ihrer Eingaben wurden Probleme bemerkt</strong>.
+    Bitte überprüfen Sie Ihre Angaben in folgenden Feldern: <strong class="fields">keine</strong>
+</div>
+
+<div id="paymentPage">
+    {% include 'DonationForm_Payment' %}
+</div>
+
+<div id="personalDataPage">
+    {% include 'DonationForm_PersonalData' %}
+</div>
+
+<div id="bankConfirmationPage">
+    {% include 'DonationForm_BankDataConfirmation' %}
+</div>
+
+<div class="wlightbox-contents">
+
+<div id="wlightbox-wohin-geht-das-geld"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_Wohin_geht_das_Geld}}<html></div>
+
+<div id="wlightbox-steuerlich-absetzbar"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_Steuer}}<html></div>
+
+<div id="wlightbox-bitcoin"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_BitCoin}}<html></div>
+
+<div id="wlightbox-spendenkommentare"></html>{{Web:Spendenseite-DefaultSkin/test/10h16_Lightbox_Spendenkommentare}}<html></div>
+
+<div id="wlightbox-supporter-list" style="width: 686px;"></html>{{Web:Spendenseite-DefaultSkin/test/Supporter_List}}<html></div>
+
+</div>
+</html>{{Web:Spendenseite-DefaultSkin/test/Bank Detail Banner}}<html>
+</html>
