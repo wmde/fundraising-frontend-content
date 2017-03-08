@@ -2,10 +2,7 @@
 {% set membershipAppeal = 'Werden Sie Mitglied für Freies Wissen!' %}
 {% set formSlideOpen = false %}
 
-<div id="validation-errors" class="errorbox fixed" style="display:none">
-	<strong>Bei der Prüfung Ihrer Eingaben wurden Probleme bemerkt</strong>.
-	Bitte überprüfen Sie Ihre Angaben in folgenden Feldern: <strong class="fields">keine</strong>
-</div>
+{% include 'Validation_Errors.html.twig' %}
 
 <div id="personalDataPage">
 	{% include 'MembershipApplicationForm.html.twig' %}

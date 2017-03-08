@@ -10,10 +10,7 @@
 >
 </script>
 
-<div id="validation-errors" class="errorbox" style="display:none">
-    <strong>Bei der Prüfung Ihrer Eingaben wurden Probleme bemerkt</strong>.
-    Bitte überprüfen Sie Ihre Angaben in folgenden Feldern: <strong class="fields">keine</strong>
-</div>
+{% include 'Validation_Errors.html.twig' %}
 
 <div id="paymentPage">
     {% include 'DonationForm_Payment.html.twig' %}
