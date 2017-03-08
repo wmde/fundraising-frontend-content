@@ -13,7 +13,7 @@
 				{% else %}
 				<span class="icon-ok-sign">Ich habe <span class="amount-formatted">{$ formattedAmount $}</span> gespendet.</span>
 				{% endif %}
-				{% include '10h16_SocialMedia.html.twig' %}
+				{% include 'Share_on_Social_Networks.html.twig' %}
 			</div>
 		</div>
 	</div>
@@ -222,7 +222,7 @@
 {% if donation.paymentType != 'UEB' %}
 <div class="wlightbox-contents">
 	<div id="wlightbox-your-story">
-		{% include '10h16_Comment.html.twig' %}
+		{% include 'Donation_Comment_Form.html.twig' %}
 	</div>
 </div>
 {% endif %}
