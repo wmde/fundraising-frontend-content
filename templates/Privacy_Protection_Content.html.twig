@@ -1,7 +1,3 @@
-<div class="wlightbox-title clearfix">
-	<span class="icon-hand-right wlightbox-icon"></span>Datenschutz
-</div>
-
 <div class="container">
 	<p>
 		<strong>Erhebung und Verarbeitung personenbezogener Spenderdaten</strong><br />
@@ -61,7 +57,7 @@
 	<p>
 		<strong>Verfahrensverzeichnis</strong><br />
 		<u>Verantwortliche Stelle</u><br />
-		{% include 'Imprint_Address_of_Suborganization.html.twig' %}
+		{% include 'Imprint_Address_of_Suborganization.html.twig' with { output: 'html' } %}
 		<br />
 		<u>{% include 'Imprint_Title_Head_of_Suborganization.html.twig' %}</u><br />
 		{% include 'Imprint_Name_Head_of_Suborganization.html.twig' %}<br /><br />
