@@ -7,27 +7,24 @@
 		<div class="ctcol">
 			<div class="box box-common partial rounded no-margin">
 				<div class="box-header container clearfix">
-					<span class="icon-bug">
-						{% if cancellationSuccessful %}
-							{$ 'donation-cancellation-header'|trans({}) $}
-						{% else %}
-							{$ 'donation-cancellation-failed-header'|trans({}) $}
-						{% endif %}
+					{% if cancellationSuccessful %}
+					<span class="icon-ok">
+						{$ 'membership-cancellation-header'|trans({}) $}
 					</span>
+					{% else %}
+					<span class="icon-bug">
+						{$ 'membership-cancellation-failed-header'|trans({}) $}
+					</span>
+					{% endif %}
 				</div>
 
 				<div class="box-section box-footer">
 					<div class="container clearfix">
 						<p>
 							{% if cancellationSuccessful %}
-								{$ 'donation-cancellation-text'|trans( { '%donation.id%': donationId } )|raw $}
+								{$ 'membership-cancellation-text'|trans( { '%membership.id%': membershipId } )|raw $}
 							{% else %}
-								{$ 'donation-cancellation-failed-text'|trans( { '%donation.id%': donationId } )|raw $}
-							{% endif %}
-						</p>
-						<p>
-							{% if mailDeliveryFailed %}
-								{$ 'donation-cancellation-mail-delivery-failure'|trans|raw $}
+								{$ 'membership-cancellation-failed-text'|trans( { '%membership.id%': membershipId } )|raw $}
 							{% endif %}
 						</p>
 					</div>
@@ -36,6 +33,14 @@
 		</div>
 
 		<div class="rtcol">
+			<div class="icon-hand-right _icon-list-item first">
+				<p>
+					<strong>Mitgliedschaft</strong>
+				</p>
+				<p>
+					<a href="{$ path( 'page', { pageName: 'Membership_Application } ) $}" target="_blank">Zurück</a> zum Mitgliedschaftsformular
+				</p>
+			</div>
 			<div class="icon-hand-right _icon-list-item last">
 				<p>
 					<strong>Spenden</strong>
