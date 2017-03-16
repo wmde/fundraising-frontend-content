@@ -4,13 +4,17 @@
 	</p>
 	<p>
 		<strong>Diensteanbieter</strong><br />
-		{% include 'Imprint_Address_of_Suborganization.html.twig' with { output: 'html' } %}
+		{% filter nl2br %}
+			{%- include 'Imprint_Address_of_Suborganization.txt.twig' %}
+		{% endfilter %}
+		<br />
 		E-Mail: spenden@wikimedia.de <br/>
 		Telefon: +49 (0)30-219 15 826-0 <br/>
 		Fax: +49 (0)180-522 71 17-619 (aus dem Festnetz: 14 ct/min, Mobilfunk max.: 42 ct/min) <br/>
 	</p>
 
 	<p>
+
 		<strong>{% include 'Imprint_Title_Head_of_Suborganization.html.twig' %}</strong><br />
 		{% include 'Imprint_Name_Head_of_Suborganization.html.twig' %}<br/>
 	</p>
