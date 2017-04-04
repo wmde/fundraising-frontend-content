@@ -1,0 +1,6 @@
+{
+    "name": "wmde/fundraising-frontend-content",
+    "description": "i18n for FundraisingFrontend",
+    "license": "GPL-2.0+",
+    "require": {}
+}
