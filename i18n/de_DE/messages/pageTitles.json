@@ -1,8 +1,7 @@
 {
-    "membership": "Mitgliedschaft",
-    "sustaining_membership": "Fördermitgliedschaft",
-    "dataprotection": "Datenschutz",
+    "donation_receipt": "Spendenquittung",
     "imprint": "Impressum",
+    "privacy_protection": "Datenschutz",
     "supporters": "Unterstützerliste",
-    "donation_receipt": "Spendenquittung"
+    "use_of_resources": "Wohin geht meine Spende?"
 }
