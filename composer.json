@@ -2,5 +2,16 @@
     "name": "wmde/fundraising-frontend-content",
     "description": "i18n for FundraisingFrontend",
     "license": "GPL-2.0+",
-    "require": {}
+    "require-dev": {
+        "seld/jsonlint": "^1.6"
+    },
+    "scripts": {
+        "ci": [
+            "@test"
+        ],
+        "test": [
+            "composer validate --no-interaction",
+            "find i18n/ -type f -name \\*.json -exec echo \"{}\" \\; -exec vendor/bin/jsonlint {} \\;"
+        ]
+    }
 }
