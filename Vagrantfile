@@ -1,7 +1,5 @@
 Vagrant.configure(2) do |config|
-	config.vm.box = "ubuntu/xenial64"
-
-	config.vm.network "private_network", ip: "192.168.66.77"
+	config.vm.box = "bento/ubuntu-16.04"
 
 	config.vm.provider "virtualbox" do |vb|
 	 vb.memory = "1024"
@@ -13,7 +11,7 @@ Vagrant.configure(2) do |config|
 		add-apt-repository ppa:ondrej/php -y
 		apt-get update
 
-		apt-get install -y php7.1 php7.1-xml php7.1-zip php7.1-mbstring
+		apt-get install -y php7.1-cli php7.1-common php7.1-xml php7.1-zip php7.1-mbstring
 	SHELL
 
 	config.vm.provision "shell", inline: <<-SHELL
