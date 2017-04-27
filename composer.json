@@ -3,13 +3,13 @@
     "description": "i18n for FundraisingFrontend",
     "license": "GPL-2.0+",
     "require-dev": {
-        "wmde/fundraising-html-filter": "dev-master",
+        "wmde/fundraising-content-provider": "^1.0",
         "seld/jsonlint": "^1.6"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/wmde/fundraising-html-filter"
+            "url": "https://github.com/wmde/fundraising-content-provider"
         }
     ],
     "scripts": {
