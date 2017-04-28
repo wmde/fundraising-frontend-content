@@ -3,7 +3,7 @@
     "description": "i18n for FundraisingFrontend",
     "license": "GPL-2.0+",
     "require-dev": {
-        "wmde/fundraising-content-provider": "dev-twiglint2",
+        "wmde/fundraising-content-provider": "dev-master",
         "seld/jsonlint": "^1.6"
     },
     "repositories": [
@@ -25,8 +25,8 @@
             "find i18n/ -type f -name \\*.json -exec echo \"{}\" \\; -exec vendor/bin/jsonlint {} \\;"
         ],
         "lint-templates": [
-            "find i18n/*/web i18n/*/shared -type f -name '*.twig' | sed 's|/web/| |' | sed 's|/shared/| |' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/purifier_lint lint-content --web $0 $1'",
-            "find i18n/*/mail i18n/*/shared -type f -name '*.twig' | sed 's|/mail/| |' | sed 's|/shared/| |' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/purifier_lint lint-content $0 $1'"
+            "find i18n/*/web i18n/*/shared -type f -name '*.twig' | sed -E 's#/web/|/shared/# #' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/lint_content --web $0 $1'",
+            "find i18n/*/mail i18n/*/shared -type f -name '*.twig' | sed -E 's#/mail/|/shared/# #' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/lint_content $0 $1'"
         ]
     }
 }
