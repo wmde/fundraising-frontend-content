@@ -26,3 +26,5 @@ Have a look at the [list of allowed tags in the content provider Repository](htt
 ### What template syntax is allowed?
 Only `{% include %}` and `{$ variable $}` statements.
 
+
+
