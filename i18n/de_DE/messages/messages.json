@@ -34,5 +34,6 @@
   "membership_application_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits einen Mitgliedschaftsantrag gesendet. Bitte warten Sie einen Moment.<br />Wenn Sie Fragen dazu haben, wenden Sie sich bitte an <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder@wikimedia.de</a>.",
   "page_not_found": "Diese Seite existiert leider nicht.<br /><a href=\"/\">Klicken Sie hier, um unsere Spenden-Seite aufzurufen.</a>",
   "item_name_donation": "Ihre Spende an Wikimedia",
-  "item_name_membership": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V."
+  "item_name_membership": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
+  "notice_membership_paypal": "Die Mitgliedschaft bei Wikimedia Deutschland beginnt offiziell %delay_in_days% Tage nach dem Mitgliedschaftsantrag. Damit PayPal den ersten Beitrag in %delay_in_days% Tagen abbuchen kann, sind die Tage bis dahin als \"kostenlose Testmitgliedschaft\" vermerkt."
 }
