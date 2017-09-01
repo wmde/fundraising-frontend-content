@@ -35,5 +35,6 @@
   "page_not_found": "Diese Seite existiert leider nicht.<br /><a href=\"/\">Klicken Sie hier, um unsere Spenden-Seite aufzurufen.</a>",
   "item_name_donation": "Ihre Spende an Wikimedia",
   "item_name_membership": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
-  "notice_membership_paypal": "Die Mitgliedschaft bei Wikimedia Deutschland beginnt offiziell %delay_in_days% Tage nach dem Mitgliedschaftsantrag. Damit PayPal den ersten Beitrag in %delay_in_days% Tagen abbuchen kann, sind die Tage bis dahin als \"kostenlose Testmitgliedschaft\" vermerkt."
+  "notice_membership_paypal": "Die Mitgliedschaft bei Wikimedia Deutschland beginnt ein paar Wochen nach dem Mitgliedsantrag. Damit PayPal den ersten Beitrag erst nach Ihrer Aufnahme einzieht, ist die Zeit bis dahin als \"kostenlose Testmitgliedschaft\" mit 0,00€ vermerkt.",
+  "notice_recurring_paypal": "Bitte beachten Sie, dass für regelmäßige Zahlungen bei PayPal eine Kreditkarte hinterlegt sein muss."
 }
