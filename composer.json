@@ -9,7 +9,8 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/wmde/fundraising-content-provider"
+            "url": "https://github.com/wmde/fundraising-content-provider",
+            "no-api": true
         }
     ],
     "scripts": {
