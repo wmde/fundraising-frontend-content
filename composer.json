@@ -20,7 +20,8 @@
         "test": [
             "composer validate --no-interaction",
             "@lint-json",
-            "@lint-templates"
+            "@lint-templates",
+            "@lint-wordlists"
         ],
         "lint-json": [
             "find i18n/ -type f -name \\*.json -exec echo \"{}\" \\; -exec vendor/bin/jsonlint {} \\;"
@@ -28,6 +29,9 @@
         "lint-templates": [
             "find i18n/*/web i18n/*/shared -type f -name '*.twig' | sed -E 's#/web/|/shared/# #' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/lint_content --web $0 $1'",
             "find i18n/*/mail i18n/*/shared -type f -name '*.twig' | sed -E 's#/mail/|/shared/# #' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/lint_content $0 $1'"
+        ],
+        "lint-wordlists": [
+            "if grep -oE '\\w+ {2,}\\w+' data/bad_words.txt data/white_words.txt; then echo 'Words must only be separated by 1 space'; false; fi"
         ]
     }
 }
