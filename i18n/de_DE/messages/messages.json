@@ -13,6 +13,8 @@
   "donation-cancellation-failed-text": "Ihre Spende mit der Nummer %donation.id% konnte nicht storniert werden. Bitte wenden Sie sich an <a href=\"mailto:spenden@wikimedia.de?subject=Online-Spende%20%donation.id%\">spenden@wikimedia.de</a>, um gegebenenfalls eine Rückbuchung zu veranlassen.",
   "donation-cancellation-mail-delivery-failure": "Die Stornierung der Spende war erfolgreich, beim Versenden der E-Mail zur Bestätigung ist aber ein Fehler aufgetreten.",
   "donation-no-donation-receipt": "Nein, ich benötige keine Spendenbescheinigung.",
+  "donation-info-opt-in": "Ja, ich möchte wissen, ob die Spendenkampagne erfolgreich war. Bitte informiert mich auch in Zukunft, wenn Wikipedia meine Hilfe braucht.",
+  "donation-confirm-sepa-shortterm": "Mit SEPA wurde eine Informationsfrist für Lastschriften eingeführt. Ich bin damit einverstanden, dass ich spätestens 2 Tage vor der geplanten Abbuchung der Spende per Email benachrichtigt werde.",
   "membership-cancellation-header": "Ihr Mitgliedschaftsantrag wurde storniert",
   "membership-cancellation-failed-header": "Ihr Mitgliedschaftsantrag konnte nicht storniert werden",
   "membership-cancellation-text": "Ihr Mitgliedschaftsantrag mit der Nummer %membership.id% wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:mitglieder@wikimedia.de?subject=Mitgliedschaft%20%membership.id%\">mitglieder@wikimedia.de</a>.",
