@@ -81,5 +81,8 @@
   "payment_interval_1_info": "Ihr Konto wird jeden Monat belastet. Ihre monatliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
   "payment_interval_3_info": "Ihr Konto wird alle drei Monate belastet. Ihre vierteljahrliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
   "payment_interval_6_info": "Ihr Konto wird alle sechs Monate belastet. Ihre halbjahrliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
-  "payment_interval_12_info": "Ihr Konto wird jährlich belastet. Ihre jährliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren."
+  "payment_interval_12_info": "Ihr Konto wird jährlich belastet. Ihre jährliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
+  "salutation_label": "Anrede",
+  "salutation_option_mr": "Herr",
+  "salutation_option_mrs": "Frau"
 }
