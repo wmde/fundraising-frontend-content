@@ -101,5 +101,15 @@
   "country_option_IT": "Italien",
   "country_option_LI": "Liechtenstein",
   "country_option_LU": "Luxemburg",
-  "donation_sendinfo_label": "Ja, ich bin damit einverstanden, dass Wikimedia mich per E-Mail kontaktiert, wenn Wikipedia meine Unterstützung benötigt.<br>Die Einwilligung können Sie jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen."
+  "donation_sendinfo_label": "Ja, ich bin damit einverstanden, dass Wikimedia mich per E-Mail kontaktiert, wenn Wikipedia meine Unterstützung benötigt.<br>Die Einwilligung können Sie jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
+  "donation_section_overview_title": "Übersicht",
+  "donation_section_amount_anchor": "Betrag",
+  "donation_section_amount_title": "Spendenbetrag",
+  "donation_section_amount_legend": "Wie viel Geld wollen Sie spenden und wie häufig?",
+  "donation_section_payment_anchor": "Zahlart",
+  "donation_section_payment_title": "Zahlart",
+  "donation_section_payment_legend": "Wie möchten Sie Ihre Spende bezahlen?",
+  "donation_section_donor_anchor": "Daten",
+  "donation_section_donor_title": "Daten",
+  "donation_section_donor_legend": "Wollen Sie als Privatperson oder als Firma spenden? Sie können auch ohne Angabe Ihrer Adresse spenden."
 }
