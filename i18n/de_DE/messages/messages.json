@@ -77,6 +77,7 @@
   "payment_type_MCP_info": "Nach der Möglichkeit der Adressangabe werden Sie zu unserem Partner Micropayment weitergeleitet, wo Sie Ihre Kreditkarteninformationen eingeben können.",
   "payment_type_PPL_info": "Nach der Möglichkeit der Adressangabe werden Sie zu PayPal weitergeleitet, wo Sie die Spende abschließen müssen.",
   "payment_type_SUB_info": "Nach der Möglichkeit der Adressangabe werden Sie zu unserem Partner Sofort weitergeleitet, wo Sie Ihre Zahldaten eingeben können.",
+  "payment_interval_legend": "Wie häufig möchten Sie zahlen?",
   "payment_interval_0_info": "Ihr Konto wird einmal belastet.",
   "payment_interval_1_info": "Ihr Konto wird jeden Monat belastet. Ihre monatliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
   "payment_interval_3_info": "Ihr Konto wird alle drei Monate belastet. Ihre vierteljahrliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
