@@ -84,5 +84,7 @@
   "payment_interval_12_info": "Ihr Konto wird jährlich belastet. Ihre jährliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
   "salutation_label": "Anrede",
   "salutation_option_mr": "Herr",
-  "salutation_option_mrs": "Frau"
+  "salutation_option_mrs": "Frau",
+  "title_label": "Titel",
+  "title_option_none": "Kein Titel"
 }
