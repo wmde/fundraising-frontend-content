@@ -86,5 +86,12 @@
   "salutation_option_mr": "Herr",
   "salutation_option_mrs": "Frau",
   "title_label": "Titel",
-  "title_option_none": "Kein Titel"
+  "title_option_none": "Kein Titel",
+  "firstname_label": "Vorname",
+  "lastname_label": "Name",
+  "email_label": "E-Mail",
+  "street_label": "Straße und Hausnummer",
+  "zip_label": "Postleitzahl",
+  "city_label": "Stadt",
+  "companyname_label": "Firmenname"
 }
