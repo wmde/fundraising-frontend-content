@@ -73,6 +73,7 @@
   "operator_account_bic": "BFSWDE33BER",
   "transfer_code": "Verwendungszweck",
   "amount": "Betrag",
+  "payment_amount_legend": "Bitte geben Sie Ihren Wunschbetrag an.",
   "payment_type_UEB_info": "On the conclusion of the donation process, you will be provided with the Wikimedia bank data so you can transfer the money.",
   "payment_type_MCP_info": "Nach der Möglichkeit der Adressangabe werden Sie zu unserem Partner Micropayment weitergeleitet, wo Sie Ihre Kreditkarteninformationen eingeben können.",
   "payment_type_PPL_info": "Nach der Möglichkeit der Adressangabe werden Sie zu PayPal weitergeleitet, wo Sie die Spende abschließen müssen.",
