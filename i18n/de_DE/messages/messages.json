@@ -93,5 +93,12 @@
   "street_label": "Straße und Hausnummer",
   "zip_label": "Postleitzahl",
   "city_label": "Stadt",
-  "companyname_label": "Firmenname"
+  "companyname_label": "Firmenname",
+  "country_option_DE": "Deutschland",
+  "country_option_AT": "Österreich",
+  "country_option_CH": "Schweiz",
+  "country_option_BE": "Belgien",
+  "country_option_IT": "Italien",
+  "country_option_LI": "Liechtenstein",
+  "country_option_LU": "Luxemburg"
 }
