@@ -126,8 +126,10 @@
   "donation_section_donor_legend": "Wollen Sie als Privatperson oder als Firma spenden? Sie können auch ohne Angabe Ihrer Adresse spenden.",
   "donation_section_donor_fallback": "Daten noch nicht ausgewählt.",
   "wikimedia_tagline": "Die Wikimedia Fördergesellschaft ist eine unabhängige gemeinnützige Organisation, die in Deutschland Spenden für Wikipedia und die anderen Wikimedia-Projekte sammelt.",
+  "wikimedia_hotline": "030 / 21 91 58 26 - 0",
   "donation_title": "Spenden",
   "donation_banner_anchor": "Jetzt spenden",
   "donation_banner_deeplink_summary": "Sie wollen %frequency% %amount% per %payment_method% spenden.",
-  "donation_banner_correction_anchor": "Das stimmt nicht?<br>Hier können Sie Ihre Angaben ändern."
+  "donation_banner_correction_anchor": "Das stimmt nicht?<br>Hier können Sie Ihre Angaben ändern.",
+  "notice_ssl_encrypted": "SSL-verschlüsselte Daten"
 }
