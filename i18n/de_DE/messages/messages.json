@@ -36,7 +36,7 @@
   "comment_failure_name_too_long": "Der Name ist zu lang.",
   "comment_success_ok": "Vielen Dank! Die Nachricht wurde verschickt!",
   "comment_success_needs_moderation": "Ihr Kommentar wurde von unserem System zur Überprüfung vorgemerkt und steht daher nicht automatisch in der öffentlichen Spenderliste.",
-  "pagination_page_n_of_x": "Seite %page% von %max_pages%+",
+  "pagination_page_n_of_x": "Seite %page% von %max_pages%",
   "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie einen Moment.<br />Wenn Sie Fragen dazu haben, wenden Sie sich bitte an <a href=\"mailto:spenden%40wikimedia.de\">spenden@wikimedia.de</a>.",
   "membership_application_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits einen Mitgliedschaftsantrag gesendet. Bitte warten Sie einen Moment.<br />Wenn Sie Fragen dazu haben, wenden Sie sich bitte an <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder@wikimedia.de</a>.",
   "page_not_found": "Diese Seite existiert leider nicht.<br /><a href=\"/\">Klicken Sie hier, um unsere Spenden-Seite aufzurufen.</a>",
@@ -132,5 +132,12 @@
   "donation_banner_anchor": "Jetzt spenden",
   "donation_banner_deeplink_summary": "Sie wollen %frequency% %amount% per %payment_method% spenden.",
   "donation_banner_correction_anchor": "Das stimmt nicht?<br>Hier können Sie Ihre Angaben ändern.",
-  "notice_ssl_encrypted": "SSL-verschlüsselte Daten"
+  "notice_ssl_encrypted": "SSL-verschlüsselte Daten",
+  "donation_comments_head": "Spendenkommentare",
+  "donation_comments_intro": "Nachfolgend finden Sie eine Übersicht der letzten Spendenkommentare. Die neuesten Einträge sind auch als %rss_link% verfügbar",
+  "rss_feed": "RSS-Feed",
+  "donation_comments_pagination_prev": "Vorherige Kommentarseite",
+  "donation_comments_pagination_next": "Nächste Kommentarseite",
+  "donation_comments_loading":"Spendenkommentare werden geladen …",
+  "donation_comments_none_found": "Zur Zeit gibt es keine Spendenkommentare"
 }
