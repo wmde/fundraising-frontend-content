@@ -79,6 +79,7 @@
   "payment_type_UEB_info": "On the conclusion of the donation process, you will be provided with the Wikimedia bank data so you can transfer the money.",
   "payment_type_MCP_info": "Nach der Möglichkeit der Adressangabe werden Sie zu unserem Partner Micropayment weitergeleitet, wo Sie Ihre Kreditkarteninformationen eingeben können.",
   "payment_type_PPL_info": "Nach der Möglichkeit der Adressangabe werden Sie zu PayPal weitergeleitet, wo Sie die Spende abschließen müssen.",
+  "payment_type_PPL_recurrent_info": "Für regelmäßige Spenden muss bei PayPal eine Kreditkarte hinterlegt sein.",
   "payment_type_SUB_info": "Nach der Möglichkeit der Adressangabe werden Sie zu unserem Partner Sofort weitergeleitet, wo Sie Ihre Zahldaten eingeben können.",
   "payment_type_BEZ_info": "Ich ermächtige die gemeinnützige Wikimedia Fördergesellschaft mbH (Gläubiger-ID: DE25ZZZ00000448435) Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von der gemeinnützigen Wikimedia Fördergesellschaft mbH auf mein Konto gezogenen Lastschriften einzulösen. Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.",
   "payment_type_BEZ_iban_decision": "oder",
