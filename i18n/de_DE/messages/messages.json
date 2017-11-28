@@ -61,6 +61,8 @@
   "donation_confirmation_standing_order": "Richten Sie bitte einen Dauerauftrag mit den genannten Zahlungsinformationen ein.",
   "donation_confirmation_check_email": "Sie können übrigens alle Daten auch in der E-Mail überprüfen, die wir Ihnen geschickt haben.",
   "donation_confirmation_apply_for_membership": "Jetzt Mitglied werden",
+  "donation_confirmation_print_confirmation": "Bestätigung drucken",
+  "donation_confirmation_print_summary": "Zusammenfassung drucken",
   "cancel_donation": "Jetzt stornieren.",
   "add_donation_comment": "Spendenkommentar schreiben",
   "share_on_facebook": "Auf Facebook teilen",
