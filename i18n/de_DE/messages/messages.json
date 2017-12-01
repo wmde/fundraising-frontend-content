@@ -111,6 +111,7 @@
   "zip_label": "Postleitzahl",
   "city_label": "Stadt",
   "companyname_label": "Firmenname",
+  "country_label": "Land",
   "country_option_DE": "Deutschland",
   "country_option_AT": "Österreich",
   "country_option_CH": "Schweiz",
