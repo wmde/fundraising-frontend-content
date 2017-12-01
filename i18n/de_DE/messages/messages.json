@@ -197,5 +197,6 @@
   "membership_membershiptype_option_active_legend": "Sie bringen sich aktiv im Verein und haben ein Stimmrecht auf der Mitglieder-Versammlung.",
   "membership_addresstype_option_private": "Privatperson",
   "membership_addresstype_option_company": "Firma",
+  "membership_dob_label": "Geburtsdatum",
   "membership_submit": "Jetzt Mitglied werden"
 }
