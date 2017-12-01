@@ -143,5 +143,8 @@
   "donation_comments_pagination_prev": "Vorherige Kommentarseite",
   "donation_comments_pagination_next": "Nächste Kommentarseite",
   "donation_comments_loading":"Spendenkommentare werden geladen …",
-  "donation_comments_none_found": "Zur Zeit gibt es keine Spendenkommentare"
+  "donation_comments_none_found": "Zur Zeit gibt es keine Spendenkommentare",
+  "content_pages_itz_logo": "/resources/de_DE/logo_itz.svg",
+  "content_pages_itz_title": "Initiative Transparente Zivilgesellschaft",
+  "content_pages_itz_link": "https://wikimedia.de/wiki/Transparenz"
 }
