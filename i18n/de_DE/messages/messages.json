@@ -182,7 +182,7 @@
   "membership_section_applicant_fallback": "Daten noch nicht ausgewählt",
   "membership_section_fee_anchor": "Betrag",
   "membership_section_fee_title": "Mitgliedsbeitrag",
-  "membership_section_fee_legend": "Wie hoch soll der Beitrag sein und wie häufig soll dieser abgebucht werden.",
+  "membership_section_fee_legend": "Wie häufig soll der Beitrag abgebucht werden und wie hoch soll dieser sein?",
   "membership_section_fee_fallback": "Betrag noch nicht ausgewählt",
   "membership_section_fee_minimum_info": "Der Mindestbetrag für natürliche Personen beträgt 24 Euro, für juristische Personen 100 Euro im Jahr.",
   "membership_section_fee_reduction_info": "Für Personen mit eingeschränkter finanzieller Leistungskraft kann der Beitrag auf Antrag auf 12 Euro ermäßigt werden.",
