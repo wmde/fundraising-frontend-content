@@ -182,6 +182,7 @@
   "membership_benefit_list_5": "Jederzeit formlos per E-Mail kündbar.",
   "membership_section_overview_title": "Übersicht",
   "membership_section_membership_type_anchor": "Mitgliedschaftsart",
+  "membership_section_membership_type_anchor_short": "Art",
   "membership_section_membership_type_title": "Mitgliedschaftsart",
   "membership_section_membership_type_legend": "",
   "membership_section_membership_type_fallback": "Mitgliedschaft noch nicht ausgewählt",
@@ -202,10 +203,14 @@
   "membership_section_payment_fallback": "Zahlart noch nicht ausgewählt",
   "membership_membershiptype_option_sustaining": "Fördermitgliedschaft",
   "membership_membershiptype_option_sustaining_legend": "Sie erhalten regelmäßige Informationen über die Arbeit des Vereins.",
+  "membership_membershiptype_option_sustaining_short": "Förder",
   "membership_membershiptype_option_active": "Aktive Mitgliedschaft",
   "membership_membershiptype_option_active_legend": "Sie bringen sich aktiv im Verein und haben ein Stimmrecht auf der Mitglieder-Versammlung.",
+  "membership_membershiptype_option_active_short": "Aktiv",
   "membership_addresstype_option_private": "Privatperson",
+  "membership_addresstype_option_private_short": "Privat",
   "membership_addresstype_option_company": "Firma",
+  "membership_addresstype_option_company_short": "Firma",
   "membership_dob_label": "Geburtsdatum",
   "membership_submit": "Jetzt Mitglied werden"
 }
