@@ -32,7 +32,7 @@
   "form_zip_error": "Postleitzahl ist ungültig.",
   "form_city_error": "Stadt ist ungültig.",
   "form_dob_error": "Geburtsdatum ist ungültig.",
-  "form_bankdata_error": "Kontodaten sind ungültig.",
+  "form_bankdata_error": "Diese Kontodaten wurden nicht als gültig erkannt. Überprüfen Sie die eingegebenen Daten.",
   "mail_subject_confirm_membership_application": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
   "mail_subject_confirm_membership_application_cancellation": "Stornierung Ihres Mitgliedschaftsantrags bei Wikimedia Deutschland e. V.",
   "access_denied_header": "Fehler",
