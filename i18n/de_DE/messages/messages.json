@@ -165,7 +165,7 @@
   "content_pages_itz_title": "Initiative Transparente Zivilgesellschaft",
   "content_pages_itz_link": "https://wikimedia.de/wiki/Transparenz",
   "membership_confirmation_head": "Ich werde Mitglied bei Wikimedia Deutschland e. V.",
-  "membership_confirmation_intro": "Vielen Dank für Ihre Engagement. Sie möchten bei Wikimedia Deutschland e. V. %membershipType% werden.",
+  "membership_confirmation_intro": "Fertig! Vielen Dank für Ihre Engagement. Sie möchten bei Wikimedia Deutschland e. V. %membershipType% werden.",
   "membership_confirmation_summary": "Ihr Mitgliedsbeitrag über %formattedAmount% soll %frequency% per %paymentType% gezahlt werden.",
   "membership_confirmation_welcome": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie werden zudem in Kürze ein Begrüßungsschreiben von uns per Post erhalten. Wir freuen uns, dass Sie dabei sind.",
   "membership_confirmation_goto_cancel": "Mitgliedschaft stornieren",
