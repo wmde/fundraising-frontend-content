@@ -197,7 +197,7 @@
   "membership_section_membership_type_anchor_short": "Art",
   "membership_section_membership_type_title": "Mitgliedschaftsart",
   "membership_section_membership_type_legend": "",
-  "membership_section_membership_type_fallback": "Mitgliedschaft noch nicht ausgewählt",
+  "membership_section_membership_type_fallback": "Mitgliedschaftsart unausgewählt",
   "membership_section_applicant_anchor": "Daten",
   "membership_section_applicant_title": "Daten",
   "membership_section_applicant_legend": "Privatpersonen können Fördermitglied oder aktives Mitglied werden. Firmen dürfen nur Fördermitgliedschaften beantragen.",
