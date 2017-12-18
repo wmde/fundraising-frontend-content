@@ -240,5 +240,6 @@
   "membership_addresstype_option_company": "Firma",
   "membership_addresstype_option_company_short": "Firma",
   "membership_dob_label": "Geburtsdatum (optional)",
-  "membership_submit": "Jetzt Mitglied werden"
+  "membership_submit": "Jetzt Mitglied werden",
+  "no_javascript_title": "JavaScript deaktivert!"
 }
