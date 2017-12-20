@@ -117,7 +117,7 @@
   "payment_type_SUB_info": "Nach Ihrer Auswahl im nachfolgenden Abschnitt Daten werden Sie zu unserem Partner Sofort weitergeleitet, wo Sie die Spende noch abschließen müssen.",
   "payment_type_BEZ_info": "Ich ermächtige die gemeinnützige Wikimedia Fördergesellschaft mbH (Gläubiger-ID: DE25ZZZ00000448435) Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von der gemeinnützigen Wikimedia Fördergesellschaft mbH auf mein Konto gezogenen Lastschriften einzulösen. Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.",
   "payment_type_BEZ_iban_decision": "oder",
-  "payment_type_BEZ_bic": "BIC (Optional)",
+  "payment_type_BEZ_bic": "BIC (optional)",
   "payment_interval_legend": "Wie häufig möchten Sie zahlen?",
   "payment_interval_0_info": "Ihr Konto wird einmalig belastet.",
   "payment_interval_1_info": "Ihr Konto wird jeden Monat belastet. Ihre monatliche Spende können Sie jederzeit fristlos per E-Mail an spenden@wikimedia.de stornieren.",
