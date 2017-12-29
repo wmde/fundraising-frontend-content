@@ -39,6 +39,7 @@
   "access_denied_header": "Fehler",
   "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
   "access_denied_donation_confirmation": "Sie haben keine Berechtigung, diese Spende zu sehen.",
+  "access_denied_membership_confirmation": "Sie haben keine Berechtigung, diesen Mitgliedschafts-Antrag zu sehen.",
   "comment_failure_access_denied": "Sie haben keine Berechtigung, auf diese Spende zuzugreifen.",
   "comment_failure_donation_error": "Fehler beim Lesen der Spende.",
   "comment_failure_donation_not_found": "Die Spende wurde nicht gefunden.",
