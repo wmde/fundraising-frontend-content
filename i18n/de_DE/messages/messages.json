@@ -155,7 +155,7 @@
   "donation_addresstype_option_company": "Firma",
   "donation_addresstype_option_anonymous": "anonym",
   "donation_addresstype_option_anonymous_disclaimer": "Bitte beachten Sie, dass wir für eine spätere Zuordnung der Spende Ihren Namen und die Zahlungsinformationen vom Dienstleister erhalten.",
-  "donation_sendinfo_label": "Ja, ich möchte wissen, ob die Spendenkampagne erfolgreich war. Bitte informiert mich auch in Zukunft, wenn Wikipedia meine Hilfe braucht.<br>Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
+  "donation_sendinfo_label": "Ja, ich möchte in Zukunft informiert werden, wenn Wikipedia meine Hilfe braucht.<br>Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
   "donation_section_overview_title": "Übersicht",
   "donation_section_amount_anchor": "Betrag",
   "donation_section_amount_title": "Spendenbetrag",
