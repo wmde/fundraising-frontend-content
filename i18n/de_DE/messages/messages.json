@@ -195,6 +195,9 @@
   "membership_confirmation_goto_wikipedia": "zur Wikipedia",
   "membership_confirmation_print_confirmation": "Bestätigung drucken",
   "membership_confirmation_print_confirmation_debit": "Diese Bestätigung (inklusive SEPA-Mandat) ausdrucken",
+  "membership_confirmation_debit_mandate_date": "Berlin, %formattedDate%",
+  "membership_confirmation_debit_mandate_title": "SEPA-Lastschriftmandat",
+
   "membership_title": "Mitgliedschaft",
   "membership_intro": "Unterstützen Sie Freies Wissen nachhaltig. Werden Sie Mitglied für Freies Wissen!",
   "membership_benefit_list_title": "Werden Sie ab 2018 Mitglied für Freies Wissen!",
