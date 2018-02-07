@@ -39,6 +39,7 @@
   "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
   "access_denied_donation_confirmation": "Sie haben keine Berechtigung, diese Spende zu sehen.",
   "access_denied_membership_confirmation": "Sie haben keine Berechtigung, diesen Mitgliedschafts-Antrag zu sehen.",
+  "access_denied_membership_confirmation_anonymized": "Ihr Mitgliedschaftsantrag wurde erfolgreich abgeschlossen, die Bestätigungsseite kann allerdings nicht mehr angezeigt werden. Fragen zu Ihrer Mitgliedschaft können Sie uns gern per E-Mail an <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder@wikimedia.de</a> stellen.",
   "comment_failure_access_denied": "Sie haben keine Berechtigung, auf diese Spende zuzugreifen.",
   "comment_failure_donation_error": "Fehler beim Lesen der Spende.",
   "comment_failure_donation_not_found": "Die Spende wurde nicht gefunden.",
