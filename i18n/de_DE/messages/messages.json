@@ -22,6 +22,8 @@
   "membership_cancellation_text2": "Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">mitglieder@wikimedia.de</a>.",
   "membership_cancellation_failed_text": "Ihr Mitgliedschaftsantrag mit der Nummer %membership.id% konnte nicht storniert werden. Bitte wenden Sie sich an <a href=\"mailto:%mailto_link%\">mitglieder@wikimedia.de</a>.",
   "membership-no-donation-receipt": "Nein, ich benötige keine Spendenbescheinigung.",
+  "membership_link_to_wmde": "Mehr Informationen zur Mitgliedschaft bei Wikimedia",
+  "membership_link_to_wmde_url": "https://wikimedia.de/wiki/Mitgliedschaft",
   "form_salutation_error": "Bitte wählen Sie eine Anrede aus.",
   "form_firstname_error": "Vorname ist ungültig.",
   "form_lastname_error": "Nachname ist ungültig.",
