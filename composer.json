@@ -3,7 +3,7 @@
     "description": "i18n for FundraisingFrontend",
     "license": "GPL-2.0+",
     "require-dev": {
-        "wmde/fundraising-content-provider": "^2.0",
+        "wmde/fundraising-content-provider": "dev-gdpr_compliance",
         "seld/jsonlint": "^1.6"
     },
     "repositories": [
