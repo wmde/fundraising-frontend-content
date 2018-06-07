@@ -251,5 +251,10 @@
   "membership_addresstype_option_company_short": "Firma",
   "membership_dob_label": "Geburtsdatum (optional)",
   "membership_submit": "Jetzt Mitglied werden",
-  "no_javascript_title": "JavaScript deaktiviert!"
+  "no_javascript_title": "JavaScript deaktiviert!",
+
+  "privacy_optout_description": "Sie können sich hier entscheiden, ob in Ihrem Browser ein eindeutiger Webanalyse-Cookie abgelegt werden darf, um dem Betreiber der Website die Erfassung und Analyse verschiedener statistischer Daten zu ermöglichen.",
+  "privacy_optout_tracking_permit": "Ja, meine Daten dürfen erfasst werden",
+  "privacy_optout_tracking_deny": "Nein, meine Daten dürfen nicht erfasst werden",
+  "privacy_optout_tracking_state": "Der Besuch dieser Website wird aktuell <span class=\"opted-out\">nicht</span> von der Matomo-Webanalyse erfasst"
 }
