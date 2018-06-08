@@ -61,6 +61,7 @@
   "error_page": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
   "error_pages_return_to_donation": "Klicken Sie hier, um unsere Spenden-Seite aufzurufen.",
   "system_message_page_header": "Fehler",
+  "subscription_warning": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
   "item_name_donation": "Ihre Spende an Wikimedia",
   "item_name_membership": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
   "notice_membership_paypal": "Die Mitgliedschaft bei Wikimedia Deutschland beginnt ein paar Wochen nach dem Mitgliedsantrag. Damit PayPal den ersten Beitrag erst nach Ihrer Aufnahme einzieht, ist die Zeit bis dahin als \"kostenlose Testmitgliedschaft\" mit 0,00€ vermerkt.",
