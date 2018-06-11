@@ -62,6 +62,7 @@
   "error_page_header": "Fehler",
   "error_page": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
   "error_pages_return_to_donation": "Klicken Sie hier, um unsere Spenden-Seite aufzurufen.",
+  "error_no_topics_defined": "",
   "system_message_page_header": "Fehler",
   "subscription_warning": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
   "item_name_donation": "Ihre Spende an Wikimedia",
