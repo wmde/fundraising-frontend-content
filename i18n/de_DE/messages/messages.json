@@ -48,7 +48,7 @@
   "comment_failure_donation_error": "Fehler beim Lesen der Spende.",
   "comment_failure_donation_not_found": "Die Spende wurde nicht gefunden.",
   "comment_failure_donation_has_comment": "Die Spende wurde bereits kommentiert.",
-  "comment_failure_save_error": "Der Kommentar konte nicht gespeichert werden.",
+  "comment_failure_save_error": "Der Kommentar konnte nicht gespeichert werden.",
   "comment_failure_text_too_long": "Der Kommentar ist zu lang.",
   "comment_failure_text_invalid_chars": "Der Kommentar enthält ungültige Zeichen.",
   "comment_failure_name_too_long": "Der Name ist zu lang.",
