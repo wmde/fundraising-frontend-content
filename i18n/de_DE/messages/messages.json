@@ -14,6 +14,8 @@
   "donation_cancellation_mail_delivery_failure": "Die Stornierung der Spende war erfolgreich, beim Versenden der E-Mail zur Bestätigung ist aber ein Fehler aufgetreten.",
   "donation-no-donation-receipt": "Ich benötige keine Spendenbescheinigung.",
   "donation-confirm-sepa-shortterm": "Mit SEPA wurde eine Informationsfrist für Lastschriften eingeführt. Ich bin damit einverstanden, dass ich spätestens 2 Tage vor der geplanten Abbuchung der Spende per Email benachrichtigt werde.",
+  "back_to_donation": "Zurück zur Spendenseite",
+  "back_to_membership": "Zurück zum Mitgliedschaftsformular",
   "membership-form-pledge-header": "Ich werde Mitglied des Wikimedia Deutschland e. V.",
   "membership-form-pledge-sustaining-member-header": "Ich werde Fördermitglied des Wikimedia Deutschland e. V.",
   "membership_cancellation_header": "Ihr Mitgliedschaftsantrag wurde storniert",
@@ -46,7 +48,7 @@
   "comment_failure_donation_error": "Fehler beim Lesen der Spende.",
   "comment_failure_donation_not_found": "Die Spende wurde nicht gefunden.",
   "comment_failure_donation_has_comment": "Die Spende wurde bereits kommentiert.",
-  "comment_failure_save_error": "Der Kommentar konte nicht gespeichert werden.",
+  "comment_failure_save_error": "Der Kommentar konnte nicht gespeichert werden.",
   "comment_failure_text_too_long": "Der Kommentar ist zu lang.",
   "comment_failure_text_invalid_chars": "Der Kommentar enthält ungültige Zeichen.",
   "comment_failure_name_too_long": "Der Name ist zu lang.",
@@ -60,7 +62,9 @@
   "error_page_header": "Fehler",
   "error_page": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
   "error_pages_return_to_donation": "Klicken Sie hier, um unsere Spenden-Seite aufzurufen.",
+  "error_no_topics_defined": "",
   "system_message_page_header": "Fehler",
+  "subscription_warning": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
   "item_name_donation": "Ihre Spende an Wikimedia",
   "item_name_membership": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
   "notice_membership_paypal": "Die Mitgliedschaft bei Wikimedia Deutschland beginnt ein paar Wochen nach dem Mitgliedsantrag. Damit PayPal den ersten Beitrag erst nach Ihrer Aufnahme einzieht, ist die Zeit bis dahin als \"kostenlose Testmitgliedschaft\" mit 0,00€ vermerkt.",
@@ -71,6 +75,7 @@
   "contact_subject": "Betreff",
   "contact_body": "Ihre Nachricht an uns",
   "contact_submit": "Kontaktanfrage absenden",
+  "contact_topic_title": "Bitte wählen Sie ein Thema aus",
   "donation_confirmation_head": "Danke.",
   "donation_confirmation_head_summary_once": "Ihre Spende über %formattedAmount% per %paymentType% %status_description%.",
   "donation_confirmation_head_summary_recurring": "Ihre Spende über %formattedAmount% per %paymentType% %status_description% und wird %interval% wiederholt.",
@@ -202,8 +207,8 @@
   "membership_confirmation_debit_mandate_title": "SEPA-Lastschriftmandat",
 
   "membership_title": "Mitgliedschaft",
-  "membership_intro": "Unterstützen Sie Freies Wissen nachhaltig. Werden Sie Mitglied für Freies Wissen!",
-  "membership_benefit_list_title": "Werden Sie Mitglied für Freies Wissen!",
+  "membership_intro": "Unterstützen Sie Freies Wissen nachhaltig. Werden Sie Mitglied bei Wikimedia Deutschland!",
+  "membership_benefit_list_title": "Vorteile einer Mitgliedschaft",
   "membership_benefit_list_1": "Langfristig und nachhaltig Wikipedia unterstützen.",
   "membership_benefit_list_2": "Ihr Beitrag ist steuerlich absetzbar. Eine Zuwendungsbescheinigung wird Ihnen automatisch zugesendet.",
   "membership_benefit_list_3": "Kostenfrei an Veranstaltungen rund um Wikipedia und Freies Wissen teilnehmen.",
@@ -243,5 +248,10 @@
   "membership_addresstype_option_company_short": "Firma",
   "membership_dob_label": "Geburtsdatum (optional)",
   "membership_submit": "Jetzt Mitglied werden",
-  "no_javascript_title": "JavaScript deaktiviert!"
+  "no_javascript_title": "JavaScript deaktiviert!",
+
+  "privacy_optout_description": "Sie können sich hier entscheiden, ob in Ihrem Browser ein eindeutiger Webanalyse-Cookie abgelegt werden darf, um dem Betreiber der Website die Erfassung und Analyse verschiedener statistischer Daten zu ermöglichen.",
+  "privacy_optout_tracking_permit": "Ja, meine Daten dürfen erfasst werden",
+  "privacy_optout_tracking_deny": "Nein, meine Daten dürfen nicht erfasst werden",
+  "privacy_optout_tracking_state": "Der Besuch dieser Website wird aktuell <span class=\"opted-out\">nicht</span> von der Matomo-Webanalyse erfasst"
 }
