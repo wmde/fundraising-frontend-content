@@ -76,7 +76,7 @@
   "contact_body": "Ihre Nachricht an uns",
   "contact_submit": "Kontaktanfrage absenden",
   "contact_topic_title": "Bitte wählen Sie ein Thema aus",
-  "contact_donation_number": "Spenden- oder Adressnummer (falls vorhanden)",
+  "contact_donation_number": "Spenden- oder Adressnummer",
   "donation_confirmation_head": "Danke.",
   "donation_confirmation_head_summary_once": "Ihre Spende über %formattedAmount% per %paymentType% %status_description%.",
   "donation_confirmation_head_summary_recurring": "Ihre Spende über %formattedAmount% per %paymentType% %status_description% und wird %interval% wiederholt.",
