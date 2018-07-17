@@ -1,5 +1,6 @@
 {
   "field_required": "Dieses Feld ist ein Pflichtfeld",
+  "field_numeric": "Dieses Feld darf nur aus Ziffern bestehen",
   "incorrect_length": "Eingegebener Wert zu kurz oder zu lang",
   "iban_blocked": "IBAN kann nicht verwendet werden",
   "iban_invalid": "IBAN ist nicht gültig",
