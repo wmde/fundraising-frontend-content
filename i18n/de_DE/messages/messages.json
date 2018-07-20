@@ -207,12 +207,17 @@
   "membership_confirmation_debit_mandate_date": "Berlin, %formattedDate%",
   "membership_confirmation_debit_mandate_title": "SEPA-Lastschriftmandat",
 
+  "donor_change_failure_validation_error": "Bitte überprüfen Sie Ihre Adressdaten und versuchen Sie es erneut",
   "donor_change_failure_access_denied": "Sie haben keine Berechtigung, die Adress-Daten zu verändern.",
   "donor_change_failure_exported": "Sie können die Adressdaten zu diesem Zeitpunkt nicht mehr verändern.",
   "donor_change_failure_has_address": "Sie haben bereits eine Adresse eingetragen.",
   "donor_change_failure_anonymous_address": "Die gesendeten Adressdaten waren ungültig. Bitte wenden Sie sich per E-Mail an uns.",
-  "donor_change_success_text": "Ihre Adressdaten wurden erfolgreich aktualisiert.",
+  "donor_change_failure_generic": "Beim Verändern der Daten ist ein Fehler aufgetreten.",
+  "donor_change_success_text": "Sie haben erfolgreich Ihre Addresse eingegeben und wir senden Ihnen eine Spendenbescheinigung.",
+
   "donor_change_header": "Adressänderung",
+  "donor_change_suggest_membership": "Unterstützen Sie freies Wissen nachhaltig und aktiv mit einer Mitgliedschaft im Wikimedia Deutschland e.V.",
+  "donor_change_membership_information": "Informationen zur Vereinsmitgliedschaft",
 
   "membership_title": "Mitgliedschaft",
   "membership_intro": "Unterstützen Sie Freies Wissen nachhaltig. Werden Sie Mitglied bei Wikimedia Deutschland!",
