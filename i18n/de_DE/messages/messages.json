@@ -188,7 +188,7 @@
   "donation_banner_anchor": "Jetzt spenden",
   "donation_banner_deeplink_summary": "Sie wollen %frequency% %amount% per %payment_method% spenden.",
   "donation_banner_correction_anchor": "ändern ↑",
-  "notice_ssl_encrypted": "SSL-verschlüsselte Daten",
+  "notice_ssl_encrypted": "Verschlüsselte Datenübertragung",
   "donation_comments_head": "Spendenkommentare",
   "donation_comments_intro": "Nachfolgend finden Sie eine Übersicht der letzten Spendenkommentare. Die neuesten Einträge sind auch als %rss_link% verfügbar",
   "rss_feed": "RSS-Feed",
