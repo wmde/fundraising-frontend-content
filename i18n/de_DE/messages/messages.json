@@ -212,7 +212,6 @@
   "membership_confirmation_debit_mandate_title": "SEPA-Lastschriftmandat",
 
   "donor_change_button_text": "Ich möchte eine Spendenbestätigung",
-  "donor_change_button_tax_info": "Bei Spenden über 200€ ist die Spendenbestätigung für die Steuererklärung notwendig",
   "donor_change_address_form_headline": "Anschrift zur Zusendung der Spendenbescheinigung",
   "donor_change_address_form_contact_button": "Kontaktdaten senden",
   "donor_change_failure_validation_error": "Bitte überprüfen Sie Ihre Adressdaten und versuchen Sie es erneut",
