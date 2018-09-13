@@ -126,7 +126,7 @@
   "amount": "Betrag",
   "form_amount_error": "Bitte geben Sie einen Betrag zwischen 1 und 100.000 Euro an.",
   "payment_amount_legend": "Bitte geben Sie Ihren Wunschbetrag an.",
-  "payment_type_UEB_info": "Nach Abschluss Ihrer Spende erhalten Sie die notwendigen Zahlungsinformationen, die Sie für Ihre Überweisung nutzen können.",
+  "payment_type_UEB_info": "Nach Abschluss Ihrer Spende erhalten Sie unsere Kontoverbindung sowie einen besonderen Verwendungszweck, die Sie für Ihre Überweisung benötigen.",
   "payment_type_MCP_info": "Nach Ihrer Auswahl im nachfolgenden Abschnitt Daten werden Sie zu unserem Partner Micropayment weitergeleitet, wo Sie die Spende noch abschließen müssen.",
   "payment_type_PPL_info": "Nach Ihrer Auswahl im nachfolgenden Abschnitt Daten werden Sie zu PayPal weitergeleitet, wo Sie die Spende noch abschließen müssen.",
   "payment_type_PPL_recurrent_info": "Für regelmäßige Spenden muss bei PayPal eine Kreditkarte hinterlegt sein.",
