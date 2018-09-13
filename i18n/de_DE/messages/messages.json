@@ -58,7 +58,7 @@
   "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach gespendet wird.",
   "membership_application_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits einen Mitgliedschaftsantrag gesendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach Mitgliedschaften abgeschlossen werden.",
   "page_not_found_header": "Diese Seite bieten wir leider nicht an.",
-  "page_not_found": "Wenn Sie nach etwas Bestimmtem suchen und es nicht finden können, fragen Sie uns bitte. Am einfachsten geht es über das <a href="/contact/get-in-touch">Kontaktformular</a>.",
+  "page_not_found": "Wenn Sie nach etwas Bestimmtem suchen und es nicht finden können, fragen Sie uns bitte. Am einfachsten geht es über das <a href=\"/contact/get-in-touch\">Kontaktformular</a>.",
   "error_page_header": "Fehler",
   "error_page": "Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.",
   "error_pages_return_to_donation": "Klicken Sie hier, um unsere Spenden-Seite aufzurufen.",
