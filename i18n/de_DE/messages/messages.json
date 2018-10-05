@@ -185,6 +185,7 @@
   "donation_section_donor_fallback": "Daten noch nicht ausgewählt.",
   "wikimedia_tagline": "Die Wikimedia Fördergesellschaft ist eine unabhängige gemeinnützige Organisation, die in Deutschland Spenden für Wikipedia und andere Wikimedia-Projekte sammelt.",
   "wikimedia_hotline": "030 / 21 91 58 26 - 0",
+  "contact_form": "Kontaktformular",
   "donation_title": "Spenden",
   "donation_banner_anchor": "Jetzt spenden",
   "donation_banner_deeplink_summary": "Sie wollen %frequency% %amount% per %payment_method% spenden.",
