@@ -52,7 +52,7 @@
   "comment_failure_text_too_long": "Bitte halten Sie sich ein wenig kürzer. Der Kommentar darf nicht mehr als 2048 Zeichen haben.",
   "comment_failure_text_invalid_chars": "Bitte verwenden Sie keine ungültigen Zeichen.",
   "comment_failure_name_too_long": "Könnten Sie bitte Ihren Namen überprüfen. Dieser scheint zu lang zu sein.",
-  "comment_success_ok": "Herzlichen Dank für Ihren Kommentar. Falls Sie den Kommentar veröffentlicht haben, finden Sie nun auf der <a href=\"/list-comments\">Liste der neuesten Spendenkommentare</a>",
+  "comment_success_ok": "Herzlichen Dank für Ihren Kommentar. Falls Sie den Kommentar öffentlicht gemacht haben, finden Sie ihn nun auf der <a href=\"/list-comments\">Liste der neuesten Spendenkommentare</a>",
   "comment_success_needs_moderation": "Herzlichen Dank für Ihren Kommentar. Irgendein Wort im Kommentar scheint problematisch zu sein, weshalb der Kommentar nicht unmittelbar veröffentlicht werden kann. Wir schauen uns das an und schalten den Kommentar gegebenenfalls frei. Wenn Sie Fragen haben, können Sie sich über das <a href=\"/contact/get-in-touch\">Kontaktformular</a> aber auch an uns direkt wenden.",
   "pagination_page_n_of_x": "Seite %page% von %max_pages%",
   "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach gespendet wird.",
