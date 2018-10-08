@@ -1,10 +1,14 @@
-Bitte überweisen Sie Ihre Spende über {$ formatted_amount $} EUR wie folgt:
+Ich danke Ihnen für Ihre soeben getätigte Spendenzusage (Nr. {$ donation_identifier $}).
+Sie haben es fast geschafft. Jetzt müssen Sie nur noch Ihre Spende über {$ formatted_amount $} Euro auf folgendes Konto überweisen:
 
-* Kontoinhaber: Wikimedia Foerdergesellschaft
-* Betrag: {$ formatted_amount $}
+* Wikimedia Foerdergesellschaft
 * IBAN: DE33100205000001194700
 * BIC: BFSWDE33BER
-* Konto: 1194700
-* BLZ: 10020500
 * Bank: Bank für Sozialwirtschaft
 * Verwendungszweck: {$ bank_transfer_code $}
+
+{% if donation_interval > 0 %}
+Da Sie uns {$ payment_interval_phrase $} unterstützen möchten, richten Sie bitte einen Dauerauftrag ein und geben den genannten Verwendungszweck als eindeutige Kennung Ihrer Spende an, damit die korrekte Zuordnung sichergestellt ist.
+{% else %}
+Bitte geben Sie den Verwendungszweck als eindeutige Kennung Ihrer Überweisungsspende an, damit die korrekte Zuordnung sichergestellt ist.
+{% endif %}

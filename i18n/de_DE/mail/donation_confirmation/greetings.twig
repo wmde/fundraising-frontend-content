@@ -1,23 +1,10 @@
-Für Spenden ab genau 5,00 Euro verschicken wir gegen Ende des 1. Quartals des nächsten Jahres eine
-Zuwendungsbestätigung. Alternativ können Sie auch den vereinfachten Zuwendungsbescheid verwenden, den Sie sich unter
-<https://spenden.wikimedia.de/spenden/Spendenquittung>
-herunterladen können. Sollten Sie uns bereits mitgeteilt haben, dass Sie keine Zuwendungsbescheinigung benötigen, werden wir 
-diese nicht verschicken.
+{% if donation_receipt %}
+	Falls Sie Ihre Spende{% if (donation_interval > 1) %}n{% endif %} steuerlich absetzen möchten, können Sie sich jetzt schon den vereinfachten Zuwendungsbescheid herunterladen: <a href="https://spenden.wikimedia.de/page/Spendenquittung">Zur Spendenquittung</a>.
+	Sofern Ihre Zuwendung nicht 200 Euro übersteigt, können Sie diesen zusammen mit {% if (donation_interval > 1) %}Ihren Kontoauszügen{% else %}Ihrem Kontoauszug{% endif %} beim Finanzamt einreichen. Oder Sie warten bis März kommenden Jahres, dann verschicken wir eine Sammelbescheinigung für alle Beträge ab 5 Euro automatisch an Ihre Postadresse.
+{% endif %}
 
-Ich würde mich freuen, wenn Sie weiterhin dabei bleiben! Denn es gibt viel
-zu entdecken in der Welt hinter der Wikipedia!
+Sie sind uns wichtig und und es sollen keine Fragen rund um Ihre Spende{% if (donation_interval > 1) %}n{% endif %} offen bleiben. Daher können Sie sich jederzeit über spenden@wikimedia.de oder unter 030 - 219 158 2619 an uns wenden. {% if not donation_receipt %}Über diesen Weg können Sie uns natürlich auch noch nachträglich Ihre Adresse mitteilen, falls Sie doch noch eine Zuwendungsbescheinigung von uns erhalten möchten.{% endif %}
 
-Besuchen Sie uns auf unserer Webseite unter <http://wikimedia.de/> und
-unserem Blog unter <http://blog.wikimedia.de/>.
+Mit Ihrem Engagement helfen Sie Wikipedia zu finanzieren. Gemeinsam mit den ehrenamtlichen Autorinnen und Autoren sorgen wir für einen freien Zugang zu Wissen. Es freut mich, dass Sie dabei sind.
 
-Sie werden sehen: Wikipedia ist so faszinierend wie einzigartig.
-
-Haben Sie Fragen zu Ihrer Spende? Schreiben Sie uns einfach eine E-Mail an
-<spenden@wikimedia.de> oder rufen Sie unter 030 - 219 158 2619 an.
-
-Ich bedanke mich für Ihr Vertrauen und würde mich freuen, Sie auch
-zukünftig als Unterstützer für Freies Wissen begrüßen zu dürfen.
-
-Herzlichen Dank.
-
-Herzliche Grüße
+Freundliche Grüße aus Berlin und Ihnen noch einen angenehmen {$ current_weekday $}.
