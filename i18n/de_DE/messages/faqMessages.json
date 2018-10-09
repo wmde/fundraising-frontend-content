@@ -4,7 +4,7 @@
 	"page_subtitle": "Antworten zu Ihren Fragen zum Spendenprozess, Wikimedia und Wikipedia",
 	"back_link": "<  Zurück zur Übersicht",
 	"no_answer_found": "Sie konnten keine Antwort finden? Fragen Sie uns direkt!",
-	"contact_link": "Fragestellen über das Kontaktformular.",
+	"contact_link": "Fragestellen über das Kontaktformular",
 	"contact_way": "Am effizientesten ist das",
 	"reply_by_email": "Wir antworten dann per E-Mail.",
 	"you_can_too": "Sie können auch:",
@@ -17,6 +17,6 @@
 	"no_answer": "Keine Antwort gefunden?",
 	"further": "Weitere",
 	"contact_options": "Kontaktmöglichkeiten",
-	"expand": "EXPANDEN",
-	"collapse": "COLLAPSEN"
+	"expand": "Mehr anzeigen",
+	"collapse": "Weniger anzeigen"
 }
