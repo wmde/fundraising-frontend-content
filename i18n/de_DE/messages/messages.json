@@ -131,7 +131,7 @@
   "payment_type_PPL_info": "Nach Ihrer Auswahl im nachfolgenden Abschnitt Daten werden Sie zu PayPal weitergeleitet, wo Sie die Spende noch abschließen müssen.",
   "payment_type_PPL_recurrent_info": "Für regelmäßige Spenden muss bei PayPal eine Kreditkarte hinterlegt sein.",
   "payment_type_SUB_info": "Nach Ihrer Auswahl im nachfolgenden Abschnitt Daten werden Sie zu unserem Partner Klarna weitergeleitet, wo Sie die Spende noch abschließen müssen.",
-  "payment_type_BEZ_info": "Ich ermächtige die gemeinnützige Wikimedia Fördergesellschaft mbH (Gläubiger-ID: DE25ZZZ00000448435) Zahlungen von meinem mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von der gemeinnützigen Wikimedia Fördergesellschaft mbH auf mein Konto gezogenen Lastschriften einzulösen. Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.",
+  "payment_type_BEZ_info": "Ich ermächtige die gemeinnützige Wikimedia Fördergesellschaft mbH (Gläubiger-ID: DE25ZZZ00000448435) Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von der gemeinnützigen Wikimedia Fördergesellschaft mbH auf mein Konto gezogenen Lastschriften einzulösen. Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.",
   "payment_type_BEZ_iban_decision": "oder",
   "payment_type_BEZ_bic": "BIC (optional)",
   "payment_interval_legend": "Wie häufig möchten Sie zahlen?",
