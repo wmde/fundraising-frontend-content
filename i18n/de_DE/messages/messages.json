@@ -116,6 +116,8 @@
   "account_number": "Kontonummer",
   "bank_code": "Bankleitzahl",
   "bank_name": "Bank",
+  "iban_or_account_number": "IBAN / Kontonummer",
+  "bic_or_bank_code": "BIC / Bankleitzahl",
   "bank": "Bank für Sozialwirtschaft",
   "operator_account_owner_value": "Wikimedia Foerdergesellschaft",
   "operator_account_iban": "DE33 1002 0500 0001 1947 00",
