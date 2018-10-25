@@ -36,7 +36,7 @@
   "form_zip_error": "Wir haben hier eine 4 oder 5 stellige Postleitzahl erwartet. Bitte überprüfen Sie Ihre Eingabe.",
   "form_city_error": "Könnten Sie bitte Ihren Ort überprüfen. Da scheint es einen Fehler zu geben.",
   "form_dob_error": "Könnten Sie bitte Ihr Geburtsdatum überprüfen. Irgendetwas scheint da nicht zu stimmen.",
-  "form_bankdata_error": "Könnten Sie bitte Ihre Kontodaten überprüfen. Da scheint es einen Fehler zu geben. Vielleicht stimmt eine Ziffer bei der IBAN nicht?",
+  "form_bankdata_error": "Könnten Sie bitte Ihre Kontodaten überprüfen? Da scheint es einen Fehler zu geben.",
   "mail_subject_confirm_membership_application": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
   "mail_subject_confirm_membership_application_cancellation": "Stornierung Ihres Mitgliedschaftsantrags bei Wikimedia Deutschland e. V.",
   "access_denied_header": "Fehler",
