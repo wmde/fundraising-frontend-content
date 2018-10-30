@@ -1,0 +1,53 @@
+{
+	"organizations": {
+		"wmde": {
+			"title": "Wikimedia Deutschland e.V.",
+			"subtitle": "20 000 000",
+			"description": "Die Wikimedia ..."
+			"funds": {
+				"1": {
+					"title": "Swag"
+					"sum": "1 000 000",
+					"description": "Description of how this amount of money was spent: t-shirts, hoodies, bags, stickers, pens, notebooks."
+				},
+				"2": {
+					"title": "Learning"
+					"sum": "16 000 000",
+					"description": "Description of how this amount of money was spent: books, events, conventions, conferences."
+				},
+				"3": {
+					"title": "Salaries"
+					"sum": "9 000 000",
+					"description": "Description of how this amount of money was spent: staff's gotta eat"
+				},
+				"3": {
+					"title": "Office"
+					"sum": "4 000 000",
+					"description": "Description of how this amount of money was spent: computers are needed"
+				}
+			}
+		},
+		"wmf": {
+			"title": "Wikimedia Foundation USA",
+			"subtitle": "30 000 000",
+			"description": "Die Wikimedia ..."
+			"funds": {
+				"1": {
+					"title": "Analysis and Information"
+					"sum": "7 000 000",
+					"description": "Description of how this amount of money was spent: research"
+				},
+				"2": {
+					"title": "Supporting the community"
+					"sum": "20 000 000",
+					"description": "Description of how this amount of money was spent: for volunteers"
+				},
+				"3": {
+					"title": "Technical operations"
+					"sum": "3 000 000",
+					"description": "Description of how this amount of money was spent: no idea what that is"
+				}
+			}
+		}
+	}
+}
