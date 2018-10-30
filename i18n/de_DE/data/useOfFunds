@@ -1,53 +1,48 @@
 {
-	"organizations": {
-		"wmde": {
-			"title": "Wikimedia Deutschland e.V.",
-			"overallAmount": "20 000 000",
-			"description": "Die Wikimedia ..."
-			"funds": {
-				"1": {
-					"title": "Swag"
-					"amount": "1 000 000",
-					"description": "Description of how this amount of money was spent: t-shirts, hoodies, bags, stickers, pens, notebooks."
-				},
-				"2": {
-					"title": "Learning"
-					"amount": "16 000 000",
-					"description": "Description of how this amount of money was spent: books, events, conventions, conferences."
-				},
-				"3": {
-					"title": "Salaries"
-					"amount": "9 000 000",
-					"description": "Description of how this amount of money was spent: staff's gotta eat"
-				},
-				"3": {
-					"title": "Office"
-					"amount": "4 000 000",
-					"description": "Description of how this amount of money was spent: computers are needed"
-				}
-			}
-		},
-		"wmf": {
-			"title": "Wikimedia Foundation USA",
-			"overallAmount": "30 000 000",
-			"description": "Die Wikimedia ..."
-			"funds": {
-				"1": {
-					"title": "Analysis and Information"
-					"amount": "7 000 000",
-					"description": "Description of how this amount of money was spent: research"
-				},
-				"2": {
-					"title": "Supporting the community"
-					"amount": "20 000 000",
-					"description": "Description of how this amount of money was spent: for volunteers"
-				},
-				"3": {
-					"title": "Technical operations"
-					"amount": "3 000 000",
-					"description": "Description of how this amount of money was spent: no idea what that is"
-				}
-			}
-		}
-	}
+  "organizations": {
+    "wmde": {
+      "title": "Wikimedia Deutschland e.V.",
+      "overallAmount": "20 000 000",
+      "description": "Die Wikimedia ...",
+      "funds": {
+        "1": {
+          "title": "Swag",
+          "amount": "1 000 000",
+          "description": "Description of how this amount of money was spent: t-shirts, hoodies, bags, stickers, pens, notebooks."
+        },
+        "2": {
+          "title": "Learning",
+          "amount": "16 000 000",
+          "description": "Description of how this amount of money was spent: books, events, conventions, conferences."
+        },
+        "3": {
+          "title": "Office",
+          "amount": "4 000 000",
+          "description": "Description of how this amount of money was spent: computers are needed"
+        }
+      }
+    },
+    "wmf": {
+      "title": "Wikimedia Foundation USA",
+      "overallAmount": "30 000 000",
+      "description": "Die Wikimedia ...",
+      "funds": {
+        "1": {
+          "title": "Analysis and Information",
+          "amount": "7 000 000",
+          "description": "Description of how this amount of money was spent: research"
+        },
+        "2": {
+          "title": "Supporting the community",
+          "amount": "20 000 000",
+          "description": "Description of how this amount of money was spent: for volunteers"
+        },
+        "3": {
+          "title": "Technical operations",
+          "amount": "3 000 000",
+          "description": "Description of how this amount of money was spent: no idea what that is"
+        }
+      }
+    }
+  }
 }
