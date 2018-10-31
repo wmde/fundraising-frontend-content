@@ -8,17 +8,17 @@
         "1": {
           "title": "Swag",
           "amount": "1 000 000",
-          "description": "Description of how this amount of money was spent: t-shirts, hoodies, bags, stickers, pens, notebooks."
+          "description": "Description of how this amount of money was spent: t-shirts, hoodies, bags, stickers, pens, notebooks. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et odio pellentesque diam volutpat. Elit scelerisque mauris pellentesque pulvinar. Quam vulputate dignissim suspendisse in est ante. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate."
         },
         "2": {
           "title": "Learning",
           "amount": "16 000 000",
-          "description": "Description of how this amount of money was spent: books, events, conventions, conferences."
+          "description": "Description of how this amount of money was spent: books, events, conventions, conferences. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et odio pellentesque diam volutpat. Elit scelerisque mauris pellentesque pulvinar. Quam vulputate dignissim suspendisse in est ante. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate."
         },
         "3": {
           "title": "Office",
           "amount": "4 000 000",
-          "description": "Description of how this amount of money was spent: computers are needed"
+          "description": "Description of how this amount of money was spent: computers are needed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et odio pellentesque diam volutpat. Elit scelerisque mauris pellentesque pulvinar. Quam vulputate dignissim suspendisse in est ante. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate."
         }
       }
     },
@@ -30,17 +30,17 @@
         "1": {
           "title": "Analysis and Information",
           "amount": "7 000 000",
-          "description": "Description of how this amount of money was spent: research"
+          "description": "Description of how this amount of money was spent: research. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et odio pellentesque diam volutpat. Elit scelerisque mauris pellentesque pulvinar. Quam vulputate dignissim suspendisse in est ante. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate."
         },
         "2": {
           "title": "Supporting the community",
           "amount": "20 000 000",
-          "description": "Description of how this amount of money was spent: for volunteers"
+          "description": "Description of how this amount of money was spent: for volunteers. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et odio pellentesque diam volutpat. Elit scelerisque mauris pellentesque pulvinar. Quam vulputate dignissim suspendisse in est ante. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate."
         },
         "3": {
           "title": "Technical operations",
           "amount": "3 000 000",
-          "description": "Description of how this amount of money was spent: no idea what that is"
+          "description": "Description of how this amount of money was spent: no idea what that is. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac felis donec et odio pellentesque diam volutpat. Elit scelerisque mauris pellentesque pulvinar. Quam vulputate dignissim suspendisse in est ante. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate."
         }
       }
     }
