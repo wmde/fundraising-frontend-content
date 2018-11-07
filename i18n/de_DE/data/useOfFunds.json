@@ -2,7 +2,8 @@
   "organizations": {
     "wmde": {
       "title": "Wikimedia Deutschland e.V.",
-      "overallAmount": "20 000 000",
+      "url": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Planung_2018",
+      "overallAmount": "21 000 000",
       "description": "Die Wikimedia ...",
       "funds": {
         "1": {
@@ -24,6 +25,7 @@
     },
     "wmf": {
       "title": "Wikimedia Foundation USA",
+      "url": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2018-2019/Final",
       "overallAmount": "30 000 000",
       "description": "Die Wikimedia ...",
       "funds": {
