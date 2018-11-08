@@ -91,7 +91,7 @@
   "donation_confirmation_debit_mandate_title": "SEPA-Lastschriftmandat",
   "donation_confirmation_debit_briefing": "Ich ermächtige die gemeinnützige Wikimedia Fördergesellschaft mbH (Gläubiger-ID: DE25ZZZ00000448435) Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von der gemeinnützigen Wikimedia Fördergesellschaft mbH auf mein Konto gezogenen Lastschriften einzulösen. Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.",
   "donation_confirmation_debit_mandate_date": "Berlin, %formattedDate%",
-  "donation_confirmation_apply_for_membership": "Jetzt Mitglied werden",
+  "donation_confirmation_apply_for_membership": "Ab 2019 Mitglied werden",
   "donation_confirmation_print_confirmation": "Bestätigung drucken",
   "donation_confirmation_print_confirmation_debit": "Diese Bestätigung (inklusive SEPA-Mandat) ausdrucken",
   "donation_confirmation_print_summary": "Zusammenfassung drucken",
@@ -232,7 +232,7 @@
   "donor_change_membership_information": "Informationen zur Vereinsmitgliedschaft",
 
   "membership_title": "Mitgliedschaft",
-  "membership_intro": "Unterstützen Sie Freies Wissen nachhaltig. Werden Sie Mitglied bei Wikimedia Deutschland!",
+  "membership_intro": "Unterstützen Sie Freies Wissen nachhaltig. Werden Sie ab 2019 Mitglied bei Wikimedia Deutschland!",
   "membership_benefit_list_title": "Vorteile einer Mitgliedschaft",
   "membership_benefit_list_1": "Langfristig und nachhaltig Wikipedia unterstützen.",
   "membership_benefit_list_2": "Ihr Beitrag ist steuerlich absetzbar. Eine Zuwendungsbescheinigung wird Ihnen automatisch zugesendet.",
@@ -272,7 +272,7 @@
   "membership_addresstype_option_company": "Firma",
   "membership_addresstype_option_company_short": "Firma",
   "membership_dob_label": "Geburtsdatum (optional)",
-  "membership_submit": "Jetzt Mitglied werden",
+  "membership_submit": "Ab 2019 Mitglied werden",
   "no_javascript_title": "Bitte aktivieren Sie JavaScript in Ihrem Browser, damit Sie unser Spendenformular nutzen können.",
 
   "privacy_optout_description": "Sie können sich hier entscheiden, ob in Ihrem Browser ein eindeutiger Webanalyse-Cookie abgelegt werden darf, um dem Betreiber der Website die Erfassung und Analyse verschiedener statistischer Daten zu ermöglichen.",
