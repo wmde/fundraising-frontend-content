@@ -27,6 +27,11 @@
           "description": ""
         },
         "5": {
+          "title": "Verwaltungskosten",
+          "amount": "1 924 000",
+          "description": ""
+        },
+        "6": {
           "title": "Mittelweiterleitung an die Wikimedia Foundation",
           "amount": "8 280 000",
           "description": ""
