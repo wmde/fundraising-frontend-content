@@ -38,13 +38,7 @@
       "url": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2018-2019/Final",
       "overallAmount": "92 936 000",
       "description": "Die Betreiberin der Wikimedia-Projekte nutzt die Spenden für Produktentwicklung, Technik, Unterstützung der internationalen Wikimedia-Gemeinschaft und AKtivitäten rund um die Wikipedia und ihre Schwesterprojekte.",
-      "funds": {
-        "1": {
-          "title": "Analysis and Information",
-          "amount": "7 000 000",
-          "description": "Die Spenden werden eingesetzt für die technische Infrastruktur, damit diese schnell, sicher und jederzeit verfügbar ist, internationale Wikimedia-Projekte und Initiativen zur Verbreitung und Förderung Freien Wissens und Unterstützung der Freiwilligen bei der Erstellung von Inhalten für Wikipedia sowie der anderen Wikimedia-Projekte."
-        }
-      }
+      "funds": {}
     }
   }
 }
