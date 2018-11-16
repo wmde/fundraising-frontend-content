@@ -78,7 +78,7 @@
   "contact_submit": "Kontaktanfrage absenden",
   "contact_topic_title": "Bitte wählen Sie ein Thema aus",
   "contact_donation_number": "Spenden- oder Adressnummer",
-  "donation_confirmation_head_summary": "Herzlichen Dank für Ihre %interval% Spende über %formattedAmount% per %paymentType%",
+  "donation_confirmation_head_summary": "Herzlichen Dank für Ihre %interval%e Spende über %formattedAmount% per %paymentType%",
   "donation_confirmation_head_summary_bank_transfer": "Herzlichen Dank für Ihre Bereitschaft uns %interval% mit einer Spende über %formattedAmount% zu unterstützen.",
   "donation_confirmation_subhead_donation_number": "Spendennummer: %donation.id%",
   "donation_confirmation_subhead_direct_debit": "In den kommenden Tagen werden wir diese Summe von Ihrem Konto abbuchen. Damit ist die Spende abgeschlossen. Wir haben Ihnen soeben auch eine Bestätigung per E-Mail geschickt, in der Sie alles nochmal in Ruhe nachlesen können.",
