@@ -232,6 +232,11 @@
 
   "membership_title": "Mitgliedschaft",
   "membership_intro": "Unterstützen Sie Freies Wissen nachhaltig. Werden Sie ab 2019 Mitglied bei Wikimedia Deutschland!",
+  "membership_call_to_action_title": "Mit einer Fördermitgliedschaft mehr bewirken!",
+  "membership_call_to_action_line_1": "Gemeinsam erreichen wir mehr: 65.665 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden.",
+  "membership_call_to_action_line_2": "Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
+  "membership_call_to_action_box": "!!!TODO!!! Als Gesellschaft zur Förderung Freien Wissens arbeitet Wikimedia Deutschland daran, dass Projekte wie die Wikipedia auch in Zukunft existieren können. Dieses Video zeigt Ihnen, wie wir mit Ihnen, %name%, dafür sorgen können, dass das Wissen der Menschheit für alle jederzeit kostenlos verfügbar ist.",
+  "membership_call_to_action_box_variant": "Als Gesellschaft zur Förderung Freien Wissens arbeitet Wikimedia Deutschland daran, dass Projekte wie die Wikipedia auch in Zukunft existieren können. Dieses Video zeigt Ihnen, wie wir mit Ihnen, %name%, dafür sorgen können, dass das Wissen der Menschheit für alle jederzeit kostenlos verfügbar ist.",
   "membership_benefit_list_title": "Vorteile einer Mitgliedschaft",
   "membership_benefit_list_1": "Langfristig und nachhaltig Wikipedia unterstützen.",
   "membership_benefit_list_2": "Ihr Beitrag ist steuerlich absetzbar. Eine Zuwendungsbescheinigung wird Ihnen automatisch zugesendet.",
