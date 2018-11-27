@@ -9,19 +9,19 @@
 		},
 		{
 			"id": "3",
-			"name": "Informationen zu Spenden und Mitgliedschaften"
+			"name": "Spenden und Mitgliedschaften"
 		},
 		{
 			"id": "4",
-			"name": "Informationen zur Spendenkampagne"
+			"name": "Spendenkampagne"
 		},
 		{
 			"id": "5",
-			"name": "Informationen zu Wikimedia"
+			"name": "Wikimedia"
 		},
 		{
 			"id": "6",
-			"name": "Informationen zu den Wikimedia-Projekten"
+			"name": "Wikimedia-Projekte"
 		}
 	],
 	"questions": [{
