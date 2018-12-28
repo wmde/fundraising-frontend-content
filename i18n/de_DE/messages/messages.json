@@ -38,7 +38,7 @@
   "form_dob_error": "Könnten Sie bitte Ihr Geburtsdatum überprüfen? Irgendetwas scheint da nicht zu stimmen.",
   "form_membership_type_error": "Könnten Sie bitte die Art Ihrer Mitgliedschaft auswählen? Da scheint es einen Fehler zu geben.",
   "form_membership_applicant_error": "Könnten Sie bitte auswählen, ob sie als Person oder Firma Mitglied werden möchten? Da scheint es einen Fehler zu geben.",
-  "form_membership_fee_error": "Können Sie bitte einen Betrag und ein Intervall für Ihren Mitgliedsbreitag auswählen? Da scheint es einen Fehler zu geben.",
+  "form_membership_fee_error": "Können Sie bitte einen Betrag und ein Intervall für Ihren Mitgliedsbeitrag auswählen? Da scheint es einen Fehler zu geben.",
   "form_membership_payment_error": "Können Sie bitte Ihre Zahlungsdaten prüfen? Da scheint es einen Fehler zu geben.",
   "form_bankdata_error": "Könnten Sie bitte Ihre Kontodaten überprüfen? Da scheint es einen Fehler zu geben.",
   "mail_subject_confirm_membership_application": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
