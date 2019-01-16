@@ -293,5 +293,8 @@
   "menu_item_faq": "Häufige Fragen",
   "menu_item_use_of_resources": "Mittelverwendung",
   "menu_item_donation_receipt": "Steuerlich absetzbar",
-  "menu_item_donate": "Spenden"
+  "menu_item_donate": "Spenden",
+  "address_form_title": "Anschrift ändern",
+  "address_form_subtitle": "Die bisherigen Daten sind schon eingetragen, bitte passen Sie diese an.",
+  "title_label": "Akademischer Titel"
 }
