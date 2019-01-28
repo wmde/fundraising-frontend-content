@@ -226,7 +226,6 @@
   "donor_change_failure_access_denied": "Sie haben keine Berechtigung, die Adressdaten zu verändern.",
   "donor_change_failure_exported": "Sie können die Adressdaten zu diesem Zeitpunkt nicht mehr verändern.",
   "donor_change_failure_has_address": "Sie haben bereits eine Adresse eingetragen.",
-  "donor_change_failure_anonymous_address": "Die gesendeten Adressdaten waren ungültig. Bitte wenden Sie sich per E-Mail an uns.",
   "donor_change_failure_generic": "Beim Verändern der Daten ist ein Fehler aufgetreten.",
   "donor_change_success_text": "Ihre Adresse lautet:",
   "donor_change_confirm_receipt_opt_in": "Wir senden Ihnen eine Spendenbescheinigung.",
@@ -296,5 +295,6 @@
   "menu_item_donate": "Spenden",
   "address_form_title": "Anschrift ändern",
   "address_form_subtitle": "Die bisherigen Daten sind schon eingetragen, bitte passen Sie diese an.",
+  "address_form_error": "Die gesendeten Adressdaten waren ungültig. Bitte wenden Sie sich per E-Mail an uns.",
   "academic_title_label": "Akademischer Titel"
 }
