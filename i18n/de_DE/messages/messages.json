@@ -294,7 +294,7 @@
   "menu_item_donation_receipt": "Steuerlich absetzbar",
   "menu_item_donate": "Spenden",
   "address_form_title": "Anschrift ändern",
-  "address_form_subtitle": "Die bisherigen Daten sind schon eingetragen, bitte passen Sie diese an.",
+  "address_form_subtitle": "Bitte teilen Sie uns über dieses Formular Ihre aktuelle Postanschrift mit.",
   "address_form_error": "Die gesendeten Adressdaten waren ungültig. Bitte wenden Sie sich per E-Mail an uns.",
   "address_update_success_head": "Adressänderung erfolgreich",
   "address_update_success_body": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Spendenbescheinigung an Ihre neue Adresse.",
