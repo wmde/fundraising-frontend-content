@@ -257,7 +257,7 @@
   "membership_section_membership_type_fallback": "Mitgliedschaftsart unausgewählt",
   "membership_section_applicant_anchor": "Daten",
   "membership_section_applicant_title": "Daten",
-  "membership_section_applicant_legend": "Privatpersonen können Fördermitglied oder aktives Mitglied werden. Firmen dürfen nur Fördermitgliedschaften beantragen.",
+  "membership_section_applicant_legend": "Privatpersonen können Fördermitglied oder aktives Mitglied werden. Firmen und rechtsfähige Personengesellschaften dürfen nur Fördermitgliedschaften beantragen.",
   "membership_section_applicant_fallback": "Daten noch nicht ausgewählt",
   "membership_section_fee_anchor": "Betrag",
   "membership_section_fee_title": "Mitgliedsbeitrag",
