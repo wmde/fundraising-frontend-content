@@ -41,7 +41,8 @@
   "form_membership_fee_error": "Können Sie bitte einen Betrag und ein Intervall für Ihren Mitgliedsbeitrag auswählen? Da scheint es einen Fehler zu geben.",
   "form_membership_payment_error": "Können Sie bitte Ihre Zahlungsdaten prüfen? Da scheint es einen Fehler zu geben.",
   "form_bankdata_error": "Könnten Sie bitte Ihre Kontodaten überprüfen? Da scheint es einen Fehler zu geben.",
-  "mail_subject_confirm_membership_application": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
+  "mail_subject_confirm_membership_application_active": "Ihr nachhaltiges Engagement als aktives Mitglied bei Wikimedia",
+  "mail_subject_confirm_membership_application_sustaining": "Ihr nachhaltiges Engagement als Fördermitglied bei Wikimedia",
   "mail_subject_confirm_membership_application_cancellation": "Stornierung Ihres Mitgliedschaftsantrags bei Wikimedia Deutschland e. V.",
   "access_denied_header": "Fehler",
   "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
@@ -298,5 +299,13 @@
   "address_form_error": "Die gesendeten Adressdaten waren ungültig. Bitte wenden Sie sich per E-Mail an uns.",
   "address_update_success_head": "Adressänderung erfolgreich",
   "address_update_success_body": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Spendenbescheinigung an Ihre neue Adresse.",
-  "academic_title_label": "Akademischer Titel"
+  "academic_title_label": "Akademischer Titel",
+
+  "mail_introduction_generic": "Sehr geehrte Damen und Herren,",
+  "mail_introduction_male_formal": "Sehr geehrter Herr %spacedTitle%%lastName%,",
+  "mail_introduction_female_formal": "Sehr geehrte Frau %spacedTitle%%lastName%,",
+  "mail_introduction_family_formal": "Sehr geehrte Familie %spacedTitle%%lastName%,",
+  "mail_introduction_male_informal": "Lieber %firstName%,",
+  "mail_introduction_female_informal": "Liebe %firstName%,",
+  "mail_introduction_family_informal": "Liebe Familie %lastName%,"
 }
