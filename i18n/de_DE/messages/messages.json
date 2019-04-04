@@ -95,7 +95,7 @@
   "donation_confirmation_debit_mandate_title": "SEPA-Lastschriftmandat",
   "donation_confirmation_debit_briefing": "Ich ermächtige die gemeinnützige Wikimedia Fördergesellschaft mbH (Gläubiger-ID: DE25ZZZ00000448435) Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von der gemeinnützigen Wikimedia Fördergesellschaft mbH auf mein Konto gezogenen Lastschriften einzulösen. Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen.",
   "donation_confirmation_debit_mandate_date": "Berlin, %formattedDate%",
-  "donation_confirmation_apply_for_membership": "Ab 2019 Mitglied werden",
+  "donation_confirmation_apply_for_membership": "Jetzt Mitglied werden",
   "donation_confirmation_print_confirmation": "Bestätigung drucken",
   "donation_confirmation_print_confirmation_debit": "Diese Bestätigung (inklusive SEPA-Mandat) ausdrucken",
   "donation_confirmation_print_summary": "Zusammenfassung drucken",
