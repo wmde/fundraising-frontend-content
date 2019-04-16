@@ -306,5 +306,10 @@
   "mail_introduction_family_formal": "Sehr geehrte Familie %spacedTitle%%lastName%,",
   "mail_introduction_male_informal": "Lieber %firstName%,",
   "mail_introduction_female_informal": "Liebe %firstName%,",
-  "mail_introduction_family_informal": "Liebe Familie %lastName%,"
+  "mail_introduction_family_informal": "Liebe Familie %lastName%,",
+
+  "footer_menu_contact": "Kontakt",
+  "footer_menu_imprint": "Impressum",
+  "footer_menu_data_protection": "Datenschutz",
+  "footer_menu_supporters_list": "Unterstützerliste"
 }
