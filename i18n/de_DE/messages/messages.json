@@ -1,11 +1,11 @@
 {
   "mail_subject_getintouch": "Sie haben gefragt, wir werden antworten",
   "mail_subject_getintouch_forward": "Anfrage über das Kontaktformular",
-  "mail_subject_confirm_donation": "Ihre Spende für Freies Wissen",
+  "mail_subject_confirm_donation": "Sie wollen für Wikipedia und Freies Wissen spenden. Großartig.",
+  "mail_subject_confirm_donation_promise": "Sie spenden für Wikipedia und Freies Wissen. Großartig.",
   "mail_subject_confirm_cancellation": "Stornierung Ihrer Spende",
   "mail_subject_subscription": "Bitte bestätigen Sie kurz, dass Sie Wikipedia unterstützen wollen.",
   "mail_subject_subscription_confirmed": "Dankeschön. Jetzt haben wir alles.",
-  "recurringDonation": "Wie gewünscht werden wir die Buchung jeden Monat wiederholen.|Wie gewünscht werden wir die Buchung alle %interval% Monate wiederholen.",
   "donation_cancellation_header": "Ihre Spende wurde storniert",
   "donation_cancellation_text": "Der Spendenvorgang mit der Nummer %donation.id% wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">spenden@wikimedia.de</a>.",
   "donation_cancellation_failed_header": "Spende konnte nicht storniert werden",
