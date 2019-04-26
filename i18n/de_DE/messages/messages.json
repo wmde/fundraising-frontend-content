@@ -306,6 +306,8 @@
   "mail_introduction_male_informal": "Lieber %firstName%,",
   "mail_introduction_female_informal": "Liebe %firstName%,",
   "mail_introduction_family_informal": "Liebe Familie %lastName%,",
+  "mail_introduction_male_lastname_informal": "Lieber Herr %lastName%,",
+  "mail_introduction_female_lastname_informal": "Liebe Frau %lastName%,",
 
   "footer_menu_contact": "Kontakt",
   "footer_menu_imprint": "Impressum",
