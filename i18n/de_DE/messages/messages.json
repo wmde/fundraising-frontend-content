@@ -224,6 +224,17 @@
   "membership_confirmation_debit_mandate_date": "Berlin, %formattedDate%",
   "membership_confirmation_debit_mandate_title": "SEPA-Lastschriftmandat",
 
+  "donation_form_amount_title": "Welchen Betrag möchten Sie spenden?",
+  "donation_form_amount_error": "Sie müssen aufgrund anfallender Gebühren leider einen Mindestbetrag von 1 Euro angeben. Wenn Sie weniger spenden möchten, überweisen Sie bitte direkt an das unten angegebene Spendenkonto.",
+  "donation_form_interval_title": "Wie häufig möchten Sie spenden?",
+  "donation_form_payment_type_title": "Wie möchten Sie spenden?",
+  "donation_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
+
+  "sidebar_data_encryption_notice": "Verschlüsselte Datenübertragung",
+  "sidebar_getintouch_headline": "Frage zum Spenden?",
+  "sidebar_getintouch_text": "Rufen Sie uns an oder nutzen Sie das Kontakformular",
+  "sidebar_getintouch_text_phone": "030 / 21 91 58 26 - 0",
+
   "donor_change_button_text": "Ich möchte eine Spendenbestätigung",
   "donor_change_button_tax_info": "Bei Spenden über 200€ ist die Spendenbestätigung für die Steuererklärung notwendig",
   "donor_change_address_form_headline": "Anschrift zur Zusendung der Spendenbescheinigung",
