@@ -314,7 +314,7 @@
   "address_form_error": "Die gesendeten Adressdaten waren ungültig. Bitte wenden Sie sich per E-Mail an uns.",
   "address_update_success_head": "Adressänderung erfolgreich",
   "address_update_success_body": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Spendenbescheinigung an Ihre neue Adresse.",
-  "academic_title_label": "Akademischer Titel",
+  "academic_title_label": "Titel",
 
   "mail_introduction_generic": "Sehr geehrte Damen und Herren,",
   "mail_introduction_male_formal": "Sehr geehrter Herr %spacedTitle%%lastName%,",
