@@ -129,6 +129,7 @@
   "operator_account_blz": "10020500",
   "transfer_code": "Verwendungszweck",
   "amount": "Betrag",
+  "custom_amount": "Wunschbetrag",
   "form_amount_error": "Sie müssen aufgrund anfallender Gebühren leider einen Mindestbetrag von 1 Euro angeben. Wenn Sie weniger spenden möchten, überweisen Sie bitte direkt an das unten angegebene Spendenkonto.",
   "payment_amount_legend": "Bitte geben Sie Ihren Wunschbetrag an.",
   "payment_type_UEB_info": "Nach Abschluss Ihrer Spende erhalten Sie unsere Kontoverbindung sowie einen besonderen Verwendungszweck, die Sie für Ihre Überweisung benötigen.",
