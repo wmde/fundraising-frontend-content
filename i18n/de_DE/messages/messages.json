@@ -24,7 +24,7 @@
   "membership_cancellation_failed_text": "Ihr Mitgliedschaftsantrag mit der Nummer %membership.id% konnte nicht storniert werden. Bitte wenden Sie sich an <a href=\"mailto:%mailto_link%\">mitglieder@wikimedia.de</a>.",
   "membership-no-donation-receipt": "Ich benötige keine Zuwendungsbescheinigung.",
   "membership_link_to_wmde": "Mehr Informationen zur Mitgliedschaft bei Wikimedia",
-  "membership_link_to_wmde_url": "https://wikimedia.de/mitglied-werden",
+  "membership_link_to_wmde_url": "https://wikimedia.de/de/mitglied-werden",
   "form_salutation_error": "Bitte teilen Sie uns mit, wie Sie angesprochen werden möchten.",
   "form_firstname_error": "Könnten Sie bitte Ihren Vornamen überprüfen? Da scheint es einen Fehler zu geben.",
   "form_lastname_error": "Könnten Sie bitte Ihren Nachnamen überprüfen? Da scheint es einen Fehler zu geben.",
