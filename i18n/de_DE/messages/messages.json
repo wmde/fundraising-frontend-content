@@ -12,6 +12,8 @@
   "donation_cancellation_failed_text": "Ihre Spende mit der Nummer %donation.id% konnte nicht storniert werden. Bitte wenden Sie sich an <a href=\"mailto:%mailto_link%\">spenden@wikimedia.de</a>, um gegebenenfalls eine Rückbuchung zu veranlassen.",
   "donation_cancellation_mail_delivery_failure": "Die Stornierung der Spende war erfolgreich, beim Versenden der E-Mail zur Bestätigung ist aber ein Fehler aufgetreten.",
   "donation-no-donation-receipt": "Ich benötige keine Zuwendungsbescheinigung.",
+  "receipt_opt_out": "Ich benötige keine Spendenbescheinigung.",
+  "receipt_opt_out_explanation": "Wenn Sie keine Spendenbescheinigung brauchen, ist die Angabe der Adresse optional.",
   "donation-confirm-sepa-shortterm": "Mit SEPA wurde eine Informationsfrist für Lastschriften eingeführt. Ich bin damit einverstanden, dass ich spätestens 2 Tage vor der geplanten Abbuchung der Spende per Email benachrichtigt werde.",
   "back_to_donation": "Zurück zum Spendenformular",
   "back_to_membership": "Zurück zum Mitgliedschaftsformular",
