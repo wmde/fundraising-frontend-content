@@ -327,7 +327,7 @@
   "address_form_error": "Die gesendeten Adressdaten waren ungültig. Bitte wenden Sie sich per E-Mail an uns.",
   "address_update_success_head": "Adressänderung erfolgreich",
   "address_update_success_body": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Zuwendungsbescheinigung an Ihre neue Adresse.",
-  "address_update_success_body_optout": "Vielen Dank für Ihre Mithilfe! Sie werden in Zukunft keine Zuwendungsbescheinigungen mehr erhalten. Um diese Einstellung zu ändern, schreiben Sie eine E-Mail an spenden@wikimedia.de ",
+  "address_update_success_body_optout": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an spenden@wikimedia.de wenden.",
   "academic_title_label": "Titel",
 
   "mail_introduction_generic": "Sehr geehrte Damen und Herren,",
