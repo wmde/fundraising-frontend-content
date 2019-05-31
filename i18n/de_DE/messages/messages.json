@@ -186,7 +186,7 @@
   "donation_addresstype_option_anonymous_disclaimer": "Bitte beachten Sie, dass wir für eine spätere Zuordnung der Spende Ihren Namen und die Zahlungsinformationen vom Dienstleister erhalten.",
   "donation_sendinfo_label": "Ja, ich möchte in Zukunft informiert werden, wenn Wikipedia meine Hilfe braucht. Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
   "donation_section_continue": "Weiter",
-  "donation_section_continue": "Betrag/Wiederholung ändern",
+  "donation_section_back": "Betrag/Wiederholung ändern",
   "donation_section_overview_title": "Übersicht",
   "donation_section_amount_anchor": "Betrag",
   "donation_section_amount_title": "Spendenbetrag",
