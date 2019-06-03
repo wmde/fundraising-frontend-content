@@ -84,6 +84,13 @@
   "contact_submit": "Kontaktanfrage absenden",
   "contact_topic_title": "Bitte wählen Sie ein Thema aus",
   "contact_donation_number": "Spenden- oder Adressnummer",
+
+  "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
+  "donation_confirmation_topbox_summary": "Sie spenden: <strong>{interval}</strong><br><strong>{formattedAmount}€</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_topbox_email": "E-Mail: {email}",
+  "donation_confirmation_topbox_donor_type_person": "als Privatperson",
+  "donation_confirmation_topbox_donor_type_company": "als Firma",
+  "donation_confirmation_topbox_donor_type_anonymous": "ohne Adressangabe",
   "donation_confirmation_head_summary": "Herzlichen Dank für Ihre %interval% Spende über %formattedAmount% per %paymentType%",
   "donation_confirmation_head_summary_bank_transfer": "Herzlichen Dank für Ihre Bereitschaft uns %interval% mit einer Spende über %formattedAmount% zu unterstützen.",
   "donation_confirmation_subhead_donation_number": "Spendennummer: %donation.id%",
