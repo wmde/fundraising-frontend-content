@@ -33,6 +33,8 @@
   "donation_confirmation_topbox_email": "E-Mail: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}€</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_email_missing": "Bitte geben Sie Ihre E-Mail-Adresse ein",
+  "donation_confirmation_address_missing": "Bitte füllen Sie alle Adressfelder aus",
 
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
