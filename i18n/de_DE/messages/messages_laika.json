@@ -13,8 +13,10 @@
   "bank_data_operator_bank_name": "Bank für Sozialwirtschaft",
   "bank_data_transfer_code": "Verwendungszweck",
 
+  "donation_confirmation_address_missing": "Bitte füllen Sie alle Adressfelder aus",
   "donation_confirmation_cancel_button": "Jetzt stornieren",
   "donation_confirmation_comment_button": "Spendenkommentar schreiben",
+  "donation_confirmation_email_missing": "Bitte geben Sie Ihre E-Mail-Adresse ein",
   "donation_confirmation_membership_button": "Jetzt Mitglied werden",
   "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Über 70.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
   "donation_confirmation_membership_call_to_action_title": "Mit einer Fördermitgliedschaft mehr bewirken!",
@@ -33,8 +35,6 @@
   "donation_confirmation_topbox_email": "E-Mail: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}€</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
-  "donation_confirmation_email_missing": "Bitte geben Sie Ihre E-Mail-Adresse ein",
-  "donation_confirmation_address_missing": "Bitte füllen Sie alle Adressfelder aus",
 
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
@@ -101,9 +101,11 @@
   "donation_form_street_label": "Straße und Hausnummer",
   "donation_form_street_number_warning": "Wir haben hier eine Hausnummer erwartet. Falls diese noch fehlt, ergänzen Sie bitte Ihre Eingabe.",
   "donation_form_street_placeholder": "z.B. Musterstraße 12",
+  "donation_form_summary_external_payment": "Sie werden nach der Auswahl von „Jetzt Spenden” auf die Seite unseres Zahlungsdienstleiters weitergeleitet.",
   "donation_form_zip_error": "Wir haben hier eine 4 oder 5 stellige Postleitzahl erwartet. Bitte überprüfen Sie Ihre Eingabe.",
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "z.B. 91827",
+
 
   "footer_menu_contact": "Kontakt",
   "footer_menu_data_protection": "Datenschutz",
