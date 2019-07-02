@@ -130,6 +130,9 @@
   "header_menu_item_faq": "Häufige Fragen",
   "header_menu_item_membership_application": "Mitglied werden",
   "header_menu_item_use_of_resources": "Mittelverwendung",
+  
+  "receipt_opt_out": "Ich benötige keine Spendenbescheinigung.",
+  "receipt_opt_out_explanation": "Wenn Sie keine Spendenbescheinigung brauchen, ist die Angabe der Adresse optional.",
 
   "sidebar_data_encryption_notice": "Verschlüsselte Datenübertragung",
   "sidebar_getintouch_headline": "Frage zum Spenden?",
