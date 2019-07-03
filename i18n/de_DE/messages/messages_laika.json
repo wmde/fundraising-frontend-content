@@ -119,6 +119,9 @@
   "membership_membershiptype_option_sustaining_legend": "Sie erhalten regelmäßige Informationen über die Arbeit des Vereins.",
   "membership_membershiptype_option_active": "Aktive Mitgliedschaft",
   "membership_membershiptype_option_active_legend": "Sie bringen sich aktiv im Verein ein und haben ein Stimmrecht auf der Mitgliederversammlung.",
+  "membership_birth_date_label": "Geburtsdatum (optional)",
+  "membership_birth_date_placeholder": "z. B. 25.03.1986",
+  "membership_birth_date_error": "",
   
   "footer_menu_contact": "Kontakt",
   "footer_menu_data_protection": "Datenschutz",
