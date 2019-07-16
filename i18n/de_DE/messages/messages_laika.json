@@ -129,7 +129,9 @@
   "membership_form_membershiptype_option_sustaining_legend": "Sie erhalten regelmäßige Informationen über die Arbeit des Vereins.",
   "membership_form_membershiptype_option_active": "Aktive Mitgliedschaft",
   "membership_form_membershiptype_option_active_legend": "Sie bringen sich aktiv im Verein ein und haben ein Stimmrecht auf der Mitgliederversammlung.",
-  
+  "membership_form_payment_amount_description": "Der Mindestbetrag für natürliche Personen beträgt 24 Euro, für juristische Personen 100 Euro im Jahr.",
+  "membership_form_payment_amount_title": "Welchen Mitgliedsbeitrag wollen Sie zahlen?",
+
   "footer_menu_contact": "Kontakt",
   "footer_menu_data_protection": "Datenschutz",
   "footer_menu_imprint": "Impressum",
