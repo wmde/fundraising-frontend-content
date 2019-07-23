@@ -35,7 +35,7 @@
   "donation_confirmation_topbox_donor_type_person": "als Privatperson",
   "donation_confirmation_topbox_email": "E-Mail: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
-  "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}€</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount} Euro</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
 
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
@@ -102,7 +102,6 @@
   "donation_form_section_address_title": "Anschrift",
   "donation_form_section_back": "Zahldaten ändern",
   "donation_form_section_continue": "Weiter",
-  "donation_form_section_email_title": "E-Mail-Kontakt",
   "donation_form_section_headline": "Spenden",
   "donation_form_section_overview_title": "Übersicht",
   "donation_form_street_error": "Könnten Sie bitte Ihre Straße überprüfen? Da scheint es einen Fehler zu geben.",
