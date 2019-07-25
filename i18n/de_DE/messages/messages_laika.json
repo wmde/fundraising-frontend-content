@@ -113,6 +113,8 @@
   "donation_form_zip_error": "Wir haben hier eine 4 oder 5 stellige Postleitzahl erwartet. Bitte überprüfen Sie Ihre Eingabe.",
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "z.B. 91827",
+  
+  "errors_summary_title": "Bitte korrigieren Sie die Fehler im Formular",
 
   "membership_confirmation_thanks_text": "Vielen Dank für Ihr Engagement!",
   "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFee} Euro {paymentInterval}</strong> {membershipFeeYearly}<br>als {address}",
