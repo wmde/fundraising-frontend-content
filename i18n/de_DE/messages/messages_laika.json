@@ -150,6 +150,10 @@
   "header_menu_item_use_of_resources": "Mittelverwendung",
   
   "privacy_protection_title": "Datenerhebung",
+  "privacy_optout_description": "Sie können sich hier entscheiden, ob in Ihrem Browser ein eindeutiger Webanalyse-Cookie abgelegt werden darf, um dem Betreiber der Website die Erfassung und Analyse verschiedener statistischer Daten zu ermöglichen.",
+  "privacy_optout_tracking_permit": "Ja, meine Daten dürfen erfasst werden",
+  "privacy_optout_tracking_deny": "Nein, meine Daten dürfen nicht erfasst werden",
+  "privacy_optout_tracking_state": "Der Besuch dieser Website wird aktuell <span class=\"opted-out\">nicht</span> von der Matomo-Webanalyse erfasst",
   
   "receipt_opt_out": "Ich benötige keine Spendenbescheinigung.",
 
