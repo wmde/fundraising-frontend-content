@@ -18,7 +18,7 @@
   "contact_form_donation_number_label": "Spenden- oder Adressnummer",
   "contact_form_donation_number_placeholder": "z. B. 1234567",
   "contact_form_donation_number_error": "Könnten Sie bitte Ihre Eingabe überprüfen? Hier sollten nur Ziffern stehen.",
-  "contact_form_error": "Beim Senden des Kontaktformulars ist ein Fehler aufgetreten. Versuchen Sie es später noch einmal oder kontaktieren Sie uns direkt via spenden@wikimedia.de.",
+  "contact_form_error": "Bitte Überprüfen Sie die Eingaben im Kontaktformular:",
   "contact_form_email_label": "E-Mail",
   "contact_form_email_placeholder": "z.B. max@mustermann.net",
   "contact_form_email_error": "Könnten Sie bitte Ihre E-Mail-Adresse überprüfen? Diese scheint nicht korrekt zu sein.",
@@ -149,7 +149,7 @@
   "donation_form_zip_error": "Wir haben hier eine 4 oder 5 stellige Postleitzahl erwartet. Bitte überprüfen Sie Ihre Eingabe.",
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "z.B. 91827",
-  
+
   "errors_summary_title": "Bitte korrigieren Sie die Fehler im Formular",
 
   "membership_cancellation_title": "Ihr Mitgliedschaftsantrag wurde storniert",
@@ -187,7 +187,7 @@
   "header_menu_item_faq": "Häufige Fragen",
   "header_menu_item_membership_application": "Mitglied werden",
   "header_menu_item_use_of_resources": "Mittelverwendung",
-  
+
   "privacy_protection_title": "Datenerhebung",
   "privacy_optout_description": "Sie können sich hier entscheiden, ob in Ihrem Browser ein eindeutiger Webanalyse-Cookie abgelegt werden darf, um dem Betreiber der Website die Erfassung und Analyse verschiedener statistischer Daten zu ermöglichen.",
   "privacy_optout_tracking_permit": "Ja, meine Daten dürfen erfasst werden",
@@ -201,6 +201,6 @@
   "sidebar_getintouch_headline": "Frage zum Spenden?",
   "sidebar_getintouch_text": "Rufen Sie uns an oder nutzen Sie das Kontakformular",
   "sidebar_getintouch_text_phone": "030 / 21 91 58 26 - 0",
-  
+
   "currency_name": "Euro"
 }
