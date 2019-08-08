@@ -1,4 +1,10 @@
 {
+  "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
+  "access_denied_header": "Fehler",
+  "access_denied_donation_confirmation": "Sie haben keine Berechtigung, diese Spende zu sehen.",
+  "access_denied_membership_confirmation": "Sie haben keine Berechtigung, diesen Mitgliedschafts-Antrag zu sehen.",
+  "access_denied_membership_confirmation_anonymized": "Ihr Mitgliedschaftsantrag wurde erfolgreich abgeschlossen, die Bestätigungsseite kann allerdings nicht mehr angezeigt werden. Fragen zu Ihrer Mitgliedschaft können Sie uns gern per E-Mail an <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder@wikimedia.de</a> stellen.",
+
   "bank_data_account_number": "Kontonummer",
   "bank_data_account_owner": "Kontoinhaber",
   "bank_data_bank_code": "Bankleitzahl",
@@ -150,7 +156,11 @@
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "z.B. 91827",
 
+  "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach gespendet wird.",
+
   "errors_summary_title": "Bitte korrigieren Sie die Fehler im Formular",
+
+  "membership_application_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits einen Mitgliedschaftsantrag gesendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach Mitgliedschaften abgeschlossen werden.",
 
   "membership_cancellation_title": "Ihr Mitgliedschaftsantrag wurde storniert",
   "membership_cancellation_text": "Ihr Mitgliedschaftsantrag mit der Nummer {membership_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">mitglieder@wikimedia.de</a>.",
@@ -177,6 +187,9 @@
   "membership_form_payment_amount_description": "Der Mindestbetrag für natürliche Personen beträgt 24 Euro, für juristische Personen 100 Euro im Jahr.",
   "membership_form_payment_amount_title": "Welchen Mitgliedsbeitrag wollen Sie zahlen?",
 
+  "page_not_found": "Wenn Sie nach etwas Bestimmtem suchen und es nicht finden können, fragen Sie uns bitte. Am einfachsten geht dies über das <a href=\"/contact/get-in-touch\">Kontaktformular</a>.",
+  "page_not_found_header": "Diese Seite bieten wir leider nicht an.",
+
   "footer_menu_contact": "Kontakt",
   "footer_menu_data_protection": "Datenschutz",
   "footer_menu_imprint": "Impressum",
@@ -201,6 +214,8 @@
   "sidebar_getintouch_headline": "Frage zum Spenden?",
   "sidebar_getintouch_text": "Rufen Sie uns an oder nutzen Sie das Kontakformular",
   "sidebar_getintouch_text_phone": "030 / 21 91 58 26 - 0",
+
+  "system_message_page_header": "Fehler",
 
   "currency_name": "Euro"
 }
