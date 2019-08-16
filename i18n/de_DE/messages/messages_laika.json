@@ -154,7 +154,7 @@
   "donation_form_street_label": "Straße und Hausnummer",
   "donation_form_street_number_warning": "Wir haben hier eine Hausnummer erwartet. Falls diese noch fehlt, ergänzen Sie bitte Ihre Eingabe.",
   "donation_form_street_placeholder": "z.B. Musterstraße 12",
-  "donation_form_summary_external_payment": "Sie werden nach der Auswahl von „Jetzt Spenden” auf die Seite unseres Zahlungsdienstleiters weitergeleitet.",
+  "donation_form_summary_external_payment": "Sie werden nach der Auswahl von „Jetzt Spenden” auf die Seite unseres Zahlungsdienstleisters weitergeleitet.",
   "donation_form_zip_error": "Wir haben hier eine 4 oder 5 stellige Postleitzahl erwartet. Bitte überprüfen Sie Ihre Eingabe.",
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "z.B. 91827",
