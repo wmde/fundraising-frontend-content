@@ -189,6 +189,7 @@
   "membership_form_membershiptype_error": "Als Firma können sie kein Fördermitglied sein. Ändern Sie \"Mitglied werden als …\"auf \"Privatperson\" oder wählen Sie hier \"Fördermitgliedschaft\"",
   "membership_form_payment_amount_description": "Der Mindestbetrag für natürliche Personen beträgt 24 Euro, für juristische Personen 100 Euro im Jahr.",
   "membership_form_payment_amount_title": "Welchen Mitgliedsbeitrag wollen Sie zahlen?",
+  "membetship_form_payment_interval_title": "Wie häufig soll der Beitrag abgebucht werden?",
 
   "page_not_found": "Wenn Sie nach etwas Bestimmtem suchen und es nicht finden können, fragen Sie uns bitte. Am einfachsten geht dies über das <a href=\"/contact/get-in-touch\">Kontaktformular</a>.",
   "page_not_found_header": "Diese Seite bieten wir leider nicht an.",
