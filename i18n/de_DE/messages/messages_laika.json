@@ -212,7 +212,7 @@
   "privacy_optout_tracking_state": "Der Besuch dieser Website wird aktuell von der Matomo-Webanalyse erfasst",
   "privacy_optout_tracking_state_no": "Der Besuch dieser Website wird aktuell <strong>nicht</strong> von der Matomo-Webanalyse erfasst",
 
-  "receipt_opt_out": "Ich benötige keine Spendenbescheinigung.",
+  "receipt_opt_out": "Ich benötige keine Zuwendungsbescheinigung.",
 
   "sidebar_data_encryption_notice": "Verschlüsselte Datenübertragung",
   "sidebar_getintouch_headline": "Frage zum Spenden?",
