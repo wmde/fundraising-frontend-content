@@ -54,9 +54,15 @@
 
   "donation_cancellation_title": "Stornierung",
   "donation_cancellation_text": "Der Spendenvorgang mit der Nummer {donation_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">spenden@wikimedia.de</a>.",
-
-  "donation_comments_title": "Spendenkommentare",
-  "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
+  
+  "donation_comment_popup_title": "Spendekommentar schreiben",
+  "donation_comment_popup_explanation": "Erzählen Sie, warum Sie gespendet haben. Was verbindet Sie mit Wikpedia? Ihre Geschichte hilft uns, den Millionen Menschen, die Wikipedia täglich nutzen, die Bedeutung Wikipedias zu veranschaulichen.",
+  "donation_comment_popup_label": "Kommentar",
+  "donation_comment_popup_is_anon": "Anonym",
+  "donation_comment_popup_is_public": "Öffentlich",
+  "donation_comment_popup_submit": "Kommentar senden",
+  "donation_comments_title": "Spendenkommentare",  "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
+  "donation_comments_text": "NErzählen Sie, warum Sie gespendet haben. Was verbindet Sie mit Wikpedia? Ihre Geschichte hilft uns, den Millionen Menschen, die Wikipedia täglich nutzenach der Spende kann ein Kommentar geschrieben werden.",
   "donation_comments_donor_headline": "{amount} € von {donor}",
 
   "donation_confirmation_cancel_button": "Jetzt stornieren",
