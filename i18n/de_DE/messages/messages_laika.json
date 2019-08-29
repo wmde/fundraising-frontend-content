@@ -171,6 +171,10 @@
 
   "errors_summary_title": "Bitte korrigieren Sie die Fehler im Formular",
 
+  "error_page_header": "Leider kam es zu einem Fehler",
+  "error_page": "Irgendetwas ist schief gelaufen. Bitte warten Sie ca. 30 Minuten und versuchen es erneut. Oder Sie wenden sich direkt an uns über unser <a href=\"/contact/get-in-touch\">Kontaktformular</a>.",
+  "error_pages_return_to_donation": "Irgendetwas ist schiefgelaufen. Bitte gehen Sie wieder zurück auf das Spendenformular.",
+
   "membership_application_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits einen Mitgliedschaftsantrag gesendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach Mitgliedschaften abgeschlossen werden.",
 
   "membership_cancellation_title": "Ihr Mitgliedschaftsantrag wurde storniert",
