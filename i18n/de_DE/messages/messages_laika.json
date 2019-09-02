@@ -62,7 +62,7 @@
   "donation_comment_popup_is_public": "Ihren Kommentar öffentlich teilen",
   "donation_comment_popup_cancel": "Abbrechen",
   "donation_comment_popup_submit": "Kommentar senden",
-  "donation_comments_title": "Spendenkommentare",  "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
+  "donation_comments_title": "Spendenkommentare",
   "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
   "donation_comments_donor_headline": "{amount} € von {donor}",
 
