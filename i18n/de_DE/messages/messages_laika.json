@@ -4,7 +4,7 @@
   "access_denied_donation_confirmation": "Sie haben keine Berechtigung, diese Spende zu sehen.",
   "access_denied_membership_confirmation": "Sie haben keine Berechtigung, diesen Mitgliedschafts-Antrag zu sehen.",
   "access_denied_membership_confirmation_anonymized": "Ihr Mitgliedschaftsantrag wurde erfolgreich abgeschlossen, die Bestätigungsseite kann allerdings nicht mehr angezeigt werden. Fragen zu Ihrer Mitgliedschaft können Sie uns gern per E-Mail an <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder@wikimedia.de</a> stellen.",
-
+  "back_to_donation_summary": "Zur Spendenübersicht",
   "bank_data_account_number": "Kontonummer",
   "bank_data_account_owner": "Kontoinhaber",
   "bank_data_bank_code": "Bankleitzahl",
