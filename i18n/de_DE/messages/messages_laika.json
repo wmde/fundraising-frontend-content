@@ -167,6 +167,7 @@
   "donation_form_salutation_option_family": "Familie",
   "donation_form_salutation_option_mr": "Herr",
   "donation_form_salutation_option_mrs": "Frau",
+  "donation_form_section_address_header": "Adresse",
   "donation_form_section_address_or_anon": "Wollen Sie Ihre Adresse angeben?",
   "donation_form_section_address_header_type": "Spenden als...",
   "donation_form_section_address_title": "Anschrift",
