@@ -181,7 +181,7 @@
   "donation_form_street_placeholder": "z.B. Musterstraße 12",
   "donation_form_summary_external_payment": "Sie werden nach der Auswahl von „Jetzt Spenden” auf die Seite unseres Zahlungsdienstleisters weitergeleitet.",
   "donation_form_summary_bank_transfer_payment": "Nach der Auswahl von „Jetzt Spenden” erhalten Sie unsere Kontoverbindung sowie einen besonderen Verwendungszweck, die Sie für Ihre Überweisung benötigen.",
-  "donation_form_zip_error": "Bitte geben sie eine 4 oder 5-stellige Postleitzahl an.",
+  "donation_form_zip_error": "Bitte geben Sie eine 4- oder 5-stellige Postleitzahl an.",
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "z.B. 91827",
 
