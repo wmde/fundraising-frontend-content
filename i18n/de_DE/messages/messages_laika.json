@@ -205,7 +205,7 @@
 
   "membership_form_birth_date_label": "Geburtsdatum (optional)",
   "membership_form_birth_date_placeholder": "z. B. 25.03.1986",
-  "membership_form_birth_date_error": "Bitte überprüfen Sie das Geburtsdatum. Es muss im Format Tag-Monat-Jahr angegeben werden.",
+  "membership_form_birth_date_error": "Bitte überprüfen Sie das Geburtsdatum. Es muss im Format Tag.Monat.Jahr angegeben werden.",
   "membership_form_finalize": "Jetzt Mitglied werden",
   "membership_form_headline": "Mitglied werden",
   "membership_form_payment_amount_error": "Der jährliche Mindestbeitrag beträgt 24 Euro für natürliche Personen und 100 Euro für juristische Personen. Bitte passen Sie den Betrag oder die Häufigkeit der Abbuchungen an.",
