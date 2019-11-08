@@ -137,7 +137,7 @@
   "donation_form_lastname_error": "Bitte geben Sie Ihren Nachnamen an.",
   "donation_form_lastname_label": "Name",
   "donation_form_lastname_placeholder": "z.B. Mustermann",
-  "donation_form_newsletter_label": "Ja, ich möchte in Zukunft informiert werden, wenn Wikipedia meine Hilfe braucht. Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
+  "donation_form_newsletter_label": "Ja, ich möchte wissen, ob die Spendenkampagne erfolgreich war. Bitte informiert mich auch in Zukunft, wenn Wikipedia meine Hilfe braucht. Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
   "donation_form_payment_amount_error": "Sie müssen aufgrund anfallender Gebühren leider einen Mindestbetrag von 1 Euro angeben. Wenn Sie weniger spenden möchten, überweisen Sie bitte direkt an das unten angegebene Spendenkonto.",
   "donation_form_payment_amount_legend": "Bitte geben Sie Ihren Wunschbetrag an.",
   "donation_form_payment_amount_title": "Welchen Betrag möchten Sie spenden?",
