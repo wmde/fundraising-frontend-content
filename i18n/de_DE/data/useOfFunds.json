@@ -5,6 +5,7 @@
       "url": "https://www.wikimedia.de/wirtschaftsplan-2020/",
       "overallAmount": "21 969 000",
       "description": "",
+      "currencySymbol": "€",
       "funds": {
         "1": {
           "title": "Handlungsfeld Freiwillige",
