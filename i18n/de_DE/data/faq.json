@@ -36,7 +36,7 @@
 		},
 		{
 			"question": "Ich möchte keine Adressdaten eingeben, aber dennoch spenden. Geht das?",
-			"visible_text": "Auf unserem Spendenformular gibt es im Abschnitt „Daten“ die Möglichkeit, die Option „anonym“ auszuwählen. Diese Option ist für alle Zahlungsarten außer für Lastschriftspenden möglich. Bedenken Sie bitte, dass wir Ihnen im Fall einer anonymen Spende keine Zuwendungsbescheinigung für Ihre Steuererklärung ausstellen können.",
+			"visible_text": "Auf unserem Spendenformular gibt es im Abschnitt „Daten“ die Möglichkeit, die Option „ohne Adressdaten“ auszuwählen. Diese Option ist für alle Zahlungsarten außer für Lastschriftspenden möglich. Bedenken Sie bitte, dass wir Ihnen in diesem Fall keine Zuwendungsbescheinigung für Ihre Steuererklärung ausstellen können.",
 			"topic": "1,3"
 		},
 		{
