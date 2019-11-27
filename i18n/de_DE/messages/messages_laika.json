@@ -192,6 +192,7 @@
   "donation_form_zip_error": "Bitte geben Sie eine 4- oder 5-stellige Postleitzahl an.",
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "91827",
+  "donation_form_zip_placeholder_warning": "Sind Sie sich sicher, dass Ihre Postleitzahl 91827 ist?",
 
   "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach gespendet wird.",
 
