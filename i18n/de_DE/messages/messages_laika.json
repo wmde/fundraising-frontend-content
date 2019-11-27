@@ -146,6 +146,7 @@
   "donation_form_lastname_placeholder_warning": "Sind Sie sich sicher, dass Ihr Nachname Mustermann ist?",
   "donation_form_newsletter_label": "Ja, ich möchte wissen, ob die Spendenkampagne erfolgreich war. Bitte informiert mich auch in Zukunft, wenn Wikipedia meine Hilfe braucht. Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
   "donation_form_payment_amount_error": "Sie müssen aufgrund anfallender Gebühren leider einen Mindestbetrag von 1 Euro angeben. Wenn Sie weniger spenden möchten, überweisen Sie bitte direkt an das unten angegebene Spendenkonto.",
+  "donation_form_payment_amount_too_high": "Es darf nicht mehr als 99999 € sein.",
   "donation_form_payment_amount_legend": "Bitte geben Sie Ihren Wunschbetrag an.",
   "donation_form_payment_amount_title": "Welchen Betrag möchten Sie spenden?",
   "donation_form_payment_bankdata_legend": "IBAN und BIC (oder Kontonummer und Bankleitzahl) sind nötig, um das Geld per Lastschrift einzuziehen.",
