@@ -1,0 +1,15 @@
+{
+  "name": "fundraising-frontend-content",
+  "version": "1.0.0",
+  "description": "This repository holds content related to Wikimedia Deutschland fundraising services",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmde/fundraising-frontend-content.git"
+  },
+  "author": "Wikimedia Deutschland",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/wmde/fundraising-frontend-content/issues"
+  },
+  "homepage": "https://github.com/wmde/fundraising-frontend-content"
+}
