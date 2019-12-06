@@ -241,6 +241,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Familie Naumann",
+			"amount": "2.100 €",
+			"comment": ""
+		},
+		{
 			"name": "Science March München",
 			"amount": "2.060 €",
 			"comment": ""
@@ -294,11 +299,6 @@
 			"name": "Aegidius Schuster",
 			"amount": "1.300 €",
 			"comment": "Alles kostenlos - alles umsonst - war gestern."
-		},
-		{
-			"name": "Familie Naumann",
-			"amount": "1.300 €",
-			"comment": ""
 		},
 		{
 			"name": "Dr. Richard Hoffmann",
