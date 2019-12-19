@@ -167,6 +167,7 @@
   "donation_form_payment_interval_3": "vierteljährlich",
   "donation_form_payment_interval_6": "halbjährlich",
   "donation_form_payment_interval_title": "Wie häufig möchten Sie spenden?",
+  "donation_form_SUB_payment_type_info": "Eine regelmäßige Zahlung per Sofortüberweisung ist nicht möglich.",
   "donation_form_payment_summary": "Sie spenden: {interval} {formattedAmount} Euro via {paymentType}",
   "donation_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
   "donation_form_payment_type_title": "Wie möchten Sie spenden?",
