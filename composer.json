@@ -1,7 +1,7 @@
 {
     "name": "wmde/fundraising-frontend-content",
     "description": "i18n for FundraisingFrontend",
-    "license": "GPL-2.0+",
+    "license": "CC0-1.0",
     "require-dev": {
         "wmde/fundraising-content-provider": "^2.0",
         "seld/jsonlint": "^1.6"
