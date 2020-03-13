@@ -10,8 +10,8 @@
   "address_change_form_submit": "Kontaktdaten ändern",
   "address_change_form_success_title": "Adressänderung erfolgreich",
   "address_change_form_success_label": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Zuwendungsbescheinigung an Ihre neue Adresse.",
-  "address_change_form_success_optout_label": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an spenden@wikimedia.de wenden.",
-
+  "address_change_form_success_optout_label": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an spenden@wikimedia.de wenden.",  "address_change_opt_out_hint": "Sie können uns Ihre aktuelle Adresse auch mitteilen, wenn Sie keine Bescheinigung erhalten möchten.",
+  
   "back_to_donation_summary": "Zurück zur Spendenübersicht",
 
   "bank_data_account_number": "Kontonummer",
