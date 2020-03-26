@@ -77,7 +77,7 @@
   "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
   "donation_comments_donor_headline": "{amount} € von {donor}",
 
-  "donation_confirmation_address_update_button": "Ich benötige eine Zuwendungsbescheinigung",
+  "donation_confirmation_address_update_button": "Ich benötige eine Spendenquittung",
   "donation_confirmation_address_update_cancel": "Abbrechen",
   "donation_confirmation_address_update_confirm": "Kontaktdaten senden",
   "donation_confirmation_address_update_error": "Entschuldigung, Ihre Adresse kann nicht mehr geändert werden. Gerne helfen wir Ihnen persönlich, bitte kontaktieren Sie uns über unser Kontaktformular oder rufen Sie uns an.",
@@ -259,7 +259,7 @@
   "privacy_optout_tracking_state": "Der Besuch dieser Website wird aktuell von der Matomo-Webanalyse erfasst",
   "privacy_optout_tracking_state_no": "Der Besuch dieser Website wird aktuell <strong>nicht</strong> von der Matomo-Webanalyse erfasst",
 
-  "receipt_opt_out": "Ich benötige keine Zuwendungsbescheinigung.",
+  "receipt_opt_out": "Ich benötige keine Spendenquittung.",
 
   "sidebar_data_encryption_notice": "Verschlüsselte Datenübertragung",
   "sidebar_getintouch_headline": "Frage zum Spenden?",
