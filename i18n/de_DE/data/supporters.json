@@ -41,6 +41,11 @@
 			"comment": "Unsere Mitarbeiter greifen gerne auf das gesammelte Wissen in Wikipedia zurück - kompakt und kompetent. Mit unserer Spende möchten wir einen Beitrag dazu leisten, dass die Enzyklopädie in ihrer jetzigen Form bestehen bleibt und auch in Zukunft weiter ausgebaut wird."
 		},
 		{
+			"name": "Nico Gormsen",
+			"amount": "12.500 €",
+			"comment": "Fast jeden Tag nutzen wir in der Familie Wikipedia und sind immer wieder neu begeistert über die Informationen, die diese Plattform der Menschheit bietet. Wikipedia ist gerade in den heutigen Zeiten eine zuverlässige, gut recherchierte Wissensquelle. Vielen Dank!"
+		},
+		{
 			"name": "Bernd Hansen",
 			"amount": "11.600 €",
 			"comment": "Nur eine Wissensbasierte Gesellschaft kann erfolgreich sein. Dazu muß es allen zugänglich sein. Dazu trägt Wikimedia in großem Masse bei."
@@ -48,6 +53,16 @@
 		{
 			"name": "TNG Technology Consulting GmbH",
 			"amount": "10.962,50 €",
+			"comment": ""
+		},
+		{
+			"name": "Prof. Dr. Benno Heussen",
+			"amount": "9.600 €",
+			"comment": "Wikipedia ist das ungewöhnlichste Wissensprojekt des Medienzeitalters. Es hat einen hohen Wert für meine Arbeit. Meine Jahresspende soll den zahllosen Freiwilligen zeigen, dass ihre Arbeit geschätzt wird und helfen, dass diese Idee nicht untergeht."
+		},
+		{
+			"name": "Prof. Dr. Hartmut Gaßner",
+			"amount": "9.000 €",
 			"comment": ""
 		},
 		{
@@ -74,6 +89,11 @@
 			"name": "Nationales Institut für Wissenschaftskommunikation, NaWik gGmbH",
 			"amount": "6.250 €",
 			"comment": "Die Vision des NaWik ist eine starke Verankerung von Wissenschaft in der Gesellschaft. Dazu zählt, dass die Menschen besser über wissenschaftliche Fragen informiert sind und wissenschaftliche Themen in der Öffentlichkeit sachkundig diskutiert werden. Voraussetzung dafür ist frei zugängliches und neutrales Wissen. Wir danken den Mitarbeitern von Wikimedia Deutschland für den täglichen Einsatz, Wissen zu Verfügung zu stellen und zu teilen. Diese wertvolle Arbeit unterstützen wir sehr gerne!"
+		},
+		{
+			"name": "Jan Hilpert",
+			"amount": "6.000 €",
+			"comment": "Wikimedia spiegelt in herausragender Weise den Wert geteilter Informationen wider - im Sinne des Zitates, das George Bernhard Shaw zugeschrieben wird: If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."
 		},
 		{
 			"name": "Heidezüchtung Kramer",
@@ -126,8 +146,18 @@
 			"comment": "Wir unterstützen Wikimedia, weil jeder die Chance haben soll, sich durch Wissen vor Fehlern zu schützen."
 		},
 		{
+			"name": "Odin Jäger",
+			"amount": "5.300 €",
+			"comment": ""
+		},
+		{
 			"name": "Zahnarztpraxis Dres. Dajka",
 			"amount": "5.100 €",
+			"comment": ""
+		},
+		{
+			"name": "Stoll VITA Stiftung",
+			"amount": "5.000 €",
 			"comment": ""
 		},
 		{
@@ -148,6 +178,11 @@
 		{
 			"name": "audius GmbH",
 			"amount": "5.000 €",
+			"comment": ""
+		},
+		{
+			"name": "Jens Lörz",
+			"amount": "4.925 €",
 			"comment": ""
 		},
 		{
@@ -211,8 +246,18 @@
 			"comment": "Einfache Zugangsmöglichkeiten zu Wissen, ist eines der höchsten Güter, was eine Gesellschaft bieten kann."
 		},
 		{
+			"name": "Hendrik Haustein",
+			"amount": "3.750 €",
+			"comment": ""
+		},
+		{
 			"name": "Dr. Christian Tamm",
 			"amount": "3.550 €",
+			"comment": ""
+		},
+		{
+			"name": "Dr. James Swift",
+			"amount": "3.500 €",
 			"comment": ""
 		},
 		{
@@ -224,6 +269,11 @@
 			"name": "Ingeborg von Schlenk-Barnsdorf Stiftung",
 			"amount": "3.500 €",
 			"comment": "Wikimedia bietet zuverlässig freien, uneingeschränkten Zugang zu Wissen. Gut recherchiert und immer aktuell steht dieses ohne Werbung global und immer zur Verfügung. Diese einzigartige Neutralität unterstützen wir gerne."
+		},
+		{
+			"name": "Agentur Kelterborn / Klaus Kelterborn",
+			"amount": "3.350 €",
+			"comment": ""
 		},
 		{
 			"name": "Stefan Kamsties",
@@ -246,6 +296,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Annette Baumann",
+			"amount": "2.400 €",
+			"comment": ""
+		},
+		{
 			"name": "marmalade GmbH",
 			"amount": "2.275 €",
 			"comment": "Frei zugängliches Wissen ist ein Privileg. Für uns als IT-Unternehmen mit starkem Fokus im Open Scource Bereich ist es eine Verpflichtung, dieses offene Prinzip der Sammlung und Teilung von Wissen und Informationen zu unterstützen und aufrecht zu erhalten. Vielen Dank für Euer Engagement!"
@@ -254,6 +309,11 @@
 			"name": "proPlant GmbH",
 			"amount": "2.200 €",
 			"comment": "Der Vorschlag kam aus unserer Mitarbeiterschaft, weil viele davon diese freie Online-Enzyklopädie zukünftig weiterhin nutzen möchten."
+		},
+		{
+			"name": "Dirk Woessner",
+			"amount": "2.200 €",
+			"comment": "Danke Wikipedia - unersetzlich, inspirierend und unschätzbar wertvoll"
 		},
 		{
 			"name": "Radiologische Praxis am Feuersee in Stuttgart",
@@ -281,6 +341,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Prof. Dr. Heidi Schelhowe",
+			"amount": "1.750 €",
+			"comment": ""
+		},
+		{
 			"name": "Familie Frohmann",
 			"amount": "1.750 €",
 			"comment": "wikipedia ist für uns eine instanz des wissens und der wahrheit; beides werte, die wir gerne unterstützen."
@@ -299,6 +364,11 @@
 			"name": "Andreas und Sabine von Tiedemann und Freunde",
 			"amount": "1.505 €",
 			"comment": "Wissen ist die Grundlage der Wahrheit. Und Wahrheit ist der einzige Grund auf den man dauerhaft bauen kann. Dem dient Wikipedia in einer Weise, die für jeden zugänglich ist und das ist unbedingt unterstützenswert."
+		},
+		{
+			"name": "Nadine und Henning Wolf",
+			"amount": "1.500 €",
+			"comment": ""
 		},
 		{
 			"name": "Dr. Richard Hoffmann",
@@ -331,6 +401,11 @@
 			"comment": "Seit WIKIPEDIA ist Wissen unkompliziert für jede(n) verfügbar. Durch die transparente Diskussion der Inhalte ist das fachliche Niveau quasi wissenschaftlich!"
 		},
 		{
+			"name": "Cabalon, Inhaber Mitch Köhler",
+			"amount": "1.000 €",
+			"comment": "Wissen ist einer der stärksten Treiber des Fortschritts. Mit unserem Beitrag wollen wir als IT-Experten Wikipedias Engagement fördern und würdigen. Vielen Dank an alle, die Wikipedia täglich, weltweit, frei und in einer Vielfalt an Sprachen möglich machen!"
+		},
+		{
 			"name": "Matthias Ramlow",
 			"amount": "1.000 €",
 			"comment": ""
@@ -338,6 +413,21 @@
 		{
 			"name": "OxyCare GmbH Sauerstoff Beatmungstechnik",
 			"amount": "1.000 €",
+			"comment": ""
+		},
+		{
+			"name": "Anke Hollnagel",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "Claudine-Marisa Schauer",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "Julia Schäf",
+			"amount": "Betrag anonym",
 			"comment": ""
 		},
 		{
