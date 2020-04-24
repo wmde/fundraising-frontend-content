@@ -12,11 +12,10 @@ steps:
       SSH_PRIVATE_KEY:
         from_secret: ssh_key
     commands:
-        - mkdir /ansible/.ssh
-        - echo "$SSH_PRIVATE_KEY" > /ansible/.ssh/id_rsa
-          chmod 700 /ansible/.ssh
-        - chmod 600 /ansible/.ssh/id_rsa
+        - eval `ssh-agent -s`
+        - echo "$SSH_KEY" | ssh-add -
+        - mkdir -p ~/.ssh
+        - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
         - cat /etc/ansible/ansible.cfg
-        - ssh -o StrictHostKeyChecking=no deploy@test-spenden-2.wikimedia.de # Workaround for failing host key check in Ansible
         - ansible-playbook -i /ansible/inventory/servers.ini -v -l fundraising_frontend_test -e prebuilt_source="$DRONE_WORKSPACE" -u deploy /ansible/deployments/content.yml
 
