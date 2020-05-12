@@ -1,0 +1,46 @@
+{
+	"countries": [
+		{
+			"countryCode": "DE",
+			"countryFullName": "Deutschland",
+			"isFrequentCountry": true,
+			"postCodeValidation": "^[0-9]{5}$"
+		},
+		{
+			"countryCode": "AT",
+			"countryFullName": "Österreich",
+			"isFrequentCountry": true,
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "CH",
+			"countryFullName": "Schweiz",
+			"isFrequentCountry": true,
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "BE",
+			"countryFullName": "Belgien",
+			"isFrequentCountry": true,
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "IT",
+			"countryFullName": "Italien",
+			"isFrequentCountry": true,
+			"postCodeValidation": "^[0-9]{5}$"
+		},
+		{
+			"countryCode": "LI",
+			"countryFullName": "Liechtenstein",
+			"isFrequentCountry": true,
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "LU",
+			"countryFullName": "Luxemburg",
+			"isFrequentCountry": true,
+			"postCodeValidation": "^[0-9]{4}$"
+		}
+	]
+}
