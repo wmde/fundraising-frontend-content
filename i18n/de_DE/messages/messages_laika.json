@@ -159,6 +159,7 @@
   "donation_form_payment_bankdata_bank_default_label": "BIC (oder Bankleitzahl)",
   "donation_form_payment_bankdata_bank_bic_label": "BIC",
   "donation_form_payment_bankdata_bank_bic_placeholder": "Wird automatisch ermittelt",
+  "donation_form_payment_bankdata_bank_bic_placeholder2": "wird nicht benötigt",
   "donation_form_payment_bankdata_bank_legacy_label": "Bankleitzahl",
   "donation_form_payment_bankdata_bank_legacy_placeholder": "z. B. 50012345",
   "donation_form_payment_bankdata_error": "Könnten Sie bitte Ihre Kontodaten überprüfen? Da scheint es einen Fehler zu geben.",
