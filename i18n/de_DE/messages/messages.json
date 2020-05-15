@@ -13,8 +13,6 @@
   "donation_cancellation_mail_delivery_failure": "Die Stornierung der Spende war erfolgreich, beim Versenden der E-Mail zur Bestätigung ist aber ein Fehler aufgetreten.",
   "donation-no-donation-receipt": "Ich benötige keine Zuwendungsbescheinigung.",
   "receipt_opt_out": "Ich benötige keine Spendenbescheinigung.",
-  "receipt_needed_donation_page": "Ich benötige eine Spendenbescheinigung.",
-  "receipt_needed_membership_page": "Ich benötige eine Zuwendungsbescheinigung.",
   "receipt_opt_out_explanation": "Wenn Sie keine Spendenbescheinigung brauchen, ist die Angabe der Adresse optional.",
   "donation-confirm-sepa-shortterm": "Mit SEPA wurde eine Informationsfrist für Lastschriften eingeführt. Ich bin damit einverstanden, dass ich spätestens 2 Tage vor der geplanten Abbuchung der Spende per Email benachrichtigt werde.",
   "back_to_donation": "Zurück zum Spendenformular",
