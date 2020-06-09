@@ -1,5 +1,6 @@
 {
   "credit_card_item_name_donation": "Ich spende %interval%",
   "paypal_item_name_donation": "Ihre Spende an Wikimedia",
-  "paypal_item_name_membership": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V."
+  "paypal_item_name_membership": "Ihre Mitgliedschaft bei Wikimedia Deutschland e. V.",
+  "sofort_item_name_donation": "Ihre Spende an Wikimedia"
 }
