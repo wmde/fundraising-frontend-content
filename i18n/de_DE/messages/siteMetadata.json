@@ -3,5 +3,8 @@
   "wikimedia_call_to_action": "Wenn jeder nur einen kleinen Beitrag leisten würde, wäre unsere Spendenkampagne in einer Stunde vorüber.",
   "wikimedia_organization_title": "Gemeinnützige Wikimedia Fördergesellschaft mbH",
   "wikimedia_description": "Mir liegt Wikipedia am Herzen, deshalb habe ich gespendet. Denn was wäre das Netz ohne Wikipedia?",
-  "no_javascript_header": "Bitte aktivieren Sie JavaScript in Ihrem Browser, damit Sie unser Spendenformular nutzen können."
+  "no_javascript_header": "Bitte aktivieren Sie JavaScript in Ihrem Browser, damit Sie unser Spendenformular nutzen können.",
+  "page_not_found_header": "Diese Seite bieten wir leider nicht an.",
+  "page_not_found": "Wenn Sie nach etwas Bestimmtem suchen und es nicht finden können, fragen Sie uns bitte. Am einfachsten geht es über das <a href=\"/contact/get-in-touch\">Kontaktformular</a>.",
+  "error_page_header": "Leider kam es zu einem Fehler"
 }
