@@ -30,3 +30,8 @@ Have a look at the [list of allowed tags in the content provider Repository](htt
 ### What template syntax is allowed?
 Only `{% include %}` and `{$ variable $}` statements.
 
+### Where is the regex in data/validation.json used?
+These are being shared and used for client and server side validation. Currently, they're being used in the following places:
+
+* The Fundraising Frontend app outputs them as application vars used by Vuejs for client side form validation.
+* They are injected into the Fun Validators `AddressValidator` for server side validation.
