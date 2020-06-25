@@ -4,5 +4,10 @@
 	"1": "monatlich",
 	"3": "vierteljährlich",
 	"6": "halbjährlich",
-	"12": "jährlich"
+	"12": "jährlich",
+	"payment_interval_0": "einmalig",
+	"payment_interval_1": "monatlich",
+	"payment_interval_3": "vierteljährlich",
+	"payment_interval_6": "halbjährlich",
+	"payment_interval_12": "jährlich"
 }
