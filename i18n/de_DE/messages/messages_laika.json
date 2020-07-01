@@ -234,7 +234,7 @@
   "membership_form_membershiptype_option_sustaining_legend": "Sie erhalten regelmäßige Informationen über die Arbeit des Vereins.",
   "membership_form_membershiptype_option_active": "Aktive Mitgliedschaft",
   "membership_form_membershiptype_option_active_legend": "Sie bringen sich aktiv im Verein ein und haben ein Stimmrecht auf der Mitgliederversammlung.",
-  "membership_form_membershiptype_error": "Als Firma können sie kein aktives Mitglied sein. Ändern Sie \"Mitglied werden als …\"auf \"Privatperson\" oder wählen Sie hier \"Fördermitgliedschaft\"",
+  "membership_form_membershiptype_error": "Als Firma können Sie kein aktives Mitglied sein. Ändern Sie \"Mitglied werden als …\"auf \"Privatperson\" oder wählen Sie hier \"Fördermitgliedschaft\"",
   "membership_form_payment_amount_description": "Der jährliche Mindestbetrag für natürliche Personen beträgt 24 Euro, für juristische Personen 100 Euro.",
   "membership_form_payment_amount_title": "Wie hoch soll der Beitrag sein?",
   "membership_form_payment_amount_title_interval_1": "Wie hoch soll der monatliche Beitrag sein?",
