@@ -152,7 +152,6 @@
   "donation_form_payment_amount_too_high": "Es darf nicht mehr als 99999 € sein.",
   "donation_form_payment_amount_legend": "Bitte geben Sie Ihren Wunschbetrag an.",
   "donation_form_payment_amount_title": "Welchen Betrag möchten Sie spenden?",
-  "donation_form_payment_bankdata_legend": "IBAN und BIC (oder Kontonummer und Bankleitzahl) sind nötig, um das Geld per Lastschrift einzuziehen.",
   "donation_form_payment_bankdata_title": "Wie lauten Ihre IBAN und BIC?",
   "donation_form_payment_bankdata_account_default_label": "IBAN (oder Kontonummer)",
   "donation_form_payment_bankdata_account_iban_label": "IBAN",
@@ -211,6 +210,8 @@
 
   "form_for_example": "z. B. {example}",
 
+  "faq_headline": "Häufige Fragen",
+
   "membership_application_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits einen Mitgliedschaftsantrag gesendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach Mitgliedschaften abgeschlossen werden.",
 
   "membership_cancellation_title": "Ihr Mitgliedschaftsantrag wurde storniert",
@@ -235,7 +236,7 @@
   "membership_form_membershiptype_option_sustaining_legend": "Sie erhalten regelmäßige Informationen über die Arbeit des Vereins.",
   "membership_form_membershiptype_option_active": "Aktive Mitgliedschaft",
   "membership_form_membershiptype_option_active_legend": "Sie bringen sich aktiv im Verein ein und haben ein Stimmrecht auf der Mitgliederversammlung.",
-  "membership_form_membershiptype_error": "Als Firma können sie kein aktives Mitglied sein. Ändern Sie \"Mitglied werden als …\"auf \"Privatperson\" oder wählen Sie hier \"Fördermitgliedschaft\"",
+  "membership_form_membershiptype_error": "Als Firma können Sie kein aktives Mitglied sein. Ändern Sie \"Mitglied werden als …\"auf \"Privatperson\" oder wählen Sie hier \"Fördermitgliedschaft\"",
   "membership_form_payment_amount_description": "Der jährliche Mindestbetrag für natürliche Personen beträgt 24 Euro, für juristische Personen 100 Euro.",
   "membership_form_payment_amount_title": "Wie hoch soll der Beitrag sein?",
   "membership_form_payment_amount_title_interval_1": "Wie hoch soll der monatliche Beitrag sein?",
