@@ -5,18 +5,11 @@ name: default
 
 steps:
   - name: deploy
-    image: wikimediade/fundraising-ansible-deploy
+    image: wikimediade/ansible-deploy
     pull: never # Until we publish the image
-    user: ansible
     environment:
-      SSH_PRIVATE_KEY:
+      SSH_KEY:
         from_secret: ssh_key
     commands:
-        - eval `ssh-agent -s`
-        - echo "$SSH_KEY" | ssh-add -
-        - echo "$SSH_DEPLOY_KEY" | ssh-add -
-        - mkdir -p ~/.ssh
-        - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
-        - cat /etc/ansible/ansible.cfg
-        - ansible-playbook -i /ansible/inventory/servers.ini -v -l fundraising_frontend_test -e prebuilt_source="$DRONE_WORKSPACE" -u deploy /ansible/deployments/content.yml
-
+        - echo "$SSH_KEY" > /ansible/.ssh/id_rsa && chmod 0600 /ansible/.ssh/id_rsa
+        - ansible-playbook -v -e prebuilt_source="$DRONE_WORKSPACE" -e deploy_target=test /ansible/content.yml
