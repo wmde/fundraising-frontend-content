@@ -111,6 +111,14 @@
 
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
+  
+  "donation_form_provisional_address_choice_title": "Möchten Sie Ihre Kontaktdaten angeben?",
+  "donation_form_provisional_address_choice_fulladdress": "Vollständige Kontaktdaten",
+  "donation_form_provisional_address_choice_fulladdress_notice": "für Spendenquittung und Bestätigung per E-Mail",
+  "donation_form_provisional_address_choice_emailonly": "Nur E-Mail Adresse (für Bestätigung per E-Mail)",
+  "donation_form_provisional_address_choice_emailonly_notice": "für Bestätigung per E-Mail",
+  "donation_form_provisional_address_choice_noaddress": "keine Kontaktdaten",
+  
   "donation_form_addresstype_option_anonymous": "Ohne Adressangabe",
   "donation_form_address_choice_no": "Nein",
   "donation_form_address_choice_yes": "Ja",
