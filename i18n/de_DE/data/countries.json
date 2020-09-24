@@ -41,6 +41,1458 @@
 			"countryFullName": "Luxemburg",
 			"isFrequentCountry": true,
 			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "AF",
+			"countryFullName": "Afghanistan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EG",
+			"countryFullName": "Ägypten",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AX",
+			"countryFullName": "Åland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AL",
+			"countryFullName": "Albanien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DZ",
+			"countryFullName": "Algerien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AS",
+			"countryFullName": "Amerikanisch-Samoa",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VI",
+			"countryFullName": "Amerikanische Jungferninseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AD",
+			"countryFullName": "Andorra",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AO",
+			"countryFullName": "Angola",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AI",
+			"countryFullName": "Anguilla",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AQ",
+			"countryFullName": "Antarktis",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AG",
+			"countryFullName": "Antigua und Barbuda",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GQ",
+			"countryFullName": "Äquatorialguinea",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AR",
+			"countryFullName": "Argentinien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AM",
+			"countryFullName": "Armenien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AW",
+			"countryFullName": "Aruba",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AZ",
+			"countryFullName": "Aserbaidschan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ET",
+			"countryFullName": "Äthiopien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AU",
+			"countryFullName": "Australien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BS",
+			"countryFullName": "Bahamas",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BH",
+			"countryFullName": "Bahrain",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BD",
+			"countryFullName": "Bangladesch",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BB",
+			"countryFullName": "Barbados",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BY",
+			"countryFullName": "Belarus",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BZ",
+			"countryFullName": "Belize",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BJ",
+			"countryFullName": "Benin",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BM",
+			"countryFullName": "Bermuda",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BT",
+			"countryFullName": "Bhutan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BO",
+			"countryFullName": "Bolivien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BQ",
+			"countryFullName": "Bonaire",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BA",
+			"countryFullName": "Bosnien und Herzegowina",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BW",
+			"countryFullName": "Botswana",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BV",
+			"countryFullName": "Bouvetinsel",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BR",
+			"countryFullName": "Brasilien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VG",
+			"countryFullName": "Britische Jungferninseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IO",
+			"countryFullName": "Britisches Territorium im Indischen Ozean",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BN",
+			"countryFullName": "Brunei",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BG",
+			"countryFullName": "Bulgarien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BF",
+			"countryFullName": "Burkina Faso",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BI",
+			"countryFullName": "Burundi",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KY",
+			"countryFullName": "Cayman Islands",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CL",
+			"countryFullName": "Chile",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CK",
+			"countryFullName": "Cookinseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CR",
+			"countryFullName": "Costa Rica",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CW",
+			"countryFullName": "Curaçao",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DK",
+			"countryFullName": "Dänemark",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CD",
+			"countryFullName": "Demokratische Republik Kongo",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DM",
+			"countryFullName": "Dominica",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DO",
+			"countryFullName": "Dominikanische Republik",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DJ",
+			"countryFullName": "Dschibuti",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SV",
+			"countryFullName": "El Salvador",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CI",
+			"countryFullName": "Elfenbeinküste",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EC",
+			"countryFullName": "Equador",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ER",
+			"countryFullName": "Eritrea",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EE",
+			"countryFullName": "Estland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SZ",
+			"countryFullName": "Eswatini",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FK",
+			"countryFullName": "Falklandinseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FO",
+			"countryFullName": "Färöer",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FJ",
+			"countryFullName": "Fidschi",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FI",
+			"countryFullName": "Finnland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FR",
+			"countryFullName": "Frankreich",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GF",
+			"countryFullName": "Französisch-Guayana",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PF",
+			"countryFullName": "Französisch-Polynesien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TF",
+			"countryFullName": "Französische Süd- und Antarktisgebiete",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GA",
+			"countryFullName": "Gabun",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GM",
+			"countryFullName": "Gambia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GE",
+			"countryFullName": "Georgien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GH",
+			"countryFullName": "Ghana",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GI",
+			"countryFullName": "Gibraltar",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GD",
+			"countryFullName": "Grenada",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GR",
+			"countryFullName": "Griechenland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GL",
+			"countryFullName": "Grönland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GP",
+			"countryFullName": "Guadeloupe",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GU",
+			"countryFullName": "Guam",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GT",
+			"countryFullName": "Guatemala",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GG",
+			"countryFullName": "Guernsey",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GN",
+			"countryFullName": "Guinea",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GW",
+			"countryFullName": "Guinea-Bissau",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GY",
+			"countryFullName": "Guyana",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HT",
+			"countryFullName": "Haiti",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HM",
+			"countryFullName": "Heard und McDonaldinseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HN",
+			"countryFullName": "Honduras",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HK",
+			"countryFullName": "Hong Kong",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IN",
+			"countryFullName": "Indien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ID",
+			"countryFullName": "Indonesien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IQ",
+			"countryFullName": "Irak",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IR",
+			"countryFullName": "Iran",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IE",
+			"countryFullName": "Irland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IS",
+			"countryFullName": "Island",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IM",
+			"countryFullName": "Isle of Man",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IL",
+			"countryFullName": "Israel",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JM",
+			"countryFullName": "Jamaika",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JP",
+			"countryFullName": "Japan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "YE",
+			"countryFullName": "Jemen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JE",
+			"countryFullName": "Jersey",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JO",
+			"countryFullName": "Jordanien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KH",
+			"countryFullName": "Kambodscha",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CM",
+			"countryFullName": "Kamerun",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CA",
+			"countryFullName": "Kanada",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CV",
+			"countryFullName": "Kap Verde",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KZ",
+			"countryFullName": "Kasachstan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "QA",
+			"countryFullName": "Katar",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KE",
+			"countryFullName": "Kenia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KG",
+			"countryFullName": "Kirgisistan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KI",
+			"countryFullName": "Kiribati",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CC",
+			"countryFullName": "Kokosinseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CO",
+			"countryFullName": "Kolumbien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KM",
+			"countryFullName": "Komoren",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HR",
+			"countryFullName": "Kroatien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CU",
+			"countryFullName": "Kuba",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KW",
+			"countryFullName": "Kuwait",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LA",
+			"countryFullName": "Laos",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LS",
+			"countryFullName": "Lesotho",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LV",
+			"countryFullName": "Lettland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LB",
+			"countryFullName": "Libanon",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LR",
+			"countryFullName": "Liberia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LY",
+			"countryFullName": "Libyen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LT",
+			"countryFullName": "Litauen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MO",
+			"countryFullName": "Macau",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MG",
+			"countryFullName": "Madagaskar",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MW",
+			"countryFullName": "Malawi",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MY",
+			"countryFullName": "Malaysia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MV",
+			"countryFullName": "Malediven",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ML",
+			"countryFullName": "Mali",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MT",
+			"countryFullName": "Malta",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MA",
+			"countryFullName": "Marokko",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MH",
+			"countryFullName": "Marshallinseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MQ",
+			"countryFullName": "Martinique",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MR",
+			"countryFullName": "Mauretanien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MU",
+			"countryFullName": "Mauritius",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "YT",
+			"countryFullName": "Mayotte",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MX",
+			"countryFullName": "Mexico",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FM",
+			"countryFullName": "Mikronesien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MD",
+			"countryFullName": "Moldau",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MC",
+			"countryFullName": "Monaco",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MN",
+			"countryFullName": "Mongolei",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ME",
+			"countryFullName": "Montenegro",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MS",
+			"countryFullName": "Montserrat",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MZ",
+			"countryFullName": "Mosambik",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MM",
+			"countryFullName": "Myanmar",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NA",
+			"countryFullName": "Namibia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NR",
+			"countryFullName": "Nauru",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NP",
+			"countryFullName": "Nepal",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NC",
+			"countryFullName": "Neukaledonien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NZ",
+			"countryFullName": "Neuseeland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NI",
+			"countryFullName": "Nicaragua",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NL",
+			"countryFullName": "Niederlande",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NE",
+			"countryFullName": "Niger",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NG",
+			"countryFullName": "Nigeria",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NU",
+			"countryFullName": "Niue",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KP",
+			"countryFullName": "Nordkorea",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MP",
+			"countryFullName": "Nördliche Marianen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MK",
+			"countryFullName": "Nordmazedonien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NF",
+			"countryFullName": "Norfolkinsel",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NO",
+			"countryFullName": "Norwegen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "OM",
+			"countryFullName": "Oman",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TL",
+			"countryFullName": "Osttimor",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PK",
+			"countryFullName": "Pakistan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PS",
+			"countryFullName": "Palästina",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PW",
+			"countryFullName": "Palau",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PA",
+			"countryFullName": "Panama",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PG",
+			"countryFullName": "Papua-Neuguinea",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PY",
+			"countryFullName": "Paraguay",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PE",
+			"countryFullName": "Peru",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PH",
+			"countryFullName": "Philippinen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PN",
+			"countryFullName": "Pitcairninseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PL",
+			"countryFullName": "Polen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PT",
+			"countryFullName": "Portugal",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PR",
+			"countryFullName": "Puerto Rico",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CG",
+			"countryFullName": "Republik Kongo",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RE",
+			"countryFullName": "Réunion",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RW",
+			"countryFullName": "Ruanda",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RO",
+			"countryFullName": "Rumänien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RU",
+			"countryFullName": "Russland",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BQ",
+			"countryFullName": "Saba",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BL",
+			"countryFullName": "Saint-Barthélemy",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MF",
+			"countryFullName": "Saint-Martin",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PM",
+			"countryFullName": "Saint-Pierre und Miquelon",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SB",
+			"countryFullName": "Salomonen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ZM",
+			"countryFullName": "Sambia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "WS",
+			"countryFullName": "Samoa",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SM",
+			"countryFullName": "San Marino",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ST",
+			"countryFullName": "São Tomé und Príncipe",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SA",
+			"countryFullName": "Saudi-Arabien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SE",
+			"countryFullName": "Schweden",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SN",
+			"countryFullName": "Senegal",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RS",
+			"countryFullName": "Serbien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SC",
+			"countryFullName": "Seychellen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SL",
+			"countryFullName": "Sierra Leone",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ZW",
+			"countryFullName": "Simbabwe",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SG",
+			"countryFullName": "Singapur",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BQ",
+			"countryFullName": "Sint Eustatius",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SX",
+			"countryFullName": "Sint Maarten",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SK",
+			"countryFullName": "Slowakei",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SI",
+			"countryFullName": "Slowenien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SO",
+			"countryFullName": "Somalia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ES",
+			"countryFullName": "Spanien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SJ",
+			"countryFullName": "Spitzbergen und Jan Mayen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LK",
+			"countryFullName": "Sri Lanka",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SH",
+			"countryFullName": "St. Helena, Ascension und Tristan da Cunha",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KN",
+			"countryFullName": "St. Kitts und Nevis",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LC",
+			"countryFullName": "St. Lucia",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VC",
+			"countryFullName": "St. Vincent und die Grenadinen",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ZA",
+			"countryFullName": "Südafrika",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SD",
+			"countryFullName": "Sudan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GS",
+			"countryFullName": "Südgeorgien und die Südlichen Sandwichinseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KR",
+			"countryFullName": "Südkorea",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SS",
+			"countryFullName": "Südsudan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SR",
+			"countryFullName": "Suriname",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SY",
+			"countryFullName": "Syrien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TJ",
+			"countryFullName": "Tadschikistan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TW",
+			"countryFullName": "Taiwan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TZ",
+			"countryFullName": "Tansania",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TH",
+			"countryFullName": "Thailand",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TG",
+			"countryFullName": "Togo",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TK",
+			"countryFullName": "Tokelau",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TO",
+			"countryFullName": "Tonga",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TT",
+			"countryFullName": "Trinidad und Tobago",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TD",
+			"countryFullName": "Tschad",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CZ",
+			"countryFullName": "Tschechien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TN",
+			"countryFullName": "Tunesien",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TR",
+			"countryFullName": "Türkei",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TM",
+			"countryFullName": "Turkmenistan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TC",
+			"countryFullName": "Turks- und Caicosinseln",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TV",
+			"countryFullName": "Tuvalu",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UG",
+			"countryFullName": "Uganda",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UA",
+			"countryFullName": "Ukraine",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HU",
+			"countryFullName": "Ungarn",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UY",
+			"countryFullName": "Uruguay",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UZ",
+			"countryFullName": "Usbekistan",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VU",
+			"countryFullName": "Vanuatu",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VA",
+			"countryFullName": "Vatikanstadt",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VE",
+			"countryFullName": "Venezuela",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AE",
+			"countryFullName": "Vereinigte Arabische Emirate",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "US",
+			"countryFullName": "Vereinigte Staaten",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GB",
+			"countryFullName": "Vereinigtes Königreich",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VN",
+			"countryFullName": "Vietnam",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CN",
+			"countryFullName": "Volksrepublik China",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "WF",
+			"countryFullName": "Wallis und Futuna",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CX",
+			"countryFullName": "Weihnachtsinsel",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EH",
+			"countryFullName": "Westsahara",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CY",
+			"countryFullName": "Zypern",
+			"isFrequentCountry": false,
+			"postCodeValidation": "^.+$"
 		}
 	]
 }

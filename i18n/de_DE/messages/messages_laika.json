@@ -88,7 +88,7 @@
   "donation_confirmation_comment_button": "Spendenkommentar schreiben",
   "donation_confirmation_newsletter_confirmation": "Auf Ihren Wunsch hin erhalten Sie von uns Informationen rund um die Spendenkampagne. Dies können Sie jederzeit widerrufen.",
   "donation_confirmation_membership_button": "Jetzt Mitglied werden",
-  "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Über 70.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
+  "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Über 80.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
   "donation_confirmation_membership_call_to_action_title": "Mit einer Fördermitgliedschaft mehr bewirken!",
   "donation_confirmation_payment_bank_transfer": "Bitte überweisen Sie jetzt Ihre Spende auf unser Spendenkonto.",
   "donation_confirmation_payment_direct_debit": "In den kommenden Tagen werden wir diese Summe von Ihrem Konto abbuchen. Damit ist die Spende abgeschlossen. Wir haben Ihnen soeben auch eine Bestätigung per E-Mail geschickt, in der Sie alles nochmal in Ruhe nachlesen können.",
@@ -111,10 +111,18 @@
 
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
+  
+  "donation_form_provisional_address_choice_title": "Möchten Sie Ihre Kontaktdaten angeben?",
+  "donation_form_provisional_address_choice_fulladdress": "Vollständige Kontaktdaten",
+  "donation_form_provisional_address_choice_fulladdress_notice": "für Spendenquittung und Bestätigung per E-Mail",
+  "donation_form_provisional_address_choice_emailonly": "Nur E-Mail Adresse (für Bestätigung per E-Mail)",
+  "donation_form_provisional_address_choice_emailonly_notice": "für Bestätigung per E-Mail",
+  "donation_form_provisional_address_choice_noaddress": "keine Kontaktdaten",
+  
   "donation_form_addresstype_option_anonymous": "Ohne Adressangabe",
   "donation_form_address_choice_no": "Nein",
   "donation_form_address_choice_yes": "Ja",
-  "donation_addresstype_option_anonymous_disclaimer": "Ihre Kontaktdaten benötigen wir für die Bestätigungsemail und Ihre Zuwendungsbescheinigung. Zudem können wir Sie informieren, wenn Wikipedia in Zukunft Ihre Hilfe benötigt.",
+  "donation_addresstype_option_anonymous_disclaimer": "Ihre Kontaktdaten benötigen wir für die Bestätigungsemail und Ihre Spendenquittung. Zudem können wir Sie informieren, wenn Wikipedia in Zukunft Ihre Hilfe benötigt.",
   "donation_form_address_choice_direct_debit_disclaimer": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
   "donation_form_addresstype_option_company": "Firma",
   "donation_form_addresstype_option_private": "Privatperson",
