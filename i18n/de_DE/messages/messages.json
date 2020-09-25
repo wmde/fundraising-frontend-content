@@ -107,6 +107,8 @@
   "donation_confirmation_print_confirmation": "Bestätigung drucken",
   "donation_confirmation_print_confirmation_debit": "Diese Bestätigung (inklusive SEPA-Mandat) ausdrucken",
   "donation_confirmation_print_summary": "Zusammenfassung drucken",
+  "donation_confirmation_address_usage_link": "mehr Informationen",
+  "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an spenden@wikimedia.de formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
   "donation_comment_header": "Spendenkommentar",
   "donation_comment_legend": "Erzählen Sie, warum Sie gespendet haben. Was verbindet Sie mit Wikipedia? Ihre Geschichte hilft uns den Millionen Menschen, die Wikipedia täglich nutzen, die Bedeutung Wikipedias zu veranschaulichen. ",
   "donation_comment_placeholder": "Ihr Kommentar",
