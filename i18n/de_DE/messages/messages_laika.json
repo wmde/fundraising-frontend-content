@@ -120,7 +120,7 @@
   "donation_form_provisional_address_choice_fulladdress_notice": "(für Spendenquittung per Post und Bestätigung per E-Mail)",
   "donation_form_provisional_address_choice_emailonly": "Nur E-Mail-Adresse",
   "donation_form_provisional_address_choice_emailonly_notice": "(für Bestätigung per E-Mail)",
-  "donation_form_provisional_address_choice_noaddress": "gar keine Kontaktdaten",
+  "donation_form_provisional_address_choice_noaddress": "Gar keine Kontaktdaten",
   
   "donation_form_addresstype_option_anonymous": "Ohne Adressangabe",
   "donation_form_address_choice_no": "Nein",
