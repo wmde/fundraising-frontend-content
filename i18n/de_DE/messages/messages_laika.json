@@ -295,6 +295,7 @@
   "cookie_button_accept": "ja, akzeptieren",
   "cookie_button_check": "Cookies überprüfen",
   "cookie_option_heading": "Konfiguration der Cookie-Verwendung",
+  "cookie_option_more": "Mehr",
   "cookie_option_required_heading": "Erster Typ (unbedingt notwendig)",
   "cookie_option_required_content": "Hier in dieser Zeile erklären wir Cookies vom Typ 1 und sagen, dass der Benutzer sie deaktivieren kann. An explanation is",
   "cookie_option_optional_heading": "Zweiter Typ (Vermessung)",
