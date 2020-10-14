@@ -288,5 +288,15 @@
 
   "system_message_page_header": "Fehler",
 
-  "currency_name": "Euro"
+  "currency_name": "Euro",
+
+  "cookie-heading": "Zustimmung zur Cookie-Nutzung für Wikimedia",
+  "cookie-content": "Wikipedia steht für Datensparsamkeit. Wir erstellen keine Profile, wir handeln nicht mit Daten. Wir erheben jedoch einzelne anonymisierte Daten, um insbesondere unsere Spendenbanner zu verbessern. Sie würden uns daher helfen, wenn Sie uns erlauben, einzelne Daten Ihres Besuchs temporär zu speichern und zu analysieren. Ihre anonymisierten Daten werden übrigens nur auf unseren Servern gespeichert und somit unter keinen Umständen mit Dritten geteilt. ",
+  "cookie-button-accept": "ja, akzeptieren",
+  "cookie-button-check": "Cookies überprüfen",
+  "cookie-option-heading": "Konfiguration der Cookie-Verwendung",
+  "cookie-option-required-heading": "Erster Typ (unbedingt notwendig)",
+  "cookie-option-required-content": "Hier in dieser Zeile erklären wir Cookies vom Typ 1 und sagen, dass der Benutzer sie deaktivieren kann. An explanation is",
+  "cookie-option-optional-heading": "Zweiter Typ (Vermessung)",
+  "cookie-option-optional-content": "Hier in dieser Zeile erklären wir Cookies vom Typ 1 und sagen, dass der Benutzer sie deaktivieren kann. An explanation is"
 }
