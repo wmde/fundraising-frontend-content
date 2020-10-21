@@ -293,6 +293,7 @@
   "cookie_heading": "Zustimmung zur Cookie-Nutzung für Wikimedia",
   "cookie_content": "Wikipedia steht für Datensparsamkeit. Wir erstellen keine Profile, wir handeln nicht mit Daten. Wir erheben jedoch einzelne anonymisierte Daten, um insbesondere unsere Spendenbanner zu verbessern. Sie würden uns daher helfen, wenn Sie uns erlauben, einzelne Daten Ihres Besuchs temporär zu speichern und zu analysieren. Ihre anonymisierten Daten werden übrigens nur auf unseren Servern gespeichert und somit unter keinen Umständen mit Dritten geteilt. ",
   "cookie_button_accept": "ja, akzeptieren",
+  "cookie_button_save": "Cookies speichern",
   "cookie_button_check": "Cookies überprüfen",
   "cookie_option_heading": "Konfiguration der Cookie-Verwendung",
   "cookie_option_more": "Mehr",
