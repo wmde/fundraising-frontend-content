@@ -131,7 +131,7 @@
   "iban_or_account_number": "IBAN / Kontonummer",
   "bic_or_bank_code": "BIC / Bankleitzahl",
   "bank": "Bank für Sozialwirtschaft",
-  "operator_account_owner_value": "Wikimedia Foerdergesellschaft",
+  "operator_account_owner_value": "Wikimedia",
   "operator_account_iban": "DE33 1002 0500 0001 1947 00",
   "operator_account_bic": "BFSWDE33BER",
   "operator_account_number": "1194700",
