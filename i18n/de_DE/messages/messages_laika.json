@@ -291,14 +291,14 @@
   "currency_name": "Euro",
 
   "cookie_heading": "Zustimmung zur Cookie-Nutzung für Wikimedia",
-  "cookie_content": "Wikipedia steht für Datensparsamkeit. Wir erstellen keine Profile, wir handeln nicht mit Daten. Wir erheben jedoch einzelne anonymisierte Daten, um insbesondere unsere Spendenbanner zu verbessern. Sie würden uns daher helfen, wenn Sie uns erlauben, einzelne Daten Ihres Besuchs temporär zu speichern und zu analysieren. Ihre anonymisierten Daten werden übrigens nur auf unseren Servern gespeichert und somit unter keinen Umständen mit Dritten geteilt. ",
-  "cookie_button_accept": "ja, akzeptieren",
+  "cookie_content": "Wikipedia steht für Datensparsamkeit. Wir erstellen keine Profile, wir handeln nicht mit Daten. Wir erheben jedoch einzelne anonymisierte Daten, um insbesondere unsere Spendenbanner zu verbessern. Sie würden uns daher helfen, wenn Sie uns erlauben, einzelne Daten Ihres Besuchs temporär zu speichern und zu analysieren. Ihre anonymisierten Daten werden übrigens nur auf unseren Servern gespeichert und somit unter keinen Umständen mit Dritten geteilt.",
+  "cookie_button_accept": "Alle akzeptieren",
   "cookie_button_save": "Cookies speichern",
   "cookie_button_check": "Cookies überprüfen",
   "cookie_option_heading": "Konfiguration der Cookie-Verwendung",
   "cookie_option_more": "Mehr",
-  "cookie_option_required_heading": "Erster Typ (unbedingt notwendig)",
-  "cookie_option_required_content": "Hier in dieser Zeile erklären wir Cookies vom Typ 1 und sagen, dass der Benutzer sie deaktivieren kann. An explanation is",
-  "cookie_option_optional_heading": "Zweiter Typ (Vermessung)",
-  "cookie_option_optional_content": "Hier in dieser Zeile erklären wir Cookies vom Typ 1 und sagen, dass der Benutzer sie deaktivieren kann. An explanation is"
+  "cookie_option_required_heading": "Grundlegende Funktionen",
+  "cookie_option_required_content": "Wir speichern Daten, die für die grundlegenden Funktionen der Seite erforderlich sind. Diese umfassen die Verhinderung missbräuchlicher Verwendung unserer Website  sowie versehentliches Mehrfachspenden. Zudem erleichtern wir das Ausfüllen der Formulare und stellen sicher, dass Ihnen nach einer Spende keine weiteren Spendenbanner angezeigt werden.",
+  "cookie_option_optional_heading": "Verbesserung der Funktionen",
+  "cookie_option_optional_content": "Wir speichern Daten, die zur Verbesserung der Bedienbarkeit beitragen. Diese, werden ausschließĺich durch uns gespeichert und analysiert. In keinem Fall werden sie an Dritte weitergegeben."
 }
