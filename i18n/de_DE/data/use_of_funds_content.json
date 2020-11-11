@@ -1,0 +1,122 @@
+{
+	"intro": {
+		"headline": "Wofür wird Ihre Spende verwendet*?",
+		"text": "Für eine organisatorisch und technisch stets verlässliche Wikipedia, heute und in Zukunft. Für freien Zugang zu umfassendem, vertrauenswürdigem Wissen immer und überall. Also für Sie – und alle Menschen weltweit."
+	},
+	"applicationOfFundsData": [
+		{
+			"id": "software",
+			"title": "Software",
+			"percentage": 20,
+			"text": " Aktuelle Daten der Welt sind das Rückgrat von Wikipedia & Co. Damit alle Wikipedia-Sprachversionen einfach auf einen gemeinsamen Datenpool zugreifen können, entwickeln unsere Softwareentwicklerinnen und -entwickler in Deutschland und weltweit eine sichere und verlässliche technische Infrastruktur. Damit wird die Ergänzung und Aktualisierung von Wikipedia-Artikeln mit neuesten Daten enorm erleichtert. "
+		},
+		{
+			"id": "international",
+			"title": "International und Technik",
+			"percentage": 20,
+			"text": " Wikipedia ist ein globales Projekt. Deshalb leisten wir einen substanziellen Beitrag zur Finanzierung der internationalen Aktivitäten für die Weiterentwicklung von Wikipedia. Zudem finanzieren wir auf diese Weise die globale Server-Infrastruktur mit, auf der alle Wikimedia-Projekte – also auch die deutschsprachige Wikipedia – laufen. "
+		},
+		{
+			"id": "communities",
+			"title": "Communities",
+			"percentage": 10,
+			"text": " Indem wir die ehrenamtlichen Autorinnen und Autoren bei ihrer Arbeit unterstützen, bestärken wir sie in ihrem Engagement für Wikipedia. Deshalb pflegen wir z. B. eine „technische Wunschliste“ für die stetige Verbesserung unserer Software, fördern die Einrichtung lokaler Wikipedia-Standorte, finanzieren digitale Zugänge zu Fachzeitschriften und helfen bei der Durchführung von Veranstaltungen. "
+		},
+		{
+			"id": "society",
+			"title": "Gesellschaftliches",
+			"percentage": 15,
+			"text": " Durch unser zivilgesellschaftliches Engagement auf EU-und Bundesebene sowie unsere Zusammenarbeit mit Kultur-, Bildungs- und Wissenschaftsinstitutionen machen wir mehr Inhalte für die Wikimedia-Projekte frei verfügbar – und heben auf diese Weise viele unerschlossene Schätze. "
+		},
+		{
+			"id": "operative",
+			"title": "Operative Kosten",
+			"percentage": 35,
+			"text": " Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere organisatorischen und finanziellen Prozesse zuverlässig funktionieren. Sie sorgen z. B. dafür, dass unsere Projekte in der Öffentlichkeit bekannter werden. Und sie kümmern sich um die Bearbeitung der eingehenden Spenden einschließlich dem Versand der Spendenbescheinigungen. "
+		}
+	],
+	"detailedReports": {
+		"germany": {
+			"intro": "Einen genauen Einblick in unsere Aktivitäten in Deutschland finden Sie hier: ",
+			"linkName": "Jahresplan Wikimedia Deutschland",
+			"linkUrl": "#"
+		},
+		"international": {
+			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
+			"linkName": "Jahresplan Wikimedia Foundation",
+			"linkUrl": "#"
+		}
+	},
+	"benefitsList": {
+		"headline": "Was Ihre Spende bewirkt",
+		"benefits": [
+			{
+				"icon": "hand",
+				"text": "Ihre Spende ist ein wichtiger Beitrag, um allen Menschen überall auf der Welt und zu jedem Zeitpunkt freien Zugang zu Wissen zu ermöglichen."
+			},
+			{
+				"icon": "smartphone",
+				"text": "Ihre Spende trägt dazu bei, die sichere, stabile Infrastruktur und einfache Bedienbarkeit von Wikipedia auch in Zukunft zu erhalten."
+			},
+			{
+				"icon": "world",
+				"text": "Ihre Spende unterstützt unsere Bemühungen, weltweit die Bildung regionaler Wikipedia-Communities zu fördern."
+			},
+			{
+				"icon": "megaphone",
+				"text": "Ihre Spende ist die wichtigste Einnahmequelle, die wir haben. Sie stellt sicher, dass Wikipedia auch weiterhin von Werbung, kommerziellen Interessen oder Drittmitteln unabhängig bleibt."
+			},
+			{
+				"icon": "twentyfourseven",
+				"text": "Ihre Spende ist nicht zuletzt der Beitrag, den Sie leisten, damit Wikipedia immer und überall für Sie persönlich da ist und in einzigartiger Breite Ihre Fragen beantworten kann."
+			}
+		]
+	},
+	"comparison": {
+		"headline": "Warum wir nur 8.700.000 € brauchen",
+		"paragraphs": [
+			"Unser Spendenziel von 8,7 Millionen € ist ein wichtiger Teil unserer für das Jahr 2021 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
+			"Berücksichtigt man allerdings, dass Wikipedia auf Platz 5 der weltweit meistbesuchten Webseiten steht, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
+			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 500 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
+		],
+		"subhead": "Vergleich der Jahresbudgets",
+		"companies": [
+			{
+				"name": "Google",
+				"budget": 161,
+				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
+			},
+			{
+				"name": "Amazon",
+				"budget": 280,
+				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
+			},
+			{
+				"name": "Facebook",
+				"budget": 70,
+				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
+			},
+			{
+				"name": "Wikipedia",
+				"budget": 0.12, "budgetCitation": ""
+			}
+		],
+		"citationLabel": "Quelle"
+	},
+	"orgchart": {
+		"headline": "An wen gehen die Spenden für Wikipedia?",
+		"paragraphs": [
+			"Spenden aus Deutschland gehen an die Wikimedia Fördergesellschaft in Berlin. Ihr einziger Zweck ist es, Spenden für Wikipedia zu sammeln und an den Verein Wikimedia Deutschland sowie an die Wikimedia Foundation weiterzuleiten.",
+			"Die Fördergesellschaft ist eine Tochter von Wikimedia Deutschland. Ein großer Vorteil für Spenderinnen und Spender: Beide sind als gemeinnützig anerkannt und damit berechtigt, steuerabzugsfähige Spendenquittungen auszustellen.",
+			"Die internationale Wikimedia Foundation ist eine gemeinnützige Organisation, die weltweit Wikipedia und damit verbundene Projekte betreibt, voranbringt und entwickelt."
+		],
+		"_organizationClasses": "This map is used to highlight words from the paragraphs. The map values are the CSS class modifiers ",
+		"organizationClasses": {
+			" Wikimedia Fördergesellschaft ": "wmfg",
+			" Verein Wikimedia Deutschland ": "wmde",
+			" Wikimedia Foundation ": "wmf"
+		}
+	},
+	"callToAction": "Jetzt spenden",
+	"provisional": "*) vorläufig"
+}
