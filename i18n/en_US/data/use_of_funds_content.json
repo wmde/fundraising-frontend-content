@@ -104,6 +104,7 @@
 	},
 	"orgchart": {
 		"headline": "Who receives the donations for Wikipedia?",
+		"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/WMDE-funds-forwarding.gif",
 		"paragraphs": [
 			"Donations from Germany go to the organization Wikimedia Fördergesellschaft in Berlin. The sole purpose of this organization is to raise funds for Wikipedia and transfer them to the association Wikimedia Deutschland as well as to the Wikimedia Foundation.",
 			" The organization is a subsidiary of Wikimedia Deutschland. A great advantage for all donors: Both the Wikimedia Fördergesellschaft and Wikimedia Deutschland are recognized as non-profit organizations and can therefore issue tax-deductible donation receipts. The international Wikimedia Foundation is a non-profit organization that runs, promotes and develops Wikipedia and related projects worldwide."
