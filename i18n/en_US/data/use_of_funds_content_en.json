@@ -1,0 +1,120 @@
+{
+	"intro": {
+		"headline": "Where does my donation go*?",
+		"text": "It is for a Wikipedia that is always reliable in terms of organizational and technical aspects, now and in the future. For free access to encyclopedic, trustworthy knowledge at all times and wherever you are. It is also for you – and for all other people around the world."
+	},
+	"applicationOfFundsData": [
+		{
+			"id": "software",
+			"title": "Software",
+			"percentage": 20,
+			"text": "Up-to-date data from all over the world are the backbone of Wikipedia &amp; Co. To ensure that all Wikipedia language versions have easy access to a shared data pool, our software developers in Germany and worldwide are developing a secure and reliable technical infrastructure. This really simplifies the processes of amending and updating Wikipedia articles with the latest data."
+		},
+		{
+			"id": "international",
+			"title": "International and Technology",
+			"percentage": 20,
+			"text": "Wikipedia is a global project. Therefore, we make a substantial contribution to funding the international activities that develop Wikipedia further. In this way, we also co-fund the global server infrastructure to run all Wikimedia projects, including Wikipedia in German."
+		},
+		{
+			"id": "communities",
+			"title": "Communities",
+			"percentage": 10,
+			"text": "By supporting the work of our voluntary authors, we encourage and boost their commitment to Wikipedia. We assist them in various ways, for example by keeping a “technical wish list” for the ongoing improvement of our software, by establishing local Wikipedia sites, by funding digital access to journals and by helping to organize events."
+		},
+		{
+			"id": "society",
+			"title": "Society",
+			"percentage": 15,
+			"text": "Through our EU- and Germany-wide civic engagement as well as our collaboration with institutions in the fields of culture, education and science, we unlock more content for Wikimedia projects and make it freely accessible – tapping into a lot of previously undetected treasure troves."
+		},
+		{
+			"id": "operative",
+			"title": "Operating Costs",
+			"percentage": 35,
+			"text": "The people in our Berlin team make sure that the organizational and financial processes run reliably. One aspect of their work is to raise public awareness for our projects. And they process all incoming donations and send out the donation receipts."
+		}
+	],
+	"detailedReports": {
+		"germany": {
+			"intro": "Einen genauen Einblick in unsere Aktivitäten in Deutschland finden Sie hier: ",
+			"linkName": "Jahresplan Wikimedia Deutschland",
+			"linkUrl": "#"
+		},
+		"international": {
+			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
+			"linkName": "Jahresplan Wikimedia Foundation",
+			"linkUrl": "#"
+		}
+	},
+	"benefitsList": {
+		"headline": "How your donation makes a difference",
+		"benefits": [
+			{
+				"icon": "hand",
+				"text": "Your donation is a vital contribution to provide everybody around the world with free access to knowledge at all times."
+			},
+			{
+				"icon": "smartphone",
+				"text": "Your donation is a contribution to maintaining Wikipedia’s secure and stable infrastructure and user-friendly interface in the future."
+			},
+			{
+				"icon": "world",
+				"text": "Your donation backs our efforts to promote the global establishment of regional Wikipedia communities."
+			},
+			{
+				"icon": "megaphone",
+				"text": "Your donation is our most important source of income. It ensures that Wikipedia can remain independent of advertising, commercial interests or third-party funding."
+			},
+			{
+				"icon": "twentyfourseven",
+				"text": "Last, but not least, your donation is your contribution towards making sure you always have Wikipedia at your fingertips as your personal source of knowledge, offering a uniquely wide range of information to help you find answers to your questions."
+			}
+		]
+	},
+	"comparison": {
+		"headline": "Why we only need €8,700,000",
+		"paragraphs": [
+			"Our goal to reach €8.7 million in donations is an important part of our total planned revenue for 2021. Without a doubt, this is a lot of money.",
+			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 500 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
+		],
+		"subhead": "Annual budgets – a comparison",
+		"companies": [
+			{
+				"name": "Google",
+				"budget": 161,
+				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
+			},
+			{
+				"name": "Amazon",
+				"budget": 280,
+				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
+			},
+			{
+				"name": "Facebook",
+				"budget": 70,
+				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
+			},
+			{
+				"name": "Wikipedia",
+				"budget": 0.12, "budgetCitation": ""
+			}
+		],
+		"citationLabel": "Source"
+	},
+	"orgchart": {
+		"headline": "Who receives the donations for Wikipedia?",
+		"paragraphs": [
+			"Donations from Germany go to the organization Wikimedia Fördergesellschaft in Berlin. The sole purpose of this organization is to raise funds for Wikipedia and transfer them to the association Wikimedia Deutschland as well as to the Wikimedia Foundation.",
+			" The organization is a subsidiary of Wikimedia Deutschland. A great advantage for all donors: Both the Wikimedia Fördergesellschaft and Wikimedia Deutschland are recognized as non-profit organizations and can therefore issue tax-deductible donation receipts. The international Wikimedia Foundation is a non-profit organization that runs, promotes and develops Wikipedia and related projects worldwide."
+		],
+		"_organizationClasses": "This map is used to highlight words from the paragraphs. The map values are the CSS class modifiers ",
+		"organizationClasses": {
+			" Wikimedia Fördergesellschaft ": "wmfg",
+			" Wikimedia Deutschland ": "wmde",
+			" Wikimedia Foundation": "wmf"
+		}
+	},
+	"callToAction": "Donate Now",
+	"provisional": "*) provisional"
+}
