@@ -7,31 +7,31 @@
 		{
 			"id": "software",
 			"title": "Software",
-			"percentage": 20,
+			"percentage": 16,
 			"text": "Up-to-date data from all over the world are the backbone of Wikipedia &amp; Co. To ensure that all Wikipedia language versions have easy access to a shared data pool, our software developers in Germany and worldwide are developing a secure and reliable technical infrastructure. This really simplifies the processes of amending and updating Wikipedia articles with the latest data."
 		},
 		{
 			"id": "international",
 			"title": "International and Technology",
-			"percentage": 20,
+			"percentage": 40,
 			"text": "Wikipedia is a global project. Therefore, we make a substantial contribution to funding the international activities that develop Wikipedia further. In this way, we also co-fund the global server infrastructure to run all Wikimedia projects, including Wikipedia in German."
 		},
 		{
 			"id": "communities",
 			"title": "Communities",
-			"percentage": 10,
+			"percentage": 14,
 			"text": "By supporting the work of our voluntary authors, we encourage and boost their commitment to Wikipedia. We assist them in various ways, for example by keeping a “technical wish list” for the ongoing improvement of our software, by establishing local Wikipedia sites, by funding digital access to journals and by helping to organize events."
 		},
 		{
 			"id": "society",
 			"title": "Society",
-			"percentage": 15,
+			"percentage": 10,
 			"text": "Through our EU- and Germany-wide civic engagement as well as our collaboration with institutions in the fields of culture, education and science, we unlock more content for Wikimedia projects and make it freely accessible – tapping into a lot of previously undetected treasure troves."
 		},
 		{
 			"id": "operative",
 			"title": "Operating Costs",
-			"percentage": 35,
+			"percentage": 20,
 			"text": "The people in our Berlin team make sure that the organizational and financial processes run reliably. One aspect of their work is to raise public awareness for our projects. And they process all incoming donations and send out the donation receipts."
 		}
 	],
@@ -39,7 +39,7 @@
 		"germany": {
 			"intro": "Einen genauen Einblick in unsere Aktivitäten in Deutschland finden Sie hier: ",
 			"linkName": "Jahresplan Wikimedia Deutschland",
-			"linkUrl": "#"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2021/Wirtschaftsplan_2021"
 		},
 		"international": {
 			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
