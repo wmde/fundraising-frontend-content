@@ -37,12 +37,12 @@
 	],
 	"detailedReports": {
 		"germany": {
-			"intro": "Einen genauen Einblick in unsere Aktivitäten in Deutschland finden Sie hier: ",
+			"intro": "A detailed insight into our activities in Germany can be found here: ",
 			"linkName": "Jahresplan Wikimedia Deutschland",
 			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2021/Wirtschaftsplan_2021"
 		},
 		"international": {
-			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
+			"intro": "A detailed insight into our international activities can be found here: ",
 			"linkName": "Jahresplan Wikimedia Foundation",
 			"linkUrl": "#"
 		}
