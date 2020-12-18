@@ -302,5 +302,13 @@
   "cookie_option_required_heading": "Grundlegende Funktionen",
   "cookie_option_required_content": "Wir speichern Daten, die für die grundlegenden Funktionen der Seite erforderlich sind. Diese umfassen die Verhinderung missbräuchlicher Verwendung unserer Website  sowie versehentliches Mehrfachspenden. Zudem erleichtern wir das Ausfüllen der Formulare und stellen sicher, dass Ihnen nach einer Spende keine weiteren Spendenbanner angezeigt werden.",
   "cookie_option_optional_heading": "Verbesserung der Funktionen",
-  "cookie_option_optional_content": "Wir speichern Nutzungsdaten, die zur Verbesserung der Bedienbarkeit beitragen. Diese, werden ausschließĺich durch uns gespeichert und analysiert. In keinem Fall werden sie an Dritte weitergegeben."
+  "cookie_option_optional_content": "Wir speichern Nutzungsdaten, die zur Verbesserung der Bedienbarkeit beitragen. Diese, werden ausschließĺich durch uns gespeichert und analysiert. In keinem Fall werden sie an Dritte weitergegeben.",
+
+  "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spendenzusage!",
+  "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
+  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} Euro via Banküberweisung",
+  "donation_confirmation_summary_title_alt": "Sie erhalten Ihre Spendenquittung an folgende Adresse:",
+  "donation_confirmation_topbox_summary_alt": "{personName},<br>{address}<br>",
+  "donation_confirmation_cta_title_alt": "Benötigen Sie eine Spendenquittung?",
+  "donation_confirmation_cta_summary_alt": "Hier erläutern wir die Vorteile der Angabe von Adressdaten und auch, warum sie diese Spende benötigen."
 }
