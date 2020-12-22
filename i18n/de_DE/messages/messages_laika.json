@@ -99,7 +99,8 @@
   "donation_confirmation_review_headline": "Zusammenfassung",
   "donation_confirmation_bottombox_membership_benefit_1": "Sie können den Mitgliedsbeitrag steuerlich absetzen",
   "donation_confirmation_bottombox_membership_benefit_2": "Sie werden auf Veranstaltungen rund um unsere Projekte eingeladen",
-  "donation_confirmation_bottombox_membership_benefit_3": "Sie können Neuigkeiten zu Projekten und Veranstaltungen in unserem Newsletter erhalten",
+  "donation_confirmation_bottombox_membership_benefit_3": "Sie können Neuigkeiten zu Projekten und Veranstaltungen in unserem 
+  erhalten",
   "donation_confirmation_bottombox_membership_benefit_4": "Sie unterstützen die freie Verfügbarkeit von Wissen nachhaltig",
   "donation_confirmation_bottombox_membership_link": "Weitere Informationen zur Mitgliedschaft",
   "donation_confirmation_topbox_donor_type_anonymous": "ohne Adressangabe",
@@ -158,7 +159,7 @@
   "donation_form_lastname_label": "Name",
   "donation_form_lastname_placeholder": "Mustermann",
   "donation_form_lastname_placeholder_warning": "Sind Sie sich sicher, dass Ihr Nachname Mustermann ist?",
-  "donation_form_newsletter_label": "Ja, ich möchte wissen, ob die Spendenkampagne erfolgreich war. Bitte informiert mich auch in Zukunft, wenn Wikipedia meine Hilfe braucht. Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
+  "donation_form_newsletter_label": "Ja, ich möchte in Zukunft informiert werden, wenn Wikipedia meine Hilfe braucht. Die Einwilligung kann ich jederzeit per E-Mail an spenden@wikimedia.de mit Wirkung für die Zukunft widerrufen.",
   "donation_form_payment_amount_error": "Sie müssen aufgrund anfallender Gebühren leider einen Mindestbetrag von 1 Euro angeben. Wenn Sie weniger spenden möchten, überweisen Sie bitte direkt an das unten angegebene Spendenkonto.",
   "donation_form_payment_amount_too_high": "Es darf nicht mehr als 99999 € sein.",
   "donation_form_payment_amount_legend": "Bitte geben Sie Ihren Wunschbetrag an.",
