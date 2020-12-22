@@ -386,6 +386,11 @@
 			"comment": ""
 		},
 		{
+			"name": "antaŭi GmbH | Chris Schaulandt",
+			"amount": "1.500 €",
+			"comment": "Kollektives, globales und freies Wissen ist der Schlüssel oder zumindest ein wesentlicher Beitrag zur Lösung globaler Probleme. Denn eine informierte Öffentlichkeit kann sich von Fakten leiten lassen um mit Wissenschaft und Expertenwissen die Zukunft zu gestalten. Wikipedia geht viel weiter als das einfache Nachschlagen von Informationen. Es formt (hoffentlich) eine bessere Zukunft für uns alle."
+		},
+		{
 			"name": "Dr. Richard Hoffmann",
 			"amount": "1.400 €",
 			"comment": ""
@@ -419,6 +424,11 @@
 			"name": "Prof. Rethmeier",
 			"amount": "1.075 €",
 			"comment": "Seit WIKIPEDIA ist Wissen unkompliziert für jede(n) verfügbar. Durch die transparente Diskussion der Inhalte ist das fachliche Niveau quasi wissenschaftlich!"
+		},
+		{
+			"name": "Karakun AG",
+			"amount": "1.000 €",
+			"comment": ""
 		},
 		{
 			"name": "Cabalon, Inhaber Mitch Köhler",
@@ -464,6 +474,11 @@
 			"name": "Dres. Ines und Ralf Warmuth",
 			"amount": "Betrag anonym",
 			"comment": "Freies Wissen für alle Menschen"
+		},
+				{
+			"name": "Bitta und Peter Wurm-Stiftung",
+			"amount": "Betrag anonym",
+			"comment": ""
 		}
 	]
 }
