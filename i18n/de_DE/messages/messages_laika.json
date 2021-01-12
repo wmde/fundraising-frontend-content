@@ -194,7 +194,7 @@
   "donation_form_section_address_or_anon": "Wollen Sie Ihre Kontaktdaten angeben?",
   "donation_form_section_address_header_type": "Spenden als...",
   "donation_form_section_address_error": "Bitte wählen Sie eine der Optionen.",
-  "donation_form_section_address_title": "",
+  "donation_form_section_address_title": "Anschrift",
   "donation_form_section_back": "Zahldaten ändern",
   "donation_form_section_continue": "Weiter",
   "donation_form_section_headline": "Spenden",
