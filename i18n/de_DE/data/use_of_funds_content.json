@@ -84,21 +84,26 @@
 			{
 				"name": "Google",
 				"budget": 161,
+				"currencySymbol": "$",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
 				"budget": 280,
+				"currencySymbol": "$",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
 				"budget": 70,
+				"currencySymbol": "$",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.12, "budgetCitation": ""
+				"budget": 0.12,
+				"currencySymbol": "€",
+				"budgetCitation": ""
 			}
 		],
 		"citationLabel": "Quelle"
