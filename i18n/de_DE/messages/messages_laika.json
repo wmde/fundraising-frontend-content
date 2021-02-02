@@ -299,6 +299,7 @@
   "cookie_button_check": "Cookies überprüfen",
   "cookie_option_heading": "Konfiguration der Cookie-Verwendung",
   "cookie_option_more": "Mehr",
+  "cookie_option_less": "Weniger",
   "cookie_option_required_heading": "Grundlegende Funktionen",
   "cookie_option_required_content": "Wir speichern Daten, die für die grundlegenden Funktionen der Seite erforderlich sind. Diese umfassen die Verhinderung missbräuchlicher Verwendung unserer Website  sowie versehentliches Mehrfachspenden. Zudem erleichtern wir das Ausfüllen der Formulare und stellen sicher, dass Ihnen nach einer Spende keine weiteren Spendenbanner angezeigt werden.",
   "cookie_option_optional_heading": "Verbesserung der Funktionen",

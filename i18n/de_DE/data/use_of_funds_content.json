@@ -44,7 +44,7 @@
 		"international": {
 			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
 			"linkName": "Jahresplan Wikimedia Foundation",
-			"linkUrl": "#"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2020-2021"
 		}
 	},
 	"benefitsList": {
@@ -76,7 +76,7 @@
 		"headline": "Warum wir nur 8.700.000 € brauchen",
 		"paragraphs": [
 			"Unser Spendenziel von 8,7 Millionen € ist ein wichtiger Teil unserer für das Jahr 2021 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
-			"Berücksichtigt man allerdings, dass Wikipedia auf Platz 5 der weltweit meistbesuchten Webseiten steht, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
+			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
 			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 500 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
 		],
 		"subhead": "Vergleich der Jahresbudgets",
@@ -84,21 +84,26 @@
 			{
 				"name": "Google",
 				"budget": 161,
+				"budgetString": "161 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
 				"budget": 280,
+				"budgetString": "280 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
 				"budget": 70,
+				"budgetString": "70 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.12, "budgetCitation": ""
+				"budget": 0.12,
+				"budgetString": "0,12 Mrd. €",
+				"budgetCitation": ""
 			}
 		],
 		"citationLabel": "Quelle"
