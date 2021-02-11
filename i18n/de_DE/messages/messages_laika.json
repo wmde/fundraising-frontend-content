@@ -77,7 +77,7 @@
   "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
   "donation_comments_donor_headline": "{amount} € von {donor}",
 
-  "donation_confirmation_address_update_button": "Ich benötige eine Spendenquittung",
+  "donation_confirmation_address_update_button": "Weiter um Postadresse anzugeben",
   "receipt_needed_donation_page": "Ich benötige eine Spendenquittung.",
   "receipt_needed_membership_page": "Ich benötige eine Zuwendungsbescheinigung.",
   "donation_confirmation_address_update_cancel": "Abbrechen",
@@ -310,6 +310,6 @@
   "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} Euro via Banküberweisung",
   "donation_confirmation_summary_title_alt": "Sie erhalten Ihre Spendenquittung an folgende Adresse:",
   "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount} Euro</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
-  "donation_confirmation_cta_title_alt": "Weiter, um Postadresse anzugeben",
+  "donation_confirmation_cta_title_alt": "Benötigen Sie eine Spendenquittung?",
   "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse."
 }
