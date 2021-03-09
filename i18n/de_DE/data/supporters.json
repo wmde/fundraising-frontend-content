@@ -475,8 +475,13 @@
 			"amount": "Betrag anonym",
 			"comment": "Freies Wissen für alle Menschen"
 		},
-				{
+		{
 			"name": "Bitta und Peter Wurm-Stiftung",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "Thomas Arns",
 			"amount": "Betrag anonym",
 			"comment": ""
 		}
