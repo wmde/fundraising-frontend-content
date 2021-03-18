@@ -6,7 +6,7 @@ This is a repository for the textual content of the fundraising application.
 
 ## Content Organization
 * `data`: Language-independent content that is used internally. Currently it's the black- and whitelists for address fields and comments.
-* `i18n`: Language-dependent content.
+* `i18n`: Language-dependent content. 
 	* `de_DE`: Sub folders named by language/locale identifier. Each language has a dedicated subdirectory.
 		* `data`: Language-dependent configuration options, like the list of allowed page URLs.
 		* `mail`: Mail template snippets. For mail templates that consist of multiple snippets, the templates are placed in a subdirectory. The files must not contain HTML!
