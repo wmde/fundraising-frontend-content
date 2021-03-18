@@ -19,7 +19,7 @@ This is a repository for the textual content of the fundraising application.
 	* `de_DE`: Sub folders named by language/locale identifier. Each language has a dedicated subdirectory.
 		* `...`: Language-dependent resources (e.g. documents containing text).
 
-## FAQ
+## FAQ 
 
 ### Where to put translations?
 If they are very short snippets of text like labels or messages, place them in `messages/messages.json`. Otherwise create a file in `mail`, `shared` or `web`.
