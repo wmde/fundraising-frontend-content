@@ -231,6 +231,7 @@
   "error_pages_return_to_donation": "Irgendetwas ist schiefgelaufen. Bitte gehen Sie wieder zurück auf das Spendenformular.",
 
   "form_for_example": "z. B. {example}",
+  "form_autocomplete_prompt": "Ort eingeben oder aus der Liste auswählen",
 
   "faq_headline": "Häufige Fragen",
 
