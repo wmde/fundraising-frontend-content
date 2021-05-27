@@ -1,0 +1,30 @@
+{
+  "mail_subject_getintouch": "Sie haben gefragt, wir werden antworten",
+  "mail_subject_getintouch_forward": "Anfrage über das Kontaktformular",
+  "mail_subject_confirm_donation": "Sie spenden für Wikipedia und Freies Wissen. Großartig.",
+  "mail_subject_confirm_donation_promise": "Sie wollen für Wikipedia und Freies Wissen spenden. Großartig.",
+  "mail_subject_confirm_cancellation": "Stornierung Ihrer Spende",
+  "mail_subject_subscription": "Bitte bestätigen Sie kurz, dass Sie Wikipedia unterstützen wollen.",
+  "mail_subject_subscription_confirmed": "Dankeschön. Jetzt haben wir alles.",
+
+  "mail_subject_confirm_membership_application_active": "Ihr nachhaltiges Engagement als aktives Mitglied bei Wikimedia",
+  "mail_subject_confirm_membership_application_sustaining": "Ihr nachhaltiges Engagement als Fördermitglied bei Wikimedia",
+  "mail_subject_confirm_membership_application_cancellation": "Stornierung Ihres Mitgliedschaftsantrags bei Wikimedia Deutschland e. V.",
+
+  "donation_payment_interval_0": "einmalig",
+  "donation_payment_interval_1": "monatlich",
+  "donation_payment_interval_3": "vierteljährlich",
+  "donation_payment_interval_6": "halbjährlich",
+  "donation_payment_interval_12": "jährlich",
+
+  "mail_introduction_generic": "Sehr geehrte Damen und Herren,",
+  "mail_introduction_male_formal": "Sehr geehrter Herr %spacedTitle%%lastName%,",
+  "mail_introduction_female_formal": "Sehr geehrte Frau %spacedTitle%%lastName%,",
+  "mail_introduction_family_formal": "Sehr geehrte Familie %spacedTitle%%lastName%,",
+  "mail_introduction_male_informal": "Lieber %firstName%,",
+  "mail_introduction_female_informal": "Liebe %firstName%,",
+  "mail_introduction_family_informal": "Liebe Familie %lastName%,",
+  "mail_introduction_male_lastname_informal": "Lieber Herr %spacedTitle%%lastName%,",
+  "mail_introduction_female_lastname_informal": "Liebe Frau %spacedTitle%%lastName%,"
+}
+
