@@ -22,4 +22,4 @@ steps:
         from_secret: ssh_key
     commands:
         - echo "$SSH_KEY" > /ansible/.ssh/id_rsa && chmod 0600 /ansible/.ssh/id_rsa
-        - ansible-playbook -vvv -e prebuilt_source="$DRONE_WORKSPACE" -e deploy_target="$DRONE_BRANCH" /ansible/content.yml
+        - ansible-playbook -v -e prebuilt_source="$DRONE_WORKSPACE" -e deploy_target="$DRONE_BRANCH" /ansible/content.yml
