@@ -6,8 +6,7 @@ name: default
 triggers:
   branch:
     - test
-    # TODO uncomment before merging into prod - the first run of this should be supervised!
-    # - production
+    - production
   event:
     - push
     - tag
