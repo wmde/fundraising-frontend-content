@@ -272,6 +272,8 @@
   "membership_form_payment_amount_cap_notice": "Cent-Beträge werden abgerundet",
   "membership_form_incentive" : "Ich möchte den Wikipedia-Stoffbeutel erhalten.",
 
+  "trust" : "Verschlüsselte Datenübertragung und Sichere Bezahlung",
+
   "page_not_found": "Wenn Sie nach etwas Bestimmtem suchen und es nicht finden können, fragen Sie uns bitte. Am einfachsten geht dies über das <a href=\"/contact/get-in-touch\">Kontaktformular</a>.",
   "page_not_found_header": "Diese Seite bieten wir leider nicht an.",
 
