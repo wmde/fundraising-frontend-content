@@ -134,7 +134,7 @@
 
   "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
-  "donation_confirmation_inline_summary_anonym": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}",
+  "donation_confirmation_inline_summary_anonymous": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}",
   
   "donation_form_addresstype_option_anonymous": "Ohne Adressangabe",
   "donation_form_address_choice_no": "Nein",
