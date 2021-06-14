@@ -119,7 +119,6 @@
   "donation_confirmation_topbox_email": "E-Mail-Adresse: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount} Euro</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
-  "donation_confirmation_inline_summary": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_address_usage_link": "mehr Informationen",
   "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an spenden@wikimedia.de formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
 
@@ -132,6 +131,10 @@
   "donation_form_provisional_address_choice_emailonly": "Nur E-Mail-Adresse",
   "donation_form_provisional_address_choice_emailonly_notice": "(für Bestätigung per E-Mail)",
   "donation_form_provisional_address_choice_noaddress": "Gar keine Kontaktdaten",
+
+  "donation_confirmation_inline_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
+  "donation_confirmation_inline_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
+  "donation_confirmation_inline_anonym": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}",
   
   "donation_form_addresstype_option_anonymous": "Ohne Adressangabe",
   "donation_form_address_choice_no": "Nein",
