@@ -51,13 +51,23 @@
 			"comment": "Fast jeden Tag nutzen wir in der Familie Wikipedia und sind immer wieder neu begeistert über die Informationen, die diese Plattform der Menschheit bietet. Wikipedia ist gerade in den heutigen Zeiten eine zuverlässige, gut recherchierte Wissensquelle. Vielen Dank!"
 		},
 		{
+			"name": "TNG Technology Consulting GmbH",
+			"amount": "12.462,50 €",
+			"comment": ""
+		},
+		{
 			"name": "Bernd Hansen",
 			"amount": "11.600 €",
 			"comment": "Nur eine Wissensbasierte Gesellschaft kann erfolgreich sein. Dazu muß es allen zugänglich sein. Dazu trägt Wikimedia in großem Masse bei."
 		},
 		{
-			"name": "TNG Technology Consulting GmbH",
-			"amount": "10.962,50 €",
+			"name": "Prof. Dr. Hartmut Gaßner",
+			"amount": "11.000 €",
+			"comment": "Wikipedia ist eine großartige Hilfe, um blitzschnell Wissen in verschiedensten Bereichen, wie Beruf, Freizeit, Hobby oder Familie und Gesundheit zu erhalten. Ich unterstütze Wikipedia gerne, weil es eine tolle Einrichtung für ganz viele ist, aber auch mich oft unterstützt. Mit meinen regelmäßigen Spenden sage ich immer wieder Danke!"
+		},
+		{
+			"name": "Groß Rechtsanwälte",
+			"amount": "10.000 €",
 			"comment": ""
 		},
 		{
@@ -66,13 +76,13 @@
 			"comment": "Wikipedia ist das ungewöhnlichste Wissensprojekt des Medienzeitalters. Es hat einen hohen Wert für meine Arbeit. Meine Jahresspende soll den zahllosen Freiwilligen zeigen, dass ihre Arbeit geschätzt wird und helfen, dass diese Idee nicht untergeht."
 		},
 		{
-			"name": "Prof. Dr. Hartmut Gaßner",
-			"amount": "9.000 €",
+			"name": "Biallo & Team GmbH",
+			"amount": "8.600 €",
 			"comment": ""
 		},
 		{
-			"name": "Biallo & Team GmbH",
-			"amount": "8.600 €",
+			"name": "Ulfried Maiborn",
+			"amount": "8.522 €",
 			"comment": ""
 		},
 		{
@@ -86,6 +96,21 @@
 			"comment": ""
 		},
 		{
+			"name": "Jan Hilpert",
+			"amount": "7.000 €",
+			"comment": "Wikimedia spiegelt in herausragender Weise den Wert geteilter Informationen wider - im Sinne des Zitates, das George Bernhard Shaw zugeschrieben wird: If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."
+		},
+		{
+			"name": "Nicolas Woll / Designscape",
+			"amount": "7.000 €",
+			"comment": "Was wäre die Welt ohne Zugang zu freiem Wissen? Wir wollen mit der Spende unseren Teil dazu beitragen, dass Wissen und Bildung für jedermann zugänglich sind und nicht zum Privileg oder Monopol werden. Vielen Dank an die Mitarbeiter und freiwilligen Helfer von Wikimedia Deutschland für ihre wertvolle Arbeit."
+		},
+		{
+			"name": "Agentur MASCARA GmbH",
+			"amount": "6.800 €",
+			"comment": "Es gibt keinen Tag an dem ich nicht auf das gesammelte Wissen in Wikipedia zurückgreife. Mit dieser Spende will ich einfach „Danke“ sagen und dazu beitragen, dass der Zugang zu diesem Wissen weiterhin kostenlos bleibt. Soraya Müller, Geschäftsführerin"
+		},
+		{
 			"name": "Barbara Mayer",
 			"amount": "6.700 €",
 			"comment": ""
@@ -94,11 +119,6 @@
 			"name": "Nationales Institut für Wissenschaftskommunikation, NaWik gGmbH",
 			"amount": "6.250 €",
 			"comment": "Die Vision des NaWik ist eine starke Verankerung von Wissenschaft in der Gesellschaft. Dazu zählt, dass die Menschen besser über wissenschaftliche Fragen informiert sind und wissenschaftliche Themen in der Öffentlichkeit sachkundig diskutiert werden. Voraussetzung dafür ist frei zugängliches und neutrales Wissen. Wir danken den Mitarbeitern von Wikimedia Deutschland für den täglichen Einsatz, Wissen zu Verfügung zu stellen und zu teilen. Diese wertvolle Arbeit unterstützen wir sehr gerne!"
-		},
-		{
-			"name": "Jan Hilpert",
-			"amount": "6.000 €",
-			"comment": "Wikimedia spiegelt in herausragender Weise den Wert geteilter Informationen wider - im Sinne des Zitates, das George Bernhard Shaw zugeschrieben wird: If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."
 		},
 		{
 			"name": "Heidezüchtung Kramer",
@@ -124,16 +144,6 @@
 			"name": "Dr. med. Cathleen Barth",
 			"amount": "6.000 €",
 			"comment": ""
-		},
-		{
-			"name": "Nicolas Woll / Designscape",
-			"amount": "6.000 €",
-			"comment": ""
-		},
-		{
-			"name": "Agentur MASCARA GmbH",
-			"amount": "5.800 €",
-			"comment": "Es gibt keinen Tag an dem ich nicht auf das gesammelte Wissen in Wikipedia zurückgreife. Mit dieser Spende will ich einfach „Danke“ sagen und dazu beitragen, dass der Zugang zu diesem Wissen weiterhin kostenlos bleibt. Soraya Müller, Geschäftsführerin"
 		},
 		{
 			"name": "Christoph Röllig",
@@ -188,6 +198,11 @@
 		{
 			"name": "Jens Lörz",
 			"amount": "4.925 €",
+			"comment": ""
+		},
+		{
+			"name": "Gero Scholz",
+			"amount": "4.900 €",
 			"comment": ""
 		},
 		{
@@ -306,6 +321,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Xpecto AG",
+			"amount": "2.750 €",
+			"comment": ""
+		},
+		{
 			"name": "Jens Hagenberg",
 			"amount": "2.560 €",
 			"comment": ""
@@ -356,6 +376,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Hubertus Siegert",
+			"amount": "1.850 €",
+			"comment": ""
+		},
+		{
 			"name": "Prof. Dr. Heidi Schelhowe",
 			"amount": "1.750 €",
 			"comment": ""
@@ -384,6 +409,11 @@
 			"name": "Nadine und Henning Wolf",
 			"amount": "1.500 €",
 			"comment": ""
+		},
+		{
+			"name": "Robert Nönnig",
+			"amount": "1.500 €",
+			"comment": "Vielen Dank an alle, die die Wikimedia Projekte möglich machen!"
 		},
 		{
 			"name": "antaŭi GmbH | Chris Schaulandt",
@@ -436,6 +466,11 @@
 			"comment": "Wissen ist einer der stärksten Treiber des Fortschritts. Mit unserem Beitrag wollen wir als IT-Experten Wikipedias Engagement fördern und würdigen. Vielen Dank an alle, die Wikipedia täglich, weltweit, frei und in einer Vielfalt an Sprachen möglich machen!"
 		},
 		{
+			"name": "Christian C.D. Ludwig - Foundation",
+			"amount": "1.000 €",
+			"comment": ""
+		},
+		{
 			"name": "Matthias Ramlow",
 			"amount": "1.000 €",
 			"comment": ""
@@ -446,6 +481,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Prof. em. Dr. Rudi Schmidt",
+			"amount": "Betrag anonym",
+			"comment": "Die weltweit aufgestellte Enzyklopädie 'Wikipedia' ist ein grandioses Projekt, auch wenn es ewig unfertig bleiben wird. Seine universelle Ausrichtung, ökonomische und politische Unabhängigkeit und gesellschaftliche Neutralität gilt es  gegenüber allen Versuchen der Vereinnahmung zu bewahren."
+		},
+		{
 			"name": "Anke Hollnagel",
 			"amount": "Betrag anonym",
 			"comment": ""
@@ -454,6 +494,26 @@
 			"name": "Claudine-Marisa Schauer",
 			"amount": "Betrag anonym",
 			"comment": ""
+		},
+		{
+			"name": "Michael Schüttler",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "Nikolai Diekert",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "Reinhard Wiesemann",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "Jan Rollmann",
+			"amount": "Betrag anonym",
+			"comment": "Freies Wissen ist nicht selbstverständlich. Ein Dienst der seit Jahrzehnten freies neutrales Wissen anbietet, sich nicht über Werbung oder monatliche Abonnements finanziert und dazu jederzeit verfügbar ist, ist hingegen eine Kuriosität. Vielen Dank an Wikipedia!"
 		},
 		{
 			"name": "Julia Schäf",
