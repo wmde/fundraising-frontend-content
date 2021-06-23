@@ -2,9 +2,13 @@
     "name": "wmde/fundraising-frontend-content",
     "description": "i18n for FundraisingFrontend",
     "license": "CC0-1.0",
+    "require": {
+        "php": ">=8.0"
+    },
     "require-dev": {
         "wmde/fundraising-content-provider": "^2.0",
-        "seld/jsonlint": "^1.6"
+        "seld/jsonlint": "^1.6",
+        "phpunit/phpunit": "~9.5.0"
     },
     "repositories": [
         {
@@ -13,6 +17,11 @@
             "no-api": true
         }
     ],
+    "autoload-dev": {
+        "psr-4": {
+            "WMDE\\Fundraising\\Content\\Tests\\": "tests/"
+        }
+    },
     "scripts": {
         "ci": [
             "@test"
@@ -21,7 +30,8 @@
             "composer validate --no-interaction",
             "@lint-json",
             "@lint-templates",
-            "@lint-wordlists"
+            "@lint-wordlists",
+            "vendor/bin/phpunit"
         ],
         "lint-json": [
             "find i18n/ -type f -name \\*.json -exec echo \"{}\" \\; -exec vendor/bin/jsonlint {} \\;"
