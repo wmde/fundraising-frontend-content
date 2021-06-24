@@ -23,7 +23,6 @@ class MessagesTest extends TestCase {
 	public function messageKeysDataProvider(): array {
 		return [
 			[ 'i18n/de_DE/messages/messages.json', 'i18n/de_DE/messages/messages.json' ],
-			[ 'i18n/de_DE/messages/messages.json', 'i18n/de_DE/messages/messages_laika.json' ],
 		];
 	}
 }
