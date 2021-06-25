@@ -17,10 +17,17 @@ class JsonValidator {
 	}
 
 	public function assertJsonFilesHaveMatchingKeys( string $jsonFilePathA, $jsonFilePathB ): void {
+		$jsonKeysFromA = $this->getJsonKeys( $jsonFilePathA );
+		$jsonKeysFromB = $this->getJsonKeys( $jsonFilePathB );
 		$this->testCase->assertSame(
 			[],
-			array_diff( $this->getJsonKeys( $jsonFilePathA ), $this->getJsonKeys( $jsonFilePathB ) ),
-			"Array keys do not exists in both files"
+			array_diff( $jsonKeysFromA, $jsonKeysFromB ),
+			"$jsonFilePathB has missing keys"
+		);
+		$this->testCase->assertSame(
+			[],
+			array_diff( $jsonKeysFromB, $jsonKeysFromA ),
+			"$jsonFilePathB has additional keys that don't exist in $jsonFilePathA"
 		);
 	}
 
