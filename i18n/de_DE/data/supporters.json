@@ -1,14 +1,14 @@
 {
 	"supporters": [
 		{
+			"name": "AVM Computersysteme Vertriebs GmbH",
+			"amount": "80.000 €",
+			"comment": "Wikipedia ist wichtig! Im Unternehmen erfahren wir täglich die Kraft des Wissens. Und wie wichtig es ist, dass Wissen im Unternehmen bekannt ist. Wikipedia ist ein fester Bestandteil des digitalen Lebens und essentiell für die Gesellschaft. Denn der freie Zugang zu Wissen ist ein großer Fortschritt. Wir unterstützen das Team von Wikipedia, das sich täglich engagiert für Qualität und Vielfalt."
+		},		
+		{
 			"name": "Hendrik Klindworth",
 			"amount": "65.536 €",
 			"comment": "Wikimedia setzt sich für den freien Zugang zu Wissen ein. Das ist heutzutage wichtiger als jemals zuvor. Daher unterstütze ich dieses Ziel gerne."
-		},
-		{
-			"name": "AVM Computersysteme Vertriebs GmbH",
-			"amount": "64.000 €",
-			"comment": "Wikipedia ist wichtig! Im Unternehmen erfahren wir täglich die Kraft des Wissens. Und wie wichtig es ist, dass Wissen im Unternehmen bekannt ist. Wikipedia ist ein fester Bestandteil des digitalen Lebens und essentiell für die Gesellschaft. Denn der freie Zugang zu Wissen ist ein großer Fortschritt. Wir unterstützen das Team von Wikipedia, das sich täglich engagiert für Qualität und Vielfalt."
 		},
 		{
 			"name": "Lotum GmbH",
@@ -41,6 +41,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Bernd Hansen",
+			"amount": "16.600 €",
+			"comment": "Nur eine Wissensbasierte Gesellschaft kann erfolgreich sein. Dazu muß es allen zugänglich sein. Dazu trägt Wikimedia in großem Masse bei."
+		},
+		{
 			"name": "Solutio GmbH",
 			"amount": "12.750 €",
 			"comment": "Unsere Mitarbeiter greifen gerne auf das gesammelte Wissen in Wikipedia zurück - kompakt und kompetent. Mit unserer Spende möchten wir einen Beitrag dazu leisten, dass die Enzyklopädie in ihrer jetzigen Form bestehen bleibt und auch in Zukunft weiter ausgebaut wird."
@@ -56,11 +61,6 @@
 			"comment": ""
 		},
 		{
-			"name": "Bernd Hansen",
-			"amount": "11.600 €",
-			"comment": "Nur eine Wissensbasierte Gesellschaft kann erfolgreich sein. Dazu muß es allen zugänglich sein. Dazu trägt Wikimedia in großem Masse bei."
-		},
-		{
 			"name": "Prof. Dr. Hartmut Gaßner",
 			"amount": "11.000 €",
 			"comment": "Wikipedia ist eine großartige Hilfe, um blitzschnell Wissen in verschiedensten Bereichen, wie Beruf, Freizeit, Hobby oder Familie und Gesundheit zu erhalten. Ich unterstütze Wikipedia gerne, weil es eine tolle Einrichtung für ganz viele ist, aber auch mich oft unterstützt. Mit meinen regelmäßigen Spenden sage ich immer wieder Danke!"
@@ -68,12 +68,17 @@
 		{
 			"name": "Groß Rechtsanwälte",
 			"amount": "10.000 €",
-			"comment": ""
+			"comment": "Wissen und der Zugang zum Wissen ist der Schlüssel für unsere Zukunft und für eine bessere Gesellschaft mit mehr Chancen für alle. Statt endlos im WWW nach Informationen zu surfen, bietet Wikipedia kontrolliertes und relevantes Wissen – kostenlos und für alle! Vielen Dank dafür"
 		},
 		{
 			"name": "Prof. Dr. Benno Heussen",
 			"amount": "9.600 €",
 			"comment": "Wikipedia ist das ungewöhnlichste Wissensprojekt des Medienzeitalters. Es hat einen hohen Wert für meine Arbeit. Meine Jahresspende soll den zahllosen Freiwilligen zeigen, dass ihre Arbeit geschätzt wird und helfen, dass diese Idee nicht untergeht."
+		},
+		{
+			"name": "Dorothea und Hartmut Samtleben",
+			"amount": "9.300 €",
+			"comment": "Wissen ist Nacht (Leitspruch der Eydeetischen Philophysik nach Prof. Dr. Abdul Nachtigaller)"
 		},
 		{
 			"name": "Biallo & Team GmbH",
@@ -86,13 +91,13 @@
 			"comment": ""
 		},
 		{
-			"name": "cubeoffice GmbH & Co.KG",
-			"amount": "7.700 €",
+			"name": "EMK Elektronik GmbH & Co. KG",
+			"amount": "8.250 €",
 			"comment": ""
 		},
 		{
-			"name": "EMK Elektronik GmbH & Co. KG",
-			"amount": "7.250 €",
+			"name": "cubeoffice GmbH & Co.KG",
+			"amount": "7.700 €",
 			"comment": ""
 		},
 		{
@@ -104,6 +109,11 @@
 			"name": "Nicolas Woll / Designscape",
 			"amount": "7.000 €",
 			"comment": "Was wäre die Welt ohne Zugang zu freiem Wissen? Wir wollen mit der Spende unseren Teil dazu beitragen, dass Wissen und Bildung für jedermann zugänglich sind und nicht zum Privileg oder Monopol werden. Vielen Dank an die Mitarbeiter und freiwilligen Helfer von Wikimedia Deutschland für ihre wertvolle Arbeit."
+		},
+		{
+			"name": "IQC AG",
+			"amount": "7.000 €",
+			"comment": ""
 		},
 		{
 			"name": "Agentur MASCARA GmbH",
@@ -119,6 +129,11 @@
 			"name": "Nationales Institut für Wissenschaftskommunikation, NaWik gGmbH",
 			"amount": "6.250 €",
 			"comment": "Die Vision des NaWik ist eine starke Verankerung von Wissenschaft in der Gesellschaft. Dazu zählt, dass die Menschen besser über wissenschaftliche Fragen informiert sind und wissenschaftliche Themen in der Öffentlichkeit sachkundig diskutiert werden. Voraussetzung dafür ist frei zugängliches und neutrales Wissen. Wir danken den Mitarbeitern von Wikimedia Deutschland für den täglichen Einsatz, Wissen zu Verfügung zu stellen und zu teilen. Diese wertvolle Arbeit unterstützen wir sehr gerne!"
+		},
+		{
+			"name": "PW AG Wirtschaftsprüfungsgesellschaft",
+			"amount": "6.100 €",
+			"comment": ""
 		},
 		{
 			"name": "Heidezüchtung Kramer",
@@ -166,6 +181,11 @@
 			"comment": ""
 		},
 		{
+			"name": "Cerona GmbH",
+			"amount": "5.250 €",
+			"comment": "Wir nutzen den Inhalt von Wikipedia tagtäglich - quasi selbstverständlich. Mit unserer Spende möchten wir dazu beitragen, dass Wissen frei zugänglich bleibt."
+		},
+		{
 			"name": "Zahnarztpraxis Dres. Dajka",
 			"amount": "5.100 €",
 			"comment": ""
@@ -182,11 +202,6 @@
 		},
 		{
 			"name": "Klaus Detering",
-			"amount": "5.000 €",
-			"comment": ""
-		},
-		{
-			"name": "IQC AG",
 			"amount": "5.000 €",
 			"comment": ""
 		},
@@ -209,16 +224,6 @@
 			"name": "ibb",
 			"amount": "4.800 €",
 			"comment": ""
-		},
-		{
-			"name": "PW AG Wirtschaftsprüfungsgesellschaft",
-			"amount": "4.800 €",
-			"comment": ""
-		},
-		{
-			"name": "Cerona GmbH",
-			"amount": "4.750 €",
-			"comment": "Wir nutzen den Inhalt von Wikipedia tagtäglich - quasi selbstverständlich. Mit unserer Spende möchten wir dazu beitragen, dass Wissen frei zugänglich bleibt."
 		},
 		{
 			"name": "Lutz Dannenberg",
@@ -271,6 +276,16 @@
 			"comment": "Einfache Zugangsmöglichkeiten zu Wissen, ist eines der höchsten Güter, was eine Gesellschaft bieten kann."
 		},
 		{
+			"name": "Nadine und Henning Wolf",
+			"amount": "4.000 €",
+			"comment": "Wir unterstützen Wikimedia gerne, weil wir freien Zugang zu Wissen für essenziell halten. Und fast täglich nutzen wir die Wikipedia selbst, um unser Wissen zu erweitern. Danke."
+		},
+		{
+			"name": "Energie- & Umweltbüro e.V.",
+			"amount": "4.000 €",
+			"comment": "Wir als Verein, der im IT-Bereich tätig ist und Open-Source-Software zu schätzen weiß, unterstützen gerne Wikipedia, weil sie eine so immens große Sammlung an frei zugänglichem Wissen geschaffen hat. Einen fetten Dank an alle, die dazu beigetragen haben!"
+		},
+		{
 			"name": "Hendrik Haustein",
 			"amount": "3.750 €",
 			"comment": ""
@@ -297,7 +312,7 @@
 		},
 		{
 			"name": "Familie Naumann",
-			"amount": "3.400 €",
+			"amount": "3.450 €",
 			"comment": ""
 		},
 		{
@@ -346,6 +361,11 @@
 			"comment": "Frei zugängliches Wissen ist ein Privileg. Für uns als IT-Unternehmen mit starkem Fokus im Open Scource Bereich ist es eine Verpflichtung, dieses offene Prinzip der Sammlung und Teilung von Wissen und Informationen zu unterstützen und aufrecht zu erhalten. Vielen Dank für Euer Engagement!"
 		},
 		{
+			"name": "Prof. Dr. Heidi Schelhowe",
+			"amount": "2.250 €",
+			"comment": ""
+		},	
+		{
 			"name": "proPlant GmbH",
 			"amount": "2.200 €",
 			"comment": "Der Vorschlag kam aus unserer Mitarbeiterschaft, weil viele davon diese freie Online-Enzyklopädie zukünftig weiterhin nutzen möchten."
@@ -378,17 +398,17 @@
 		{
 			"name": "Hubertus Siegert",
 			"amount": "1.850 €",
-			"comment": ""
-		},
-		{
-			"name": "Prof. Dr. Heidi Schelhowe",
-			"amount": "1.750 €",
-			"comment": ""
+			"comment": "In der großen Hoffnung, dass sich das einzigartige System von Wikimedia auch in der Zukunft selbst gesteuert um die möglichst genaue Darstellung von Sachverhalten und Ereignissen verdient machen wird."
 		},
 		{
 			"name": "Familie Frohmann",
 			"amount": "1.750 €",
 			"comment": "wikipedia ist für uns eine instanz des wissens und der wahrheit; beides werte, die wir gerne unterstützen."
+		},
+		{
+			"name": "Jonas Echterhoff",
+			"amount": "1.700 €",
+			"comment": "Als ich Wikipedia Anfang der 2000er Jahre zum ersten mal entdeckt habe, war ich sehr beeindruckt zu sehen, wie gut es funktioniert, durch freiwillige Zusammenarbeit vieler Menschen etwas Großartiges zu schaffen. Durch den freien Zugang zu Wissen wird der gesamten Menschheit geholfen sich zu bilden und dadurch zu emanzipieren. Das möchte ich unterstützen!"
 		},
 		{
 			"name": "Jürgen Reckin",
@@ -404,11 +424,6 @@
 			"name": "Andreas und Sabine von Tiedemann und Freunde",
 			"amount": "1.505 €",
 			"comment": "Wissen ist die Grundlage der Wahrheit. Und Wahrheit ist der einzige Grund auf den man dauerhaft bauen kann. Dem dient Wikipedia in einer Weise, die für jeden zugänglich ist und das ist unbedingt unterstützenswert."
-		},
-		{
-			"name": "Nadine und Henning Wolf",
-			"amount": "1.500 €",
-			"comment": ""
 		},
 		{
 			"name": "Robert Nönnig",
@@ -477,6 +492,11 @@
 		},
 		{
 			"name": "OxyCare GmbH Sauerstoff Beatmungstechnik",
+			"amount": "1.000 €",
+			"comment": ""
+		},
+		{
+			"name": "Gerald Harnisch",
 			"amount": "1.000 €",
 			"comment": ""
 		},
@@ -555,5 +575,25 @@
 			"amount": "Betrag anonym",
 			"comment": ""
 		}
+		{
+			"name": "Janico Greifenberg",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "Ille Papier-Service GmbH",
+			"amount": "Betrag anonym",
+			"comment": ""
+		},
+		{
+			"name": "audius GmbH",
+			"amount": "Betrag anonym",
+			"comment": "Wir von audius möchten durch unsere Spende das Vorhaben „Zugang zu Bildung zu vereinfachen“ fördern. Wikipedia als fester Bestandteil unserer zunehmend digitalen Gesellschaft verfolgt eine wichtige Aufgabe, die wir gerne unterstützen."
+		},
+		{
+			"name": "Jürgen Grether",
+			"amount": "Betrag anonym",
+			"comment": "Wissen ist die stärkste Waffe für die Freiheit. Wikipedia als unabhängige Plattform vermittelt Wissen in vielen Sprachen und rückt damit, die Freiheit für viele Menschen auf diesem Planeten in greifbare Nähe. So lange dies so bleibt und Wikipedia Manipulationen durch persönliche Interessen, Politik, Wirtschaft / Industrie und Lobbyismus verhindert, werde ich Wikimedia unterstützen."
+		},
 	]
 }
