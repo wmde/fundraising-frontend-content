@@ -10,8 +10,9 @@
   "address_change_form_submit": "Kontaktdaten ändern",
   "address_change_form_success_title": "Adressänderung erfolgreich",
   "address_change_form_success_label": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Zuwendungsbescheinigung an Ihre neue Adresse.",
-  "address_change_form_success_optout_label": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an spenden@wikimedia.de wenden.",  "address_change_opt_out_hint": "Sie können uns Ihre aktuelle Adresse auch mitteilen, wenn Sie keine Bescheinigung erhalten möchten.",
-  
+  "address_change_form_success_optout_label": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an spenden@wikimedia.de wenden.",
+  "address_change_opt_out_hint": "Sie können uns Ihre aktuelle Adresse auch mitteilen, wenn Sie keine Bescheinigung erhalten möchten.",
+
   "back_to_donation_summary": "Zurück zur Spendenübersicht",
 
   "bank_data_account_number": "Kontonummer",
@@ -63,7 +64,7 @@
 
   "donation_cancellation_title": "Stornierung",
   "donation_cancellation_text": "Der Spendenvorgang mit der Nummer {donation_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">spenden@wikimedia.de</a>.",
-  
+
   "donation_comment_popup_title": "Spendenkommentar schreiben",
   "donation_comment_popup_explanation": "Erzählen Sie, warum Sie gespendet haben. Was verbindet Sie mit Wikipedia? Ihre Geschichte hilft uns, den Millionen Menschen, die Wikipedia täglich nutzen, die Bedeutung Wikipedias zu veranschaulichen.",
   "donation_comment_popup_label": "Kommentar",
@@ -75,7 +76,7 @@
   "donation_comment_popup_error": "Entschuldigung, es scheint ein Fehler beim Übermitteln des Kommentars aufgetreten zu sein.",
   "donation_comments_title": "Spendenkommentare",
   "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
-  "donation_comments_donor_headline": "{amount} € von {donor}",
+  "donation_comments_donor_headline": "{formattedAmount} von {donor}",
   "comment_failure_donation_error": "Da ist etwas schief gelaufen. Es tut uns leid, aber wir konnten den Kommentar aus technischen Gründen nicht verarbeiten.",
   "comment_failure_donation_not_found": "Da ist etwas schief gelaufen. Es tut uns leid, aber wir konnten die Spendenkommentarfunktion aus technischen Gründen nicht laden.",
   "comment_failure_donation_has_comment": "Sie haben bereits einen Kommentar zu dieser Spende abgegeben.",
@@ -118,14 +119,14 @@
   "donation_confirmation_topbox_donor_type_person": "als Privatperson",
   "donation_confirmation_topbox_email": "E-Mail-Adresse: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
-  "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount} Euro</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_inline_summary": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_address_usage_link": "mehr Informationen",
   "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an spenden@wikimedia.de formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
 
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
-  
+
   "donation_form_provisional_address_choice_title": "Möchten Sie Ihre Kontaktdaten angeben?",
   "donation_form_provisional_address_choice_fulladdress": "Vollständige Kontaktdaten",
   "donation_form_provisional_address_choice_fulladdress_notice": "(für Spendenquittung per Post und Bestätigung per E-Mail)",
@@ -133,9 +134,9 @@
   "donation_form_provisional_address_choice_emailonly_notice": "(für Bestätigung per E-Mail)",
   "donation_form_provisional_address_choice_noaddress": "Gar keine Kontaktdaten",
 
-  "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>E-Mail-Adresse:</em> {email}",
-  "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>E-Mail-Adresse:</em> {email}",
-  "donation_confirmation_inline_summary_anonymous": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}",
+  "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
+  "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
+  "donation_confirmation_inline_summary_anonymous": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}",
   
   "donation_form_addresstype_option_anonymous": "Ohne Adressangabe",
   "donation_form_address_choice_no": "Nein",
@@ -198,7 +199,7 @@
   "donation_form_payment_interval_6": "halbjährlich",
   "donation_form_payment_interval_title": "Wie häufig möchten Sie spenden?",
   "donation_form_SUB_payment_type_info": "Eine regelmäßige Zahlung per Sofortüberweisung ist nicht möglich.",
-  "donation_form_payment_summary": "Sie spenden: {interval} {formattedAmount} Euro via {paymentType}",
+  "donation_form_payment_summary": "Sie spenden: {interval} {formattedAmount} via {paymentType}",
   "donation_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
   "donation_form_payment_type_title": "Wie möchten Sie spenden?",
   "donation_form_salutation_error": "Bitte teilen Sie uns mit, wie Sie angesprochen werden möchten.",
@@ -246,7 +247,7 @@
   "membership_cancellation_text": "Ihr Mitgliedschaftsantrag mit der Nummer {membership_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">mitglieder@wikimedia.de</a>.",
 
   "membership_confirmation_thanks_text": "Vielen Dank für Ihr Engagement!",
-  "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFee} Euro {paymentInterval}</strong> {membershipFeeYearly}<br>als {address}",
+  "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted}<br>als {address}",
   "membership_confirmation_success_text": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket per Post. Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_cancel_button": "Mitgliedschaft stornieren",
@@ -326,9 +327,9 @@
 
   "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
-  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} Euro via Banküberweisung",
+  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} via Banküberweisung",
   "donation_confirmation_summary_title_alt": "Sie erhalten Ihre Spendenquittung an folgende Adresse:",
-  "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount} Euro</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Benötigen Sie eine Spendenquittung?",
   "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse."
 }
