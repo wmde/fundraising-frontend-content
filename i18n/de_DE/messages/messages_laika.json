@@ -12,6 +12,8 @@
   "address_change_form_success_label": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Zuwendungsbescheinigung an Ihre neue Adresse.",
   "address_change_form_success_optout_label": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an spenden@wikimedia.de wenden.",
   "address_change_opt_out_hint": "Sie können uns Ihre aktuelle Adresse auch mitteilen, wenn Sie keine Bescheinigung erhalten möchten.",
+  "address_change_no_token_in_request": "Unberechtigter Zugriff auf Adressänderung. Bitte wenden Sie sich an spenden@wikimedia.de wenn Sie einen Link zur Adressänderung haben, der nicht funktioniert.",
+  "address_change_token_not_found": "Adressänderung nicht möglich. Links, die Sie zur Adressänderung bekommen sind nur einmal gültig. Wenn Sie Ihre Adresse erneut korrigieren möchten, wenden Sie sich bitte per Mail an spenden@wikimedia.de oder benutzen Sie das Kontaktformular.",
 
   "back_to_donation_summary": "Zurück zur Spendenübersicht",
 
@@ -97,6 +99,7 @@
   "donation_confirmation_address_update_success": "Vielen Dank, Ihre Adresse wurde erfolgreich eingetragen.",
   "donation_confirmation_cancel_button": "Jetzt stornieren",
   "donation_confirmation_comment_button": "Spendenkommentar schreiben",
+  "donation_confirmation_inline_summary": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_newsletter_confirmation": "Auf Ihren Wunsch hin erhalten Sie von uns Informationen rund um die Spendenkampagne. Dies können Sie jederzeit widerrufen.",
   "donation_confirmation_membership_button": "Jetzt Mitglied werden",
   "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Rund 90.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
