@@ -22,8 +22,8 @@ class MessagesTest extends TestCase {
 
 	public function messageKeysDataProvider(): array {
 		return [
-			// TODO change 2nd param to en_US when the translations are ready
 			[ 'i18n/de_DE/messages/messages.json', 'i18n/de_DE/messages/messages.json' ],
+			[ 'i18n/de_DE/messages/messages_laika.json', 'i18n/de_DE/messages/messages.json' ],
 		];
 	}
 }
