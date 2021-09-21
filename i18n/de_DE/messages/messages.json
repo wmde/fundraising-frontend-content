@@ -314,8 +314,8 @@
 
   "currency_name": "Euro",
 
-  "cookie_heading": "Zustimmung zur Cookie-Nutzung für Wikimedia",
-  "cookie_content": "Wikipedia steht für Datensparsamkeit. Wir erstellen keine Profile, wir handeln nicht mit Daten. Wir erheben jedoch einzelne anonymisierte Daten, um insbesondere unsere Spendenbanner zu verbessern. Sie würden uns daher helfen, wenn Sie uns erlauben, einzelne Daten Ihres Besuchs temporär zu speichern und zu analysieren. Ihre anonymisierten Daten werden übrigens nur auf unseren Servern gespeichert und somit unter keinen Umständen mit Dritten geteilt. Für weitere Informationen lesen Sie bitte unsere <a href='/page/Datenschutz'>Datenschutzerklärung</a>.",
+  "cookie_heading": "Cookies helfen über die Spende hinaus",
+  "cookie_content": "Um die Wikipedia-Spendenbanner zu verbessern und sie so selten wie möglich zu schalten, brauchen wir temporär einzelne Daten von Ihnen. Diese werden anonymisiert, sicher auf unseren eigenen Servern gespeichert und unter keinen Umständen mit Dritten geteilt. <strong>Bitte entscheiden Sie sich für „Alle akzeptieren“; dann helfen Sie uns gleich doppelt.</strong> Für weitere Informationen lesen Sie bitte unsere <a href='/page/Datenschutz'>Datenschutzerklärung</a>.",
   "cookie_button_accept": "Alle akzeptieren",
   "cookie_button_save": "Cookies speichern",
   "cookie_button_check": "Cookies überprüfen",
@@ -325,7 +325,7 @@
   "cookie_option_required_heading": "Grundlegende Funktionen",
   "cookie_option_required_content": "Wir speichern Daten, die für die grundlegenden Funktionen der Seite erforderlich sind. Diese umfassen die Verhinderung missbräuchlicher Verwendung unserer Website  sowie versehentliches Mehrfachspenden. Zudem erleichtern wir das Ausfüllen der Formulare und stellen sicher, dass Ihnen nach einer Spende keine weiteren Spendenbanner angezeigt werden.",
   "cookie_option_optional_heading": "Verbesserung der Funktionen",
-  "cookie_option_optional_content": "Wir speichern Nutzungsdaten, die zur Verbesserung der Bedienbarkeit beitragen. Diese werden ausschließĺich durch uns gespeichert und analysiert. In keinem Fall werden sie an Dritte weitergegeben.",
+  "cookie_option_optional_content": "Wir speichern Nutzungsdaten, die zur Verbesserung der Bedienbarkeit beitragen. Diese werden ausschließlich durch uns gespeichert und analysiert, um die Spendenkampagnen so kurz wie möglich zu halten. <strong>Bitte entscheiden Sie sich für diese Option; dann helfen Sie uns gleich doppelt.</strong>",
 
   "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
