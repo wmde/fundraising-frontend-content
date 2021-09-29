@@ -20,11 +20,14 @@
   "mail_introduction_generic": "Sehr geehrte Damen und Herren,",
   "mail_introduction_male_formal": "Sehr geehrter Herr %spacedTitle%%lastName%,",
   "mail_introduction_female_formal": "Sehr geehrte Frau %spacedTitle%%lastName%,",
+  "mail_introduction_divers_formal": "Hallo %firstName% %lastName%,",
   "mail_introduction_family_formal": "Sehr geehrte Familie %spacedTitle%%lastName%,",
   "mail_introduction_male_informal": "Lieber %firstName%,",
   "mail_introduction_female_informal": "Liebe %firstName%,",
+  "mail_introduction_divers_informal": "Hallo %firstName% %lastName%,",
   "mail_introduction_family_informal": "Liebe Familie %lastName%,",
   "mail_introduction_male_lastname_informal": "Lieber Herr %spacedTitle%%lastName%,",
-  "mail_introduction_female_lastname_informal": "Liebe Frau %spacedTitle%%lastName%,"
+  "mail_introduction_female_lastname_informal": "Liebe Frau %spacedTitle%%lastName%,",
+  "mail_introduction_divers_lastname_informal": "Hallo %firstName% %lastName%,"
 }
 
