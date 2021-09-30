@@ -1,0 +1,24 @@
+{
+	"address" : {
+		"salutation": "^.+$",
+		"title": "",
+		"companyName": "^.+$",
+		"firstName": "^[A-Za-z\u00C0-\u00D6\u00D8-\u00f6\u00f8-\u00ff\\s\\-\\.\\']+$",
+		"lastName": "^[A-Za-z\u00C0-\u00D6\u00D8-\u00f6\u00f8-\u00ff\\s\\-\\.\\']+$",
+		"street": "^.+$",
+		"city": "^.+$",
+		"postcode": "^.+$",
+		"country": "^.+$",
+		"email": "^(.+)@(.+)\\.(.+)$"
+	},
+	"contactForm": {
+		"firstName": "^.+$",
+		"lastName": "^.+$",
+		"donationNumber": "^[0-9]*$",
+		"email": "^(.+)@(.+)\\.(.+)$",
+		"topic": "^.+$",
+		"subject": "^.+$",
+		"comment": "(\n|.)+"
+	},
+	"dateOfBirth": "^\\d{2}(\\/)\\d{2}(\\/)\\d{4}"
+}

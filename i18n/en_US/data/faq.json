@@ -1,0 +1,153 @@
+{
+	"topics": [{
+			"id": "1",
+			"name": "Overview"
+		},
+		{
+			"id": "2",
+			"name": "Other Donation Options"
+		},
+		{
+			"id": "3",
+			"name": "Donations and Memberships"
+		},
+		{
+			"id": "4",
+			"name": "Fundraising Campaign"
+		},
+		{
+			"id": "5",
+			"name": "Wikimedia"
+		},
+		{
+			"id": "6",
+			"name": "Wikimedia Projects"
+		}
+	],
+	"questions": [{
+			"question": "Can I simply transfer the funds to your donation account?",
+			"visible_text": "<p>Please use the following bank details for your donations by bank transfer:<br /><br /><strong>Wikimedia</strong><br /><strong>IBAN: DE33 1002 0500 0001 1947 00</strong><br /><strong>BIC: BFSWDE33BER</strong></p><p>If you enter your address details in the reference line, we can issue a donation receipt for you. If you prefer, you can also use the address form to submit your address: <ul><li>Select and open our donation form.</li><li>Select the option \"bank transfer\" and enter your address.</li><li>We'll send you your personal bank transfer code.</li><li>Just enter this bank transfer code as the reference of your bank transfer.</li></ul>That way, we can automatically match your address and the payment and it is the easiest way for us to issue a donation receipt. Thank you for your commitment to supporting us.</p>",
+			"topic": "1,2"
+		},
+		{
+			"question": "How can I support you by text message?",
+			"visible_text": "<p><strong>Help by text message:</strong> Please send the word \"WIKI\" to the number 81190.</p><p>Of the amount of EUR 5, EUR 4.83 go directly to Wikimedia, and the service provider receives 17 cents. Additional costs for a standard text message may also apply depending on the terms and conditions of your mobile phone contract. The amount is only debited once and you do not enter into any further obligations. Please note that contributions sent by text message are not tax deductible as donations. Thank you for your commitment to supporting us.</p>",
+			"topic": "2"
+		},
+		{
+			"question": "Is it possible to make a donation if I do not want to enter any address details?",
+			"visible_text": "In the section \"personal details\" on our donation form, you can select the option \"without providing address details\". This option is available for all payment methods, except for donations via direct debit. Please note that without your address details, we cannot issue a donation receipt for your tax declaration.",
+			"topic": "1,3"
+		},
+		{
+			"question": "How can I cancel my periodic donation?",
+			"visible_text": "Just send us a message. The easiest way is to send this via our <a href=\"/contact/get-in-touch\">contact form</a>. Or you can call us at +49 (0)30 219 158 26 19. Since donations are always voluntary, no cancellation periods apply.",
+			"topic": "3"
+		},
+		{
+			"question": "How can I change my new address / bank details at Wikimedia?",
+			"visible_text": "Just send us a message. The easiest way is to send this via our <a href=\"/contact/get-in-touch\">contact form</a>. Or you can call us at +49 (0)30 219 158 26 19.",
+			"topic": "1,3"
+		},
+		{
+			"question": "I am experiencing technical problems when trying to donate. Who can help me?",
+			"visible_text": "<p>We are very sorry that you experienced technical problems during the donation process. Please accept our apologies for any inconvenience caused. We would like to understand what caused the problems and narrow them down and would therefore be very grateful if you were able to provide us with the following information:</p><ul><li>Did you use a desktop computer, a mobile phone, or a tablet to make your donation?</li><li>Which browser and which operating system (please include the currently used version) did you use?</li><li>Can you visualize the problem with a screenshot?</li></ul><p>The easiest way to send us this information is by using our <a href=\"/contact/get-in-touch\">contact form</a>. Or you can call us at +49 (0)30 219 158 26 19. We will immediately check what might have caused the problem and of course try to resolve any potential error.</p><p>Alternatively, you can also transfer your donation to the following account:<br /><strong>IBAN: DE33 1002 0500 0001 1947 00</strong><br /><strong>BIC: BFSWDE33BER</strong></p><p>If you would like to receive a donation receipt, please enter your full address into the reference line. If you donate EUR 5 or more, you will automatically receive a donation receipt by post at the end of Q1 of the following year.</p>",
+			"topic": "3"
+		},
+		{
+			"question": "What is the difference between a (periodic) donation and a sustaining membership?",
+			"visible_text": "<p>There are many similarities between these two types of support and a few important differences. Periodic donations and sponsoring memberships are the same in many ways:</p><ul><li>Both are important for supporting Wikipedia and free knowledge.</li><li>Both forms are tax deductible</li><li>We send donation receipts for all donations - be they donations or membership fees.</li><li>Both are voluntary services that can be revoked at any time.</li></ul><p>Sponsoring members, however, get added benefits:</p><ul><li>More information about Wikimedia and more opportunities to participate. This gives the sponsoring members a good insight into the diverse projects for the promotion of free knowledge in Germany.</li><li>As a sponsoring member, you also support the association financially with a regular contribution, thereby giving us important planning security.</li><li>Lastly, the number of sponsors plays a major role in making us heard as an organisation.</li></ul><p>Not only private persons, but businesses can become sponsoring members.</p>",
+			"topic": "3"
+		},
+		{
+			"question": "What is the difference between a sustaining membership and an active membership?",
+			"visible_text": "<p>As a sponsoring member, you provide financial support to the association with an annual contribution, providing us with a secure basis for our planning processes as a result. The financial contribution is important, yet the number of our sustaining members also plays a significant role to make ourselves heard as an organisation. Private persons or businesses can become sponsoring members. You will be invited to events, and on request, you will receive information about the association and from the association.</p><p>Active members additionally support the association with active participation. They are the heart of Wikimedia Deutschland and have all the statutory rights and obligations. In particular, this includes the right to submit proposals to the board and at members' meetings, the active and passive voting right and the right to vote and to speak at members' meetings. Active members organise and shape the events and the work of the association Wikimedia Deutschland. They are actively involved in the association in line with their personal interests and the time available to them.</p>",
+			"topic": "3"
+		},
+		{
+			"question": "What is the discounted membership and how do I apply for it?",
+			"visible_text": "<p>For people with limited financial resources (e.g. people who receive social welfare payments or a small pension, are studying, currently doing their vocational training or going to school), we can reduce the membership fee. The reduced membership fee is EUR 12 per year. Becoming a member at a reduced membership fee works as follows: </p><ol><li>Please complete the <a href=\"/apply-for-membership\">membership form</a> and select the minimum membership fee of EUR 24.</li><li>Afterwards, please send an email to <a href=\"mailto:mitglieder@wikimedia.de\">members@wikimedia.de</a>, stating that you would like to pay a reduced membership fee.</li><li>Please include the relevant proof to show why you are eligible for a reduced membership fee payment.</li><li>We will take care of the rest.</li></ol>",
+			"topic": "3"
+		},
+		{
+			"question": "How can I cancel my membership?",
+			"visible_text": "You can send an informal written cancellation of your sponsoring membership at any time. If you want to cancel by email, please write to <a href=\"mailto:mitglieder@wikimedia.de\">members@wikimedia.de</a>. As laid down in our statutes, you can cancel an active membership at the end of each year. Again, an email to <a href=\"mailto:mitglieder@wikimedia.de\">members@wikimedia.de</a> is sufficient. Of course you can also use our <a href=\"/contact/get-in-touch\">contact form</a> to let us know about the cancellation.",
+			"topic": "3"
+		},
+		{
+			"question": "Do I get a donation receipt for my donation / my membership fee?",
+			"visible_text": "<p>The Wikimedia Fördergesellschaft and Wikimedia Deutschland are recognised as non-profit meaning we can issue donation receipts.</p><p>As a thank you and a sign of our appreciation, we automatically issue a donation receipt for every donation over 5 euro and every membership fee. This will only not happen if you expressly request it. We always send out the certificates at the end of the first quarter of the following year. If you need your donation receipt sooner, let us know. On request, we are happy to send the confirmation earlier.</p><p>For donations under 5 euro, we offer the simplified notification of donation, which is sufficient in connection with the account statement as proof of the donation. We offer you the simplified notification of donations for donations to the Wikimedia Fördergesellschaft as a <a href=\"/resources/de_DE/Vereinfachter_Zuwendungsbescheid_Foerdergesellschaft.pdf\" target=\"_blank\">PDF document</a>.</p><p>If you donated less than 5 euro and want to receive a donation receipt, this is not a problem. We will be happy to send you a confirmation. To request one send us a message using our <a href=\"/contact/get-in-touch\">contact form</a>.</p>",
+			"topic": "1,3"
+		},
+		{
+			"question": "When do I receive the donation receipt?",
+			"visible_text": "<p>The donation receipts are sent in March of each year. We choose this time because the donation campaign lasts until the end of the previous year. The extensive preparations necessary for the cost-efficient bulk distribution of the donation receipts cannot be completed any earlier.</p><p>Please let us know if you need the donation receipt sooner, as we will happily send it earlier upon request. To do so send us a message via our <a href=\"/contact/get-in-touch\">contact form</a>.</p>",
+			"topic": "3"
+		},
+		{
+			"question": "What is the purpose of the donation campaign?",
+			"visible_text": "Wikipedia is made possible by the voluntary commitment of authors as well as by donors. Wikipedia is not funded through advertising; an objective encyclopedia would lose its credibility if it did that. Wikipedia is primarily funded through voluntary contributions in the form of donations and membership fees. This is why we launch a donation campaign once a year over several weeks and ask our readers for a small contribution. The donation campaign ends as soon as we reach the fundraising target.",
+			"topic": "4"
+		},
+		{
+			"question": "When does the donation campaign take place?",
+			"visible_text": "In Germany, the donation campaign takes place during the last six or seven weeks of each year. Other non-profit organisations normally request donations from their supporters around the end of the year and Christmas time. Internationally, the Wikimedia donation campaign takes place at different times, although the focus is on the final months of the year.",
+			"topic": "4"
+		},
+		{
+			"question": "Why do I occasionally see donation request banners even if the donation campaign is always at the end of the year?",
+			"visible_text": "<p>This year, our annual donation campaign takes place from November. As in previous years, the campaign ends as soon as the target amount for all plans to develop Wikipedia further and for other projects to foster free knowledge have been reached. If this target is not met, the campaign will cease on 31st of December. In order to run this campaign as smoothly as possible for our supporters, we show the Wikipedia donation banner to a few visitors in advance in order to test the acceptance of new forms to donate, and to load test the technical performance of our servers .</p><p>You can close the banner at any time with a click on the close button in the top right-hand corner. In addition, if you are logged in, you won't see the donation banner. This means you can create a <a href=\"https://en.wikipedia.org/wiki/Special:CreateAccount\">free user account</a> in Wikipedia or log in with your existing user account and the banners will no longer be visible.</p>",
+			"topic": "4"
+		},
+		{
+			"question": "I have already donated, but still see donation requests. Why?",
+			"visible_text": "<p>After completing a donation, a cookie is created to ensure that the donation banner is no longer visible to the donor. Naturally, this only applies to donations that were sent via the donation form on this website. If you continue to see the banner, it is possible that your browser settings prevent us from creating our cookies. Please note that cookies are browser-specific, which means that the donation banner appears again if you visit Wikipedia using a different browser after your donation.</p><p>In addition to closing the banner, you can always open a <a href=\"https://en.wikipedia.org/wiki/Special:CreateAccount\">free user account</a> in Wikipedia. If you are logged in via this user account, you won't see the donation banner, either. As a general rule, the donation banner will be displayed for a maximum of 10 times to each person.</p>",
+			"topic": "4"
+		},
+		{
+			"question": "How can I hide the donation request banners?",
+			"visible_text": "<p>You can close the banner at any time with a click on the close button in the top right-hand corner. This prevents donation banners from being displayed for a period of two weeks. If you are logged in with your <a href=\"https://de.wikipedia.org/wiki/Spezial:Benutzerkonto_anlegen\">free user account</a> , you won't see the donation banner.</p><p>A cookie is created after the completion of the donation to ensure that the donation banner is no longer visible to the donor. Naturally, this only applies to donations made via the donation form on our website https://spenden.wikimedia.de. Please note that cookies are browser-specific, which means that you will still see donation banners if you visit Wikipedia using a different browser after your donation.</p><p>As a general rule, the donation banner will be displayed for a maximum of 10 times to each person. If you continue to see the banner, it is possible that your browser settings prevent us from placing our cookies.</p>",
+			"topic": "1,4"
+		},
+		{
+			"question": "What is the difference between Wikipedia and Wikimedia?",
+			"visible_text": "<p>Wikimedia is the non-profit movement behind Wikipedia. It runs the project, supports the work of the voluntary authors and makes is easier through ongoing technical developments. Wikimedia is an international movement, with the US-American Wikimedia Foundation (WMF) at the centre. The WMF runs the Wikipedia and – among other responsibilities – is in charge of the international donation campaign. In addition, Wikimedia is represented in approximately 40 countries to promote free knowledge locally. In Germany, the organisation is represented through the association Wikimedia Deutschland e. V. (WMDE) and the affiliated Wikimedia Fördergesellschaft (WMFG). While WMDE works on a project basis, the WMFG is in charge of organising the donation campaign. Both are recognised as nonprofit organisations and issue donation receipts.</p><p>Consequently, Wikipedia is the international project; Wikimedia is the collective term for the organisations behind Wikipedia and its sister projects.</p>",
+			"topic": "5"
+		},
+		{
+			"question": "What is the difference between Wikimedia Deutschland and the Wikimedia Fördergesellschaft?",
+			"visible_text": "<p>Wikimedia is the non-profit organisation behind Wikipedia. In Germany, Wikimedia consists of two entities: Wikimedia Deutschland e. V. (WMDE) and its 100% subsidiary Gemeinnützige Wikimedia Fördergesellschaft mbH (WMFG).</p><p>The WMFG is the recipient of the donations. It has the purpose to transfer funds to the US-American Wikimedia Foundation (WMF) to run and expand the Wikimedia projects and for international programmes. The WMFG also transfers funds to Wikimedia Deutschland e. V., where the projects of the association are realised. For more information about Wikimedia Deutschland, please take a look at <a href=\"https://www.wikimedia.de/\" target=\"_blank\">our website</a>. For more information about the Wikimedia Foundation, please take a look at <a href=\"https://www.wikimediafoundation.org\" target=\"_blank\">www.wikimediafoundation.org</a>.</p>",
+			"topic": "5"
+		},
+		{
+			"question": "What are the funds used for?",
+			"visible_text": "<p>You can check our <a href=\"/use-of-funds\">transparency page</a> to see how the funds are used. You will find further explanations about how the donations are used, and the detailed project descriptions in the annual reports of Wikimedia Deutschland and the Wikimedia Foundation.</p>",
+			"topic": "5"
+		},
+		{
+			"question": "Who sets the fundraising targets?",
+			"visible_text": "The goals of the donation campaign result from the annual plans of Wikimedia Deutschland (WMDE) and the Wikimedia Foundation (WMF). In these annual plans, the goals for the coming year are defined, and also projects and programmes that are necessary to achieve these goals. This determines the budget needed for next year and the proceeds that are required from donations (and in the case of WMDE, from membership fees) which form a major part of the budget. For both the WMF and WMDE, the donation campaign is the most important measure to fund the projects to promote free knowledge in the following year. The annual plans of the two organizations are available as links on our <a href=\"/use-of-funds\">transparency page</a>.",
+			"topic": "5"
+		},
+		{
+			"question": "Why is Wikipedia funded by donations rather than advertising?",
+			"visible_text": "It is one of the cornerstones of our identity to not place any adverts in Wikipedia or on the other project pages run by the Wikimedia Foundation. We do this to ensure lasting freedom and independence. Additionally, advertising is not compatible with the goal of providing an objective encyclopedia. For the management and further expansion of current projects, that means we depend on donations from the Wikipedia users. During the current online donation campaign – limited to a few weeks each year – we generate by far the largest part of the funds we need.",
+			"topic": "5"
+		},
+		{
+			"question": "What is Free Knowledge and what has that got to do with Wikipedia?",
+			"visible_text": "<p>Imagine a world where all human knowledge is freely accessible to everybody. With this vision, Jimmy Wales started Wikipedia. The idea was for Wikipedia to become an encyclopedia where everybody can participate. This particularly applies to the joint editing of content, which is only possible if knowledge is made available for free. Knowledge is truly free when it is freely accessible and usable for all human beings. All Wikipedia content can be freely reused by everybody without infringing copyright or having to pay fees. This is how volunteer authors share their knowledge in Wikipedia, turning the free online encyclopedia into one of the most important sources of information. Knowledge from the other Wikimedia projects is also available to all – for example in the form of photos and videos from the free media archive Wikimedia Commons.</p><p>As an association to promote free knowledge, we are working on making sure that projects such as Wikipedia can continue to exist in the future and that Free Knowledge becomes a matter of course in our society.</p>",
+			"topic": "6"
+		},
+		{
+			"question": "I have questions about Wikipedia articles. Who should I contact?",
+			"visible_text": "<p>You have two options to get in touch with Wikipedia authors. You can write your questions on the corresponding discussion page (or talk page) available for each article. Or you can send an email to the volunteers from the Wikipedia support team: <a href=\"mailto:info-de@wikimedia.org\">info-de@wikimedia.org</a>.</p><p>In both cases, please bear in mind that volunteer authors are working on and discussing the content in Wikipedia content. At times, it can therefore happen that enquiries are not answered immediately.</p>",
+			"topic": "6"
+		},
+		{
+			"question": "In addition to Wikipedia, what are the other Wikimedia projects?",
+			"visible_text": "<p>Currently, Wikipedia is accompanied by nine other large sister projects. The two largest projects are the free media archive Wikimedia Commons with currently more than 60 million free photos, graphics, audio and video files, and the free knowledge database Wikidata developed by Wikimedia Deutschland, with currently almost 100 million freely available data records. At <a href=\"https://www.wikimedia.de/projekte\">www.wikimedia.de/projekte</a> you can find more information about the major Wikimedia projects.</p><p>In addition, there are other projects to promote free knowledge in Germany and worldwide. In our <a href=\"/use-of-funds\">page about the use of funds</a>, you can find explanations and information about these projects and links to detailed project descriptions in the annual reports.</p>",
+			"topic": "6"
+		}
+	]
+}
