@@ -336,8 +336,8 @@
   "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse.",
 
   "donation_form_provisional_address_choice_title_var": "Sie bestimmen, ob und welche Kontaktdaten Sie angeben.",
-  "donation_form_provisional_address_choice_title_notice_var": "(Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.)",
-  "donation_form_provisional_address_choice_fulladdress_notice_var": "(Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.)",
-  "donation_form_provisional_address_choice_emailonly_notice_var": "(Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.)",
-  "donation_form_provisional_address_choice_noaddress_notice_var": "(Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail. Sie erhalten von uns keine Information, wenn Wikipedia wieder Hilfe braucht.)"
+  "donation_form_provisional_address_choice_title_notice_var": "Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.",
+  "donation_form_provisional_address_choice_fulladdress_notice_var": "Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
+  "donation_form_provisional_address_choice_emailonly_notice_var": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
+  "donation_form_provisional_address_choice_noaddress_notice_var": "Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail. Sie erhalten von uns keine Information, wenn Wikipedia wieder Hilfe braucht."
 }
