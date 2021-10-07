@@ -1,0 +1,37 @@
+{
+	"salutations": [
+		{
+			"label": "Herr",
+			"value": "Herr",
+			"export_value": "Herr",
+			"display": "Herr",
+			"greetings" : {
+				"formal": "mail_introduction_male_formal",
+				"informal": "mail_introduction_male_informal",
+				"last_name_informal": "mail_introduction_male_lastname_informal"
+			}
+		},
+		{
+			"label": "Frau",
+			"value": "Frau",
+			"export_value": "Frau",
+			"display": "Frau",
+			"greetings" : {
+				"formal": "mail_introduction_female_formal",
+				"informal": "mail_introduction_female_informal",
+				"last_name_informal": "mail_introduction_female_lastname_informal"
+			}
+		},
+		{
+			"label": "Divers",
+			"value": "Divers",
+			"export_value": "Divers",
+			"display": "",
+			"greetings" : {
+				"formal": "mail_introduction_divers_formal",
+				"informal": "mail_introduction_divers_informal",
+				"last_name_informal": "mail_introduction_divers_lastname_informal"
+			}
+		}
+	]
+}
