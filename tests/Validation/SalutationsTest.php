@@ -37,8 +37,8 @@ class SalutationsTest extends TestCase {
 	/**
 	 * @dataProvider salutationsDataProvider
 	 */
-	public function testGreetingsItemsExist( array $salutation ): void {
-		$file = file_get_contents( __DIR__ . '/../../i18n/de_DE/messages/mail.json' );
+	public function testGreetingsItemsExist( array $salutation, string $locale ): void {
+		$file = file_get_contents( __DIR__ . "/../../i18n/{$locale}/messages/mail.json" );
 		$mailData = json_decode( $file, true );
 
 		$this->assertArrayHasKey( $salutation['greetings']['formal'], $mailData );
@@ -47,11 +47,17 @@ class SalutationsTest extends TestCase {
 	}
 
 	public function salutationsDataProvider(): \Generator {
-		$file = file_get_contents( __DIR__ . '/../../i18n/de_DE/data/salutations.json' );
-		$data = json_decode( $file, true );
-
-		foreach ( $data['salutations'] as $salutation ) {
-			yield [ $salutation ];
+		foreach ( $this->loadSalutationsFromFile( 'de_DE/data/salutations.json' ) as $salutation ) {
+			yield [ $salutation, 'de_DE' ];
 		}
+		foreach ( $this->loadSalutationsFromFile( 'en_GB/data/salutations.json' ) as $salutation ) {
+			yield [ $salutation, 'en_GB' ];
+		}
+	}
+
+	private function loadSalutationsFromFile( string $path ): array {
+		$file = file_get_contents( __DIR__ . '/../../i18n/' . $path );
+		$data = json_decode( $file, true );
+		return $data['salutations'];
 	}
 }

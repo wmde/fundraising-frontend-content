@@ -1,0 +1,33 @@
+{
+	"mail_subject_getintouch": "You have questions, we have answers",
+	"mail_subject_getintouch_forward": "Request through the contact form",
+	"mail_subject_confirm_donation": "You donated to Wikipedia and Free Knowledge. Awesome.",
+	"mail_subject_confirm_donation_promise": "You want to donate to Wikipedia and Free Knowledge. Awesome.",
+	"mail_subject_confirm_cancellation": "Donation Cancellation Confirmation",
+	"mail_subject_subscription": "Please confirm that you want to support Wikipedia.",
+	"mail_subject_subscription_confirmed": "Thank you. We now have everything we need.",
+
+	"mail_subject_confirm_membership_application_active": "Your continued commitment as an active member of Wikimedia",
+	"mail_subject_confirm_membership_application_sustaining": "Your continued commitment as a supporting member at Wikimedia",
+	"mail_subject_confirm_membership_application_cancellation": "Cancellation of your membership to Wikimedia Deutschland e. V.",
+
+	"donation_payment_interval_0": "once",
+	"donation_payment_interval_1": "monthly",
+	"donation_payment_interval_3": "quarterly",
+	"donation_payment_interval_6": "every 6 months",
+	"donation_payment_interval_12": "yearly",
+
+	"mail_introduction_generic": "Dear Madame or Sir,",
+	"mail_introduction_male_formal": "Dear Mr %spacedTitle%%lastName%,",
+	"mail_introduction_female_formal": "Dear Ms %spacedTitle%%lastName%,",
+	"mail_introduction_divers_formal": "Hello %firstName% %lastName%,",
+	"mail_introduction_family_formal": "Dear Family %spacedTitle%%lastName%,",
+	"mail_introduction_male_informal": "Hello %firstName%,",
+	"mail_introduction_female_informal": "Hello %firstName%,",
+	"mail_introduction_divers_informal": "Hello %firstName% %lastName%,",
+	"mail_introduction_family_informal": "Hello Family %lastName%,",
+	"mail_introduction_male_lastname_informal": "Hello Mr %spacedTitle%%lastName%,",
+	"mail_introduction_female_lastname_informal": "Hello Ms %spacedTitle%%lastName%,",
+	"mail_introduction_divers_lastname_informal": "Hello %firstName% %lastName%,"
+}
+

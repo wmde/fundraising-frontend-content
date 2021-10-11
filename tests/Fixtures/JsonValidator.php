@@ -34,8 +34,6 @@ class JsonValidator {
 	private function getJsonKeys( string $path ): array {
 		$file = file_get_contents( $this->basePath . $path );
 		$data = json_decode( $file, true );
-		$filteredData = array_filter( $data, fn( $value ) => $value !== "" );
-
-		return array_keys( $filteredData );
+		return array_keys( $data );
 	}
 }
