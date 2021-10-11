@@ -238,7 +238,7 @@
   "error_page": "Something went wrong. Please wait approximately 30 minutes and try again. Or you can contact us directly via our <a href=\"/contact/get-in-touch\">contact form</a>.",
   "error_pages_return_to_donation": "Something went wrong. Please return to the donation form.",
 
-  "form_for_example": "e.g. (example}",
+  "form_for_example": "e.g. {example}",
   "form_autocomplete_prompt": "Enter city or select from the list",
 
   "faq_headline": "Frequently asked questions",
