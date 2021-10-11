@@ -227,7 +227,7 @@
   "donation_form_summary_bank_transfer_payment": "After selecting \"Donate now\", you will receive our account details and a specific reference that you will need for your bank transfer.",
   "donation_form_zip_error": "Please enter a valid postcode.",
   "donation_form_zip_label": "Postcode",
-  "donation_form_zip_placeholder": 25950,
+  "donation_form_zip_placeholder": "25950",
   "donation_form_zip_placeholder_warning": "Are your sure that your postcode is 25950?",
 
   "donation_rejected_limit": "You donated a very short while ago. Please wait approximately 30 minutes. This is to help people avoid making multiple donations by mistake.",
