@@ -78,7 +78,7 @@
   "donation_comment_popup_error": "Apologies, there seems to have been an error processing your comment.",
   "donation_comments_title": "Donation comments",
   "donation_comments_text": "You can add a comment after the donation process is completed.",
-  "donation_comments_donor_headline": "{amount} € by {donor}",
+  "donation_comments_donor_headline": "{formattedAmount} by {donor}",
   "comment_failure_donation_error": "Something went wrong. We are sorry, but for technical reasons, we were unable to process your comment.",
   "comment_failure_donation_not_found": "Something went wrong. We are sorry, but for technical reasons, we were unable to load the donation comment function.",
   "comment_failure_donation_has_comment": "You have already added a comment for this donation.",
