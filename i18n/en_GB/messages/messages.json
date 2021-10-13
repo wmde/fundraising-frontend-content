@@ -34,7 +34,7 @@
   "contact_form_body_label": "Your message to us",
   "contact_form_body_error": "Please review your message. An error seems to have occurred.",
   "contact_form_donation_number_label": "Donation number or address number",
-  "contact_form_donation_number_placeholder": 1234567,
+  "contact_form_donation_number_placeholder": "1234567",
   "contact_form_donation_number_error": "Please review your input. Please only enter numbers here.",
   "contact_form_error": "Please review your input into the contact form.",
   "contact_form_email_label": "Email",
