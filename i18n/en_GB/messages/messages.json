@@ -1,8 +1,8 @@
 {
-  "access_denied": "You are not authorized to view this page.",
+  "access_denied": "You are not authorised to view this page.",
   "access_denied_header": "Error",
-  "access_denied_donation_confirmation": "You are not authorized to view this donation.",
-  "access_denied_membership_confirmation": "You are not authorized to view this membership application.",
+  "access_denied_donation_confirmation": "You are not authorised to view this donation.",
+  "access_denied_membership_confirmation": "You are not authorised to view this membership application.",
   "access_denied_membership_confirmation_anonymized": "Your membership application was completed successfully, but the confirmation page can no longer be displayed. If you have any questions concerning your membership, please contact us by email at <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder@wikimedia.de</a>.",
 
   "address_change_form_title": "Change address",
