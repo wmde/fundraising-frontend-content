@@ -1,0 +1,13 @@
+{
+	"paytext_cc": "I will donate",
+	"0": "once",
+	"1": "monthly",
+	"3": "quarterly",
+	"6": "twice yearly",
+	"12": "annually",
+	"payment_interval_0": "once",
+	"payment_interval_1": "monthly",
+	"payment_interval_3": "quarterly",
+	"payment_interval_6": "twice yearly",
+	"payment_interval_12": "annually"
+}

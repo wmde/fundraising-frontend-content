@@ -1,0 +1,1498 @@
+{
+	"countries": [
+		{
+			"countryCode": "DE",
+			"countryFullName": "Germany",
+			"group": "",
+			"postCodeValidation": "^[0-9]{5}$"
+		},
+		{
+			"countryCode": "AT",
+			"countryFullName": "Austria",
+			"group": "",
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "CH",
+			"countryFullName": "Switzerland",
+			"group": "",
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "BE",
+			"countryFullName": "Belgium",
+			"group": "",
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "IT",
+			"countryFullName": "Italy",
+			"group": "",
+			"postCodeValidation": "^[0-9]{5}$"
+		},
+		{
+			"countryCode": "LI",
+			"countryFullName": "Liechtenstein",
+			"group": "",
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "LU",
+			"countryFullName": "Luxembourg",
+			"group": "",
+			"postCodeValidation": "^[0-9]{4}$"
+		},
+		{
+			"countryCode": "AF",
+			"countryFullName": "Afghanistan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AX",
+			"countryFullName": "Åland Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AL",
+			"countryFullName": "Albania",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DZ",
+			"countryFullName": "Algeria",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AS",
+			"countryFullName": "American Samoa",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AD",
+			"countryFullName": "Andorra",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AO",
+			"countryFullName": "Angola",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AI",
+			"countryFullName": "Anguilla",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AQ",
+			"countryFullName": "Antarctica",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AG",
+			"countryFullName": "Antigua and Barbuda",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AR",
+			"countryFullName": "Argentina",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AM",
+			"countryFullName": "Armenia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AW",
+			"countryFullName": "Aruba",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AU",
+			"countryFullName": "Australia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AZ",
+			"countryFullName": "Azerbaijan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BS",
+			"countryFullName": "Bahamas",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BH",
+			"countryFullName": "Bahrain",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BD",
+			"countryFullName": "Bangladesh",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BB",
+			"countryFullName": "Barbados",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BY",
+			"countryFullName": "Belarus",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BZ",
+			"countryFullName": "Belize",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BJ",
+			"countryFullName": "Benin",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BM",
+			"countryFullName": "Bermuda",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BT",
+			"countryFullName": "Bhutan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BO",
+			"countryFullName": "Bolivia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BQ",
+			"countryFullName": "Bonaire",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BA",
+			"countryFullName": "Bosnia and Herzegovina",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BW",
+			"countryFullName": "Botswana",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BV",
+			"countryFullName": "Bouvet Island",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BR",
+			"countryFullName": "Brazil",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IO",
+			"countryFullName": "British Indian Ocean Territory",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VG",
+			"countryFullName": "British Virgin Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BN",
+			"countryFullName": "Brunei",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BG",
+			"countryFullName": "Bulgaria",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BF",
+			"countryFullName": "Burkina Faso",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BI",
+			"countryFullName": "Burundi",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KH",
+			"countryFullName": "Cambodia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CM",
+			"countryFullName": "Cameroon",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CA",
+			"countryFullName": "Canada",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CV",
+			"countryFullName": "Cape Verde",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KY",
+			"countryFullName": "Cayman Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TD",
+			"countryFullName": "Chad",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CL",
+			"countryFullName": "Chile",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CX",
+			"countryFullName": "Christmas Island",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CC",
+			"countryFullName": "Cocos Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CO",
+			"countryFullName": "Colombia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KM",
+			"countryFullName": "Comoros",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CK",
+			"countryFullName": "Cook Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CR",
+			"countryFullName": "Costa Rica",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HR",
+			"countryFullName": "Croatia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CU",
+			"countryFullName": "Cuba",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CW",
+			"countryFullName": "Curaçao",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CY",
+			"countryFullName": "Cyprus",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CZ",
+			"countryFullName": "Czech Republic",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CD",
+			"countryFullName": "Democratic Republic of the Congo",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DK",
+			"countryFullName": "Denmark",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DJ",
+			"countryFullName": "Djibouti",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DM",
+			"countryFullName": "Dominica",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "DO",
+			"countryFullName": "Dominican Republic",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TL",
+			"countryFullName": "East Timor",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EC",
+			"countryFullName": "Ecuador",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EG",
+			"countryFullName": "Egypt",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SV",
+			"countryFullName": "El Salvador",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GQ",
+			"countryFullName": "Equatorial Guinea",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ER",
+			"countryFullName": "Eritrea",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EE",
+			"countryFullName": "Estonia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SZ",
+			"countryFullName": "Eswatini",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ET",
+			"countryFullName": "Ethiopia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FK",
+			"countryFullName": "Falkland Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FO",
+			"countryFullName": "Faroe Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FJ",
+			"countryFullName": "Fiji",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FI",
+			"countryFullName": "Finland",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FR",
+			"countryFullName": "France",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GF",
+			"countryFullName": "French Guiana",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PF",
+			"countryFullName": "French Polynesia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TF",
+			"countryFullName": "French Southern Territories",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GA",
+			"countryFullName": "Gabon",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GM",
+			"countryFullName": "Gambia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GE",
+			"countryFullName": "Georgia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GH",
+			"countryFullName": "Ghana",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GI",
+			"countryFullName": "Gibraltar",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GR",
+			"countryFullName": "Greece",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GL",
+			"countryFullName": "Greenland",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GD",
+			"countryFullName": "Grenada",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GP",
+			"countryFullName": "Guadeloupe",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GU",
+			"countryFullName": "Guam",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GT",
+			"countryFullName": "Guatemala",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GG",
+			"countryFullName": "Guernsey",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GN",
+			"countryFullName": "Guinea",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GW",
+			"countryFullName": "Guinea-Bissau",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GY",
+			"countryFullName": "Guyana",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HT",
+			"countryFullName": "Haiti",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HM",
+			"countryFullName": "Heard Island and McDonald Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HN",
+			"countryFullName": "Honduras",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HK",
+			"countryFullName": "Hong Kong",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "HU",
+			"countryFullName": "Hungary",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IS",
+			"countryFullName": "Iceland",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IN",
+			"countryFullName": "India",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ID",
+			"countryFullName": "Indonesia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IR",
+			"countryFullName": "Iran",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IQ",
+			"countryFullName": "Iraq",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IE",
+			"countryFullName": "Ireland",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IM",
+			"countryFullName": "Isle of Man",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "IL",
+			"countryFullName": "Israel",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CI",
+			"countryFullName": "Ivory Coast",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JM",
+			"countryFullName": "Jamaica",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JP",
+			"countryFullName": "Japan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JE",
+			"countryFullName": "Jersey",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "JO",
+			"countryFullName": "Jordan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KZ",
+			"countryFullName": "Kazakhstan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KE",
+			"countryFullName": "Kenya",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KI",
+			"countryFullName": "Kiribati",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KW",
+			"countryFullName": "Kuwait",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KG",
+			"countryFullName": "Kyrgyzstan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LA",
+			"countryFullName": "Laos",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LV",
+			"countryFullName": "Latvia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LB",
+			"countryFullName": "Lebanon",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LS",
+			"countryFullName": "Lesotho",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LR",
+			"countryFullName": "Liberia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LY",
+			"countryFullName": "Libya",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LT",
+			"countryFullName": "Lithuania",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MO",
+			"countryFullName": "Macau",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MG",
+			"countryFullName": "Madagascar",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MW",
+			"countryFullName": "Malawi",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MY",
+			"countryFullName": "Malaysia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MV",
+			"countryFullName": "Maldives",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ML",
+			"countryFullName": "Mali",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MT",
+			"countryFullName": "Malta",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MH",
+			"countryFullName": "Marshall Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MQ",
+			"countryFullName": "Martinique",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MR",
+			"countryFullName": "Mauretania",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MU",
+			"countryFullName": "Mauritius",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "YT",
+			"countryFullName": "Mayotte",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MX",
+			"countryFullName": "Mexico",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "FM",
+			"countryFullName": "Micronesia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MD",
+			"countryFullName": "Moldova",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MC",
+			"countryFullName": "Monaco",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MN",
+			"countryFullName": "Mongolia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ME",
+			"countryFullName": "Montenegro",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MS",
+			"countryFullName": "Montserrat",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MA",
+			"countryFullName": "Morocco",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MZ",
+			"countryFullName": "Mozambique",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MM",
+			"countryFullName": "Myanmar",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NA",
+			"countryFullName": "Namibia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NR",
+			"countryFullName": "Nauru",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NP",
+			"countryFullName": "Nepal",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NC",
+			"countryFullName": "New Caledonia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NZ",
+			"countryFullName": "New Zealand",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NI",
+			"countryFullName": "Nicaragua",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NE",
+			"countryFullName": "Niger",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NG",
+			"countryFullName": "Nigeria",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NU",
+			"countryFullName": "Niue",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NF",
+			"countryFullName": "Norfolk Island",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KP",
+			"countryFullName": "North Korea",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MK",
+			"countryFullName": "North Macedonia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MP",
+			"countryFullName": "Northern Mariana Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NO",
+			"countryFullName": "Norway",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "OM",
+			"countryFullName": "Oman",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PK",
+			"countryFullName": "Pakistan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PW",
+			"countryFullName": "Palau",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PS",
+			"countryFullName": "Palestine",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PA",
+			"countryFullName": "Panama",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PG",
+			"countryFullName": "Papua New Guinea",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PY",
+			"countryFullName": "Paraguay",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CN",
+			"countryFullName": "People's Republic of China",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PE",
+			"countryFullName": "Peru",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PH",
+			"countryFullName": "Philippines",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PN",
+			"countryFullName": "Pitcairn Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PL",
+			"countryFullName": "Poland",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PT",
+			"countryFullName": "Portugal",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PR",
+			"countryFullName": "Puerto Rico",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "QA",
+			"countryFullName": "Qatar",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "CG",
+			"countryFullName": "Republic of the Congo",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RE",
+			"countryFullName": "Réunion",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RO",
+			"countryFullName": "Romania",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RU",
+			"countryFullName": "Russia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RW",
+			"countryFullName": "Rwanda",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BQ",
+			"countryFullName": "Saba",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BL",
+			"countryFullName": "Saint Barthélemy",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SH",
+			"countryFullName": "Saint Helena, Ascension and Tristan da Cunha",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KN",
+			"countryFullName": "Saint Kitts and Nevis",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LC",
+			"countryFullName": "Saint Lucia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "MF",
+			"countryFullName": "Saint Martin",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "PM",
+			"countryFullName": "Saint Pierre and Miquelon",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VC",
+			"countryFullName": "Saint Vincent and the Grenadines",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "WS",
+			"countryFullName": "Samoa",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SM",
+			"countryFullName": "San Marino",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ST",
+			"countryFullName": "São Tomé and Príncipe",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SA",
+			"countryFullName": "Saudi Arabia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SN",
+			"countryFullName": "Senegal",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "RS",
+			"countryFullName": "Serbia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SC",
+			"countryFullName": "Seychelles",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SL",
+			"countryFullName": "Sierra Leone",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SG",
+			"countryFullName": "Singapore",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "BQ",
+			"countryFullName": "Sint Eustatius",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SX",
+			"countryFullName": "Sint Maarten",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SK",
+			"countryFullName": "Slovakia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SI",
+			"countryFullName": "Slovenia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SB",
+			"countryFullName": "Solomon Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SO",
+			"countryFullName": "Somalia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ZA",
+			"countryFullName": "South Africa",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GS",
+			"countryFullName": "South Georgia and the South Sandwich Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "KR",
+			"countryFullName": "South Korea",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SS",
+			"countryFullName": "South Sudan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ES",
+			"countryFullName": "Spain",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "LK",
+			"countryFullName": "Sri Lanka",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SD",
+			"countryFullName": "Sudan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SR",
+			"countryFullName": "Suriname",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SJ",
+			"countryFullName": "Svalbard and Jan Mayen",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SE",
+			"countryFullName": "Sweden",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "SY",
+			"countryFullName": "Syria",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TW",
+			"countryFullName": "Taiwan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TJ",
+			"countryFullName": "Tajikistan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TZ",
+			"countryFullName": "Tanzania",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TH",
+			"countryFullName": "Thailand",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "NL",
+			"countryFullName": "The Netherlands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TG",
+			"countryFullName": "Togo",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TK",
+			"countryFullName": "Tokelau",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TO",
+			"countryFullName": "Tonga",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TT",
+			"countryFullName": "Trinidad and Tobago",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TN",
+			"countryFullName": "Tunisia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TR",
+			"countryFullName": "Turkey",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TM",
+			"countryFullName": "Turkmenistan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TC",
+			"countryFullName": "Turks and Caicos Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "TV",
+			"countryFullName": "Tuvalu",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VI",
+			"countryFullName": "U.S. Virgin Islands",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UG",
+			"countryFullName": "Uganda",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UA",
+			"countryFullName": "Ukraine",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "AE",
+			"countryFullName": "United Arab Emirates",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "GB",
+			"countryFullName": "United Kingdom",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "US",
+			"countryFullName": "United States",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UY",
+			"countryFullName": "Uruguay",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "UZ",
+			"countryFullName": "Uzbekistan",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VU",
+			"countryFullName": "Vanuatu",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VA",
+			"countryFullName": "Vatican City",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VE",
+			"countryFullName": "Venezuela",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "VN",
+			"countryFullName": "Vietnam",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "WF",
+			"countryFullName": "Wallis and Futuna",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "EH",
+			"countryFullName": "Western Sahara",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "YE",
+			"countryFullName": "Yemen",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ZM",
+			"countryFullName": "Zambia",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		},
+		{
+			"countryCode": "ZW",
+			"countryFullName": "Zimbabwe",
+			"group": "Infrequent",
+			"postCodeValidation": "^.+$"
+		}
+	]
+}

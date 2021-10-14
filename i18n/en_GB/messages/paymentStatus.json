@@ -1,0 +1,10 @@
+{
+	"status-pending": "was recorded and is now checked",
+	"status-new": "was recorded and will be credited shortly",
+	"status-unconfirmed": "was recorded and is waiting for confirmation",
+	"status-pledge": "was confirmed and is waiting to be booked",
+	"status-booked": "was booked",
+	"status-booking": "is in the process of being credited",
+	"status-canceled": "was cancelled",
+	"status-unknown": "status unknown – please contact support"
+}

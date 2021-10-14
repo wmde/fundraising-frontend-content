@@ -1,0 +1,13 @@
+{
+  "field_required": "This field is required.",
+  "field_numeric": "Only numbers are allowed in this field.",
+  "incorrect_length": "Too many or too few characters",
+  "iban_blocked": "IBAN can not be used",
+  "iban_invalid": "IBAN is invalid",
+  "email_address_wrong_format": "Invalid email address format",
+  "email_address_invalid": "Invalid email address",
+  "email_address_domain_record_not_found": "Domain of the email address not found.",
+  "subscription_confirmation_code_not_found": "Unable to find entry with this confirmation code.",
+  "subscription_already_confirmed": "This email address was already confirmed.",
+  "invalid_payment_type": "Invalid payment method"
+}
