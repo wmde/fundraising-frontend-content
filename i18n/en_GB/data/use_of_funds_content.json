@@ -83,21 +83,25 @@
 			{
 				"name": "Google",
 				"budget": 161,
+				"budgetString": "161 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
 				"budget": 280,
+				"budgetString": "280 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
 				"budget": 70,
+				"budgetString": "70 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.12, "budgetCitation": ""
+				"budget": 0.12, "budgetCitation": "",
+				"budgetString": "0,12 Mrd. €"
 			}
 		],
 		"citationLabel": "Source"
