@@ -8,7 +8,7 @@
 	"mail_subject_subscription_confirmed": "Thank you. We now have everything we need.",
 
 	"mail_subject_confirm_membership_application_active": "Your continued commitment as an active member of Wikimedia",
-	"mail_subject_confirm_membership_application_sustaining": "Your continued commitment as a supporting member at Wikimedia",
+	"mail_subject_confirm_membership_application_sustaining": "Your continued commitment as a Sponsoring Member at Wikimedia",
 	"mail_subject_confirm_membership_application_cancellation": "Cancellation of your membership to Wikimedia Deutschland e. V.",
 
 	"donation_payment_interval_0": "once",
