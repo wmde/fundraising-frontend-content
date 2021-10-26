@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"headline": "Wofür wird Ihre Spende verwendet?",
+		"headline": "Wofür wird Ihre Spende verwendet?*",
 		"text": "Für eine organisatorisch und technisch stets verlässliche Wikipedia, heute und in Zukunft. Für freien Zugang zu umfassendem, vertrauenswürdigem Wissen immer und überall. Also für Sie – und alle Menschen weltweit."
 	},
 	"applicationOfFundsData": [
@@ -44,7 +44,7 @@
 		"international": {
 			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
 			"linkName": "Jahresplan Wikimedia Foundation",
-			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2020-2021"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2021-2022"
 		}
 	},
 	"benefitsList": {
@@ -75,34 +75,34 @@
 	"comparison": {
 		"headline": "Wieviel (oder wie wenig) wir brauchen",
 		"paragraphs": [
-			"Das Ziel unserer letzten Spendenkampagne betrug 8,7 Millionen €, ein wichtiger Teil der geplanten Gesamteinnahmen für das Jahr 2021. Das ist zweifelsohne viel Geld.",
+			"Das Ziel unserer letzten Spendenkampagne betrug 9,2 Millionen €, ein wichtiger Teil der geplanten Gesamteinnahmen für das Jahr 2022. Das ist zweifelsohne viel Geld.",
 			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
-			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 500 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
+			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 700 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
 		],
 		"subhead": "Vergleich der Jahresbudgets",
 		"companies": [
 			{
 				"name": "Google",
-				"budget": 161,
-				"budgetString": "161 Mrd. $",
+				"budget": 182,
+				"budgetString": "182 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
-				"budget": 280,
-				"budgetString": "280 Mrd. $",
+				"budget": 386,
+				"budgetString": "386 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
-				"budget": 70,
-				"budgetString": "70 Mrd. $",
+				"budget": 86,
+				"budgetString": "86 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.12,
-				"budgetString": "0,12 Mrd. €",
+				"budget": 0.15,
+				"budgetString": "0,15 Mrd. €",
 				"budgetCitation": ""
 			}
 		],
@@ -124,5 +124,5 @@
 		}
 	},
 	"callToAction": "Jetzt spenden",
-	"provisional": ""
+	"provisional": "*) vorläufig"
 }
