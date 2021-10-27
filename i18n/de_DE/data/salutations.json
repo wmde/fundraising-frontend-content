@@ -25,7 +25,7 @@
 		{
 			"label": "Divers",
 			"value": "Divers",
-			"export_value": "Divers",
+			"export_value": "divers",
 			"display": "",
 			"greetings" : {
 				"formal": "mail_introduction_divers_formal",

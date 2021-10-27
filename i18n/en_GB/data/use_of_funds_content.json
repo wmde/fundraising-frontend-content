@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"headline": "Where does my donation go*?",
+		"headline": "Where does my donation go?*",
 		"text": "It is for a Wikipedia that is always reliable in terms of organizational and technical aspects, now and in the future. For free access to encyclopedic, trustworthy knowledge at all times and wherever you are. It is also for you – and for all other people around the world."
 	},
 	"applicationOfFundsData": [
@@ -44,7 +44,7 @@
 		"international": {
 			"intro": "A detailed insight into our international activities can be found here: ",
 			"linkName": "Annual plan of the Wikimedia Foundation",
-			"linkUrl": "#"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2021-2022"
 		}
 	},
 	"benefitsList": {
@@ -75,33 +75,33 @@
 	"comparison": {
 		"headline": "How much (or how little) we need",
 		"paragraphs": [
-			"Our goal of the last donation campaign to reach €8.7 million in donations was an important part of our total planned revenue for 2021.",
-			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 500 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
+			"Our goal of the last donation campaign to reach €9.2 million in donations was an important part of our total planned revenue for 2022.",
+			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 700 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
 		],
 		"subhead": "Annual budgets – a comparison",
 		"companies": [
 			{
 				"name": "Google",
-				"budget": 161,
-				"budgetString": "$161m",
+				"budget": 182,
+				"budgetString": "$182b",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
-				"budget": 280,
-				"budgetString": "$280m",
+				"budget": 386,
+				"budgetString": "$386b",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
-				"budget": 70,
-				"budgetString": "$70m",
+				"budget": 86,
+				"budgetString": "$86b",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.12, "budgetCitation": "",
-				"budgetString": "$0.12m"
+				"budget": 0.15, "budgetCitation": "",
+				"budgetString": "$0.15b"
 			}
 		],
 		"citationLabel": "Source"
