@@ -100,8 +100,9 @@
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.15, "budgetCitation": "",
-				"budgetString": "$0.15b"
+				"budget": 0.17,
+				"budgetCitation": "",
+				"budgetString": "$0.17b"
 			}
 		],
 		"citationLabel": "Source"
