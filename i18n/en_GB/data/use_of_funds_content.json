@@ -7,13 +7,13 @@
 		{
 			"id": "software",
 			"title": "Software",
-			"percentage": 16,
+			"percentage": 18,
 			"text": "Up-to-date data from all over the world are the backbone of Wikipedia &amp; Co. To ensure that all Wikipedia language versions have easy access to a shared data pool, our software developers in Germany and worldwide are developing a secure and reliable technical infrastructure. This really simplifies the processes of amending and updating Wikipedia articles with the latest data."
 		},
 		{
 			"id": "international",
 			"title": "International and Technology",
-			"percentage": 40,
+			"percentage": 37,
 			"text": "Wikipedia is a global project. Therefore, we make a substantial contribution to funding the international activities that develop Wikipedia further. In this way, we also co-fund the global server infrastructure to run all Wikimedia projects, including Wikipedia in German."
 		},
 		{
@@ -25,7 +25,7 @@
 		{
 			"id": "society",
 			"title": "Society",
-			"percentage": 10,
+			"percentage": 11,
 			"text": "Through our EU- and Germany-wide civic engagement as well as our collaboration with institutions in the fields of culture, education and science, we unlock more content for Wikimedia projects and make it freely accessible – tapping into a lot of previously undetected treasure troves."
 		},
 		{
@@ -75,7 +75,7 @@
 	"comparison": {
 		"headline": "How much (or how little) we need",
 		"paragraphs": [
-			"Our goal of the last donation campaign to reach €9.2 million in donations was an important part of our total planned revenue for 2022.",
+			"Our goal of the fundraising campaign to reach €9.2 million in donations is an important part of our total planned revenue for 2022.",
 			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 700 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
 		],
 		"subhead": "Annual budgets – a comparison",
@@ -100,8 +100,9 @@
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.15, "budgetCitation": "",
-				"budgetString": "$0.15b"
+				"budget": 0.17,
+				"budgetCitation": "",
+				"budgetString": "$0.17b"
 			}
 		],
 		"citationLabel": "Source"
