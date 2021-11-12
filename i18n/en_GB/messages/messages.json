@@ -315,7 +315,7 @@
   "currency_name": "EUR",
 
   "cookie_heading": "Consent that Wikimedia may use cookies",
-  "cookie_content": "Wikipedia stands for data minimization. We do not set up any profiles or trade in data. However, we do capture individual anonymized data, particularly in order to improve our donation banners. You would therefore help us if you allowed us to temporarily store and analyze individual data of your visit. Your anonymized data will only be stored on our own servers and not be shared with third parties under any circumstances. For further information, please read our <a href='/page/Datenschutz'>Privacy Policy</a>.",
+  "cookie_content": "Wikipedia stands for data minimization. We do not set up any profiles or trade in data. However, we do capture individual anonymized data, particularly in order to improve our donation banners. You would therefore help us if you allowed us to store and analyze individual data of your visit. Your data will only be stored on our own servers and not be shared with third parties under any circumstances. For further information, please read our <a href='/page/Datenschutz'>Privacy Policy</a>.",
   "cookie_button_accept": "Accept all",
   "cookie_button_save": "Save cookies",
   "cookie_button_necessary": "Only necessary",
