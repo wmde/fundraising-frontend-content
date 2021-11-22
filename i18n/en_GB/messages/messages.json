@@ -324,6 +324,8 @@
   "cookie_option_required_content": "We store data necessary for the basic functioning of the website. This includes data to prevent any misuse our website as well as accidental multiple donations. In addition, we make completing the forms easier and ensure that you will not see any further donation banners once you have made a donation.",
   "cookie_option_optional_heading": "Improvements",
   "cookie_option_optional_content": "We store usage data to improve user-friendliness. This data is exclusively stored and analyzed by us. On no account will it be passed on to third parties.",
+  "cookie_link_imprint": "Legal notice",
+  "cookie_link_privacy_protection": "Privacy",
 
   "donation_confirmation_topbox_payment_title_alt": "Thank you very much for your donation!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Last step: bank transfer",
