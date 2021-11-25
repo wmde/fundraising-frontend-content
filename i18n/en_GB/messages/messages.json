@@ -339,5 +339,17 @@
   "donation_form_provisional_address_choice_title_notice_var": "We rarely get in touch. When we do, it's only to inform you when Wikipedia once again needs your help.",
   "donation_form_provisional_address_choice_fulladdress_notice_var": "This is the only way we can send you a donation receipt by post. You will also receive a confirmation by email.",
   "donation_form_provisional_address_choice_emailonly_notice_var": "You do not need a donation receipt, but you will receive a confirmation by email.",
-  "donation_form_provisional_address_choice_noaddress_notice_var": "You do not need a donation receipt or a confirmation by email. You will not receive any communication from us if Wikipedia needs help again."
+  "donation_form_provisional_address_choice_noaddress_notice_var": "You do not need a donation receipt or a confirmation by email. You will not receive any communication from us if Wikipedia needs help again.",
+
+  "C21_WMDE_Test_15_full_title": "Full contact details",
+  "C21_WMDE_Test_15_full_line_1": "Confirmation by email",
+  "C21_WMDE_Test_15_full_line_2": "Donation receipt by post",
+
+  "C21_WMDE_Test_15_email_title": "Email address only",
+  "C21_WMDE_Test_15_email_line_1": "Confirmation by email",
+  "C21_WMDE_Test_15_email_line_2": "No donation receipt",
+
+  "C21_WMDE_Test_15_none_title": "No contact details",
+  "C21_WMDE_Test_15_none_line_1": "No email confirmation",
+  "C21_WMDE_Test_15_none_line_2": "No donation receipt"
 }
