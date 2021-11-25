@@ -341,6 +341,7 @@
   "donation_form_provisional_address_choice_emailonly_notice_var": "You do not need a donation receipt, but you will receive a confirmation by email.",
   "donation_form_provisional_address_choice_noaddress_notice_var": "You do not need a donation receipt or a confirmation by email. You will not receive any communication from us if Wikipedia needs help again.",
 
+  "C21_WMDE_Test_15_header": "What's your preferred contact method?",
   "C21_WMDE_Test_15_full_title": "Full contact details",
   "C21_WMDE_Test_15_full_line_1": "Confirmation by email",
   "C21_WMDE_Test_15_full_line_2": "Donation receipt by post",

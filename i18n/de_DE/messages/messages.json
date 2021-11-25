@@ -341,6 +341,7 @@
   "donation_form_provisional_address_choice_emailonly_notice_var": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
   "donation_form_provisional_address_choice_noaddress_notice_var": "Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail. Sie erhalten von uns keine Information, wenn Wikipedia wieder Hilfe braucht.",
 
+  "C21_WMDE_Test_15_header": "Was ist Ihre bevorzugte Kontaktmethode?",
   "C21_WMDE_Test_15_full_title": "Vollständige Kontaktdaten",
   "C21_WMDE_Test_15_full_line_1": "Bestätigung per E-Mail",
   "C21_WMDE_Test_15_full_line_2": "Spendenquittung per Post",
