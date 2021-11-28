@@ -339,5 +339,18 @@
   "donation_form_provisional_address_choice_title_notice_var": "Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.",
   "donation_form_provisional_address_choice_fulladdress_notice_var": "Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
   "donation_form_provisional_address_choice_emailonly_notice_var": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
-  "donation_form_provisional_address_choice_noaddress_notice_var": "Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail. Sie erhalten von uns keine Information, wenn Wikipedia wieder Hilfe braucht."
+  "donation_form_provisional_address_choice_noaddress_notice_var": "Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail. Sie erhalten von uns keine Information, wenn Wikipedia wieder Hilfe braucht.",
+
+  "C21_WMDE_Test_15_header": "Was ist Ihre bevorzugte Kontaktmethode?",
+  "C21_WMDE_Test_15_full_title": "Vollständige Kontaktdaten",
+  "C21_WMDE_Test_15_full_line_1": "Bestätigung per E-Mail",
+  "C21_WMDE_Test_15_full_line_2": "Spendenquittung per Post",
+
+  "C21_WMDE_Test_15_email_title": "Nur E-Mail-Adresse",
+  "C21_WMDE_Test_15_email_line_1": "Bestätigung per E-Mail",
+  "C21_WMDE_Test_15_email_line_2": "Keine Spendenquittung",
+
+  "C21_WMDE_Test_15_none_title": "keine Kontaktaufnahme",
+  "C21_WMDE_Test_15_none_line_1": "Keine Bestätigung per E-Mail",
+  "C21_WMDE_Test_15_none_line_2": "Keine Spendenquittung"
 }
