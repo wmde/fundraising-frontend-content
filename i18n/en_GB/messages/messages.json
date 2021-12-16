@@ -337,9 +337,9 @@
 
   "donation_form_provisional_address_choice_title_var": "You determine which contact details you provide.",
   "donation_form_provisional_address_choice_title_notice_var": "We rarely get in touch. When we do, it's only to inform you when Wikipedia once again needs your help.",
-  "donation_form_provisional_address_choice_fulladdress_notice_var": "This is the only way we can send you a donation receipt by post. You will also receive a confirmation by email.",
-  "donation_form_provisional_address_choice_emailonly_notice_var": "You do not need a donation receipt, but you will receive a confirmation by email.",
-  "donation_form_provisional_address_choice_noaddress_notice_var": "You do not need a donation receipt or a confirmation by email. You will not receive any communication from us if Wikipedia needs help again.",
+  "donation_form_provisional_address_choice_fulladdress_notice_var": "You will receive a donation receipt by mail. You will also receive an e-mail confirmation of your donation.",
+  "donation_form_provisional_address_choice_emailonly_notice_var": "You waive the donation receipt, but receive an e-mail confirmation of your donation.",
+  "donation_form_provisional_address_choice_noaddress_notice_var": "You waive the donation receipt and an e-mail confirmation of your donation. We will not contact you when Wikipedia needs help again.",
 
   "C21_WMDE_Test_15_header": "What's your preferred contact method?",
   "C21_WMDE_Test_15_full_title": "Full contact details",
