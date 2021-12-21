@@ -327,6 +327,10 @@
   "cookie_link_imprint": "Legal notice",
   "cookie_link_privacy_protection": "Privacy",
 
+
+  "cookie_option_more_text": "More",
+  "cookie_option_les_text": "Less",
+
   "donation_confirmation_topbox_payment_title_alt": "Thank you very much for your donation!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Last step: bank transfer",
   "donation_confirmation_payment_bank_transfer_alt": "Please transfer: as a single amount, EUR {formattedAmount} by bank transfer",

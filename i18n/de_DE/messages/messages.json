@@ -327,6 +327,9 @@
   "cookie_link_imprint": "Impressum",
   "cookie_link_privacy_protection": "Datenschutz",
 
+  "cookie_option_more_text": "Mehr",
+  "cookie_option_less_text": "Weniger",
+
   "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
   "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} via Banküberweisung",
