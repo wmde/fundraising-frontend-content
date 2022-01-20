@@ -168,6 +168,7 @@
   "donation_form_email_error": "Please enter a valid email address.",
   "donation_form_email_label": "Email",
   "donation_form_email_placeholder": "bloggs@example.com",
+  "donation_form_email_suggestion": "Did you mean",
   "donation_form_finalize": "Donate now",
   "donation_form_firstname_error": "Please enter your first name.",
   "donation_form_firstname_label": "First name",
