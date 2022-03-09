@@ -129,20 +129,85 @@
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
 
-  "donation_form_provisional_address_choice_title": "Möchten Sie Ihre Kontaktdaten angeben?",
-  "donation_form_provisional_address_choice_fulladdress": "Vollständige Kontaktdaten",
-  "donation_form_provisional_address_choice_fulladdress_notice": "(für Spendenquittung per Post und Bestätigung per E-Mail)",
-  "donation_form_provisional_address_choice_emailonly": "Nur E-Mail-Adresse",
-  "donation_form_provisional_address_choice_emailonly_notice": "(für Bestätigung per E-Mail)",
-  "donation_form_provisional_address_choice_noaddress": "Gar keine Kontaktdaten",
+
+
+
+
+
+
+
+  "donation_form_address_choice_title_addresstype": "Möchten Sie Ihre Kontaktdaten angeben?",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
+  "donation_form_address_choice_fulladdress_addresstype": "Vollständige Kontaktdaten",
+  "donation_form_address_choice_fulladdress_notice_addresstype": "(für Spendenquittung per Post und Bestätigung per E-Mail)",
+  "donation_form_address_choice_emailonly_addresstype": "Nur E-Mail-Adresse",
+  "donation_form_address_choice_emailonly_notice_addresstype": "(für Bestätigung per E-Mail)",
+  "donation_form_address_choice_noaddress_addresstype": "Gar keine Kontaktdaten",
+  "donation_form_section_address_header_type_addresstype": "Spenden als...",
+  "donation_form_addresstype_option_private_addresstype": "Privatperson",
+  "donation_form_addresstype_option_company_addresstype": "Firma",
+
+
+  "donation_form_address_choice_title_addresstype_basic": "Möchten Sie Ihre Kontaktdaten angeben?",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype_basic": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
+  "donation_form_addresstype_option_private_addresstype_basic": "Privatperson",
+  "donation_form_addresstype_option_company_addresstype_basic": "Firma",
+  "donation_form_addresstype_option_anonymous_addresstype_basic": "Ohne Adressangabe",
+
+
+  "donation_form_provisional_address_choice_title_addresstype_var": "Sie bestimmen, ob und welche Kontaktdaten Sie angeben.",
+  "donation_form_provisional_address_choice_title_notice_addresstype_var": "Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype_var":  "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
+  "donation_form_provisional_address_choice_fulladdress_addresstype_var": "Vollständige Kontaktdaten",
+  "donation_form_provisional_address_choice_fulladdress_notice_addresstype_var": "Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
+  "donation_form_provisional_address_choice_emailonly_addresstype_var": "Nur E-Mail-Adresse",
+  "donation_form_provisional_address_choice_emailonly_notice_addresstype_var": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
+  "donation_form_provisional_address_choice_noaddress_addresstype_var": "Gar keine Kontaktdaten",
+  "donation_form_provisional_address_choice_noaddress_notice_addresstype_var": "Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail. Sie erhalten von uns keine Information, wenn Wikipedia wieder Hilfe braucht.",
+  "donation_form_section_address_header_type_addresstype_var": "Spenden als...",
+  "donation_form_addresstype_option_private_addresstype_var": "Privatperson",
+  "donation_form_addresstype_option_company_addresstype_var": "Firma",
+
+
+  "C21_WMDE_Test_15_header_addresstype_checkmarks": "Was ist Ihre bevorzugte Kontaktmethode?",
+  "C21_WMDE_Test_15_full_title_addresstype_checkmarks": "Vollständige Kontaktdaten",
+  "C21_WMDE_Test_15_full_line_1_addresstype_checkmarks": "Bestätigung per E-Mail",
+  "C21_WMDE_Test_15_full_line_2_addresstype_checkmarks": "Spendenquittung per Post",
+  "C21_WMDE_Test_15_email_title_addresstype_checkmarks": "Nur E-Mail-Adresse",
+  "C21_WMDE_Test_15_email_line_1_addresstype_checkmarks": "Bestätigung per E-Mail",
+  "C21_WMDE_Test_15_email_line_2_addresstype_checkmarks": "Keine Spendenquittung",
+  "C21_WMDE_Test_15_none_title_addresstype_checkmarks": "keine Kontaktaufnahme",
+  "C21_WMDE_Test_15_none_line_1_addresstype_checkmarks": "Keine Bestätigung per E-Mail",
+  "C21_WMDE_Test_15_none_line_2_addresstype_checkmarks": "Keine Spendenquittung",
+  "donation_form_section_address_header_type_addresstype_checkmarks": "Spenden als...",
+  "donation_form_addresstype_option_private_addresstype_checkmarks": "Privatperson",
+  "donation_form_addresstype_option_company_addresstype_checkmarks": "Firma",
+
+
+  "donation_form_provisional_address_choice_title_addresstype_no_anon": "Sie bestimmen, ob und welche Kontaktdaten Sie angeben.",
+  "donation_form_provisional_address_choice_title_notice_addresstype_no_anon": "Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype_no_anon": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
+  "donation_form_provisional_address_choice_fulladdress_addresstype_no_anon": "Vollständige Kontaktdaten",
+  "donation_form_provisional_address_choice_fulladdress_notice_addresstype_no_anon": "Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
+  "donation_form_provisional_address_choice_emailonly_addresstype_no_anon": "Nur E-Mail-Adresse",
+  "donation_form_provisional_address_choice_emailonly_notice_addresstype_no_anon": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
+  "donation_form_section_address_header_type_addresstype_no_anon": "Spenden als...",
+  "donation_form_addresstype_option_private_addresstype_no_anon": "Privatperson",
+  "donation_form_addresstype_option_company_addresstype_no_anon": "Firma",
+
+
+
+
+
+
+
+
 
   "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_anonymous": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}",
 
-  "donation_form_addresstype_option_anonymous": "Ohne Adressangabe",
-  "donation_form_address_choice_no": "Nein",
-  "donation_form_address_choice_yes": "Ja",
+
   "donation_addresstype_option_anonymous_disclaimer": "Ihre Kontaktdaten benötigen wir für die Bestätigungsemail und Ihre Spendenquittung. Zudem können wir Sie informieren, wenn Wikipedia in Zukunft Ihre Hilfe benötigt.",
   "donation_form_address_choice_direct_debit_disclaimer": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
   "donation_form_addresstype_option_company": "Firma",
@@ -168,6 +233,7 @@
   "donation_form_email_error": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
   "donation_form_email_label": "E-Mail",
   "donation_form_email_placeholder": "mustername@beispiel.de",
+  "donation_form_email_suggestion": "Meinten Sie vielleicht",
   "donation_form_finalize": "Jetzt spenden",
   "donation_form_firstname_error": "Bitte geben Sie Ihren Vornamen an.",
   "donation_form_firstname_label": "Vorname",
@@ -336,24 +402,6 @@
   "donation_confirmation_summary_title_alt": "Sie erhalten Ihre Spendenquittung an folgende Adresse:",
   "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Benötigen Sie eine Spendenquittung?",
-  "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse.",
+  "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse."
 
-  "donation_form_provisional_address_choice_title_var": "Sie bestimmen, ob und welche Kontaktdaten Sie angeben.",
-  "donation_form_provisional_address_choice_title_notice_var": "Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.",
-  "donation_form_provisional_address_choice_fulladdress_notice_var": "Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
-  "donation_form_provisional_address_choice_emailonly_notice_var": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
-  "donation_form_provisional_address_choice_noaddress_notice_var": "Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail. Sie erhalten von uns keine Information, wenn Wikipedia wieder Hilfe braucht.",
-
-  "C21_WMDE_Test_15_header": "Was ist Ihre bevorzugte Kontaktmethode?",
-  "C21_WMDE_Test_15_full_title": "Vollständige Kontaktdaten",
-  "C21_WMDE_Test_15_full_line_1": "Bestätigung per E-Mail",
-  "C21_WMDE_Test_15_full_line_2": "Spendenquittung per Post",
-
-  "C21_WMDE_Test_15_email_title": "Nur E-Mail-Adresse",
-  "C21_WMDE_Test_15_email_line_1": "Bestätigung per E-Mail",
-  "C21_WMDE_Test_15_email_line_2": "Keine Spendenquittung",
-
-  "C21_WMDE_Test_15_none_title": "keine Kontaktaufnahme",
-  "C21_WMDE_Test_15_none_line_1": "Keine Bestätigung per E-Mail",
-  "C21_WMDE_Test_15_none_line_2": "Keine Spendenquittung"
 }

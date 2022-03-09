@@ -129,20 +129,88 @@
   "donation_form_academic_title_label": "Title",
   "donation_form_academic_title_option_none": "No title",
 
-  "donation_form_provisional_address_choice_title": "Would you like to enter your contact details?",
-  "donation_form_provisional_address_choice_fulladdress": "Full contact details",
-  "donation_form_provisional_address_choice_fulladdress_notice": "(for a donation receipt by post and a confirmation by email)",
-  "donation_form_provisional_address_choice_emailonly": "Email address only",
-  "donation_form_provisional_address_choice_emailonly_notice": "(for a confirmation by email)",
-  "donation_form_provisional_address_choice_noaddress": "No contact details",
+
+
+
+
+
+
+
+
+
+
+  "donation_form_address_choice_title_addresstype": "Would you like to enter your contact details?",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype": "For direct debit payments, full address details are mandatory.",
+  "donation_form_address_choice_fulladdress_addresstype": "Full contact details",
+  "donation_form_address_choice_fulladdress_notice_addresstype": "(for a donation receipt by post and a confirmation by email)",
+  "donation_form_address_choice_emailonly_addresstype": "Email address only",
+  "donation_form_address_choice_emailonly_notice_addresstype": "(for a confirmation by email)",
+  "donation_form_address_choice_noaddress_addresstype": "No contact details",
+  "donation_form_section_address_header_type_addresstype": "Donate as ...",
+  "donation_form_addresstype_option_private_addresstype": "Yes, as a private individual",
+  "donation_form_addresstype_option_company_addresstype": "Yes, as a representative of an organization",
+
+
+  "donation_form_address_choice_title_addresstype_basic": "Would you like to enter your contact details?",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype_basic": "For direct debit payments, full address details are mandatory.",
+  "donation_form_addresstype_option_private_addresstype_basic": "Yes, as a private individual",
+  "donation_form_addresstype_option_company_addresstype_basic": "Yes, as a representative of an organization",
+  "donation_form_addresstype_option_anonymous_addresstype_basic": "No",
+
+
+  "donation_form_provisional_address_choice_title_addresstype_var": "You determine which contact details you provide.",
+  "donation_form_provisional_address_choice_title_notice_addresstype_var": "We rarely get in touch. When we do, it's only to inform you when Wikipedia once again needs your help.",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype_var":  "For direct debit payments, full address details are mandatory.",
+  "donation_form_provisional_address_choice_fulladdress_addresstype_var": "Full contact details",
+  "donation_form_provisional_address_choice_fulladdress_notice_addresstype_var": "You will receive a donation receipt by mail. You will also receive an e-mail confirmation of your donation.",
+  "donation_form_provisional_address_choice_emailonly_addresstype_var": "Email address only",
+  "donation_form_provisional_address_choice_emailonly_notice_addresstype_var": "You waive the donation receipt, but receive an e-mail confirmation of your donation.",
+  "donation_form_provisional_address_choice_noaddress_addresstype_var": "No contact details",
+  "donation_form_provisional_address_choice_noaddress_notice_addresstype_var": "You waive the donation receipt and an e-mail confirmation of your donation. We will not contact you when Wikipedia needs help again.",
+  "donation_form_section_address_header_type_addresstype_var": "Donate as ...",
+  "donation_form_addresstype_option_private_addresstype_var": "Yes, as a private individual",
+  "donation_form_addresstype_option_company_addresstype_var": "Yes, as a representative of an organization",
+
+
+  "C21_WMDE_Test_15_header_addresstype_checkmarks": "What's your preferred contact method?",
+  "C21_WMDE_Test_15_full_title_addresstype_checkmarks": "Full contact details",
+  "C21_WMDE_Test_15_full_line_1_addresstype_checkmarks": "Confirmation by email",
+  "C21_WMDE_Test_15_full_line_2_addresstype_checkmarks": "Donation receipt by post",
+  "C21_WMDE_Test_15_email_title_addresstype_checkmarks": "Email address only",
+  "C21_WMDE_Test_15_email_line_1_addresstype_checkmarks": "Confirmation by email",
+  "C21_WMDE_Test_15_email_line_2_addresstype_checkmarks": "No donation receipt",
+  "C21_WMDE_Test_15_none_title_addresstype_checkmarks": "No contact details",
+  "C21_WMDE_Test_15_none_line_1_addresstype_checkmarks": "No email confirmation",
+  "C21_WMDE_Test_15_none_line_2_addresstype_checkmarks": "No donation receipt",
+  "donation_form_section_address_header_type_addresstype_checkmarks": "Donate as ...",
+  "donation_form_addresstype_option_private_addresstype_checkmarks": "Yes, as a private individual",
+  "donation_form_addresstype_option_company_addresstype_checkmarks": "Yes, as a representative of an organization",
+
+
+  "donation_form_provisional_address_choice_title_addresstype_no_anon": "You determine which contact details you provide.",
+  "donation_form_provisional_address_choice_title_notice_addresstype_no_anon": "We rarely get in touch. When we do, it's only to inform you when Wikipedia once again needs your help.",
+  "donation_form_address_choice_direct_debit_disclaimer_addresstype_no_anon": "For direct debit payments, full address details are mandatory.",
+  "donation_form_provisional_address_choice_fulladdress_addresstype_no_anon": "Full contact details",
+  "donation_form_provisional_address_choice_fulladdress_notice_addresstype_no_anon": "You will receive a donation receipt by mail. You will also receive an e-mail confirmation of your donation.",
+  "donation_form_provisional_address_choice_emailonly_addresstype_no_anon": "Email address only",
+  "donation_form_provisional_address_choice_emailonly_notice_addresstype_no_anon": "You waive the donation receipt, but receive an e-mail confirmation of your donation.",
+  "donation_form_section_address_header_type_addresstype_no_anon": "Donate as ...",
+  "donation_form_addresstype_option_private_addresstype_no_anon": "Yes, as a private individual",
+  "donation_form_addresstype_option_company_addresstype_no_anon": "Yes, as a representative of an organization",
+
+
+
+
+
+
+
+
+
 
   "donation_confirmation_inline_summary_address": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Address:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_anonymous": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}",
 
-  "donation_form_addresstype_option_anonymous": "No",
-  "donation_form_address_choice_no": "No",
-  "donation_form_address_choice_yes": "Yes",
   "donation_addresstype_option_anonymous_disclaimer": "We need your email to send you an email confirmation and your donation receipt. We can also inform you if and when Wikipedia needs your help in the future.",
   "donation_form_address_choice_direct_debit_disclaimer": "For direct debit payments, full address details are mandatory.",
   "donation_form_addresstype_option_company": "Yes, as a representative of an organization",
@@ -168,6 +236,7 @@
   "donation_form_email_error": "Please enter a valid email address.",
   "donation_form_email_label": "Email",
   "donation_form_email_placeholder": "bloggs@example.com",
+  "donation_form_email_suggestion": "Did you mean",
   "donation_form_finalize": "Donate now",
   "donation_form_firstname_error": "Please enter your first name.",
   "donation_form_firstname_label": "First name",
@@ -337,24 +406,5 @@
   "donation_confirmation_summary_title_alt": "We will send your donation receipt to the following address:",
   "donation_confirmation_topbox_summary_alt": "You donated:<br><strong>{interval}</strong><br><strong>EUR {formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Do you need a donation receipt?",
-  "donation_confirmation_cta_summary_alt": "We need your postal address in order to send you a donation receipt.",
-
-  "donation_form_provisional_address_choice_title_var": "You determine which contact details you provide.",
-  "donation_form_provisional_address_choice_title_notice_var": "We rarely get in touch. When we do, it's only to inform you when Wikipedia once again needs your help.",
-  "donation_form_provisional_address_choice_fulladdress_notice_var": "You will receive a donation receipt by mail. You will also receive an e-mail confirmation of your donation.",
-  "donation_form_provisional_address_choice_emailonly_notice_var": "You waive the donation receipt, but receive an e-mail confirmation of your donation.",
-  "donation_form_provisional_address_choice_noaddress_notice_var": "You waive the donation receipt and an e-mail confirmation of your donation. We will not contact you when Wikipedia needs help again.",
-
-  "C21_WMDE_Test_15_header": "What's your preferred contact method?",
-  "C21_WMDE_Test_15_full_title": "Full contact details",
-  "C21_WMDE_Test_15_full_line_1": "Confirmation by email",
-  "C21_WMDE_Test_15_full_line_2": "Donation receipt by post",
-
-  "C21_WMDE_Test_15_email_title": "Email address only",
-  "C21_WMDE_Test_15_email_line_1": "Confirmation by email",
-  "C21_WMDE_Test_15_email_line_2": "No donation receipt",
-
-  "C21_WMDE_Test_15_none_title": "No contact details",
-  "C21_WMDE_Test_15_none_line_1": "No email confirmation",
-  "C21_WMDE_Test_15_none_line_2": "No donation receipt"
+  "donation_confirmation_cta_summary_alt": "We need your postal address in order to send you a donation receipt."
 }
