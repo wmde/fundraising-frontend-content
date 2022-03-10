@@ -121,8 +121,8 @@
   "donation_confirmation_topbox_donor_type_person": "als Privatperson",
   "donation_confirmation_topbox_email": "E-Mail-Adresse: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
-  "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
-  "donation_confirmation_inline_summary": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
+  "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> per<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_inline_summary": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> per <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_address_usage_link": "mehr Informationen",
   "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an spenden@wikimedia.de formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
 
@@ -148,10 +148,10 @@
   "donation_form_addresstype_option_company_addresstype": "Firma",
 
 
-  "donation_form_address_choice_title_addresstype_basic": "Möchten Sie Ihre Kontaktdaten angeben?",
+  "donation_form_address_choice_title_addresstype_basic": "Wie möchten Sie spenden?",
   "donation_form_address_choice_direct_debit_disclaimer_addresstype_basic": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
-  "donation_form_addresstype_option_private_addresstype_basic": "Privatperson",
-  "donation_form_addresstype_option_company_addresstype_basic": "Firma",
+  "donation_form_addresstype_option_private_addresstype_basic": "Als Privatperson",
+  "donation_form_addresstype_option_company_addresstype_basic": "Als Firma",
   "donation_form_addresstype_option_anonymous_addresstype_basic": "Ohne Adressangabe",
 
 
@@ -203,9 +203,9 @@
 
 
 
-  "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
-  "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
-  "donation_confirmation_inline_summary_anonymous": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}",
+  "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
+  "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
+  "donation_confirmation_inline_summary_anonymous": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}",
 
 
   "donation_addresstype_option_anonymous_disclaimer": "Ihre Kontaktdaten benötigen wir für die Bestätigungsemail und Ihre Spendenquittung. Zudem können wir Sie informieren, wenn Wikipedia in Zukunft Ihre Hilfe benötigt.",
@@ -267,7 +267,7 @@
   "donation_form_payment_interval_6": "halbjährlich",
   "donation_form_payment_interval_title": "Wie häufig möchten Sie spenden?",
   "donation_form_SUB_payment_type_info": "Eine regelmäßige Zahlung per Sofortüberweisung ist nicht möglich.",
-  "donation_form_payment_summary": "Sie spenden: {interval} {formattedAmount} via {paymentType}",
+  "donation_form_payment_summary": "Sie spenden: {interval} {formattedAmount} per {paymentType}",
   "donation_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
   "donation_form_payment_type_title": "Wie möchten Sie spenden?",
   "donation_form_salutation_error": "Bitte teilen Sie uns mit, wie Sie angesprochen werden möchten.",
@@ -398,9 +398,9 @@
 
   "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
-  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} via Banküberweisung",
+  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} per Banküberweisung",
   "donation_confirmation_summary_title_alt": "Sie erhalten Ihre Spendenquittung an folgende Adresse:",
-  "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> per<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Benötigen Sie eine Spendenquittung?",
   "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse."
 
