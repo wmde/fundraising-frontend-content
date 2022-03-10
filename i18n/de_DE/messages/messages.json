@@ -150,9 +150,9 @@
 
   "donation_form_address_choice_title_addresstype_basic": "Wie möchten Sie spenden?",
   "donation_form_address_choice_direct_debit_disclaimer_addresstype_basic": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
-  "donation_form_addresstype_option_private_addresstype_basic": "Als Privatperson",
-  "donation_form_addresstype_option_company_addresstype_basic": "Als Firma",
-  "donation_form_addresstype_option_anonymous_addresstype_basic": "Ohne Adressangabe",
+  "donation_form_addresstype_option_private_addresstype_basic": "als Privatperson",
+  "donation_form_addresstype_option_company_addresstype_basic": "als Firma",
+  "donation_form_addresstype_option_anonymous_addresstype_basic": "ohne Adressangabe",
 
 
   "donation_form_provisional_address_choice_title_addresstype_var": "Sie bestimmen, ob und welche Kontaktdaten Sie angeben.",
