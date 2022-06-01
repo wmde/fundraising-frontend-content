@@ -381,21 +381,6 @@
 
   "currency_name": "Euro",
 
-  "cookie_heading": "Cookies helfen über die Spende hinaus",
-  "cookie_content": "Um die Wikipedia-Spendenbanner zu verbessern und sie so selten wie möglich zu schalten, brauchen wir einzelne Daten von Ihnen. Diese werden sicher auf unseren eigenen Servern gespeichert und unter keinen Umständen mit Dritten geteilt. <strong>Bitte entscheiden Sie sich für „Alle akzeptieren“; dann helfen Sie uns gleich doppelt.</strong> Für weitere Informationen lesen Sie bitte unsere <a href='/page/Datenschutz'>Datenschutzerklärung</a>.",
-  "cookie_button_accept": "Alle akzeptieren",
-  "cookie_button_save": "Cookies speichern",
-  "cookie_button_necessary": "Nur notwendige",
-  "cookie_option_required_heading": "Grundlegende Funktionen",
-  "cookie_option_required_content": "Wir speichern Daten, die für die grundlegenden Funktionen der Seite erforderlich sind. Diese umfassen die Verhinderung missbräuchlicher Verwendung unserer Website  sowie versehentliches Mehrfachspenden. Zudem erleichtern wir das Ausfüllen der Formulare und stellen sicher, dass Ihnen nach einer Spende keine weiteren Spendenbanner angezeigt werden.",
-  "cookie_option_optional_heading": "Verbesserung der Funktionen",
-  "cookie_option_optional_content": "Wir speichern Nutzungsdaten, die zur Verbesserung der Bedienbarkeit beitragen. Diese werden ausschließlich durch uns gespeichert und analysiert, um die Spendenkampagnen so kurz wie möglich zu halten.",
-  "cookie_link_imprint": "Impressum",
-  "cookie_link_privacy_protection": "Datenschutz",
-
-  "cookie_option_more_text": "Mehr",
-  "cookie_option_less_text": "Weniger",
-
   "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
   "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} per Banküberweisung",
