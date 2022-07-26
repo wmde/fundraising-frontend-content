@@ -318,9 +318,10 @@
   "membership_cancellation_text": "Your membership application with the number {membership_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">members@wikimedia.de</a>.",
 
   "membership_confirmation_thanks_text": "Thank you for your sponsorship!",
-  "membership_confirmation_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V.<br>and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted}<br>from {address}",
+  "membership_confirmation_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V.<br>and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong><br>from {address}",
   "membership_confirmation_success_text": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package by post. We are delighted to have you on board!",
   "membership_confirmation_success_text_incentive": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package with the Wikipedia tote bag by post. We are delighted to have you on board!",
+  "membership_confirmation_success_text_bank_transfer": "You will receive your payment information shortly.",
   "membership_confirmation_cancel_button": "Cancel membership",
 
   "membership_form_birth_date_label": "Date of birth (optional)",
