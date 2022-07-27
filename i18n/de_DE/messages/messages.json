@@ -343,9 +343,11 @@
   "membership_form_payment_amount_title_interval_12": "Wie hoch soll der jährliche Beitrag sein?",
   "membership_form_payment_amount_title_interval_3": "Wie hoch soll der vierteljährliche Beitrag sein?",
   "membership_form_payment_amount_title_interval_6": "Wie hoch soll der halbjährliche Beitrag sein?",
-  "membership_form_payment_interval_title": "Wie häufig soll der Beitrag abgebucht werden?",
+  "membership_form_payment_interval_title": "In welchem Intervall möchten Sie Ihren Beitrag zahlen?",
   "membership_form_payment_amount_cap_notice": "Cent-Beträge werden abgerundet",
   "membership_form_incentive" : "Ich möchte den Wikipedia-Stoffbeutel erhalten.",
+  "membership_form_payment_type_title": "Wie möchten Sie Ihren Beitrag zahlen?",
+  "membership_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
