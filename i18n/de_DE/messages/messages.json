@@ -315,9 +315,10 @@
   "membership_cancellation_text": "Ihr Mitgliedschaftsantrag mit der Nummer {membership_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">mitglieder@wikimedia.de</a>.",
 
   "membership_confirmation_thanks_text": "Vielen Dank für Ihr Engagement!",
-  "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted}<br>als {address}",
+  "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong><br>als {address}",
   "membership_confirmation_success_text": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket per Post. Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Wir freuen uns, dass Sie dabei sind!",
+  "membership_confirmation_success_text_bank_transfer": "Wir werden Ihnen in Kürze Informationen zu Ihrer Beitragszahlung senden.",
   "membership_confirmation_cancel_button": "Mitgliedschaft stornieren",
 
   "membership_form_birth_date_label": "Geburtsdatum (optional)",
@@ -342,9 +343,11 @@
   "membership_form_payment_amount_title_interval_12": "Wie hoch soll der jährliche Beitrag sein?",
   "membership_form_payment_amount_title_interval_3": "Wie hoch soll der vierteljährliche Beitrag sein?",
   "membership_form_payment_amount_title_interval_6": "Wie hoch soll der halbjährliche Beitrag sein?",
-  "membership_form_payment_interval_title": "Wie häufig soll der Beitrag abgebucht werden?",
+  "membership_form_payment_interval_title": "In welchem Intervall möchten Sie Ihren Beitrag zahlen?",
   "membership_form_payment_amount_cap_notice": "Cent-Beträge werden abgerundet",
   "membership_form_incentive" : "Ich möchte den Wikipedia-Stoffbeutel erhalten.",
+  "membership_form_payment_type_title": "Wie möchten Sie Ihren Beitrag zahlen?",
+  "membership_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
