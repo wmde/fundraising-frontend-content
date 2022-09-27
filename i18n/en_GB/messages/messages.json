@@ -121,7 +121,7 @@
   "donation_confirmation_topbox_donor_type_person": "as a private individual",
   "donation_confirmation_topbox_email": "Email address: {email}",
   "donation_confirmation_topbox_intro": "Thank you very much for your donation!",
-  "donation_confirmation_topbox_summary": "You donated:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
+  "donation_confirmation_topbox_summary": "You donated:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong>.",
   "donation_confirmation_inline_summary": "<em>You will donate:</em> <strong>{interval} €{formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Address:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_address_usage_link": "more information",
   "donation_confirmation_address_usage_content": "We need your postal address in order to send you a donation receipt. Sending it by email is currently still not secure enough. In addition, we send donation requests every once in a while, when Wikipedia needs your help again. If you do not want to receive these donation requests, please let us know by sending an email to spenden@wikimedia.de. You will then receive your donation receipt to your home address.",
