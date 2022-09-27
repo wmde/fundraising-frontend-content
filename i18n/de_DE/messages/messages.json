@@ -122,7 +122,7 @@
   "donation_confirmation_topbox_email": "E-Mail-Adresse: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> per<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
-  "donation_confirmation_inline_summary": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> per <strong>{paymentType}</strong>.",
+  "donation_confirmation_inline_summary": "Sie spenden: <strong>{interval} {formattedAmount} Euro</strong> per <strong>{paymentType}</strong>.",
   "donation_confirmation_address_usage_link": "mehr Informationen",
   "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an spenden@wikimedia.de formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
 
