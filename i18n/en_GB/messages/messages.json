@@ -199,13 +199,12 @@
   "donation_form_addresstype_option_company_addresstype_no_anon": "Yes, as a representative of an organization",
 
 
-
-
-
-
-
-
-
+  "donation_confirmation_summary_title": "We will send your donation receipt to the following:",
+  "donation_confirmation_address_person": "<em>Address:</em> {{ salutation }} {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
+  "donation_confirmation_address_company": "<em>Address:</em> {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
+  "donation_confirmation_email": "<em>Email:</em> {{ email }}",
+  "donation_confirmation_address_update": "Entered the wrong address?",
+  "donation_confirmation_address_update_link": "Update here",
 
   "donation_confirmation_inline_summary_address": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Address:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",

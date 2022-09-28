@@ -196,12 +196,12 @@
   "donation_form_addresstype_option_company_addresstype_no_anon": "Firma",
 
 
-
-
-
-
-
-
+  "donation_confirmation_summary_title": "Ihre Spendenquittung erhalten Sie an folgende Adresse:",
+  "donation_confirmation_address_person": "<em>Adresse:</em> {{ salutation }} {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
+  "donation_confirmation_address_company": "<em>Adresse:</em> {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
+  "donation_confirmation_email": "<em>Email:</em> {{ email }}",
+  "donation_confirmation_address_update": "Falsche Daten eingegeben?",
+  "donation_confirmation_address_update_link": "Hier ändern",
 
   "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
