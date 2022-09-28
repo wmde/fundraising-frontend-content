@@ -197,9 +197,9 @@
 
 
   "donation_confirmation_summary_title": "Ihre Spendenquittung erhalten Sie an folgende Adresse:",
-  "donation_confirmation_address_person": "<em>Adresse:</em> {{ salutation }} {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
-  "donation_confirmation_address_company": "<em>Adresse:</em> {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
-  "donation_confirmation_email": "<em>Email:</em> {{ email }}",
+  "donation_confirmation_address_person": "<em>Adresse:</em> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_address_company": "<em>Adresse:</em> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_email": "<em>Email:</em> {email}",
   "donation_confirmation_address_update": "Falsche Daten eingegeben?",
   "donation_confirmation_address_update_link": "Hier ändern",
 

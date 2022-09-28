@@ -200,9 +200,9 @@
 
 
   "donation_confirmation_summary_title": "We will send your donation receipt to the following:",
-  "donation_confirmation_address_person": "<em>Address:</em> {{ salutation }} {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
-  "donation_confirmation_address_company": "<em>Address:</em> {{ fullName }}, {{ streetAddress }}, {{ postalCode }} {{ city }}, {{ country }}",
-  "donation_confirmation_email": "<em>Email:</em> {{ email }}",
+  "donation_confirmation_address_person": "<em>Address:</em> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_address_company": "<em>Address:</em> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_email": "<em>Email:</em> {email}",
   "donation_confirmation_address_update": "Entered the wrong address?",
   "donation_confirmation_address_update_link": "Update here",
 
