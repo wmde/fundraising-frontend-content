@@ -36,6 +36,9 @@
 		}
 	],
 	"detailedReports": {
+		"mixed": {
+			"text": "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2021-2022\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2022/Wirtschaftsplan_2022\">activities in Germany</a>."
+		},
 		"germany": {
 			"intro": "A detailed insight into our activities in Germany can be found here: ",
 			"linkName": "Annual plan of Wikimedia Deutschland",

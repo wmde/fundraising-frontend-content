@@ -122,7 +122,7 @@
   "donation_confirmation_topbox_email": "E-Mail-Adresse: {email}",
   "donation_confirmation_topbox_intro": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_summary": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> per<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
-  "donation_confirmation_inline_summary": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount} Euro</strong> per <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
+  "donation_confirmation_inline_summary": "Sie spenden: <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong>.",
   "donation_confirmation_address_usage_link": "mehr Informationen",
   "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an spenden@wikimedia.de formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
 
@@ -196,12 +196,12 @@
   "donation_form_addresstype_option_company_addresstype_no_anon": "Firma",
 
 
-
-
-
-
-
-
+  "donation_confirmation_summary_title": "Ihre Spendenquittung erhalten Sie an folgende Adresse:",
+  "donation_confirmation_address_person": "<em>Adresse:</em> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_address_company": "<em>Adresse:</em> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_email": "<em>Email:</em> {email}",
+  "donation_confirmation_address_update": "Falsche Daten eingegeben?",
+  "donation_confirmation_address_update_link": "Hier ändern",
 
   "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
@@ -317,8 +317,8 @@
   "membership_confirmation_thanks_text": "Vielen Dank für Ihr Engagement!",
   "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong><br>als {address}",
   "membership_confirmation_success_text": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket per Post. Wir freuen uns, dass Sie dabei sind!",
-  "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Wir freuen uns, dass Sie dabei sind!",
-  "membership_confirmation_success_text_bank_transfer": "Wir werden Ihnen in Kürze Informationen zu Ihrer Beitragszahlung senden.",
+  "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Darin finden Sie auch weitere Informationen zur Bankverbindung, dem Verwendungszweck und Ihrer Mitgliedsnummer.",
+  "membership_confirmation_success_text_bank_transfer": "Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_cancel_button": "Mitgliedschaft stornieren",
 
   "membership_form_birth_date_label": "Geburtsdatum (optional)",

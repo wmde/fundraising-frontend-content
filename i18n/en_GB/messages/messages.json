@@ -121,8 +121,8 @@
   "donation_confirmation_topbox_donor_type_person": "as a private individual",
   "donation_confirmation_topbox_email": "Email address: {email}",
   "donation_confirmation_topbox_intro": "Thank you very much for your donation!",
-  "donation_confirmation_topbox_summary": "You donated:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
-  "donation_confirmation_inline_summary": "<em>You will donate:</em> <strong>{interval} €{formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Address:</em> {address}<br><em>Email:</em> {email}",
+  "donation_confirmation_topbox_summary": "You donated:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> via<br><strong>{paymentType}</strong>.",
+  "donation_confirmation_inline_summary": "You will donate: <strong>{interval} €{formattedAmount}</strong> via <strong>{paymentType}</strong>.",
   "donation_confirmation_address_usage_link": "more information",
   "donation_confirmation_address_usage_content": "We need your postal address in order to send you a donation receipt. Sending it by email is currently still not secure enough. In addition, we send donation requests every once in a while, when Wikipedia needs your help again. If you do not want to receive these donation requests, please let us know by sending an email to spenden@wikimedia.de. You will then receive your donation receipt to your home address.",
 
@@ -199,13 +199,12 @@
   "donation_form_addresstype_option_company_addresstype_no_anon": "Yes, as a representative of an organization",
 
 
-
-
-
-
-
-
-
+  "donation_confirmation_summary_title": "We will send your donation receipt to the following:",
+  "donation_confirmation_address_person": "<em>Address:</em> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_address_company": "<em>Address:</em> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "donation_confirmation_email": "<em>Email:</em> {email}",
+  "donation_confirmation_address_update": "Entered the wrong address?",
+  "donation_confirmation_address_update_link": "Update here",
 
   "donation_confirmation_inline_summary_address": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Address:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
@@ -320,8 +319,8 @@
   "membership_confirmation_thanks_text": "Thank you for your sponsorship!",
   "membership_confirmation_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V.<br>and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong><br>from {address}",
   "membership_confirmation_success_text": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package by post. We are delighted to have you on board!",
-  "membership_confirmation_success_text_incentive": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package with the Wikipedia tote bag by post. We are delighted to have you on board!",
-  "membership_confirmation_success_text_bank_transfer": "You will receive your payment information shortly.",
+  "membership_confirmation_success_text_incentive": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package with the Wikipedia tote bag by post. There you will find further information on our bank account, the reason of payment and your membership number.",
+  "membership_confirmation_success_text_bank_transfer": "We are delighted to have you on board!",
   "membership_confirmation_cancel_button": "Cancel membership",
 
   "membership_form_birth_date_label": "Date of birth (optional)",
@@ -389,7 +388,7 @@
 
   "donation_confirmation_topbox_payment_title_alt": "Thank you very much for your donation!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Last step: bank transfer",
-  "donation_confirmation_payment_bank_transfer_alt": "Please transfer: as a single amount, EUR {formattedAmount} by bank transfer",
+  "donation_confirmation_payment_bank_transfer_alt": "Please transfer: as a single amount, {formattedAmount} by bank transfer",
   "donation_confirmation_summary_title_alt": "We will send your donation receipt to the following address:",
   "donation_confirmation_topbox_summary_alt": "You donated:<br><strong>{interval}</strong><br><strong>EUR {formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Do you need a donation receipt?",
