@@ -7,13 +7,13 @@
 		{
 			"id": "software",
 			"title": "Software",
-			"percentage": 18,
+			"percentage": 23,
 			"text": " Aktuelle Daten der Welt sind das Rückgrat von Wikipedia & Co. Damit alle Wikipedia-Sprachversionen einfach auf einen gemeinsamen Datenpool zugreifen können, entwickeln unsere Softwareentwicklerinnen und -entwickler in Deutschland und weltweit eine sichere und verlässliche technische Infrastruktur. Damit wird die Ergänzung und Aktualisierung von Wikipedia-Artikeln mit neuesten Daten enorm erleichtert. "
 		},
 		{
 			"id": "international",
 			"title": "International und Technik",
-			"percentage": 37,
+			"percentage": 33,
 			"text": " Wikipedia ist ein globales Projekt. Deshalb leisten wir einen substanziellen Beitrag zur Finanzierung der internationalen Aktivitäten für die Weiterentwicklung von Wikipedia. Zudem finanzieren wir auf diese Weise die globale Server-Infrastruktur mit, auf der alle Wikimedia-Projekte – also auch die deutschsprachige Wikipedia – laufen. "
 		},
 		{
@@ -25,19 +25,19 @@
 		{
 			"id": "society",
 			"title": "Gesellschaft",
-			"percentage": 11,
+			"percentage": 8,
 			"text": " Durch unser zivilgesellschaftliches Engagement auf EU-und Bundesebene sowie unsere Zusammenarbeit mit Kultur-, Bildungs- und Wissenschaftsinstitutionen machen wir mehr Inhalte für die Wikimedia-Projekte frei verfügbar – und heben auf diese Weise viele unerschlossene Schätze. "
 		},
 		{
 			"id": "operative",
 			"title": "Operative Kosten",
-			"percentage": 20,
+			"percentage": 22,
 			"text": " Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere organisatorischen und finanziellen Prozesse zuverlässig funktionieren. Sie sorgen z. B. dafür, dass unsere Projekte in der Öffentlichkeit bekannter werden. Und sie kümmern sich um die Bearbeitung der eingehenden Spenden einschließlich dem Versand der Spendenbescheinigungen. "
 		}
 	],
 	"detailedReports": {
 		"mixed": {
-			"text": "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2021-2022\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2022/Wirtschaftsplan_2022\">Aktivitäten in Deutschland</a>."
+			"text": "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2022-2023\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Wirtschaftsplan\">Aktivitäten in Deutschland</a>."
 		},
 		"germany": {
 			"intro": "Einen genauen Einblick in unsere Aktivitäten in Deutschland finden Sie hier: ",
@@ -76,9 +76,9 @@
 		]
 	},
 	"comparison": {
-		"headline": "Wie viel (oder wie wenig) wir brauchen",
+		"headline": "Warum wir nur 9.400.000 € brauchen",
 		"paragraphs": [
-			"Das Ziel unserer letzten Spendenkampagne betrug 9,2 Millionen Euro, ein wichtiger Teil unserer für das Jahr 2022 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
+			"Unser Spendenziel von 9,4 Millionen € ist ein wichtiger Teil unserer für das Jahr 2023 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
 			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
 			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 700 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
 		],
@@ -104,8 +104,8 @@
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.17,
-				"budgetString": "0,17 Mrd. €",
+				"budget": 0.19,
+				"budgetString": "0,19 Mrd. $",
 				"budgetCitation": ""
 			}
 		],
