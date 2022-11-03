@@ -244,7 +244,7 @@
   "donation_form_lastname_label": "Last Name",
   "donation_form_lastname_placeholder": "Bloggs",
   "donation_form_lastname_placeholder_warning": "Are you sure that your surname is Bloggs?",
-  "donation_form_newsletter_label_paragraph_1": "<strong>Yes, I would like to know if the fundraising campaign was successful and how my donation helped. In addition, you may contact me if Wikipedia needs my help.</strong>",
+  "donation_form_newsletter_label_paragraph_1": "Yes, I would like to know if the fundraising campaign was successful and how my donation helped. In addition, you may contact me if Wikipedia needs my help.",
   "donation_form_newsletter_label_paragraph_2": "If you do not want to receive emails, please uncheck the box. You can also unsubscribe at any time in the future, for example, via the unsubscribe link at the bottom of each email or by sending an email to spenden@wikimedia.de. You can find further information in our <a href=\"https://spenden.wikimedia.de/page/Datenschutz\">privacy policy</a>.",
   "donation_form_payment_amount_error": "Unfortunately, due to applicable fees, you have to state a minimum amount of EUR 1. If you would like to donate less, please transfer the amount directly to the donation account stated below.",
   "donation_form_payment_amount_too_high": "The amount must not exceed €99999.",
