@@ -394,5 +394,8 @@
   "donation_confirmation_summary_title_alt": "We will send your donation receipt to the following address:",
   "donation_confirmation_topbox_summary_alt": "You donated:<br><strong>{interval}</strong><br><strong>EUR {formattedAmount}</strong> via<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Do you need a donation receipt?",
-  "donation_confirmation_cta_summary_alt": "We need your postal address in order to send you a donation receipt."
+  "donation_confirmation_cta_summary_alt": "We need your postal address in order to send you a donation receipt.",
+
+  "subscription_confirmation_success":"Thank you for confirming your e-mail address.",
+  "subscription_confirmation_page_header": "E-mail confirmation."
 }
