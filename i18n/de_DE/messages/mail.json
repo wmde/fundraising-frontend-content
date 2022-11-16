@@ -4,8 +4,8 @@
   "mail_subject_confirm_donation": "Sie spenden für Wikipedia und Freies Wissen. Großartig.",
   "mail_subject_confirm_donation_promise": "Sie wollen für Wikipedia und Freies Wissen spenden. Großartig.",
   "mail_subject_confirm_cancellation": "Stornierung Ihrer Spende",
-  "mail_subject_subscription": "Bitte bestätigen Sie kurz, dass Sie Wikipedia unterstützen wollen.",
-  "mail_subject_subscription_confirmed": "Dankeschön. Jetzt haben wir alles.",
+  "mail_subject_subscription": "Bitte bestätigen Sie, dass Sie Wikipedia unterstützen wollen.",
+  "mail_subject_subscription_confirmed": "Vielen Dank. Jetzt haben wir alles.",
 
   "mail_subject_confirm_membership_application_active": "Ihr nachhaltiges Engagement als aktives Mitglied bei Wikimedia",
   "mail_subject_confirm_membership_application_sustaining": "Ihr nachhaltiges Engagement als Fördermitglied bei Wikimedia",
