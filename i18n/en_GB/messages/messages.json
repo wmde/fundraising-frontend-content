@@ -200,6 +200,7 @@
 
 
   "donation_confirmation_summary_title": "We will send your donation receipt to the following:",
+  "donation_confirmation_summary_title_no_receipt_wanted": "We have received the following address from you:",
   "donation_confirmation_address_person": "<em>Address:</em> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
   "donation_confirmation_address_company": "<em>Address:</em> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
   "donation_confirmation_email": "<em>Email:</em> {email}",
