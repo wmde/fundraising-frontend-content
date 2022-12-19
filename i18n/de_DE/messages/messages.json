@@ -396,5 +396,14 @@
   "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse.",
 
   "subscription_confirmation_success": "Danke, dass Sie Ihre E-Mail Adresse bestätigt haben.",
-  "subscription_confirmation_page_header": "Bestätigung Ihrer E-Mail-Adresse."
+  "subscription_confirmation_page_header": "Bestätigung Ihrer E-Mail-Adresse.",
+
+
+  "donation_page_feedback_box_mobile_feedback_tab": "Feedback",
+  "donation_page_feedback_box_mobile_content_headline": "Haben Sie Schwierigkeiten?",
+  "donation_page_feedback_box_desktop_feedback_button": "Schwierigkeiten beim Ausfüllen?",
+  "donation_page_feedback_box_desktop_content_headline": "Haben Sie evtl. Schwierigkeiten beim Ausfüllen des Formulars?",
+  "donation_page_feedback_box_content_text": "Wenn Sie Probleme beim Ausfüllen des Spendenformulars haben oder etwas vermissen, dann freuen wir uns über Ihr Feedback.",
+  "donation_page_feedback_box_content_option_decline": "Nein, alles gut",
+  "donation_page_feedback_box_content_option_feedback": "Ja, Feedback geben"
 }
