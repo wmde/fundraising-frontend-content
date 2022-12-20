@@ -405,5 +405,6 @@
   "donation_page_feedback_box_desktop_content_headline": "Haben Sie evtl. Schwierigkeiten beim Ausfüllen des Formulars?",
   "donation_page_feedback_box_content_text": "Wenn Sie Probleme beim Ausfüllen des Spendenformulars haben oder etwas vermissen, dann freuen wir uns über Ihr Feedback.",
   "donation_page_feedback_box_content_option_decline": "Nein, alles gut",
-  "donation_page_feedback_box_content_option_feedback": "Ja, Feedback geben"
+  "donation_page_feedback_box_content_option_feedback": "Ja, Feedback geben",
+  "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=de"
 }
