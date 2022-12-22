@@ -1,0 +1,10 @@
+[
+	{
+		"name": "feedback-form",
+		"active": true,
+		"description": "Show help/feedback button and form on donation page",
+		"ticket": "https://phabricator.wikimedia.org/T323982"
+	}
+]
+
+
