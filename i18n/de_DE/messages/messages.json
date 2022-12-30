@@ -333,6 +333,7 @@
   "membership_form_payment_amount_error": "Der jährliche Mindestbeitrag beträgt 24 Euro für natürliche Personen und 100 Euro für juristische Personen. Bitte passen Sie den Betrag oder die Häufigkeit der Abbuchungen an.",
   "membership_form_review_payment_missing": "Bitte füllen Sie alle Zahlungsfelder aus",
   "membership_form_section_address_header_type": "Mitglied werden als...",
+  "membership_form_section_address_title": "Bitte geben Sie Ihre Kontaktdaten an",
   "membership_form_section_back": "Adressdaten ändern",
   "membership_form_membershiptype_legend": "Welche Mitgliedschaft möchten Sie?",
   "membership_form_membershiptype_option_sustaining": "Fördermitgliedschaft",
