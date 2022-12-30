@@ -4,7 +4,7 @@
 	"mail_subject_confirm_donation": "You donated to Wikipedia and Free Knowledge. Awesome.",
 	"mail_subject_confirm_donation_promise": "You want to donate to Wikipedia and Free Knowledge. Awesome.",
 	"mail_subject_confirm_cancellation": "Donation Cancellation Confirmation",
-	"mail_subject_subscription": "Please confirm that you want to support Wikipedia.",
+	"mail_subject_subscription": "Thank you for your interest",
 	"mail_subject_subscription_confirmed": "Thank you. We now have everything we need.",
 
 	"mail_subject_confirm_membership_application_active": "Your continued commitment as an active member of Wikimedia",
