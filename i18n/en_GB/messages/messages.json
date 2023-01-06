@@ -101,7 +101,7 @@
   "donation_confirmation_comment_button": "Write a donation comment",
   "donation_confirmation_newsletter_confirmation": "As you requested, we'll send you information about the donation campaign. You can cancel your request at any time.",
   "donation_confirmation_membership_button": "Become a member",
-  "donation_confirmation_membership_call_to_action_text": "Together, we can achieve more: over 97,000 people have already opted for a supporting membership. Together, they form a solid foundation to fund and develop our projects further.",
+  "donation_confirmation_membership_call_to_action_text": "Together, we can achieve more: over 102,000 people have already opted for a supporting membership. Together, they form a solid foundation to fund and develop our projects further.",
   "donation_confirmation_membership_call_to_action_title": "Achieve more through a supporting membership!",
   "donation_confirmation_payment_bank_transfer": "Please transfer your donation to our donation account now.",
   "donation_confirmation_payment_direct_debit": "We will withdraw this amount from your account in the coming days. This will complete your donation. We have also sent you an email confirmation, so that you can review the details at your leisure.",
@@ -206,6 +206,10 @@
   "donation_confirmation_email": "<em>Email:</em> {email}",
   "donation_confirmation_address_update": "Entered the wrong address?",
   "donation_confirmation_address_update_link": "Update here",
+  "donation_confirmation_exported_title_person" : "EXPORTED TITLE PERSON",
+  "donation_confirmation_exported_content_person" : "EXPORTED CONTENT PERSON Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis enim harum ipsum libero nam nobis, officia porro quam? At doloribus eos error. Autem eos eveniet facilis maxime numquam possimus rem?",
+  "donation_confirmation_exported_title_company" : "EXPORTED TITLE COMPANY",
+  "donation_confirmation_exported_content_company" : "EXPORTED CONTENT COMPANY Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis enim harum ipsum libero nam nobis, officia porro quam? At doloribus eos error. Autem eos eveniet facilis maxime numquam possimus rem?",
 
   "donation_confirmation_inline_summary_address": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Address:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
@@ -369,7 +373,7 @@
 
   "header_headline_text": "The Wikimedia Fördergesellschaft is an independent nonprofit organization that collects donations in Germany on behalf of Wikipedia and other Wikimedia projects.",
   "header_menu_item_donate": "Donate",
-  "header_menu_item_faq": "Frequently asked questions",
+  "header_menu_item_faq": "FAQ",
   "header_menu_item_membership_application": "Become a member",
   "header_menu_item_use_of_resources": "Allocation of funds",
 
