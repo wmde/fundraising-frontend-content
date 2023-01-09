@@ -341,7 +341,7 @@
   "membership_form_review_payment_missing": "Please fill in all payment fields",
   "membership_form_section_address_header_type": "Become a member as ...",
   "membership_form_section_address_title": "Please enter your contact information",
-  "membership_form_section_back": "Change address details",
+  "membership_form_section_back": "Change payment details",
   "membership_form_membershiptype_legend": "What type of membership would you like?",
   "membership_form_membershiptype_option_sustaining": "Sponsoring membership",
   "membership_form_membershiptype_option_sustaining_legend": "You receive regular updates with information about the work of the association.",

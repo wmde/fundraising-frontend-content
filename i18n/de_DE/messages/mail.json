@@ -3,6 +3,7 @@
   "mail_subject_getintouch_forward": "Anfrage über das Kontaktformular",
   "mail_subject_confirm_donation": "Sie spenden für Wikipedia und Freies Wissen. Großartig.",
   "mail_subject_confirm_donation_promise": "Sie wollen für Wikipedia und Freies Wissen spenden. Großartig.",
+  "mail_subject_update_donation": "Your updated donation to Wikipedia and Free Knowledge.",
   "mail_subject_confirm_cancellation": "Stornierung Ihrer Spende",
   "mail_subject_subscription": "Vielen Dank für Ihr Interesse",
   "mail_subject_subscription_confirmed": "Vielen Dank. Jetzt haben wir alles.",
