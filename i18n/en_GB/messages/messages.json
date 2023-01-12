@@ -215,6 +215,10 @@
   "donation_confirmation_inline_summary_email": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_anonymous": "<em>You will donate:</em> <strong>{interval} {formattedAmount}</strong> via <strong>{paymentType}</strong> {personType}",
 
+  "donor_change_failure_access_denied": "Uh oh something went wrong, please try again in a while or contact support.",
+  "donor_change_failure_exported": "We've already processed your donation so it can no longer be updated, if you need to change something please contact support",
+  "donor_change_failure_validation_error": "Something went wrong. It's not your fault, we messed up. Please contact support",
+
   "donation_addresstype_option_anonymous_disclaimer": "We need your email to send you an email confirmation and your donation receipt. We can also inform you if and when Wikipedia needs your help in the future.",
   "donation_form_address_choice_direct_debit_disclaimer": "For direct debit payments, full address details are mandatory.",
   "donation_form_addresstype_option_company": "Yes, as a representative of an organization",

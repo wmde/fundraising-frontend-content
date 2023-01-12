@@ -212,6 +212,9 @@
   "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_anonymous": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}",
 
+  "donor_change_failure_access_denied": "Uh oh something went wrong, please try again in a while or contact support.",
+  "donor_change_failure_exported": "We've already processed your donation so it can no longer be updated, if you need to change something please contact support",
+  "donor_change_failure_validation_error": "Something went wrong. It's not your fault, we messed up. Please contact support",
 
   "donation_addresstype_option_anonymous_disclaimer": "Ihre Kontaktdaten benötigen wir für die Bestätigungsemail und Ihre Spendenquittung. Zudem können wir Sie informieren, wenn Wikipedia in Zukunft Ihre Hilfe benötigt.",
   "donation_form_address_choice_direct_debit_disclaimer": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
