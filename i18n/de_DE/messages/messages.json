@@ -203,10 +203,8 @@
   "donation_confirmation_email": "<em>Email:</em> {email}",
   "donation_confirmation_address_update": "Falsche Daten eingegeben?",
   "donation_confirmation_address_update_link": "Hier ändern",
-  "donation_confirmation_exported_title_person" : "Daten erfolgreich verarbeitet",
-  "donation_confirmation_exported_content_person" : "Ihre Daten wurden verarbeitet und können an dieser Stelle nicht mehr eingesehen oder geändert werden. Bei Fragen oder Ergänzungen wenden Sie sich bitte an unseren Support.",
-  "donation_confirmation_exported_title_company" : "EXPORTED TITLE COMPANY",
-  "donation_confirmation_exported_content_company" : "EXPORTED CONTENT COMPANY Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis enim harum ipsum libero nam nobis, officia porro quam? At doloribus eos error. Autem eos eveniet facilis maxime numquam possimus rem?",
+  "donation_confirmation_exported_title" : "Daten erfolgreich verarbeitet",
+  "donation_confirmation_exported_content" : "Ihre Daten wurden verarbeitet und können an dieser Stelle nicht mehr eingesehen oder geändert werden. Bei Fragen oder Ergänzungen wenden Sie sich bitte an unseren Support.",
 
   "donation_confirmation_inline_summary_address": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Adresse:</em> {address}<br><em>Email:</em> {email}",
   "donation_confirmation_inline_summary_email": "<em>Sie spenden:</em> <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong> {personType}<br><em>Email:</em> {email}",
