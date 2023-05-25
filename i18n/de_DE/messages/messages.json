@@ -143,6 +143,7 @@
   "donation_form_address_choice_emailonly_addresstype": "Nur E-Mail-Adresse",
   "donation_form_address_choice_emailonly_notice_addresstype": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
   "donation_form_address_choice_noaddress_addresstype": "Gar keine Kontaktdaten",
+  "donation_form_address_choice_noaddress_notice_addresstype": "Sie verzichten sowohl auf eine Spendenquittung als auch auf eine Bestätigung per E-Mail.",
   "donation_form_section_address_header_type_addresstype": "Spenden als...",
   "donation_form_addresstype_option_private_addresstype": "Privatperson",
   "donation_form_addresstype_option_company_addresstype": "Firma",
