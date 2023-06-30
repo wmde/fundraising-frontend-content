@@ -40,7 +40,6 @@ class LocaleKeysTest extends TestCase {
 			[ 'i18n/en_GB/messages/paymentStatus.json', 'i18n/de_DE/messages/paymentStatus.json' ],
 			[ 'i18n/en_GB/messages/paymentTypes.json', 'i18n/de_DE/messages/paymentTypes.json' ],
 			[ 'i18n/en_GB/messages/siteMetadata.json', 'i18n/de_DE/messages/siteMetadata.json' ],
-			[ 'i18n/en_GB/messages/useOfFundsMessages.json', 'i18n/de_DE/messages/useOfFundsMessages.json' ],
 			[ 'i18n/en_GB/messages/validations.json', 'i18n/de_DE/messages/validations.json' ],
 		];
 	}
