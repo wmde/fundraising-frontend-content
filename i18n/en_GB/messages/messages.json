@@ -90,7 +90,7 @@
   "comment_success_needs_moderation": "Thank you. Your comment has been held for moderation and may be published shortly. If you have questions, you may contact us directly via the <a href=\"/contact/get-in-touch\">contact form</a>.",
 
   "donation_confirmation_address_update_button": "I need a donation receipt.",
-  "donation_confirmation_address_update_button_alt": "Continue to enter your postal address.",
+  "donation_confirmation_address_update_button_alt": "Enter postal address.",
   "receipt_needed_donation_page": "I need a donation receipt.",
   "receipt_needed_membership_page": "I need a donation receipt.",
   "donation_confirmation_address_update_cancel": "Cancel",
