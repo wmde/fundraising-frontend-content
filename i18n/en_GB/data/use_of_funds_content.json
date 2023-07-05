@@ -117,10 +117,6 @@
 			"Donations from Germany go to Wikimedia Deutschland in Berlin. Since our founding in 2004, we have been promoting Wikipedia and Free Knowledge in Germany. As a non-profit association, we are entitled to issue tax-deductible donations receipts and to carry out the Wikipedia donation campaign.",
 			"A portion of the donation is forwarded to the Wikimedia Foundation, a non-profit organisation that operates and develops Wikipedia and related projects worldwide. The sole purpose of this organization is to raise funds for Wikipedia and transfer them to the association Wikimedia Deutschland as well as to the Wikimedia Foundation."
 		],
-		"paragraphs": [
-			"Spenden aus Deutschland gehen an Wikimedia Deutschland in Berlin. Seit der Gründung im Jahr 2004 fördern wir Wikipedia und Freies Wissen in Deutschland. Als gemeinnützig anerkannter Verein sind wir berechtigt, steuerabzugsfähige Spendenquittungen auszustellen und die Wikipedia-Spendenkampagne durchzuführen.",
-			"Ein Teil der Spenden wird an die internationale Wikimedia Foundation weitergeleitet. Sie ist eine gemeinnützige Organisation, die weltweit Wikipedia und damit verbundene Projekte betreibt und entwickelt."
-		],
 		"_organizationClasses": "This map is used to highlight words from the paragraphs. The map values are the CSS class modifiers ",
 		"organizationClasses": {
 			" Wikimedia Deutschland ": "wmde",
