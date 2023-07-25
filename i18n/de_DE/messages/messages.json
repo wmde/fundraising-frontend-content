@@ -197,6 +197,13 @@
   "donation_form_addresstype_option_company_addresstype_no_anon": "Firma",
 
 
+  "donation_form_provisional_address_choice_fulladdress_donation_receipt": "Ich hätte gerne eine Spendenquittung per Post.",
+  "donation_form_provisional_address_choice_fulladdress_notice_donation_receipt": "Hierfür brauchen wir Ihre Adressdaten. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
+  "donation_form_provisional_address_choice_emailonly_donation_receipt": "Eine Bestätigung der Spende reicht mir.",
+  "donation_form_provisional_address_choice_emailonly_notice_donation_receipt": "Hierfür benötigen wir nur Ihren Namen und Ihre E-Mail-Adresse. Eine Spendenquittung bekommen Sie aber nicht, da wir diese nur per Post verschicken.",
+
+
+
   "donation_confirmation_summary_title": "Ihre Spendenquittung erhalten Sie an folgende Adresse:",
   "donation_confirmation_summary_title_no_receipt_wanted": "Folgende Adresse haben wir von Ihnen erhalten:",
   "donation_confirmation_address_person": "<em>Adresse:</em> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
