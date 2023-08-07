@@ -185,7 +185,7 @@
   "donation_form_addresstype_option_company_addresstype_checkmarks": "Firma",
 
 
-  "donation_form_provisional_address_choice_title_addresstype_no_anon": "Sie bestimmen, ob und welche Kontaktdaten Sie angeben.",
+  "donation_form_provisional_address_choice_title_addresstype_no_anon": "Benötigen Sie eine Spendenquittung?",
   "donation_form_provisional_address_choice_title_notice_addresstype_no_anon": "Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.",
   "donation_form_address_choice_direct_debit_disclaimer_addresstype_no_anon": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
   "donation_form_provisional_address_choice_fulladdress_addresstype_no_anon": "Vollständige Kontaktdaten",
@@ -195,6 +195,13 @@
   "donation_form_section_address_header_type_addresstype_no_anon": "Spenden als...",
   "donation_form_addresstype_option_private_addresstype_no_anon": "Privatperson",
   "donation_form_addresstype_option_company_addresstype_no_anon": "Firma",
+
+
+  "donation_form_provisional_address_choice_fulladdress_donation_receipt": "Ja, ich brauche eine Spendenquittung per Post.",
+  "donation_form_provisional_address_choice_fulladdress_notice_donation_receipt": "Hierfür benötigen wir Ihre Kontaktdaten. Eine Bestätigung per E-Mail erhalten Sie außerdem.",
+  "donation_form_provisional_address_choice_emailonly_donation_receipt": "Nein, mir reicht eine Bestätigung der Spende per E-Mail.",
+  "donation_form_provisional_address_choice_emailonly_notice_donation_receipt": "Hierfür benötigen wir Namen und E-Mail-Adresse. Auf eine Spendenquittung verzichten Sie dann.",
+
 
 
   "donation_confirmation_summary_title": "Ihre Spendenquittung erhalten Sie an folgende Adresse:",

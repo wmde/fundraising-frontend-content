@@ -200,6 +200,13 @@
   "donation_form_addresstype_option_company_addresstype_no_anon": "Yes, as a representative of an organization",
 
 
+  "donation_form_provisional_address_choice_fulladdress_donation_receipt": "I would like a donation receipt in the mail.",
+  "donation_form_provisional_address_choice_fulladdress_notice_donation_receipt": "For this we need your address data. You will also receive a confirmation by email.",
+  "donation_form_provisional_address_choice_emailonly_donation_receipt": "A confirmation of the donation is enough for me.",
+  "donation_form_provisional_address_choice_emailonly_notice_donation_receipt": "For this we only need your name and your e-mail address. However, you will not receive a donation receipt, as we only send them by post.",
+
+
+
   "donation_confirmation_summary_title": "We will send your donation receipt to the following:",
   "donation_confirmation_summary_title_no_receipt_wanted": "We have received the following address from you:",
   "donation_confirmation_address_person": "<em>Address:</em> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
