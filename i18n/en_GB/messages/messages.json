@@ -188,7 +188,7 @@
   "donation_form_addresstype_option_company_addresstype_checkmarks": "Yes, as a representative of an organization",
 
 
-  "donation_form_provisional_address_choice_title_addresstype_no_anon": "You determine which contact details you provide.",
+  "donation_form_provisional_address_choice_title_addresstype_no_anon": "Do you need a donation receipt?",
   "donation_form_provisional_address_choice_title_notice_addresstype_no_anon": "We rarely get in touch. When we do, it's only to inform you when Wikipedia once again needs your help.",
   "donation_form_address_choice_direct_debit_disclaimer_addresstype_no_anon": "For direct debit payments, full address details are mandatory.",
   "donation_form_provisional_address_choice_fulladdress_addresstype_no_anon": "Full contact details",
@@ -200,10 +200,10 @@
   "donation_form_addresstype_option_company_addresstype_no_anon": "Yes, as a representative of an organization",
 
 
-  "donation_form_provisional_address_choice_fulladdress_donation_receipt": "I would like a donation receipt in the mail.",
+  "donation_form_provisional_address_choice_fulladdress_donation_receipt": "Yes, I would like a donation receipt in the mail.",
   "donation_form_provisional_address_choice_fulladdress_notice_donation_receipt": "For this we need your address data. You will also receive a confirmation by email.",
-  "donation_form_provisional_address_choice_emailonly_donation_receipt": "A confirmation of the donation is enough for me.",
-  "donation_form_provisional_address_choice_emailonly_notice_donation_receipt": "For this we only need your name and your e-mail address. However, you will not receive a donation receipt, as we only send them by post.",
+  "donation_form_provisional_address_choice_emailonly_donation_receipt": "No, a confirmation of the donation is enough for me.",
+  "donation_form_provisional_address_choice_emailonly_notice_donation_receipt": "For this we only need name and e-mail address. However, you will not receive a donation receipt.",
 
 
 
