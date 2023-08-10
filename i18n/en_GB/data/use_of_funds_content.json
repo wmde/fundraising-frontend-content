@@ -113,14 +113,15 @@
 	"orgchart": {
 		"headline": "Who receives the donations for Wikipedia?",
 		"imageUrl": " https://upload.wikimedia.org/wikipedia/commons/e/e7/WMDE-funds-forwarding-en.gif",
+		"_paragraphs": "Wrap the text you want highlighted in <wmde>Highlighted</wmde> or <wmf>Highlighted</wmf>",
 		"paragraphs": [
-			"Donations from Germany go to Wikimedia Deutschland in Berlin. Since our founding in 2004, we have been promoting Wikipedia and Free Knowledge in Germany. As a non-profit association, we are entitled to issue tax-deductible donations receipts and to carry out the Wikipedia donation campaign.",
-			"A portion of the donation is forwarded to the Wikimedia Foundation, a non-profit organisation that operates and develops Wikipedia and related projects worldwide."
+			"Donations from Germany go to<wmde> Wikimedia Deutschland </wmde>in Berlin. Since our founding in 2004, we have been promoting Wikipedia and Free Knowledge in Germany. As a non-profit association, we are entitled to issue tax-deductible donations receipts and to carry out the Wikipedia donation campaign.",
+			"A portion of the donation is forwarded to the<wmf> Wikimedia Foundation </wmf>, a non-profit organisation that operates and develops Wikipedia and related projects worldwide."
 		],
-		"_organizationClasses": "This map is used to highlight words from the paragraphs. The map values are the CSS class modifiers ",
+		"_organizationClasses": "THIS IS DEPRECATED PLEASE DONT RELY ON THEM",
 		"organizationClasses": {
 			" Wikimedia Deutschland ": "wmde",
-			" Wikimedia Foundation": "wmf"
+			" Wikimedia Foundation ": "wmf"
 		}
 	},
 	"callToAction": "Donate now",

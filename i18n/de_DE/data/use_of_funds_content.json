@@ -114,11 +114,12 @@
 	"orgchart": {
 		"headline": "An wen gehen die Spenden für Wikipedia?",
 		"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/WMDE-funds-forwarding.gif",
+		"_paragraphs": "Wrap the text you want highlighted in <wmde>Highlighted</wmde> or <wmf>Highlighted</wmf>",
 		"paragraphs": [
-			"Spenden aus Deutschland gehen an Wikimedia Deutschland in Berlin. Seit der Gründung im Jahr 2004 fördern wir Wikipedia und Freies Wissen in Deutschland. Als gemeinnützig anerkannter Verein sind wir berechtigt, steuerabzugsfähige Spendenquittungen auszustellen und die Wikipedia-Spendenkampagne durchzuführen.",
-			"Ein Teil der Spenden wird an die internationale Wikimedia Foundation weitergeleitet. Sie ist eine gemeinnützige Organisation, die weltweit Wikipedia und damit verbundene Projekte betreibt und entwickelt."
+			"Spenden aus Deutschland gehen an<wmde> Wikimedia Deutschland </wmde>in Berlin. Seit der Gründung im Jahr 2004 fördern wir Wikipedia und Freies Wissen in Deutschland. Als gemeinnützig anerkannter Verein sind wir berechtigt, steuerabzugsfähige Spendenquittungen auszustellen und die Wikipedia-Spendenkampagne durchzuführen.",
+			"Ein Teil der Spenden wird an die internationale<wmf> Wikimedia Foundation </wmf>weitergeleitet. Sie ist eine gemeinnützige Organisation, die weltweit Wikipedia und damit verbundene Projekte betreibt und entwickelt."
 		],
-		"_organizationClasses": "This map is used to highlight words from the paragraphs. The map values are the CSS class modifiers ",
+		"_organizationClasses": "THIS IS DEPRECATED PLEASE DONT RELY ON THEM",
 		"organizationClasses": {
 			" Wikimedia Deutschland ": "wmde",
 			" Wikimedia Foundation ": "wmf"
