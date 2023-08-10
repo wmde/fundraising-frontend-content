@@ -117,7 +117,12 @@
 		"paragraphs": [
 			"Donations from Germany go to<wmde> Wikimedia Deutschland </wmde>in Berlin. Since our founding in 2004, we have been promoting Wikipedia and Free Knowledge in Germany. As a non-profit association, we are entitled to issue tax-deductible donations receipts and to carry out the Wikipedia donation campaign.",
 			"A portion of the donation is forwarded to the<wmf> Wikimedia Foundation </wmf>, a non-profit organisation that operates and develops Wikipedia and related projects worldwide."
-		]
+		],
+		"_organizationClasses": "THIS IS DEPRECATED PLEASE DONT RELY ON THEM",
+		"organizationClasses": {
+			" Wikimedia Deutschland ": "wmde",
+			" Wikimedia Foundation ": "wmf"
+		}
 	},
 	"callToAction": "Donate now",
 	"provisional": "*) provisional"

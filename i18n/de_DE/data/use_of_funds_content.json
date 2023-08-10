@@ -118,7 +118,12 @@
 		"paragraphs": [
 			"Spenden aus Deutschland gehen an<wmde> Wikimedia Deutschland </wmde>in Berlin. Seit der Gründung im Jahr 2004 fördern wir Wikipedia und Freies Wissen in Deutschland. Als gemeinnützig anerkannter Verein sind wir berechtigt, steuerabzugsfähige Spendenquittungen auszustellen und die Wikipedia-Spendenkampagne durchzuführen.",
 			"Ein Teil der Spenden wird an die internationale<wmf> Wikimedia Foundation </wmf>weitergeleitet. Sie ist eine gemeinnützige Organisation, die weltweit Wikipedia und damit verbundene Projekte betreibt und entwickelt."
-		]
+		],
+		"_organizationClasses": "THIS IS DEPRECATED PLEASE DONT RELY ON THEM",
+		"organizationClasses": {
+			" Wikimedia Deutschland ": "wmde",
+			" Wikimedia Foundation ": "wmf"
+		}
 	},
 	"callToAction": "Jetzt spenden",
 	"provisional": "*) vorläufig"
