@@ -113,7 +113,8 @@
 	},
 	"orgchart": {
 		"headline": "An wen gehen die Spenden für Wikipedia?",
-		"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/WMDE-funds-forwarding.gif",
+		"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/WMDE-funds-forwarding-de.svg",
+		"imageAltText": "Illustration: Spendenverteilung an Wikimedia Deutschland und die Wikimedia Foundation",
 		"_paragraphs": "Wrap the text you want highlighted in <wmde>Highlighted</wmde> or <wmf>Highlighted</wmf>",
 		"paragraphs": [
 			"Spenden aus Deutschland gehen an<wmde> Wikimedia Deutschland </wmde>in Berlin. Seit der Gründung im Jahr 2004 fördern wir Wikipedia und Freies Wissen in Deutschland. Als gemeinnützig anerkannter Verein sind wir berechtigt, steuerabzugsfähige Spendenquittungen auszustellen und die Wikipedia-Spendenkampagne durchzuführen.",
