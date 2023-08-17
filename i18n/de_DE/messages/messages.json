@@ -89,9 +89,9 @@
   "comment_success_ok": "Herzlichen Dank für Ihren Kommentar. Falls Sie den Kommentar öffentlicht gemacht haben, finden Sie ihn nun auf der <a href=\"/list-comments.html\">Liste der neuesten Spendenkommentare</a>",
   "comment_success_needs_moderation": "Herzlichen Dank für Ihren Kommentar. Irgendein Wort im Kommentar scheint problematisch zu sein, weshalb der Kommentar nicht unmittelbar veröffentlicht werden kann. Wir schauen uns das an und schalten den Kommentar gegebenenfalls frei. Wenn Sie Fragen haben, können Sie sich über das <a href=\"/contact/get-in-touch\">Kontaktformular</a> aber auch an uns direkt wenden.",
 
-  "donation_confirmation_address_update_button": "Ich benötige eine Spendenquittung",
+  "donation_confirmation_address_update_button": "Ich benötige eine Spendenquittung (per Post).",
   "donation_confirmation_address_update_button_alt": "Postadresse angeben",
-  "receipt_needed_donation_page": "Ich benötige eine Spendenquittung.",
+  "receipt_needed_donation_page": "Ich benötige eine Spendenquittung (per Post).",
   "receipt_needed_membership_page": "Ich benötige eine Zuwendungsbescheinigung.",
   "donation_confirmation_address_update_cancel": "Abbrechen",
   "donation_confirmation_address_update_confirm": "Kontaktdaten senden",
