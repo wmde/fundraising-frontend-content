@@ -4,6 +4,7 @@
   "access_denied_donation_confirmation": "You are not authorised to view this donation.",
   "access_denied_membership_confirmation": "You are not authorised to view this membership application.",
   "access_denied_membership_confirmation_anonymized": "Your membership application was completed successfully, but the confirmation page can no longer be displayed. If you have any questions concerning your membership, please contact us by email at <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder@wikimedia.de</a>.",
+  "access_denied_membership_confirmation_anonymized_vuei18n_v3": "Your membership application was completed successfully, but the confirmation page can no longer be displayed. If you have any questions concerning your membership, please contact us by email at <a href=\"mailto:mitglieder%40wikimedia.de\">mitglieder{'@'}wikimedia.de</a>.",
 
   "address_change_form_title": "Change address",
   "address_change_form_label": "Please use this contact form to send us your current address.",
@@ -11,9 +12,12 @@
   "address_change_form_success_title": "Change of address completed successfully",
   "address_change_form_success_label": "Thank you for your assistance! You will receive a donation receipt at your new address soon.",
   "address_change_form_success_optout_label": "Thank you for your assistance! You have asked not to receive a donation receipt. Should you change your mind, you can notify us by emailing spenden@wikimedia.de.",
+  "address_change_form_success_optout_label_vuei18n_v3": "Thank you for your assistance! You have asked not to receive a donation receipt. Should you change your mind, you can notify us by emailing spenden{'@'}wikimedia.de.",
   "address_change_opt_out_hint": "You can provide your current address even if you prefer not to receive a donation receipt.",
   "address_change_no_token_in_request": "Address change not authorised. If the link to update your address is not working, use our contact form or email us at spenden@wikimedia.de.",
+  "address_change_no_token_in_request_vuei18n_v3": "Address change not authorised. If the link to update your address is not working, use our contact form or email us at spenden{'@'}wikimedia.de.",
   "address_change_token_not_found": "Link expired. Address-change links only work once. Should you wish to make further changes, use our contact form or email us at spenden@wikimedia.de.",
+  "address_change_token_not_found_vuei18n_v3": "Link expired. Address-change links only work once. Should you wish to make further changes, use our contact form or email us at spenden{'@'}wikimedia.de.",
 
   "back_to_donation_summary": "Back to donation summary",
 
@@ -39,12 +43,13 @@
   "contact_form_error": "Please review your form input.",
   "contact_form_email_label": "Email",
   "contact_form_email_placeholder": "bloggs@example.com",
+  "contact_form_email_placeholder_vuei18n_v3": "bloggs{'@'}example.com",
   "contact_form_email_error": "Please enter a valid email address.",
   "contact_form_firstname_label": "First name",
   "contact_form_firstname_placeholder": "Joe or Jane",
   "contact_form_firstname_error": "Please enter your first name.",
   "contact_form_lastname_label": "Surname",
-  "contact_form_lastname_placeholder": "Bloggs@",
+  "contact_form_lastname_placeholder": "Bloggs",
   "contact_form_lastname_error": "Please enter your surname.",
   "contact_form_optional": "(optional)",
   "contact_form_subject_label": "Subject",
@@ -66,6 +71,7 @@
 
   "donation_cancellation_title": "Cancellation",
   "donation_cancellation_text": "The donation process with the number {donation_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">spenden@wikimedia.de</a>.",
+  "donation_cancellation_text_vuei18n_v3": "The donation process with the number {donation_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">spenden{'@'}wikimedia.de</a>.",
 
   "donation_comment_popup_title": "Leave a donation comment",
   "donation_comment_popup_explanation": "If you like, please tell us the reason for your donation. How are you involved with Wikipedia? Your story helps to illustrate Wikipedia's significance for millions of people who use the site every day.",
@@ -125,6 +131,7 @@
   "donation_confirmation_inline_summary": "You will donate: <strong>{interval} €{formattedAmount}</strong> via <strong>{paymentType}</strong>.",
   "donation_confirmation_address_usage_link": "more information",
   "donation_confirmation_address_usage_content": "We need your postal address in order to send you a donation receipt. Sending it by email is currently still not secure enough. In addition, we send donation requests every once in a while, when Wikipedia needs your help again. If you do not want to receive these donation requests, please let us know by sending an email to spenden@wikimedia.de. You will then receive your donation receipt to your home address.",
+  "donation_confirmation_address_usage_content_vuei18n_v3": "We need your postal address in order to send you a donation receipt. Sending it by email is currently still not secure enough. In addition, we send donation requests every once in a while, when Wikipedia needs your help again. If you do not want to receive these donation requests, please let us know by sending an email to spenden{'@'}wikimedia.de. You will then receive your donation receipt to your home address.",
 
   "donation_form_academic_title_label": "Title",
   "donation_form_academic_title_option_none": "No title",
@@ -250,6 +257,7 @@
   "donation_form_email_error": "Please enter a valid email address.",
   "donation_form_email_label": "Email",
   "donation_form_email_placeholder": "bloggs@example.com",
+  "donation_form_email_placeholder_vuei18n_v3": "bloggs{'@'}example.com",
   "donation_form_email_placeholder_warning": "Are you sure that your email is {value}?",
   "donation_form_email_suggestion": "Did you mean",
   "donation_form_finalize": "Donate now",
@@ -266,8 +274,10 @@
   "donation_form_lastname_placeholder_check": "Bloggs",
   "donation_form_lastname_placeholder_warning": "Are you sure that your surname is {value}?",
   "donation_form_newsletter_label": "Yes, I would like to be notified if Wikipedia needs my help in the future. I understand I can revoke my consent at any time by sending an email to spenden@wikimedia.de.",
+  "donation_form_newsletter_label_vuei18n_v3": "Yes, I would like to be notified if Wikipedia needs my help in the future. I understand I can revoke my consent at any time by sending an email to spenden{'@'}wikimedia.de.",
   "donation_form_newsletter_label_paragraph_1": "Yes, I would like to be notified if Wikipedia needs my help in the future.",
   "donation_form_newsletter_label_paragraph_2": "If you do not want to receive emails, please uncheck the box. You can also unsubscribe at any time in the future, for example, via the unsubscribe link at the bottom of each email or by sending an email to spenden@wikimedia.de. You can find further information in our <a href=\"https://spenden.wikimedia.de/page/Datenschutz\">privacy policy</a>.",
+  "donation_form_newsletter_label_paragraph_2_vuei18n_v3": "If you do not want to receive emails, please uncheck the box. You can also unsubscribe at any time in the future, for example, via the unsubscribe link at the bottom of each email or by sending an email to spenden{'@'}wikimedia.de. You can find further information in our <a href=\"https://spenden.wikimedia.de/page/Datenschutz\">privacy policy</a>.",
   "donation_form_payment_amount_error": "Unfortunately, due to applicable fees, you have to state a minimum amount of EUR 1. If you would like to donate less, please transfer the amount directly to the donation account stated below.",
   "donation_form_payment_amount_too_high": "The amount must not exceed €99999.",
   "donation_form_payment_amount_legend": "Please enter your desired amount.",
@@ -338,6 +348,7 @@
 
   "membership_cancellation_title": "Your membership application was cancelled.",
   "membership_cancellation_text": "Your membership application with the number {membership_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">members@wikimedia.de</a>.",
+  "membership_cancellation_text_vuei18n_v3": "Your membership application with the number {membership_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">members{'@'}wikimedia.de</a>.",
 
   "membership_confirmation_thanks_text": "Thank you for your sponsorship!",
   "membership_confirmation_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V.<br>and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong><br>from {address}",
