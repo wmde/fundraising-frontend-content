@@ -1,4 +1,7 @@
 {
+  "yes": "Yes",
+  "no": "No",
+
   "access_denied": "You are not authorised to view this page.",
   "access_denied_header": "Error",
   "access_denied_donation_confirmation": "You are not authorised to view this donation.",

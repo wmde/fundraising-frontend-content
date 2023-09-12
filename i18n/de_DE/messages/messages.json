@@ -1,4 +1,7 @@
 {
+  "yes": "Ja",
+  "no": "Nein",
+
   "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
   "access_denied_header": "Fehler",
   "access_denied_donation_confirmation": "Sie haben keine Berechtigung, diese Spende zu sehen.",
