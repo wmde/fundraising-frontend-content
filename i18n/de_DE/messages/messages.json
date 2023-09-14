@@ -195,7 +195,7 @@
   "donation_form_addresstype_option_company_addresstype_checkmarks": "Firma",
 
 
-  "donation_form_provisional_address_choice_title_addresstype_no_anon": "Benötigen Sie eine Spendenquittung?",
+  "donation_form_provisional_address_choice_title_addresstype_no_anon": "Sie bestimmen, welche Kontaktdaten Sie angeben",
   "donation_form_provisional_address_choice_title_notice_addresstype_no_anon": "Wir melden uns grundsätzlich nur ganz selten. Und dann nur, um zu informieren, wenn Wikipedia wieder Hilfe braucht.",
   "donation_form_address_choice_direct_debit_disclaimer_addresstype_no_anon": "Für Lastschriften ist die Angabe einer Adresse erforderlich.",
   "donation_form_provisional_address_choice_fulladdress_addresstype_no_anon": "Vollständige Kontaktdaten",
