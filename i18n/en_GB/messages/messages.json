@@ -447,8 +447,8 @@
   "donation_page_feedback_box_content_option_feedback": "Yes, give feedback",
   "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=en",
 
-  "C23_WMDE_Desktop_DE_05_contact_details_label": "Wie möchten Sie spenden?",
-  "C23_WMDE_Desktop_DE_05_contact_details_private": "Privat",
-  "C23_WMDE_Desktop_DE_05_contact_details_company": "Firma"
+  "C23_WMDE_Desktop_DE_05_contact_details_label": "Who are you donating on behalf of?",
+  "C23_WMDE_Desktop_DE_05_contact_details_private": "Myself",
+  "C23_WMDE_Desktop_DE_05_contact_details_company": "My Workplace"
 
 }
