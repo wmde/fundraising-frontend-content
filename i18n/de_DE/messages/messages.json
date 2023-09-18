@@ -443,6 +443,7 @@
   "donation_page_feedback_box_content_option_feedback": "Ja, Feedback geben",
   "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=de",
 
+  "C23_WMDE_Desktop_DE_05_receipt_error": "You must choose a receipt option",
   "C23_WMDE_Desktop_DE_05_contact_details_label": "Wie möchten Sie spenden?",
   "C23_WMDE_Desktop_DE_05_contact_details_private": "Privat",
   "C23_WMDE_Desktop_DE_05_contact_details_company": "Firma"
