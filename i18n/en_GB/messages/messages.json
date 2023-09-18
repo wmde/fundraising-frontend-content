@@ -445,5 +445,10 @@
   "donation_page_feedback_box_content_text": "If you have problems filling out the donation form or if something is missing, we're looking forward to your feedback",
   "donation_page_feedback_box_content_option_decline": "No, all good",
   "donation_page_feedback_box_content_option_feedback": "Yes, give feedback",
-  "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=en"
+  "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=en",
+
+  "C23_WMDE_Desktop_DE_05_contact_details_label": "Wie möchten Sie spenden?",
+  "C23_WMDE_Desktop_DE_05_contact_details_private": "Privat",
+  "C23_WMDE_Desktop_DE_05_contact_details_company": "Firma"
+
 }
