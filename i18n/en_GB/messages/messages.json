@@ -322,6 +322,7 @@
   "donation_form_section_back": "Change my payment details",
   "donation_form_section_continue": "Continue",
   "donation_form_section_headline": "Donate",
+  "donation_form_section_address_headline": "Thank you for your support.<br/>You're almost there.",
   "donation_form_section_overview_title": "Summary",
   "donation_form_street_error": "Please enter a street.",
   "donation_form_street_label": "Street name and number",

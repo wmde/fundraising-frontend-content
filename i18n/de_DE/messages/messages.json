@@ -319,6 +319,7 @@
   "donation_form_section_back": "Zahldaten ändern",
   "donation_form_section_continue": "Weiter",
   "donation_form_section_headline": "Spenden",
+  "donation_form_section_address_headline": "Vielen Dank für Ihre Unterstützung.<br/>Sie haben es fast geschafft.",
   "donation_form_section_overview_title": "Übersicht",
   "donation_form_street_error": "Bitte geben Sie eine Straße an.",
   "donation_form_street_label": "Straße und Hausnummer",
