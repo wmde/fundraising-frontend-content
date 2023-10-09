@@ -24,6 +24,7 @@
 
   "back_to_donation_summary": "Back to donation summary",
 
+  "bank_data_title": "Donation Account",
   "bank_data_account_number": "Account number",
   "bank_data_account_owner": "Account holder",
   "bank_data_bank_code": "Bank code",
@@ -34,7 +35,7 @@
   "bank_data_operator_account_blz": "10020500",
   "bank_data_operator_account_iban": "DE09 3702 0500 0003 2873 00",
   "bank_data_operator_account_number": "1194700",
-  "bank_data_operator_account_owner": "Wikimedia",
+  "bank_data_operator_account_owner": "Wikimedia e. V.",
   "bank_data_operator_bank_name": "Bank für Sozialwirtschaft",
   "bank_data_transfer_code": "Reference",
 
@@ -255,7 +256,7 @@
   "donation_form_country_option_IT": "Italy",
   "donation_form_country_option_LI": "Liechtenstein",
   "donation_form_country_option_LU": "Luxembourg",
-  "donation_form_custom_placeholder": "Desired donation amount, e.g., 25",
+  "donation_form_custom_placeholder": "Desired donation amount, e.g., 30",
   "donation_form_dob_error": "Please check your date of birth. It must be entered in the format day/month/year (dd/mm/yyyy).",
   "donation_form_email_error": "Please enter a valid email address.",
   "donation_form_email_label": "Email",
@@ -321,6 +322,7 @@
   "donation_form_section_back": "Change my payment details",
   "donation_form_section_continue": "Continue",
   "donation_form_section_headline": "Donate",
+  "donation_form_section_address_headline": "Thank you for your support.<br/>You're almost there.",
   "donation_form_section_overview_title": "Summary",
   "donation_form_street_error": "Please enter a street.",
   "donation_form_street_label": "Street name and number",
@@ -395,6 +397,7 @@
   "page_not_found": "If you are looking for anything in particular and cannot find it, please get in touch. The easiest way to do this is by using the <a href=\"/contact/get-in-touch\">contact form</a>.",
   "page_not_found_header": "Unfortunately, this page is not available.",
 
+  "footer_text": "Wikimedia Deutschland ist Teil einer weltweiten Bewegung, die sich für Freies Wissen einsetzt. Als gemeinnützige Organisation unterstützen wir Wikipedia und ihre Schwesterprojekte, indem wir Freiwillige fördern, freie Software entwickeln und auf allen gesellschaftlichen Ebenen für das Menschenrecht auf Zugang zu Wissen und Bildung einstehen.<br/><br/>Die Wikimedia Fördergesellschaft ist eine unabhängige gemeinnützige Organisation, die in Deutschland Spenden für Wikipedia und andere Wikimedia-Projekte sammelt.",
   "footer_menu_contact": "Contact",
   "footer_menu_data_protection": "Privacy",
   "footer_menu_imprint": "Legal notice",
@@ -420,6 +423,7 @@
   "sidebar_getintouch_headline": "Any questions about making a donation?",
   "sidebar_getintouch_text": "Please call us or use the <a href=\"/contact/get-in-touch\">contact form</a>",
   "sidebar_getintouch_text_phone": "(030) 577 11 62-19",
+  "sidebar_getintouch_mixed": "Please contact us using the <a href=\"/contact/get-in-touch\">contact form</a> or by calling: <a href=\"tel:+4930577116219\">(030) 577 11 62-19</a>",
 
   "system_message_page_header": "Error",
 

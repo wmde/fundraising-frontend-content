@@ -24,6 +24,7 @@
 
   "back_to_donation_summary": "Zurück zur Spendenübersicht",
 
+  "bank_data_title": "Spendenkonto",
   "bank_data_account_number": "Kontonummer",
   "bank_data_account_owner": "Kontoinhaber",
   "bank_data_bank_code": "Bankleitzahl",
@@ -34,7 +35,7 @@
   "bank_data_operator_account_blz": "10020500",
   "bank_data_operator_account_iban": "DE09 3702 0500 0003 2873 00",
   "bank_data_operator_account_number": "1194700",
-  "bank_data_operator_account_owner": "Wikimedia",
+  "bank_data_operator_account_owner": "Wikimedia e. V.",
   "bank_data_operator_bank_name": "Bank für Sozialwirtschaft",
   "bank_data_transfer_code": "Verwendungszweck",
 
@@ -252,7 +253,7 @@
   "donation_form_country_option_IT": "Italien",
   "donation_form_country_option_LI": "Liechtenstein",
   "donation_form_country_option_LU": "Luxemburg",
-  "donation_form_custom_placeholder": "Wunschbetrag, z. B. 25",
+  "donation_form_custom_placeholder": "Wunschbetrag, z. B. 30",
   "donation_form_dob_error": "Bitte überprüfen Sie das Geburtsdatum. Es muss im Format Tag.Monat.Jahr angegeben werden.",
   "donation_form_email_error": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
   "donation_form_email_label": "E-Mail",
@@ -318,6 +319,7 @@
   "donation_form_section_back": "Zahldaten ändern",
   "donation_form_section_continue": "Weiter",
   "donation_form_section_headline": "Spenden",
+  "donation_form_section_address_headline": "Vielen Dank für Ihre Unterstützung.<br/>Sie haben es fast geschafft.",
   "donation_form_section_overview_title": "Übersicht",
   "donation_form_street_error": "Bitte geben Sie eine Straße an.",
   "donation_form_street_label": "Straße und Hausnummer",
@@ -392,6 +394,7 @@
   "page_not_found": "Wenn Sie nach etwas Bestimmtem suchen und es nicht finden können, fragen Sie uns bitte. Am einfachsten geht dies über das <a href=\"/contact/get-in-touch\">Kontaktformular</a>.",
   "page_not_found_header": "Diese Seite bieten wir leider nicht an.",
 
+  "footer_text": "Wikimedia Deutschland e. V. ist ein unabhängiger gemeinnütziger Verein, der in Deutschland Spenden für Wikipedia und andere Wikimedia-Projekte sammelt.<br/><br/>Als Organisation hinter der Wikipedia unterstützen wir die Freiwilligen, sichern und entwickeln die technische Infrastruktur und setzen uns weltweit für den freien Zugang zu Wissen und Bildung ein.",
   "footer_menu_contact": "Kontakt",
   "footer_menu_data_protection": "Datenschutz",
   "footer_menu_imprint": "Impressum",
@@ -417,6 +420,7 @@
   "sidebar_getintouch_headline": "Frage zum Spenden?",
   "sidebar_getintouch_text": "Rufen Sie uns an oder nutzen Sie das <a href=\"/contact/get-in-touch\">Kontaktformular</a>",
   "sidebar_getintouch_text_phone": "(030) 577 11 62-19",
+  "sidebar_getintouch_mixed": "Nutzen Sie unser <a href=\"/contact/get-in-touch\">Kontaktformular</a> oder rufen Sie uns an: <a href=\"tel:+4930577116219\">(030) 577 11 62-19</a>",
 
   "system_message_page_header": "Fehler",
 
