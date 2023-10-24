@@ -388,6 +388,7 @@
   "membership_form_incentive" : "Ich möchte den Wikipedia-Stoffbeutel erhalten.",
   "membership_form_payment_type_title": "Wie möchten Sie Ihren Beitrag zahlen?",
   "membership_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
+  "membership_form_interval_error": "Bitte wählen Sie einen Zahlungsintervall aus.",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 

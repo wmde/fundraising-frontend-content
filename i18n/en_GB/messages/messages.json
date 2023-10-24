@@ -391,6 +391,7 @@
   "membership_form_incentive": "I would like to receive the Wikipedia tote bag.",
   "membership_form_payment_type_title": "How would you like to pay your membership fee?",
   "membership_form_payment_type_error": "What is your preferred payment method?",
+  "membership_form_interval_error": "Please choose an interval.",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
