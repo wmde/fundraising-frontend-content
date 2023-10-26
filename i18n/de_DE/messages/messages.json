@@ -388,6 +388,7 @@
   "membership_form_incentive" : "Ich möchte den Wikipedia-Stoffbeutel erhalten.",
   "membership_form_payment_type_title": "Wie möchten Sie Ihren Beitrag zahlen?",
   "membership_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
+  "membership_form_interval_error": "Bitte wählen Sie einen Zahlungsintervall aus.",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
@@ -450,6 +451,7 @@
   "C23_WMDE_Desktop_DE_05_receipt_error": "Bitte wählen Sie eine der beiden Optionen.",
   "C23_WMDE_Desktop_DE_05_contact_details_label": "Wie möchten Sie spenden?",
   "C23_WMDE_Desktop_DE_05_contact_details_private": "Privat",
-  "C23_WMDE_Desktop_DE_05_contact_details_company": "Firma"
+  "C23_WMDE_Desktop_DE_05_contact_details_company": "Firma",
 
+  "hall_of_fame_header": "Die Spenden und Mitgliedsbeiträge unserer Unterstützenden sichern Wikipedia und ihre Schwesterprojekte. Sie ermöglichen die Arbeit der Freiwilligen, die freie Verfügbarkeit von Wikipedia und die Unabhängigkeit der Organisation. Ihnen allen danken wir von Herzen! <br> Mit der Hall of Fame würdigen wir auf Wunsch besonders großzügige Spenden und Beiträge. Vielen Dank für Ihr großes Engagement und dass Sie es für alle sichtbar machen!"
 }
