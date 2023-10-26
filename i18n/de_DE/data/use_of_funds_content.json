@@ -5,34 +5,46 @@
 	},
 	"applicationOfFundsData": [
 		{
-			"id": "software",
-			"title": "Software",
-			"percentage": 23,
-			"text": " Aktuelle Daten der Welt sind das Rückgrat von Wikipedia & Co. Damit alle Wikipedia-Sprachversionen einfach auf einen gemeinsamen Datenpool zugreifen können, entwickeln unsere Softwareentwicklerinnen und -entwickler in Deutschland und weltweit eine sichere und verlässliche technische Infrastruktur. Damit wird die Ergänzung und Aktualisierung von Wikipedia-Artikeln mit neuesten Daten enorm erleichtert. "
+			"id": "infrastructure",
+			"title": "Infrastruktur",
+			"percentage": 17.3,
+			"text": "Die technische, soziale und finanzielle Infrastruktur des Freien Wissens soll belastbar und nachhaltig sein. Unter größtmöglicher Beteiligung der verschiedenen Communitys arbeiten wir daran, entscheidende Elemente dieser Infrastruktur zu schaffen, zu pflegen und zu entwickeln oder gegebenenfalls den Support für weniger zukunftsfähige Elemente einzustellen."
 		},
 		{
-			"id": "international",
-			"title": "International und Technik",
-			"percentage": 33,
-			"text": " Wikipedia ist ein globales Projekt. Deshalb leisten wir einen substanziellen Beitrag zur Finanzierung der internationalen Aktivitäten für die Weiterentwicklung von Wikipedia. Zudem finanzieren wir auf diese Weise die globale Server-Infrastruktur mit, auf der alle Wikimedia-Projekte – also auch die deutschsprachige Wikipedia – laufen. "
+			"id": "community",
+			"title": "Community-Unterstützung",
+			"percentage": 13.3,
+			"text": "Communitys innerhalb des Netzwerks des Freien Wissens, die unsere Vision und Werte teilen, wollen wir fördern und stärken. Dafür ist es wichtig, dass wir sowohl bestehende Communitys unterstützen als auch viel mehr Menschen für eine Beteiligung gewinnen."
 		},
 		{
-			"id": "communities",
-			"title": "Communities",
-			"percentage": 14,
-			"text": " Indem wir die ehrenamtlichen Autorinnen und Autoren bei ihrer Arbeit unterstützen, bestärken wir sie in ihrem Engagement für Wikipedia. Deshalb pflegen wir z. B. eine „technische Wunschliste“ für die stetige Verbesserung unserer Software, fördern die Einrichtung lokaler Wikipedia-Standorte, finanzieren digitale Zugänge zu Fachzeitschriften und helfen bei der Durchführung von Veranstaltungen. "
+			"id": "diversity",
+			"title": "Diversität und Beteiligung",
+			"percentage": 4.3,
+			"text": "Wir streben an, dass mehr Menschen aus strukturell benachteiligten Gruppen, die Diskriminierung aufgrund von gesellschaftlichen Machtstrukturen erfahren, sich in allen Bereichen unserer Arbeit wirksam beteiligen können. Indem wir Barrieren abbauen, die eine solche Beteiligung derzeit verhindern, wollen wir unserer Verantwortung als einflussreicher Akteur im Netzwerk des Freien Wissens gerecht werden."
+		},
+		{
+			"id": "access",
+			"title": "Nutzung und Zugang",
+			"percentage": 5.6,
+			"text": "Wir wollen erreichen, dass die Inhalte der Wikimedia-Projekte von viel mehr Menschen noch mehr genutzt werden. Zugleich wollen wir leichtere, gerechtere und barriereärmere Zugangsmöglichkeiten zu diesen Inhalten schaffen."
 		},
 		{
 			"id": "society",
 			"title": "Gesellschaft",
-			"percentage": 8,
-			"text": " Durch unser zivilgesellschaftliches Engagement auf EU-und Bundesebene sowie unsere Zusammenarbeit mit Kultur-, Bildungs- und Wissenschaftsinstitutionen machen wir mehr Inhalte für die Wikimedia-Projekte frei verfügbar – und heben auf diese Weise viele unerschlossene Schätze. "
+			"percentage": 3.3,
+			"text": "Wir wirken darauf hin, dass sich mehr Entscheidungsträger*innen mit ihren Kompetenzen und ihrem Einfluss für eine Welt einsetzen, in der alle Menschen am Wissen der Menschheit teilhaben, es nutzen und mehren können."
 		},
 		{
 			"id": "operative",
 			"title": "Operative Kosten",
-			"percentage": 22,
-			"text": " Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere organisatorischen und finanziellen Prozesse zuverlässig funktionieren. Sie sorgen z. B. dafür, dass unsere Projekte in der Öffentlichkeit bekannter werden. Und sie kümmern sich um die Bearbeitung der eingehenden Spenden einschließlich dem Versand der Spendenbescheinigungen. "
+			"percentage": 22.4,
+			"text": "Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere organisatorischen und finanziellen Prozesse zuverlässig funktionieren. Sie sorgen z. B. dafür, dass unsere Projekte in der Öffentlichkeit bekannter werden. Und sie kümmern sich um die Bearbeitung der eingehenden Spenden einschließlich dem Versand der Spendenbescheinigungen."
+		},
+		{
+			"id": "international",
+			"title": "Internationales und Technik",
+			"percentage": 33.9,
+			"text": "Wikipedia ist ein globales Projekt. Deshalb leisten wir einen substanziellen Beitrag zur Finanzierung der internationalen Aktivitäten für die Weiterentwicklung von Wikipedia. Zudem finanzieren wir auf diese Weise die globale Server-Infrastruktur mit, auf der alle Wikimedia-Projekte – also auch die deutschsprachige Wikipedia – laufen."
 		}
 	],
 	"detailedReports": {
@@ -42,12 +54,12 @@
 		"germany": {
 			"intro": "Einen genauen Einblick in unsere Aktivitäten in Deutschland finden Sie hier: ",
 			"linkName": "Jahresplan Wikimedia Deutschland",
-			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2022/Wirtschaftsplan_2022"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2023"
 		},
 		"international": {
 			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
 			"linkName": "Jahresplan Wikimedia Foundation",
-			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2021-2022"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024"
 		}
 	},
 	"benefitsList": {
@@ -76,36 +88,36 @@
 		]
 	},
 	"comparison": {
-		"headline": "Wie viel (oder wie wenig) wir brauchen",
+		"headline": "Warum wir nur 9.700.000 € brauchen",
 		"paragraphs": [
-			"Das Ziel unserer letzten Spendenkampagne betrug 9,4 Millionen €, ein wichtiger Teil der geplanten Gesamteinnahmen für das Jahr 2023. Das ist zweifelsohne viel Geld.",
+			"Unser Spendenziel von 9,7 Millionen Euro ist ein wichtiger Teil unserer für das Jahr 2024 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
 			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
-			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 700 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
+			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 900 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
 		],
 		"subhead": "Vergleich der Jahreseinnahmen",
 		"companies": [
 			{
 				"name": "Google",
-				"budget": 257,
-				"budgetString": "257 Mrd. $",
+				"budget": 280,
+				"budgetString": "280 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
-				"budget": 470,
-				"budgetString": "470 Mrd. $",
+				"budget": 514,
+				"budgetString": "514 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
-				"budget": 118,
-				"budgetString": "118 Mrd. $",
+				"budget": 117,
+				"budgetString": "117 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
 				"name": "Wikipedia",
-				"budget": 0.19,
-				"budgetString": "0,19 Mrd. $",
+				"budget": 0.21,
+				"budgetString": "0,21 Mrd. $",
 				"budgetCitation": ""
 			}
 		],
