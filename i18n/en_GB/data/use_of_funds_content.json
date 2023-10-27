@@ -5,49 +5,61 @@
 	},
 	"applicationOfFundsData": [
 		{
-			"id": "software",
-			"title": "Software",
-			"percentage": 23,
-			"text": "Up-to-date data from all over the world are the backbone of Wikipedia & Co. To ensure that all Wikipedia language versions have easy access to a shared data pool, our software developers in Germany and worldwide are developing a secure and reliable technical infrastructure. This really simplifies the processes of amending and updating Wikipedia articles with the latest data."
+			"id": "infrastructure",
+			"title": "Infrastructure",
+			"percentage": 17.3,
+			"text": "The technical, social, and financial infrastructure of free knowledge should be resilient and sustainable. With the greatest possible participation of the various communities, we shall work to create, maintain, and develop essential elements of this infrastructure as well as potentially no longer supporting less forward-looking and sustainable aspects."
 		},
 		{
 			"id": "international",
 			"title": "International and Technology",
-			"percentage": 33,
+			"percentage": 33.9,
 			"text": "Wikipedia is a global project. Therefore, we make a substantial contribution to funding the international activities that develop Wikipedia further. In this way, we also co-fund the global server infrastructure to run all Wikimedia projects, including Wikipedia in German."
 		},
 		{
-			"id": "communities",
-			"title": "Communities",
-			"percentage": 14,
-			"text": "By supporting the work of our voluntary authors, we encourage and boost their commitment to Wikipedia. We assist them in various ways, for example by keeping a “technical wish list” for the ongoing improvement of our software, by establishing local Wikipedia sites, by funding digital access to journals and by helping to organize events."
+			"id": "community",
+			"title": "Community Support",
+			"percentage": 13.3,
+			"text": "We want to nurture and strengthen communities within the free knowledge network that share our vision and values. Toward this goal we shall support existing communities and encourage many more people to join them."
+		},
+		{
+			"id": "diversity",
+			"title": "Diversity and Participation",
+			"percentage": 4.3,
+			"text": "We want to make it possible for more people from structurally disadvantaged groups, who have experienced discrimination caused by societal power structures, to meaningfully participate in all areas of our work. By breaking down barriers that currently prevent participation, we intend to fulfill our obligation as an influential player in the network of free knowledge."
+		},
+		{
+			"id": "access",
+			"title": "Usage and Access",
+			"percentage": 5.6,
+			"text": "We want to see the content of Wikimedia projects used much more by many more people. At the same time, we want to pave the way toward easier and more equitable access to this content."
 		},
 		{
 			"id": "society",
 			"title": "Society",
-			"percentage": 8,
-			"text": "Through our EU- and Germany-wide civic engagement as well as our collaboration with institutions in the fields of culture, education and science, we unlock more content for Wikimedia projects and make it freely accessible – tapping into a lot of previously undetected treasure troves."
+			"percentage": 3.3,
+			"text": "We shall bring more decision-makers in politics and society to use their skills and influence to create a world in which all people can freely share in the sum of all knowledge."
 		},
 		{
 			"id": "operative",
 			"title": "Operating Costs",
-			"percentage": 22,
+			"percentage": 22.4,
 			"text": "The people in our Berlin team make sure that the organizational and financial processes run reliably. One aspect of their work is to raise public awareness for our projects. And they process all incoming donations and send out the donation receipts."
 		}
 	],
 	"detailedReports": {
 		"mixed": {
-			"text": "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2022-2023\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Wirtschaftsplan\">activities in Germany</a>."
+			"text": "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2023/en\">activities in Germany</a>."
 		},
 		"germany": {
 			"intro": "A detailed insight into our activities in Germany can be found here: ",
 			"linkName": "Annual plan of Wikimedia Deutschland",
-			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2022/Wirtschaftsplan_2022"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2023/en"
 		},
 		"international": {
 			"intro": "A detailed insight into our international activities can be found here: ",
 			"linkName": "Annual plan of the Wikimedia Foundation",
-			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Medium-term_plan_2019/Annual_Plan_2021-2022"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024"
 		}
 	},
 	"benefitsList": {
@@ -76,29 +88,29 @@
 		]
 	},
 	"comparison": {
-		"headline": "How much (or how little) we need",
+		"headline": "Why we only need €9,700,000",
 		"paragraphs": [
-			"Our goal of the last fundraising campaign was to reach €9.4 million in donations, an important part of our total planned revenue for 2023.",
-			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 700 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
+			"Our goal to reach €9.7 million in donations is an important part of our total planned revenue for 2024. Without a doubt, this is a lot of money.",
+			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 900 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
 		],
 		"subhead": "Annual revenue – a comparison",
 		"companies": [
 			{
 				"name": "Google",
-				"budget": 257,
-				"budgetString": "$257b",
+				"budget": 280,
+				"budgetString": "$280b",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
-				"budget": 470,
-				"budgetString": "$470b",
+				"budget": 514,
+				"budgetString": "$514b",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
-				"budget": 118,
-				"budgetString": "$118b",
+				"budget": 117,
+				"budgetString": "$117b",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
