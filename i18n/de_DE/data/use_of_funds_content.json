@@ -49,12 +49,12 @@
 	],
 	"detailedReports": {
 		"mixed": {
-			"text": "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2023\">Aktivitäten in Deutschland</a>."
+			"text": "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Wirtschaftsplan_2024\">Aktivitäten in Deutschland</a>."
 		},
 		"germany": {
 			"intro": "Einen genauen Einblick in unsere Aktivitäten in Deutschland finden Sie hier: ",
 			"linkName": "Jahresplan Wikimedia Deutschland",
-			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2023/Wirtschaftsplan_2024"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Wirtschaftsplan_2024"
 		},
 		"international": {
 			"intro": "Einen genauen Einblick in unsere internationalen Aktivitäten finden Sie hier: ",
