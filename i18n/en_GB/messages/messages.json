@@ -458,6 +458,11 @@
   "C23_WMDE_Desktop_DE_05_contact_details_company": "My Workplace",
 
   "hall_of_fame_header_paragraph1": "Your donations support Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. Thank you!",
-  "hall_of_fame_header_paragraph2": "The Hall of Fame celebrates those who gave at a very high level. Thank you again for your support and for making it visible to all."
+  "hall_of_fame_header_paragraph2": "The Hall of Fame celebrates those who gave at a very high level. Thank you again for your support and for making it visible to all.",
+
+  "donation_confirmation_survey_title": "What almost stopped you from donating?",
+  "donation_confirmation_survey_content": "Your response helps us to improve our service and our website.",
+  "donation_confirmation_survey_link_text": "Give feedback",
+  "donation_confirmation_survey_link": "https://lime.wikimedia.de/index.php/643269?lang=en"
 
 }

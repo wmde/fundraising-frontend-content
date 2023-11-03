@@ -454,5 +454,11 @@
   "C23_WMDE_Desktop_DE_05_contact_details_company": "Firma",
 
   "hall_of_fame_header_paragraph1": "Die Spenden und Mitgliedsbeiträge unserer Unterstützenden sichern Wikipedia und ihre Schwesterprojekte. Sie ermöglichen die Arbeit der Freiwilligen, die freie Verfügbarkeit von Wikipedia und die Unabhängigkeit der Organisation. Ihnen allen danken wir von Herzen!",
-  "hall_of_fame_header_paragraph2": "Mit der Hall of Fame würdigen wir auf Wunsch besonders großzügige Spenden und Beiträge. Vielen Dank für Ihr großes Engagement und dass Sie es für alle sichtbar machen!"
+  "hall_of_fame_header_paragraph2": "Mit der Hall of Fame würdigen wir auf Wunsch besonders großzügige Spenden und Beiträge. Vielen Dank für Ihr großes Engagement und dass Sie es für alle sichtbar machen!",
+
+  "donation_confirmation_survey_title": "Was hätte Sie fast davon abgehalten, zu spenden?",
+  "donation_confirmation_survey_content": "Ihre Antwort hilft uns, unseren Service und unsere Webseite zu verbessern.",
+  "donation_confirmation_survey_link_text": "Feedback geben",
+  "donation_confirmation_survey_link": "https://lime.wikimedia.de/index.php/643269?lang=de"
+
 }
