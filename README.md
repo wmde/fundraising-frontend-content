@@ -32,9 +32,9 @@ be able to include this content.
 By default, the script will output the generated "Use of funds" MediaWiki page (in wikitext) to the standard output shell.
 In order to copy this output you can use shell pipes:
 ```shell
-bin/extract_to_mediawiki de | xclip -sel c 
+php bin/extract_to_mediawiki de | xclip -sel c 
 #or alternatively, to copy it with a text editor:
-bin/extract_to_mediawiki en > tempOutput.txt
+php bin/extract_to_mediawiki en > tempOutput.txt
 ```
 2. Go to the page for "use of funds" content on metaWiki. There are different pages (resources) for each year and each language:
 	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2023_DE
