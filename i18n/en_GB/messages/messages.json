@@ -159,8 +159,8 @@
   "donation_form_address_choice_noaddress_addresstype": "No contact details",
   "donation_form_address_choice_noaddress_notice_addresstype": "You waive the donation receipt and an e-mail confirmation of your donation.",
   "donation_form_section_address_header_type_addresstype": "Donate as ...",
-  "donation_form_addresstype_option_private_addresstype": "Yes, as a private individual",
-  "donation_form_addresstype_option_company_addresstype": "Yes, as a representative of an organization",
+  "donation_form_addresstype_option_private_addresstype": "A private individual",
+  "donation_form_addresstype_option_company_addresstype": "A company",
 
 
   "donation_form_address_choice_title_addresstype_basic": "How would you like to donate?",
@@ -180,8 +180,8 @@
   "donation_form_provisional_address_choice_noaddress_addresstype_var": "No contact details",
   "donation_form_provisional_address_choice_noaddress_notice_addresstype_var": "You waive the donation receipt and an e-mail confirmation of your donation. We will not contact you when Wikipedia needs help again.",
   "donation_form_section_address_header_type_addresstype_var": "Donate as ...",
-  "donation_form_addresstype_option_private_addresstype_var": "Yes, as a private individual",
-  "donation_form_addresstype_option_company_addresstype_var": "Yes, as a representative of an organization",
+  "donation_form_addresstype_option_private_addresstype_var": "A private individual",
+  "donation_form_addresstype_option_company_addresstype_var": "A company",
 
 
   "C21_WMDE_Test_15_header_addresstype_checkmarks": "What's your preferred contact method?",
@@ -195,8 +195,8 @@
   "C21_WMDE_Test_15_none_line_1_addresstype_checkmarks": "No email confirmation",
   "C21_WMDE_Test_15_none_line_2_addresstype_checkmarks": "No donation receipt",
   "donation_form_section_address_header_type_addresstype_checkmarks": "Donate as ...",
-  "donation_form_addresstype_option_private_addresstype_checkmarks": "Yes, as a private individual",
-  "donation_form_addresstype_option_company_addresstype_checkmarks": "Yes, as a representative of an organization",
+  "donation_form_addresstype_option_private_addresstype_checkmarks": "A private individual",
+  "donation_form_addresstype_option_company_addresstype_checkmarks": "A company",
 
 
   "donation_form_provisional_address_choice_title_addresstype_no_anon": "Do you need a donation receipt?",
@@ -207,8 +207,8 @@
   "donation_form_provisional_address_choice_emailonly_addresstype_no_anon": "Email address only",
   "donation_form_provisional_address_choice_emailonly_notice_addresstype_no_anon": "You waive the donation receipt, but receive an e-mail confirmation of your donation.",
   "donation_form_section_address_header_type_addresstype_no_anon": "Donate as ...",
-  "donation_form_addresstype_option_private_addresstype_no_anon": "Yes, as a private individual",
-  "donation_form_addresstype_option_company_addresstype_no_anon": "Yes, as a representative of an organization",
+  "donation_form_addresstype_option_private_addresstype_no_anon": "A private individual",
+  "donation_form_addresstype_option_company_addresstype_no_anon": "A company",
 
 
   "donation_form_provisional_address_choice_fulladdress_donation_receipt": "Yes, I would like a donation receipt in the mail.",
@@ -238,8 +238,8 @@
 
   "donation_addresstype_option_anonymous_disclaimer": "We need your email to send you an email confirmation and your donation receipt. We can also inform you if and when Wikipedia needs your help in the future.",
   "donation_form_address_choice_direct_debit_disclaimer": "For direct debit payments, full address details are mandatory.",
-  "donation_form_addresstype_option_company": "Yes, as a representative of an organization",
-  "donation_form_addresstype_option_private": "Yes, as a private individual",
+  "donation_form_addresstype_option_company": "A company",
+  "donation_form_addresstype_option_private": "A private individual",
   "donation_form_city_error": "Please enter the name of your city.",
   "donation_form_city_label": "City",
   "donation_form_city_placeholder": "Anytown",
