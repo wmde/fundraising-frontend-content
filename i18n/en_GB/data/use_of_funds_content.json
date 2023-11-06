@@ -49,12 +49,12 @@
 	],
 	"detailedReports": {
 		"mixed": {
-			"text": "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Wirtschaftsplan_2024\">activities in Germany</a>."
+			"text": "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Budget_2024\">activities in Germany</a>."
 		},
 		"germany": {
 			"intro": "A detailed insight into our activities in Germany can be found here: ",
 			"linkName": "Annual plan of Wikimedia Deutschland",
-			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Wirtschaftsplan_2024"
+			"linkUrl": "https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Budget_2024"
 		},
 		"international": {
 			"intro": "A detailed insight into our international activities can be found here: ",
