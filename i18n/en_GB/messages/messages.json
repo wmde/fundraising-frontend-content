@@ -163,11 +163,11 @@
   "donation_form_addresstype_option_company_addresstype": "Yes, as a representative of an organization",
 
 
-  "donation_form_address_choice_title_addresstype_basic": "Would you like to enter your contact details?",
+  "donation_form_address_choice_title_addresstype_basic": "How would you like to donate?",
   "donation_form_address_choice_direct_debit_disclaimer_addresstype_basic": "For direct debit payments, full address details are mandatory.",
-  "donation_form_addresstype_option_private_addresstype_basic": "Yes, as a private individual",
-  "donation_form_addresstype_option_company_addresstype_basic": "Yes, as a representative of an organization",
-  "donation_form_addresstype_option_anonymous_addresstype_basic": "No",
+  "donation_form_addresstype_option_private_addresstype_basic": "As a private individual",
+  "donation_form_addresstype_option_company_addresstype_basic": "As a company",
+  "donation_form_addresstype_option_anonymous_addresstype_basic": "Without address data",
 
 
   "donation_form_provisional_address_choice_title_addresstype_var": "You determine which contact details you provide.",
