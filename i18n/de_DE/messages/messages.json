@@ -113,7 +113,7 @@
   "donation_confirmation_membership_button": "Mitglied werden",
   "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Rund 105.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
   "donation_confirmation_membership_call_to_action_title": "Mit einer Fördermitgliedschaft mehr bewirken!",
-  "donation_confirmation_payment_bank_transfer": "Bitte überweisen Sie jetzt Ihre Spende auf unser Spendenkonto.",
+  "donation_confirmation_payment_bank_transfer": "Bitte überweisen Sie: {interval}, {formattedAmount} per Banküberweisung",
   "donation_confirmation_payment_direct_debit": "In den kommenden Tagen werden wir diese Summe von Ihrem Konto abbuchen. Damit ist die Spende abgeschlossen. Wir haben Ihnen soeben auch eine Bestätigung per E-Mail geschickt, in der Sie alles nochmal in Ruhe nachlesen können.",
   "donation_confirmation_print_confirmation": "Bestätigung drucken",
   "donation_confirmation_reminder_bank_transfer": "Bitte geben Sie den Verwendungszweck <strong>{bankTransferCode}</strong> als eindeutige Kennung Ihrer Spende unbedingt an, damit die korrekte Zuordnung sichergestellt ist.",
@@ -429,7 +429,7 @@
 
   "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
-  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: {interval}, {formattedAmount} per Banküberweisung",
+  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} per Banküberweisung",
   "donation_confirmation_summary_title_alt": "Sie erhalten Ihre Spendenquittung an folgende Adresse:",
   "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> per<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Benötigen Sie eine Spendenquittung?",
