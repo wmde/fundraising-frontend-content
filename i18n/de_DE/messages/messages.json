@@ -429,11 +429,16 @@
 
   "donation_confirmation_topbox_payment_title_alt": "Herzlichen Dank für Ihre Spende!",
   "donation_confirmation_topbox_payment_title_bank_transfer_alt": "Letzter Schritt: Banküberweisung",
-  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: einmalig, {formattedAmount} per Banküberweisung",
+  "donation_confirmation_payment_bank_transfer_alt": "Bitte überweisen Sie: {interval}, {formattedAmount} per Banküberweisung",
   "donation_confirmation_summary_title_alt": "Sie erhalten Ihre Spendenquittung an folgende Adresse:",
   "donation_confirmation_topbox_summary_alt": "Sie spenden:<br><strong>{interval}</strong><br><strong>{formattedAmount}</strong> per<br><strong>{paymentType}</strong> <br>{personType}<br>{address}<br>",
   "donation_confirmation_cta_title_alt": "Benötigen Sie eine Spendenquittung?",
   "donation_confirmation_cta_summary_alt": "Damit wir Ihnen Ihre Spendenquittung nach Hause schicken können, benötigen wir Ihre Postadresse.",
+  "donation_confirmation_bank_transfer_interval_0": "einmalig",
+  "donation_confirmation_bank_transfer_interval_1": "monatlich",
+  "donation_confirmation_bank_transfer_interval_12": "jährlich",
+  "donation_confirmation_bank_transfer_interval_3": "vierteljährlich",
+  "donation_confirmation_bank_transfer_interval_6": "halbjährlich",
 
   "subscription_confirmation_success": "Danke, dass Sie Ihre E-Mail Adresse bestätigt haben.",
   "subscription_confirmation_page_header": "Bestätigung Ihrer E-Mail-Adresse.",
