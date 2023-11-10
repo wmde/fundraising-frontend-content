@@ -469,6 +469,6 @@
   "donation_confirmation_survey_title": "What almost stopped you from donating?",
   "donation_confirmation_survey_content": "Your response helps us to improve our service and our website.",
   "donation_confirmation_survey_link_text": "Give feedback",
-  "donation_confirmation_survey_link": "https://lime.wikimedia.de/index.php/643269?lang=en"
+  "donation_confirmation_survey_link": "https://lime.wikimedia.de/index.php/643269?lang=en&Q02={tracking}"
 
 }
