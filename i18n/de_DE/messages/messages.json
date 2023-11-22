@@ -366,7 +366,7 @@
   "membership_form_finalize": "Jetzt Mitglied werden",
   "membership_form_headline": "Mitglied werden",
   "membership_form_payment_amount_error": "Der jährliche Mindestbeitrag beträgt 24 Euro für natürliche Personen und 100 Euro für juristische Personen. Bitte passen Sie den Betrag oder die Häufigkeit der Abbuchungen an.",
-  "membership_form_payment_amount_too_high": "Der jährliche Höchstbetrag beträgt 100.000 Euro. Bitte passen Sie den Betrag oder die Häufigkeit der Abbuchungen an.",
+  "membership_form_payment_amount_too_high": "Der Höchstbetrag liegt bei 100.000 Euro. Bitte passen Sie den Betrag an.",
   "membership_form_review_address_is_invalid": "Bitte füllen Sie alle Felder aus",
   "membership_form_review_payment_missing": "Bitte füllen Sie alle Zahlungsfelder aus",
   "membership_form_section_address_header_type": "Mitglied werden als...",
