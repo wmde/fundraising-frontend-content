@@ -369,6 +369,7 @@
   "membership_form_finalize": "Become a member now",
   "membership_form_headline": "Become a member",
   "membership_form_payment_amount_error": "The minimum annual membership fee is EUR 24 for private individuals and EUR 100 for businesses. Please adjust the amount or the debit frequency.",
+  "membership_form_payment_amount_too_high": "The maximum membership fee is EUR 100,000. Please adjust the amount.",
   "membership_form_review_address_is_invalid": "Please fill in all fields",
   "membership_form_review_payment_missing": "Please fill in all payment fields",
   "membership_form_section_address_header_type": "Become a member as ...",
