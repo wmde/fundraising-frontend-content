@@ -2,18 +2,18 @@
 	"supporters": [
 		{
 			"name": "AVM Computersysteme Vertriebs GmbH",
-			"amount": "80.000 €",
+			"amount": "111.000 €",
 			"comment": "Wikipedia ist wichtig! Im Unternehmen erfahren wir täglich die Kraft des Wissens. Und wie wichtig es ist, dass Wissen im Unternehmen bekannt ist. Wikipedia ist ein fester Bestandteil des digitalen Lebens und essentiell für die Gesellschaft. Denn der freie Zugang zu Wissen ist ein großer Fortschritt. Wir unterstützen das Team von Wikipedia, das sich täglich engagiert für Qualität und Vielfalt."
-		},		
+		},	
+		{
+			"name": "Lotum GmbH",
+			"amount": "70.000 €",
+			"comment": "Da jede:r bei Lotum das Privileg umfangreicher Bildung genießen durfte, möchten wir gerne auch etwas zurückgeben und unterstützen daher Organisationen, die den Zugang zu Bildung vereinfachen. Wikimedia hat in dieser Hinsicht Revolutionäres geleistet und verdient daher ganz besonders unsere Unterstützung."
+		},
 		{
 			"name": "Hendrik Klindworth",
 			"amount": "65.536 €",
 			"comment": "Wikimedia setzt sich für den freien Zugang zu Wissen ein. Das ist heutzutage wichtiger als jemals zuvor. Daher unterstütze ich dieses Ziel gerne."
-		},
-		{
-			"name": "Lotum GmbH",
-			"amount": "45.000 €",
-			"comment": "Da jede:r bei Lotum das Privileg umfangreicher Bildung genießen durfte, möchten wir gerne auch etwas zurückgeben und unterstützen daher Organisationen, die den Zugang zu Bildung vereinfachen. Wikimedia hat in dieser Hinsicht Revolutionäres geleistet und verdient daher ganz besonders unsere Unterstützung."
 		},
 		{
 			"name": "Wolfgang-Peter Jüttner",
