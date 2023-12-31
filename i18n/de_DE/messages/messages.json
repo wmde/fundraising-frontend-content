@@ -355,7 +355,7 @@
   "membership_confirmation_thanks_text": "Vielen Dank für Ihr Engagement!",
   "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong><br>als {address}",
   "membership_confirmation_success_text": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket per Post. Wir freuen uns, dass Sie dabei sind!",
-  "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Darin finden Sie auch weitere Informationen zur Bankverbindung, dem Verwendungszweck und Ihrer Mitgliedsnummer.",
+  "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_success_text_bank_transfer": "Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_cancel_button": "Mitgliedschaft stornieren",
 
