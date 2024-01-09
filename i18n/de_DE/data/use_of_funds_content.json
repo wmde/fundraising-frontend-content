@@ -1,6 +1,10 @@
 {
 	"intro": {
-		"headline": "Wofür wird Ihre Spende verwendet",
+		"headline": "Wofür wird Ihre Spende verwendet?",
+		"dynamicHeadline": {
+			"published": "Wofür wird Ihre Spende verwendet?",
+			"provisional": "Wofür wird Ihre Spende verwendet<nobr>?*</nobr>"
+		},
 		"text": "Für eine organisatorisch und technisch stets verlässliche Wikipedia, heute und in Zukunft. Für freien Zugang zu umfassendem, vertrauenswürdigem Wissen immer und überall. Also für Sie – und alle Menschen weltweit."
 	},
 	"applicationOfFundsData": [
