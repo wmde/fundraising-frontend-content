@@ -1,6 +1,10 @@
 {
 	"intro": {
-		"headline": "Where does my donation go",
+		"headline": "Where does my donation go?",
+		"dynamicHeadline": {
+			"published": "Where does my donation go?",
+			"provisional": "Where does my donation go<nobr>?*</nobr>"
+		},
 		"text": "It is for a Wikipedia that is always reliable in terms of organizational and technical aspects, now and in the future. For free access to encyclopedic, trustworthy knowledge at all times and wherever you are. It is also for you – and for all other people around the world."
 	},
 	"applicationOfFundsData": [
