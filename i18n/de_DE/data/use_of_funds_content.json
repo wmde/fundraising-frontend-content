@@ -12,42 +12,49 @@
 			"id": "infrastructure",
 			"title": "Infrastruktur",
 			"percentage": 17.3,
+			"colour": "gray",
 			"text": "Die technische, soziale und finanzielle Infrastruktur des Freien Wissens soll belastbar und nachhaltig sein. Unter größtmöglicher Beteiligung der verschiedenen Communitys arbeiten wir daran, entscheidende Elemente dieser Infrastruktur zu schaffen, zu pflegen und zu entwickeln oder gegebenenfalls den Support für weniger zukunftsfähige Elemente einzustellen."
 		},
 		{
 			"id": "international",
 			"title": "Internationales und Technik",
 			"percentage": 33.9,
+			"colour": "#0ea789",
 			"text": "Wikipedia ist ein globales Projekt. Deshalb leisten wir einen substanziellen Beitrag zur Finanzierung der internationalen Aktivitäten für die Weiterentwicklung von Wikipedia. Zudem finanzieren wir auf diese Weise die globale Server-Infrastruktur mit, auf der alle Wikimedia-Projekte – also auch die deutschsprachige Wikipedia – laufen."
 		},
 		{
 			"id": "communities",
 			"title": "Community-Unterstützung",
 			"percentage": 13.3,
+			"colour": "#f24825",
 			"text": "Communitys innerhalb des Netzwerks des Freien Wissens, die unsere Vision und Werte teilen, wollen wir fördern und stärken. Dafür ist es wichtig, dass wir sowohl bestehende Communitys unterstützen als auch viel mehr Menschen für eine Beteiligung gewinnen."
 		},
 		{
 			"id": "diversity",
 			"title": "Diversität und Beteiligung",
 			"percentage": 4.3,
+			"colour": "#e61eb8",
 			"text": "Wir streben an, dass mehr Menschen aus strukturell benachteiligten Gruppen, die Diskriminierung aufgrund von gesellschaftlichen Machtstrukturen erfahren, sich in allen Bereichen unserer Arbeit wirksam beteiligen können. Indem wir Barrieren abbauen, die eine solche Beteiligung derzeit verhindern, wollen wir unserer Verantwortung als einflussreicher Akteur im Netzwerk des Freien Wissens gerecht werden."
 		},
 		{
 			"id": "access",
 			"title": "Nutzung und Zugang",
 			"percentage": 5.6,
+			"colour": "#de8500",
 			"text": "Wir wollen erreichen, dass die Inhalte der Wikimedia-Projekte von viel mehr Menschen noch mehr genutzt werden. Zugleich wollen wir leichtere, gerechtere und barriereärmere Zugangsmöglichkeiten zu diesen Inhalten schaffen."
 		},
 		{
 			"id": "society",
 			"title": "Gesellschaft",
 			"percentage": 3.3,
+			"colour": "#9410ac",
 			"text": "Wir wirken darauf hin, dass sich mehr Entscheidungsträger*innen mit ihren Kompetenzen und ihrem Einfluss für eine Welt einsetzen, in der alle Menschen am Wissen der Menschheit teilhaben, es nutzen und mehren können."
 		},
 		{
 			"id": "operative",
 			"title": "Operative Kosten",
 			"percentage": 22.4,
+			"colour": "#8ed14f",
 			"text": "Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere organisatorischen und finanziellen Prozesse zuverlässig funktionieren. Sie sorgen z. B. dafür, dass unsere Projekte in der Öffentlichkeit bekannter werden. Und sie kümmern sich um die Bearbeitung der eingehenden Spenden einschließlich dem Versand der Spendenbescheinigungen."
 		}
 	],
