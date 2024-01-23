@@ -73,10 +73,6 @@
   "contact_form_topic_placeholder": "Please select a topic",
   "contact_form_topic_error": "Please select a topic so we can better understand your request.",
 
-  "donation_cancellation_title": "Cancellation",
-  "donation_cancellation_text": "The donation process with the number {donation_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">spenden{'@'}wikimedia.de</a>.",
-  "donation_cancellation_text_vuei18n_v3": "The donation process with the number {donation_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">spenden{'@'}wikimedia.de</a>.",
-
   "donation_comment_popup_title": "Leave a donation comment",
   "donation_comment_popup_explanation": "If you like, please tell us the reason for your donation. How are you involved with Wikipedia? Your story helps to illustrate Wikipedia's significance for millions of people who use the site every day.",
   "donation_comment_popup_label": "Comment",
@@ -350,10 +346,6 @@
   "faq_headline": "Frequently asked questions",
 
   "membership_application_rejected_limit": "You applied for membership very recently. To avoid accidental repeat membership applications, you can only apply approximately once every 30 minutes.",
-
-  "membership_cancellation_title": "Your membership application was cancelled.",
-  "membership_cancellation_text": "Your membership application with the number {membership_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">members{'@'}wikimedia.de</a>.",
-  "membership_cancellation_text_vuei18n_v3": "Your membership application with the number {membership_id} was cancelled. If you have any questions or would like to inform us about any problems, please contact <a href=\"mailto:%mailto_link%\">members{'@'}wikimedia.de</a>.",
 
   "membership_confirmation_thanks_text": "Thank you for your sponsorship!",
   "membership_confirmation_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V.<br>and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong><br>from {address}",

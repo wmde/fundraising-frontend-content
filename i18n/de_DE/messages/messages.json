@@ -73,10 +73,6 @@
   "contact_form_topic_placeholder": "Bitte wählen Sie ein Thema aus",
   "contact_form_topic_error": "Bitte wählen Sie ein Thema aus, damit wir Ihr Anliegen besser zuordnen können.",
 
-  "donation_cancellation_title": "Stornierung",
-  "donation_cancellation_text": "Der Spendenvorgang mit der Nummer {donation_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">spenden{'@'}wikimedia.de</a>.",
-  "donation_cancellation_text_vuei18n_v3": "Der Spendenvorgang mit der Nummer {donation_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">spenden{'@'}wikimedia.de</a>.",
-
   "donation_comment_popup_title": "Spendenkommentar schreiben",
   "donation_comment_popup_explanation": "Erzählen Sie, warum Sie gespendet haben. Was verbindet Sie mit Wikipedia? Ihre Geschichte hilft uns, den Millionen Menschen, die Wikipedia täglich nutzen, die Bedeutung Wikipedias zu veranschaulichen.",
   "donation_comment_popup_label": "Kommentar",
@@ -347,10 +343,6 @@
   "faq_headline": "Häufige Fragen",
 
   "membership_application_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits einen Mitgliedschaftsantrag gesendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach Mitgliedschaften abgeschlossen werden.",
-
-  "membership_cancellation_title": "Ihr Mitgliedschaftsantrag wurde storniert",
-  "membership_cancellation_text": "Ihr Mitgliedschaftsantrag mit der Nummer {membership_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">mitglieder{'@'}wikimedia.de</a>.",
-  "membership_cancellation_text_vuei18n_v3": "Ihr Mitgliedschaftsantrag mit der Nummer {membership_id} wurde storniert. Wenn Sie noch Fragen haben oder uns auf Probleme hinweisen möchten, wenden Sie sich bitte an <a href=\"mailto:%mailto_link%\">mitglieder{'@'}wikimedia.de</a>.",
 
   "membership_confirmation_thanks_text": "Vielen Dank für Ihr Engagement!",
   "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong><br>als {address}",
