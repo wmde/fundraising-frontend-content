@@ -385,6 +385,8 @@
   "membership_form_payment_type_title": "How would you like to pay your membership fee?",
   "membership_form_payment_type_error": "What is your preferred payment method?",
   "membership_form_interval_error": "Please choose an interval.",
+  "membership_type_sustaining": "Sponsoring Member",
+  "membership_type_active": "Active Member",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
