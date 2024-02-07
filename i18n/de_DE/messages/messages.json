@@ -382,6 +382,8 @@
   "membership_form_payment_type_title": "Wie möchten Sie Ihren Beitrag zahlen?",
   "membership_form_payment_type_error": "Welche Zahlungsmethode möchten Sie verwenden?",
   "membership_form_interval_error": "Bitte wählen Sie einen Zahlungsintervall aus.",
+  "membership_type_sustaining": "Fördermitglied",
+  "membership_type_active": "aktives Mitglied",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
