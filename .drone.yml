@@ -4,9 +4,6 @@ type: docker
 name: default
 
 trigger:
-  branch:
-    - test
-    - production
   event:
     - push
     - tag
@@ -14,7 +11,15 @@ trigger:
     - promote
 
 steps:
+  - name: ci
+    image: composer
+    commands:
+      - composer install
+      - composer ci
+
   - name: deploy
+    when:
+      branch: [ test, production ]
     image: wikimediade/ansible-deploy
     pull: never # Until we publish the image on docker hub
     environment:
