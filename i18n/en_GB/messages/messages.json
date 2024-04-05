@@ -473,6 +473,24 @@
   "donation_confirmation_survey_link_text": "Give feedback",
   "donation_confirmation_survey_link": "",
 
+  "site_name": "{pageTitle} - Wikimedia Deutschland Fundraising",
+  "access_denied_page_title": "Access Denied",
+  "address_update_success_page_title": "Address Update Success",
+  "comment_list_page_title": "Comment List",
+  "comment_ticker_page_title": "Comment Ticker",
+  "contact_form_page_title": "Contact Form",
+  "donation_confirmation_page_title": "Donation Confirmation",
+  "donation_form_page_title": "Donation Form",
+  "error_page_title": "Error",
+  "faq_page_title": "FAQ",
+  "membership_application_confirmation_page_title": "Membership Application Confirmation",
+  "membership_application_page_title": "Membership Application Form",
+  "page_not_found_page_title": "Page Not Found",
+  "subscription_confirmation_page_title": "Subscription Confirmation",
+  "system_message_page_title": "System Message",
+  "update_address_page_title": "Update Address",
+  "use_of_funds_page_title": "Use Of Funds",
+
   "language_selection": "Open language selection"
 
 }
