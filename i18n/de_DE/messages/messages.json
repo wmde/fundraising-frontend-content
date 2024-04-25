@@ -2,8 +2,8 @@
   "yes": "Ja",
   "no": "Nein",
 
-  "aria_main_navigation_label": "Main",
-  "aria_footer_navigation_label": "Fuß",
+  "aria_main_navigation_label": "Haupt-Inhalt",
+  "aria_footer_navigation_label": "Fußzeile",
   "skip_link_text": "Weiter zum Inhalt",
 
   "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
