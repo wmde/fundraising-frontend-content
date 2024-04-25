@@ -2,6 +2,9 @@
   "yes": "Yes",
   "no": "No",
 
+  "aria_main_navigation_label": "Main",
+  "aria_footer_navigation_label": "Footer",
+
   "access_denied": "You are not authorised to view this page.",
   "access_denied_header": "Error",
   "access_denied_donation_confirmation": "You are not authorised to view this donation.",
