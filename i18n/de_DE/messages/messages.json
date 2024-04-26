@@ -421,7 +421,7 @@
   "sidebar_getintouch_headline": "Frage zum Spenden?",
   "sidebar_getintouch_text": "Rufen Sie uns an oder nutzen Sie das <a href=\"/contact/get-in-touch\">Kontaktformular</a>",
   "sidebar_getintouch_text_phone": "(030) 577 11 62-19",
-  "sidebar_getintouch_mixed": "Nutzen Sie unser <a href=\"/contact/get-in-touch\">Kontaktformular</a> oder rufen Sie uns an: <a href=\"tel:+4930577116219\">(030) 577 11 62-19</a>",
+  "sidebar_getintouch_mixed": "Nutzen Sie unser <a href=\"/contact/get-in-touch\">Kontaktformular</a> oder rufen Sie uns an: <a href=\"tel:+4930577116219\" aria-label=\"0 3 0 5 7 7 1 1 6 2 1 9\">(030) 577 11 62-19</a>",
 
   "system_message_page_header": "Fehler",
 
