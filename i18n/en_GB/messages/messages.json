@@ -4,6 +4,7 @@
 
   "aria_main_navigation_label": "Main",
   "aria_footer_navigation_label": "Footer",
+  "aria_burger_label": "Menu",
   "skip_link_text": "Skip to content",
 
   "access_denied": "You are not authorised to view this page.",
