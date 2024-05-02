@@ -5,6 +5,8 @@
   "aria_main_navigation_label": "Haupt-Menü",
   "aria_footer_navigation_label": "Fußzeile",
   "aria_burger_label": "Menü",
+  "aria_burger_label_closed": "Navigationsmenü anzeigen",
+  "aria_burger_label_open": "Navigationsmenü ausblenden",
   "skip_link_text": "Weiter zum Inhalt",
 
   "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
