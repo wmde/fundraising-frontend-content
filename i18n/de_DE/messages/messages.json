@@ -468,6 +468,8 @@
   "donation_confirmation_survey_title": "Was hätte Sie fast davon abgehalten, zu spenden?",
   "donation_confirmation_survey_content": "Ihre Antwort hilft uns, unseren Service und unsere Webseite zu verbessern.",
   "donation_confirmation_survey_link_text": "Feedback geben",
-  "donation_confirmation_survey_link": ""
+  "donation_confirmation_survey_link": "",
+
+  "language_selection": "Sprachauswahl öffnen"
 
 }
