@@ -472,6 +472,8 @@
   "donation_confirmation_survey_title": "What almost stopped you from donating?",
   "donation_confirmation_survey_content": "Your response helps us to improve our service and our website.",
   "donation_confirmation_survey_link_text": "Give feedback",
-  "donation_confirmation_survey_link": ""
+  "donation_confirmation_survey_link": "",
+
+  "language_selection": "Open language selection"
 
 }
