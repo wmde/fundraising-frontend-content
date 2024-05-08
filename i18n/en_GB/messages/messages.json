@@ -4,6 +4,7 @@
 
   "aria_main_navigation_label": "Main",
   "aria_footer_navigation_label": "Footer",
+  "aria_burger_label": "Menu",
   "aria_burger_label_closed": "Show Navigation Menu",
   "aria_burger_label_open": "Hide Navigation Menu",
   "skip_link_text": "Skip to content",
