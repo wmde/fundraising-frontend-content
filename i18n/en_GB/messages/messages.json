@@ -2,6 +2,12 @@
   "yes": "Yes",
   "no": "No",
 
+  "aria_main_navigation_label": "Main",
+  "aria_footer_navigation_label": "Footer",
+  "aria_navigation_toggle_label_closed": "Show Navigation Menu",
+  "aria_navigation_toggle_label_open": "Hide Navigation Menu",
+  "skip_link_text": "Skip to content",
+
   "access_denied": "You are not authorised to view this page.",
   "access_denied_header": "Error",
   "access_denied_donation_confirmation": "You are not authorised to view this donation.",
@@ -419,7 +425,7 @@
   "sidebar_getintouch_headline": "Any questions about making a donation?",
   "sidebar_getintouch_text": "Please call us or use the <a href=\"/contact/get-in-touch\">contact form</a>",
   "sidebar_getintouch_text_phone": "(030) 577 11 62-19",
-  "sidebar_getintouch_mixed": "Please contact us using the <a href=\"/contact/get-in-touch\">contact form</a> or by calling: <a href=\"tel:+4930577116219\">(030) 577 11 62-19</a>",
+  "sidebar_getintouch_mixed": "Please contact us using the <a href=\"/contact/get-in-touch\">contact form</a> or by calling: <a href=\"tel:+4930577116219\" aria-label=\"0 3 0 5 7 7 1 1 6 2 1 9\">(030) 577 11 62-19</a>",
 
   "system_message_page_header": "Error",
 
@@ -460,10 +466,13 @@
   "hall_of_fame_title": "Hall of Fame",
   "hall_of_fame_header_paragraph1": "Your donations support Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. Thank you!",
   "hall_of_fame_header_paragraph2": "The Hall of Fame celebrates those who gave at a very high level. Thank you again for your support and for making it visible to all.",
+  "hall_of_fame_list_title": "Supporters List",
 
   "donation_confirmation_survey_title": "What almost stopped you from donating?",
   "donation_confirmation_survey_content": "Your response helps us to improve our service and our website.",
   "donation_confirmation_survey_link_text": "Give feedback",
-  "donation_confirmation_survey_link": ""
+  "donation_confirmation_survey_link": "",
+
+  "language_selection": "Open language selection"
 
 }

@@ -24,17 +24,20 @@
     },
     "scripts": {
         "ci": [
+            "composer validate --no-interaction",
+			"@lint",
             "@test"
         ],
         "test": [
-            "composer validate --no-interaction",
-            "@lint-json",
-            "@lint-templates",
-            "@lint-wordlists",
             "vendor/bin/phpunit"
         ],
+		"lint": [
+			"@lint-json",
+			"@lint-templates",
+			"@lint-wordlists"
+		],
         "lint-json": [
-            "find i18n/ -type f -name \\*.json -exec echo \"{}\" \\; -exec vendor/bin/jsonlint {} \\;"
+            "find i18n/ -type f -name \\*.json | xargs vendor/bin/jsonlint "
         ],
         "lint-templates": [
             "find i18n/*/web i18n/*/shared -type f -name '*.twig' | sed -E 's#/web/|/shared/# #' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/lint_content --web $0 $1'",

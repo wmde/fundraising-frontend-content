@@ -2,7 +2,7 @@
   "supporters": [
     {
       "name": "AVM Computersysteme Vertriebs GmbH",
-      "amount": "111.000 €",
+      "amount": "113.000 €",
       "comment": "Wikipedia matters! In our company, we experience the power of knowledge on a daily basis and see how important it is to be aware of available knowledge. Wikipedia is an integral part of digital life and essential for society. Because free access to knowledge is a quantum leap. We support the Wikipedia team that champions quality and diversity every day."
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "IGES Institut GmbH",
-      "amount": "32.400 €",
+      "amount": "36.600 €",
       "comment": "In my view, Wikipedia is one of the greatest classical education projects worldwide, because it facilitates access to high-quality education without barriers. We are happy to support Wikipedia's mission. Professor Dr. Bertram Häussler"
     },
     {
@@ -47,13 +47,18 @@
     },
     {
       "name": "Ulfried Maiborn",
-      "amount": "22.322 €",
+      "amount": "22.622 €",
       "comment": ""
     },
     {
       "name": "Dr. med. Cathleen Barth",
       "amount": "18.500 €",
       "comment": ""
+    },
+{
+      "name": "Prof. Dr. Hartmut Gaßner",
+      "amount": "17.000 €",
+      "comment": "Wikipedia is of great help to obtain knowledge about topics from profession, leisure time, hobbies or family and health at lightning speed. I happily support Wikipedia because it is a great institution for many, but also facilitates myself. With my ongoing gifts I want to repeatedly say thank you!"
     },
     {
       "name": "Eike Klindworth",
@@ -70,14 +75,10 @@
       "amount": "15.800 €",
       "comment": "Wikipedia is the most unusual knowledge project of the media age. It is extremely valuable for my work. My annual donation is intended to show the large number of volunteers that their work is valued, and also as support to keep this idea stays alive."
     },
-    {
-      "name": "Prof. Dr. Hartmut Gaßner",
-      "amount": "15.000 €",
-      "comment": "Wikipedia is of great help to obtain knowledge about topics from profession, leisure time, hobbies or family and health at lightning speed. I happily support Wikipedia because it is a great institution for many, but also facilitates myself. With my ongoing gifts I want to repeatedly say thank you!"
-    },
+
     {
       "name": "Gross Rechtsanwaltsgesellschaft mbH",
-      "amount": "13.600 €",
+      "amount": "14.000 €",
       "comment": ""
     },
     {
@@ -90,14 +91,19 @@
       "amount": "13.000 €",
       "comment": ""
     },
+  {
+      "name": "Dorothea und Hartmut Samtleben",
+      "amount": "12.900 €",
+      "comment": ""
+    },
     {
       "name": "Solutio GmbH",
       "amount": "12.750 €",
       "comment": "Our staff enjoys accessing the compactly and competently collected knowledge in Wikipedia. With our donation, we want to make a contribution to ensure that the encyclopedia can continue to exist in its current format and will continue to be expanded in the future."
     },
     {
-      "name": "Dorothea und Hartmut Samtleben",
-      "amount": "12.300 €",
+      "name": "cubeoffice GmbH & Co.KG",
+      "amount": "12.500 €",
       "comment": ""
     },
     {
@@ -106,18 +112,18 @@
       "comment": ""
     },
     {
-      "name": "cubeoffice GmbH & Co.KG",
-      "amount": "11.300 €",
+      "name": "Hubertus Siegert",
+      "amount": "12.850 €",
       "comment": ""
     },
     {
       "name": "EMK Elektronik GmbH & Co. KG",
-      "amount": "10.250 €",
+      "amount": "12.250 €",
       "comment": ""
     },
     {
       "name": "Biallo & Team GmbH",
-      "amount": "10.200 €",
+      "amount": "10.700 €",
       "comment": ""
     },
     {
@@ -127,12 +133,37 @@
     },
     {
       "name": "Nadine und Henning Wolf",
+      "amount": "10.100 €",
+      "comment": ""
+    },
+	{
+      "name": "Zahnarztpraxis Dres. Dajka",
+      "amount": "10.100 €",
+      "comment": ""
+    },
+	      {
+      "name": "Jan Hilpert",
+      "amount": "10.000 €",
+      "comment": "Wikimedia is an outstanding example of the value of shared information – as expressed in the quote attributed to George Bernhard Shaw: If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."
+		},
+	      {
+      "name": "Nicolas Woll / Designscape",
+      "amount": "10.000 €",
+      "comment": ""
+    },
+	      {
+      "name": "Christoph Röllig",
+      "amount": "9.700 €",
+      "comment": "Knowledge is our greatest treasure. Knowledge is the most important foundation of a humane and democratic society. Knowledge is the best antidote against poverty and diseases. Knowledge for everyone makes our world a better place. Knowledge for everyone is simply great! Thank you, Wikipedia"
+    },
+	      {
+      "name": "Lutz Dannenberg",
       "amount": "9.600 €",
       "comment": ""
     },
     {
       "name": "Dirk Woessner",
-      "amount": "9.350 €",
+      "amount": "9.400 €",
       "comment": "Thank you, Wikipedia - irreplaceable, inspiring and utterly invaluable"
     },
     {
@@ -141,55 +172,35 @@
       "comment": ""
     },
     {
-      "name": "Zahnarztpraxis Dres. Dajka",
+      "name": "PW AG Wirtschaftsprüfungsgesellschaft",
       "amount": "9.100 €",
       "comment": ""
     },
-    {
-      "name": "Jan Hilpert",
-      "amount": "9.000 €",
-      "comment": "Wikimedia is an outstanding example of the value of shared information – as expressed in the quote attributed to George Bernhard Shaw: If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."
-		},
-    {
-      "name": "Nicolas Woll / Designscape",
-      "amount": "9.000 €",
-      "comment": ""
-    },
+
+
     {
       "name": "Klaus Detering",
       "amount": "9.000 €",
       "comment": ""
     },
-    {
-      "name": "Christoph Röllig",
-      "amount": "8.700 €",
-      "comment": "Knowledge is our greatest treasure. Knowledge is the most important foundation of a humane and democratic society. Knowledge is the best antidote against poverty and diseases. Knowledge for everyone makes our world a better place. Knowledge for everyone is simply great! Thank you, Wikipedia"
-    },
-    {
-      "name": "Lutz Dannenberg",
-      "amount": "8.600 €",
-      "comment": ""
-    },
+
+
     {
       "name": "Stephan Douteil Elektromaschinenbau",
       "amount": "8.500 €",
       "comment": "We support Wikimedia because everybody should get the opportunity to be protected against errors through knowledge."
     },
     {
-      "name": "PW AG Wirtschaftsprüfungsgesellschaft",
-      "amount": "8.100 €",
-      "comment": ""
+      "name": "Mietens & Partner GmbH",
+      "amount": "8.001 €",
+      "comment": "For years now, Wikipedia has been one of the main sources of information for the research purposes of our staff. A big 'Thank you' to the Wikipedia team and the myriad of free authors."
     },
     {
       "name": "Heidezüchtung Kramer",
       "amount": "8.000 €",
       "comment": ""
     },
-    {
-      "name": "Hubertus Siegert",
-      "amount": "7.850 €",
-      "comment": ""
-    },
+
     {
       "name": "Maximilian Scheidt",
       "amount": "7.500 €",
@@ -197,7 +208,7 @@
     },
     {
       "name": "Agentur MASCARA GmbH",
-      "amount": "7.200 €",
+      "amount": "7.400 €",
       "comment": "Not a day goes by when I don't make use of the knowledge collected in Wikipedia. With this donation, I just want to say \"Thank you\" and make a contribution to continued access to this knowledge free of charge. Soraya Müller, Managing Director"
 		},
     {
@@ -205,11 +216,7 @@
       "amount": "7.100 €",
       "comment": ""
     },
-    {
-      "name": "Mietens & Partner GmbH",
-      "amount": "7.001 €",
-      "comment": "For years now, Wikipedia has been one of the main sources of information for the research purposes of our staff. A big 'Thank you' to the Wikipedia team and the myriad of free authors."
-    },
+
     {
       "name": "IQC AG",
       "amount": "7.000 €",
@@ -234,6 +241,11 @@
       "name": "Cerona GmbH",
       "amount": "6.250 €",
       "comment": "We use Wikipedia contents on a daily basis – effectively as a matter of course. With our donation, we want to contribute to continued free access to knowledge."
+    },
+	      {
+      "name": "Familie Naumann",
+      "amount": "6.100 €",
+      "comment": ""
     },
     {
       "name": "Dr. Christian Tamm",
@@ -272,7 +284,7 @@
     },
     {
       "name": "Gero Scholz",
-      "amount": "5.100 €",
+      "amount": "5.200 €",
       "comment": ""
     },
     {
@@ -330,6 +342,11 @@
       "amount": "4.000 €",
       "comment": ""
     },
+	      {
+      "name": "Christian C.D. Ludwig - Foundation",
+      "amount": "4.000 €",
+      "comment": ""
+    },
     {
       "name": "Hendrik Haustein",
       "amount": "3.750 €",
@@ -340,11 +357,7 @@
       "amount": "3.500 €",
       "comment": "Wikimedia reliably offers free and unrestricted access to knowledge. Based on sound research and always up to date, this knowledge it is always globally available without advertising. We are very happy to support this unique neutrality."
     },
-    {
-      "name": "Familie Naumann",
-      "amount": "3.450 €",
-      "comment": ""
-    },
+
     {
       "name": "Agentur Kelterborn / Klaus Kelterborn",
       "amount": "3.350 €",
@@ -360,11 +373,7 @@
       "amount": "3.075 €",
       "comment": ""
     },
-    {
-      "name": "Christian C.D. Ludwig - Foundation",
-      "amount": "3.000 €",
-      "comment": ""
-    },
+
     {
       "name": "Algorithmus Schmiede (Dr. M. Dutschke)",
       "amount": "2.800 €",

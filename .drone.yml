@@ -11,21 +11,17 @@ trigger:
     - promote
 
 steps:
-  - name: restore-cache
-    image: drillster/drone-volume-cache
-    settings:
-      restore: true
-      mount:
-        - ./vendor
-    volumes:
-      - name: cache
-        path: /cache
-
   - name: ci
     image: composer
     commands:
-      - composer install
-      - composer ci
+      - composer install --no-progress --no-suggest
+
+      # Listing individual commands from "composer ci", to have better control over the output and fail early
+      - composer validate --no-interaction
+      - composer lint-json
+      - composer lint-templates
+      - composer lint-wordlists
+      - composer test
 
   - name: deploy
     when:
@@ -38,16 +34,6 @@ steps:
     commands:
         - echo "$SSH_KEY" > /ansible/.ssh/id_rsa && chmod 0600 /ansible/.ssh/id_rsa
         - ansible-playbook -v -e prebuilt_source="$DRONE_WORKSPACE" -e deploy_target="$DRONE_BRANCH" /ansible/content.yml
-
-  - name: rebuild-cache
-    image: drillster/drone-volume-cache
-    settings:
-      rebuild: true
-      mount:
-        - ./vendor
-    volumes:
-      - name: cache
-        path: /cache
 
 volumes:
   - name: cache
