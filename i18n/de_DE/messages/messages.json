@@ -7,6 +7,8 @@
   "aria_navigation_toggle_label_closed": "Navigationsmenü anzeigen",
   "aria_navigation_toggle_label_open": "Navigationsmenü ausblenden",
   "skip_link_text": "Weiter zum Inhalt",
+  "aria_locale_toggle_label_closed": "🌐 Sprachauswahl(menü) öffnen",
+  "aria_locale_toggle_label_open": "🌐 Sprachauswahl(menü) schließen",
 
   "access_denied": "Sie haben keine Berechtigung, diese Seite zu sehen.",
   "access_denied_header": "Fehler",

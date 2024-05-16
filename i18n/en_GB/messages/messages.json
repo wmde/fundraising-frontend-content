@@ -7,6 +7,8 @@
   "aria_navigation_toggle_label_closed": "Show Navigation Menu",
   "aria_navigation_toggle_label_open": "Hide Navigation Menu",
   "skip_link_text": "Skip to content",
+  "aria_locale_toggle_label_closed": "🌐 Show Select Language Menu",
+  "aria_locale_toggle_label_open": "🌐 Hide Select Language Menu",
 
   "access_denied": "You are not authorised to view this page.",
   "access_denied_header": "Error",
