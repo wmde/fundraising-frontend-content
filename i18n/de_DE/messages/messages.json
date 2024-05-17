@@ -2,6 +2,8 @@
   "yes": "Ja",
   "no": "Nein",
 
+  "close": "Schließen Sie",
+
   "aria_main_navigation_label": "Hauptmenü",
   "aria_footer_navigation_label": "Fußzeile",
   "aria_navigation_toggle_label_closed": "Navigationsmenü anzeigen",

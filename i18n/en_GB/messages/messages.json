@@ -2,6 +2,8 @@
   "yes": "Yes",
   "no": "No",
 
+  "close": "Close",
+
   "aria_main_navigation_label": "Main",
   "aria_footer_navigation_label": "Footer",
   "aria_navigation_toggle_label_closed": "Show Navigation Menu",
