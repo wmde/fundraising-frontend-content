@@ -2,7 +2,7 @@
   "supporters": [
     {
       "name": "AVM Computersysteme Vertriebs GmbH",
-      "amount": "111.000 €",
+      "amount": "113.000 €",
       "comment": "Wikipedia ist wichtig! Im Unternehmen erfahren wir täglich die Kraft des Wissens. Und wie wichtig es ist, dass Wissen im Unternehmen bekannt ist. Wikipedia ist ein fester Bestandteil des digitalen Lebens und essentiell für die Gesellschaft. Denn der freie Zugang zu Wissen ist ein großer Fortschritt. Wir unterstützen das Team von Wikipedia, das sich täglich engagiert für Qualität und Vielfalt."
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "IGES Institut GmbH",
-      "amount": "32.400 €",
+      "amount": "36.600 €",
       "comment": "Wikipedia ist in meinen Augen eines der größten humanistischen Projekte auf der Welt, weil es hochwertiges Wissen ohne Hürden zugänglich macht. Wir freuen uns, Wikipedia bei seiner Mission unterstützen zu können. Prof. Dr. Bertram Häussler"
     },
     {
@@ -47,12 +47,17 @@
     },
     {
       "name": "Ulfried Maiborn",
-      "amount": "22.322 €",
+      "amount": "22.622 €",
       "comment": ""
     },
     {
       "name": "Dr. med. Cathleen Barth",
       "amount": "18.500 €",
+      "comment": ""
+    },
+    {
+      "name": "Prof. Dr. Hartmut Gaßner",
+      "amount": "17.000 €",
       "comment": ""
     },
     {
@@ -71,18 +76,8 @@
       "comment": "Wikipedia ist das ungewöhnlichste Wissensprojekt des Medienzeitalters. Es hat einen hohen Wert für meine Arbeit. Meine Jahresspende soll den zahllosen Freiwilligen zeigen, dass ihre Arbeit geschätzt wird und helfen, dass diese Idee nicht untergeht."
     },
     {
-      "name": "Prof. Dr. Hartmut Gaßner",
-      "amount": "15.000 €",
-      "comment": ""
-    },
-    {
       "name": "Gross Rechtsanwaltsgesellschaft mbH",
-      "amount": "13.600 €",
-      "comment": ""
-    },
-    {
-      "name": "Relaxdays GmbH",
-      "amount": "13.000 €",
+      "amount": "14.000 €",
       "comment": ""
     },
     {
@@ -91,13 +86,33 @@
       "comment": ""
     },
     {
+      "name": "Relaxdays GmbH",
+      "amount": "13.000 €",
+      "comment": ""
+    },
+    {
+      "name": "Dorothea und Hartmut Samtleben",
+      "amount": "12.900 €",
+      "comment": ""
+    },
+    {
       "name": "Solutio GmbH",
       "amount": "12.750 €",
       "comment": "Unsere Mitarbeiter greifen gerne auf das gesammelte Wissen in Wikipedia zurück - kompakt und kompetent. Mit unserer Spende möchten wir einen Beitrag dazu leisten, dass die Enzyklopädie in ihrer jetzigen Form bestehen bleibt und auch in Zukunft weiter ausgebaut wird."
     },
     {
-      "name": "Dorothea und Hartmut Samtleben",
-      "amount": "12.300 €",
+      "name": "Hubertus Siegert",
+      "amount": "12.850 €",
+      "comment": ""
+    },
+    {
+      "name": "cubeoffice GmbH & Co.KG",
+      "amount": "12.500 €",
+      "comment": ""
+    },
+    {
+      "name": "EMK Elektronik GmbH & Co. KG",
+      "amount": "12.250 €",
       "comment": ""
     },
     {
@@ -106,18 +121,18 @@
       "comment": ""
     },
     {
-      "name": "cubeoffice GmbH & Co.KG",
-      "amount": "11.300 €",
-      "comment": ""
-    },
-    {
-      "name": "EMK Elektronik GmbH & Co. KG",
-      "amount": "10.250 €",
-      "comment": ""
-    },
-    {
       "name": "Biallo & Team GmbH",
-      "amount": "10.200 €",
+      "amount": "10.700 €",
+      "comment": ""
+    },
+    {
+      "name": "Nadine und Henning Wolf",
+      "amount": "10.100 €",
+      "comment": ""
+    },
+    {
+      "name": "Zahnarztpraxis Dres. Dajka",
+      "amount": "10.100 €",
       "comment": ""
     },
     {
@@ -126,13 +141,28 @@
       "comment": ""
     },
     {
-      "name": "Nadine und Henning Wolf",
+      "name": "Jan Hilpert",
+      "amount": "10.000 €",
+      "comment": "Wikimedia spiegelt in herausragender Weise den Wert geteilter Informationen wider - im Sinne des Zitates, das George Bernhard Shaw zugeschrieben wird: If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."
+    },
+    {
+      "name": "Nicolas Woll / Designscape",
+      "amount": "10.000 €",
+      "comment": ""
+    },
+    {
+      "name": "Christoph Röllig",
+      "amount": "9.700 €",
+      "comment": "Wissen ist unser größter Schatz. Wissen ist das wichtigste Fundament einer menschlichen und demokratischen Gesellschaft. Wissen ist das beste Mittel gegen Armut und Krankheit. Wissen für alle macht unsere Welt zu einem besseren Ort. Wissen für alle ist eine großartige Sache! Danke Wikipedia"
+    },
+    {
+      "name": "Lutz Dannenberg",
       "amount": "9.600 €",
       "comment": ""
     },
     {
       "name": "Dirk Woessner",
-      "amount": "9.350 €",
+      "amount": "9.400 €",
       "comment": "Danke Wikipedia - unersetzlich, inspirierend und unschätzbar wertvoll"
     },
     {
@@ -141,18 +171,8 @@
       "comment": ""
     },
     {
-      "name": "Zahnarztpraxis Dres. Dajka",
+      "name": "PW AG Wirtschaftsprüfungsgesellschaft",
       "amount": "9.100 €",
-      "comment": ""
-    },
-    {
-      "name": "Jan Hilpert",
-      "amount": "9.000 €",
-      "comment": "Wikimedia spiegelt in herausragender Weise den Wert geteilter Informationen wider - im Sinne des Zitates, das George Bernhard Shaw zugeschrieben wird: If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas."
-    },
-    {
-      "name": "Nicolas Woll / Designscape",
-      "amount": "9.000 €",
       "comment": ""
     },
     {
@@ -161,33 +181,18 @@
       "comment": ""
     },
     {
-      "name": "Christoph Röllig",
-      "amount": "8.700 €",
-      "comment": "Wissen ist unser größter Schatz. Wissen ist das wichtigste Fundament einer menschlichen und demokratischen Gesellschaft. Wissen ist das beste Mittel gegen Armut und Krankheit. Wissen für alle macht unsere Welt zu einem besseren Ort. Wissen für alle ist eine großartige Sache! Danke Wikipedia"
-    },
-    {
-      "name": "Lutz Dannenberg",
-      "amount": "8.600 €",
-      "comment": ""
-    },
-    {
       "name": "Stephan Douteil Elektromaschinenbau",
       "amount": "8.500 €",
       "comment": "Wir unterstützen Wikimedia, weil jeder die Chance haben soll, sich durch Wissen vor Fehlern zu schützen."
     },
     {
-      "name": "PW AG Wirtschaftsprüfungsgesellschaft",
-      "amount": "8.100 €",
-      "comment": ""
+      "name": "Mietens & Partner GmbH",
+      "amount": "8.001 €",
+      "comment": "Für unsere Mitarbeiter gehört Wikipedia seit Jahren zu den wichtigsten Informationsquellen ihrer Recherchearbeit. Ein großes Dankeschön an das Wikipedia-Team und die unzähligen freien Autoren."
     },
     {
       "name": "Heidezüchtung Kramer",
       "amount": "8.000 €",
-      "comment": ""
-    },
-    {
-      "name": "Hubertus Siegert",
-      "amount": "7.850 €",
       "comment": ""
     },
     {
@@ -197,18 +202,13 @@
     },
     {
       "name": "Agentur MASCARA GmbH",
-      "amount": "7.200 €",
+      "amount": "7.400 €",
       "comment": "Es gibt keinen Tag an dem ich nicht auf das gesammelte Wissen in Wikipedia zurückgreife. Mit dieser Spende will ich einfach „Danke“ sagen und dazu beitragen, dass der Zugang zu diesem Wissen weiterhin kostenlos bleibt. Soraya Müller, Geschäftsführerin"
     },
     {
       "name": "Andreas Gall",
       "amount": "7.100 €",
       "comment": ""
-    },
-    {
-      "name": "Mietens & Partner GmbH",
-      "amount": "7.001 €",
-      "comment": "Für unsere Mitarbeiter gehört Wikipedia seit Jahren zu den wichtigsten Informationsquellen ihrer Recherchearbeit. Ein großes Dankeschön an das Wikipedia-Team und die unzähligen freien Autoren."
     },
     {
       "name": "IQC AG",
@@ -234,6 +234,11 @@
       "name": "Cerona GmbH",
       "amount": "6.250 €",
       "comment": "Wir nutzen den Inhalt von Wikipedia tagtäglich - quasi selbstverständlich. Mit unserer Spende möchten wir dazu beitragen, dass Wissen frei zugänglich bleibt."
+    },
+    {
+      "name": "Familie Naumann",
+      "amount": "6.100 €",
+      "comment": ""
     },
     {
       "name": "Dr. Christian Tamm",
@@ -266,13 +271,13 @@
       "comment": ""
     },
     {
-      "name": "Jonas Echterhoff",
+      "name": "Gero Scholz",
       "amount": "5.200 €",
       "comment": ""
     },
     {
-      "name": "Gero Scholz",
-      "amount": "5.100 €",
+      "name": "Jonas Echterhoff",
+      "amount": "5.200 €",
       "comment": ""
     },
     {
@@ -316,12 +321,7 @@
       "comment": ""
     },
     {
-      "name": "Susanne L.",
-      "amount": "4.000 €",
-      "comment": "Einen Riiiesen-Dank allen Wiki-Mitarbeiterinnen und –Mitarbeitern!"
-    },
-    {
-      "name": "OdiSys GmbH",
+      "name": "Christian C. D. Ludwig - Foundation",
       "amount": "4.000 €",
       "comment": ""
     },
@@ -329,6 +329,16 @@
       "name": "Energie- & Umweltbüro e.V.",
       "amount": "4.000 €",
       "comment": ""
+    },
+    {
+      "name": "OdiSys GmbH",
+      "amount": "4.000 €",
+      "comment": ""
+    },
+    {
+      "name": "Susanne L.",
+      "amount": "4.000 €",
+      "comment": "Einen Riiiesen-Dank allen Wiki-Mitarbeiterinnen und –Mitarbeitern!"
     },
     {
       "name": "Hendrik Haustein",
@@ -358,11 +368,6 @@
     {
       "name": "Alexander Mankowsky",
       "amount": "3.075 €",
-      "comment": ""
-    },
-    {
-      "name": "Christian C.D. Ludwig - Foundation",
-      "amount": "3.000 €",
       "comment": ""
     },
     {
@@ -500,7 +505,7 @@
       "amount": "1.000 €",
       "comment": ""
     },
-    	{
+    {
       "name": "Fulvio Quattrocchi",
       "amount": "Betrag anonym",
       "comment": ""
