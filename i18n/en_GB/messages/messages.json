@@ -135,7 +135,7 @@
   "donation_confirmation_topbox_summary": "You donated: <strong>{interval} </strong><strong>{formattedAmount}</strong> via <strong>{paymentType}</strong>.",
   "donation_confirmation_inline_summary": "You will donate: <strong>{interval} €{formattedAmount}</strong> via <strong>{paymentType}</strong>.",
   "donation_confirmation_address_usage_link": "more information",
-  "donation_confirmation_address_usage_content": "We need your postal address in order to send you a donation receipt. Sending it by email is currently still not secure enough. In addition, we send donation requests every once in a while, when Wikipedia needs your help again. If you do not want to receive these donation requests, please let us know by sending an email to spenden{'@'}wikimedia.de. You will then receive your donation receipt to your home address.",
+  "donation_confirmation_address_usage_content": "We need your postal address in order to send you a donation receipt. Sending it by email is currently still not secure enough. In addition, we send donation requests every once in a while, when Wikipedia needs your help again. If you do not want to receive these donation requests, please let us know by sending an email to <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a>. You will then receive your donation receipt to your home address.",
 
   "donation_form_academic_title_label": "Title",
   "donation_form_academic_title_option_none": "No title",

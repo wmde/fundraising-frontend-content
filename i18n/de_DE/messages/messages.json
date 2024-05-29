@@ -135,7 +135,7 @@
   "donation_confirmation_topbox_summary": "Sie haben gespendet: <strong>{interval} </strong><strong>{formattedAmount}</strong> per <strong>{paymentType}</strong>.",
   "donation_confirmation_inline_summary": "Sie spenden: <strong>{interval} {formattedAmount}</strong> per <strong>{paymentType}</strong>.",
   "donation_confirmation_address_usage_link": "mehr Informationen",
-  "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an spenden{'@'}wikimedia.de formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
+  "donation_confirmation_address_usage_content": "Wir benötigen Ihre Postanschrift, um Ihnen Ihre Spendenquittung zusenden zu können. Ein Versenden per e-Mail ist derzeit noch nicht sicher genug. Darüber hinaus versenden wir ab und zu Spendenbitten, wenn Wikipedia wieder Ihre Hilfe benötigt. Wenn Sie diese nicht erhalten möchten, können Sie uns dies per E-Mail an <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a> formlos mitteilen. Dann bekommen Sie nur Ihre Spendenquittung nach Hause geschickt.",
 
   "donation_form_academic_title_label": "Titel",
   "donation_form_academic_title_option_none": "Kein Titel",
