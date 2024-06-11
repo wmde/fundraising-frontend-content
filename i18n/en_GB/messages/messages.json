@@ -390,6 +390,13 @@
   "membership_type_sustaining": "Sponsoring Member",
   "membership_type_active": "Active Member",
 
+  "error_summary_headline": "Please fix the following errors.",
+  "error_summary_amount": "Please fix the amount field",
+  "error_summary_payment_type": "Please select a payment type",
+  "error_summary_address_type": "Please select an address type",
+  "error_summary_interval": "Please select a payment interval",
+  "error_summary_iban": "Please enter a correct IBAN",
+
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
   "page_not_found": "If you are looking for anything in particular and cannot find it, please get in touch. The easiest way to do this is by using the <a href=\"/contact/get-in-touch\">contact form</a>.",
