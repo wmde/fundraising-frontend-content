@@ -450,10 +450,11 @@
   "donation_page_feedback_box_content_option_feedback": "Ja, Feedback geben",
   "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=de",
 
-  "C23_WMDE_Desktop_DE_05_receipt_error": "Bitte wählen Sie eine der beiden Optionen.",
-  "C23_WMDE_Desktop_DE_05_contact_details_label": "Wie möchten Sie spenden?",
-  "C23_WMDE_Desktop_DE_05_contact_details_private": "Privat",
-  "C23_WMDE_Desktop_DE_05_contact_details_company": "Firma",
+  "C24_WMDE_Desktop_DE_01_help_text": "Dazu erfahren Sie mehr über unsere Arbeit hinter der Wikipedia.",
+  "C24_WMDE_Desktop_DE_01_receipt_error": "Bitte wählen Sie eine der beiden Optionen.",
+  "C24_WMDE_Desktop_DE_01_contact_details_label": "Wie möchten Sie spenden?",
+  "C24_WMDE_Desktop_DE_01_contact_details_private": "Privat",
+  "C24_WMDE_Desktop_DE_01_contact_details_company": "Firma",
 
   "hall_of_fame_title": "Hall of Fame",
   "hall_of_fame_header_paragraph1": "Die Spenden und Mitgliedsbeiträge unserer Unterstützenden sichern Wikipedia und ihre Schwesterprojekte. Sie ermöglichen die Arbeit der Freiwilligen, die freie Verfügbarkeit von Wikipedia und die Unabhängigkeit der Organisation. Ihnen allen danken wir von Herzen!",

@@ -454,10 +454,11 @@
   "donation_page_feedback_box_content_option_feedback": "Yes, give feedback",
   "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=en",
 
-  "C23_WMDE_Desktop_DE_05_receipt_error": "You must choose a donation receipt option",
-  "C23_WMDE_Desktop_DE_05_contact_details_label": "Who are you donating on behalf of?",
-  "C23_WMDE_Desktop_DE_05_contact_details_private": "Myself",
-  "C23_WMDE_Desktop_DE_05_contact_details_company": "My Workplace",
+  "C24_WMDE_Desktop_DE_01_help_text": "You'll also get more information about our work behind Wikipedia.",
+  "C24_WMDE_Desktop_DE_01_receipt_error": "You must choose a donation receipt option",
+  "C24_WMDE_Desktop_DE_01_contact_details_label": "Who are you donating on behalf of?",
+  "C24_WMDE_Desktop_DE_01_contact_details_private": "Myself",
+  "C24_WMDE_Desktop_DE_01_contact_details_company": "My Workplace",
 
   "hall_of_fame_title": "Hall of Fame",
   "hall_of_fame_header_paragraph1": "Your donations support Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. Thank you!",
