@@ -316,7 +316,7 @@
   "donation_form_section_address_header": "Address",
   "donation_form_section_address_or_anon": "Would you like to enter your contact details?",
   "donation_form_section_address_header_type": "Donate as ...",
-  "donation_form_section_address_error": "Please select one of the options.",
+  "donation_form_section_address_error": "Please select an address type.",
   "donation_form_section_address_title": "",
   "donation_form_section_back": "Change my payment details",
   "donation_form_section_continue": "Continue",
