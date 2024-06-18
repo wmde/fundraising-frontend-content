@@ -23,10 +23,10 @@
   "address_change_form_submit": "Change contact details",
   "address_change_form_success_title": "Change of address completed successfully",
   "address_change_form_success_label": "Thank you for your assistance! You will receive a donation receipt at your new address soon.",
-  "address_change_form_success_optout_label": "Thank you for your assistance! You have asked not to receive a donation receipt. Should you change your mind, you can notify us by emailing spenden{'@'}wikimedia.de.",
+  "address_change_form_success_optout_label": "Thank you for your assistance! You have asked not to receive a donation receipt. Should you change your mind, you can notify us by emailing <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a>.",
   "address_change_opt_out_hint": "You can provide your current address even if you prefer not to receive a donation receipt.",
-  "address_change_no_token_in_request": "Address change not authorised. If the link to update your address is not working, use our contact form or email us at spenden{'@'}wikimedia.de.",
-  "address_change_token_not_found": "Link expired. Address-change links only work once. Should you wish to make further changes, use our contact form or email us at spenden{'@'}wikimedia.de.",
+  "address_change_no_token_in_request": "Address change not authorised. If the link to update your address is not working, use our contact form or email us at <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a>.",
+  "address_change_token_not_found": "Link expired. Address-change links only work once. Should you wish to make further changes, use our contact form or email us at <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a>.",
 
   "back_to_donation_summary": "Back to donation summary",
 

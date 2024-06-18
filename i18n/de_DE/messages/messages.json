@@ -23,10 +23,10 @@
   "address_change_form_submit": "Kontaktdaten ändern",
   "address_change_form_success_title": "Adressänderung erfolgreich",
   "address_change_form_success_label": "Vielen Dank für Ihre Mithilfe! Sie erhalten demnächst eine Zuwendungsbescheinigung an Ihre neue Adresse.",
-  "address_change_form_success_optout_label": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an spenden{'@'}wikimedia.de wenden.",
+  "address_change_form_success_optout_label": "Vielen Dank für Ihre Mithilfe! Wir haben Ihren Wunsch keine Zuwendungsbescheinung zu erhalten vermerkt. Falls Sie Ihre Entscheidung ändern möchten, können Sie sich jederzeit per E-Mail an <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a> wenden.",
   "address_change_opt_out_hint": "Sie können uns Ihre aktuelle Adresse auch mitteilen, wenn Sie keine Bescheinigung erhalten möchten.",
-  "address_change_no_token_in_request": "Unberechtigter Zugriff auf Adressänderung. Bitte wenden Sie sich an spenden{'@'}wikimedia.de wenn Sie einen Link zur Adressänderung haben, der nicht funktioniert.",
-  "address_change_token_not_found": "Adressänderung nicht möglich. Links, die Sie zur Adressänderung bekommen sind nur einmal gültig. Wenn Sie Ihre Adresse erneut korrigieren möchten, wenden Sie sich bitte per Mail an spenden{'@'}wikimedia.de oder benutzen Sie das Kontaktformular.",
+  "address_change_no_token_in_request": "Unberechtigter Zugriff auf Adressänderung. Bitte wenden Sie sich an <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a> wenn Sie einen Link zur Adressänderung haben, der nicht funktioniert.",
+  "address_change_token_not_found": "Adressänderung nicht möglich. Links, die Sie zur Adressänderung bekommen sind nur einmal gültig. Wenn Sie Ihre Adresse erneut korrigieren möchten, wenden Sie sich bitte per Mail an <a href=\"mailto:spenden%40wikimedia.de\">spenden{'@'}wikimedia.de</a> oder benutzen Sie das Kontaktformular.",
 
   "back_to_donation_summary": "Zurück zur Spendenübersicht",
 
