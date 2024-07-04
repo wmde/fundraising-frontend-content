@@ -1,0 +1,32 @@
+steps:
+  - name: ci
+    when:
+      event: [ push, pull_request, cron, manual ]
+    image: composer
+    commands:
+      - composer install --no-progress --no-suggest
+
+      # Listing individual commands from "composer ci", to have better control over the output and fail early
+      - composer validate --no-interaction
+      - composer lint-json
+      - composer lint-templates
+      - composer lint-wordlists
+      - composer test
+
+  - name: deploy
+    when:
+      - branch: [ test, production ]
+        event: [ push, pull_request, cron, manual ]
+    image: wikimediade/ansible-deploy
+    pull: false # Until we publish the image on a registry
+    environment:
+      SSH_KEY:
+        from_secret: ssh_key
+    commands:
+        # Overriding $HOME set by woodpecker
+        # When https://github.com/woodpecker-ci/woodpecker/issues/1077 is solved, next step is no longer needed,
+        # because our image uses a non-root user "ansible" with home directory "/ansible"
+        - export HOME="$(getent passwd $(id -u) | cut '-d:' -f6)"
+        - echo "$SSH_KEY" > /ansible/.ssh/id_rsa && chmod 0600 /ansible/.ssh/id_rsa
+        - ansible-playbook -v -e prebuilt_source="$CI_WORKSPACE" -e deploy_target="$CI_COMMIT_BRANCH" /ansible/content.yml
+
