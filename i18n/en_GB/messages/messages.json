@@ -335,7 +335,7 @@
   "donation_form_street_name_placeholder": "Main Street",
   "donation_form_building_number_error": "Please enter a building number.",
   "donation_form_building_number_label": "Building number",
-  "donation_form_building_number_placeholder": "12",
+  "donation_form_building_number_placeholder": "99a",
   "donation_form_summary_external_payment": "After selecting \"Donate now\", you will be transferred to the website of our payment service provider.",
   "donation_form_summary_bank_transfer_payment": "After selecting \"Donate now\", we will provide you with our account details and an individual reference code for your bank transfer.",
   "donation_form_zip_error": "Please enter a valid postcode.",
