@@ -44,6 +44,7 @@
   "bank_data_operator_account_owner": "Wikimedia e. V.",
   "bank_data_operator_bank_name": "SozialBank",
   "bank_data_transfer_code": "Verwendungszweck",
+  "bank_data_transfer_amount_label": "Betrag",
 
   "contact_form_body_label": "Ihre Nachricht an uns",
   "contact_form_body_error": "Bitte füllen Sie das Feld für die Nachricht aus.",
@@ -116,6 +117,7 @@
   "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Rund 105.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
   "donation_confirmation_membership_call_to_action_title": "Mit einer Fördermitgliedschaft mehr bewirken!",
   "donation_confirmation_payment_bank_transfer": "Bitte überweisen Sie: {interval}, {formattedAmount} per Banküberweisung",
+  "donation_confirmation_payment_bank_transfer_details": "Ihre Überweisungsdaten",
   "donation_confirmation_payment_direct_debit": "In den kommenden Tagen werden wir diese Summe von Ihrem Konto abbuchen. Damit ist die Spende abgeschlossen. Wir haben Ihnen soeben auch eine Bestätigung per E-Mail geschickt, in der Sie alles nochmal in Ruhe nachlesen können.",
   "donation_confirmation_print_confirmation": "Bestätigung drucken",
   "donation_confirmation_reminder_bank_transfer": "Bitte geben Sie den Verwendungszweck <strong>{bankTransferCode}</strong> als eindeutige Kennung Ihrer Spende unbedingt an, damit die korrekte Zuordnung sichergestellt ist.",
