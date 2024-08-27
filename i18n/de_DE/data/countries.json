@@ -46,1453 +46,1453 @@
 			"group": "Infrequent",
 			"countryCode": "AF",
 			"countryFullName": "Afghanistan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "EG",
 			"countryFullName": "Ägypten",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AX",
 			"countryFullName": "Åland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AL",
 			"countryFullName": "Albanien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "DZ",
 			"countryFullName": "Algerien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AS",
 			"countryFullName": "Amerikanisch-Samoa",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "VI",
 			"countryFullName": "Amerikanische Jungferninseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AD",
 			"countryFullName": "Andorra",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AO",
 			"countryFullName": "Angola",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AI",
 			"countryFullName": "Anguilla",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AQ",
 			"countryFullName": "Antarktis",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AG",
 			"countryFullName": "Antigua und Barbuda",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GQ",
 			"countryFullName": "Äquatorialguinea",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AR",
 			"countryFullName": "Argentinien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AM",
 			"countryFullName": "Armenien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AW",
 			"countryFullName": "Aruba",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AZ",
 			"countryFullName": "Aserbaidschan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ET",
 			"countryFullName": "Äthiopien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AU",
 			"countryFullName": "Australien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BS",
 			"countryFullName": "Bahamas",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BH",
 			"countryFullName": "Bahrain",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BD",
 			"countryFullName": "Bangladesch",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BB",
 			"countryFullName": "Barbados",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BY",
 			"countryFullName": "Belarus",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BZ",
 			"countryFullName": "Belize",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BJ",
 			"countryFullName": "Benin",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BM",
 			"countryFullName": "Bermuda",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BT",
 			"countryFullName": "Bhutan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BO",
 			"countryFullName": "Bolivien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BQ",
 			"countryFullName": "Bonaire",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BA",
 			"countryFullName": "Bosnien und Herzegowina",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BW",
 			"countryFullName": "Botswana",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BV",
 			"countryFullName": "Bouvetinsel",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BR",
 			"countryFullName": "Brasilien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "VG",
 			"countryFullName": "Britische Jungferninseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IO",
 			"countryFullName": "Britisches Territorium im Indischen Ozean",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BN",
 			"countryFullName": "Brunei",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BG",
 			"countryFullName": "Bulgarien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BF",
 			"countryFullName": "Burkina Faso",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BI",
 			"countryFullName": "Burundi",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KY",
 			"countryFullName": "Cayman Islands",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CL",
 			"countryFullName": "Chile",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CK",
 			"countryFullName": "Cookinseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CR",
 			"countryFullName": "Costa Rica",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CW",
 			"countryFullName": "Curaçao",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "DK",
 			"countryFullName": "Dänemark",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CD",
 			"countryFullName": "Demokratische Republik Kongo",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "DM",
 			"countryFullName": "Dominica",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "DO",
 			"countryFullName": "Dominikanische Republik",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "DJ",
 			"countryFullName": "Dschibuti",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SV",
 			"countryFullName": "El Salvador",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CI",
 			"countryFullName": "Elfenbeinküste",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "EC",
 			"countryFullName": "Equador",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ER",
 			"countryFullName": "Eritrea",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "EE",
 			"countryFullName": "Estland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SZ",
 			"countryFullName": "Eswatini",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "FK",
 			"countryFullName": "Falklandinseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "FO",
 			"countryFullName": "Färöer",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "FJ",
 			"countryFullName": "Fidschi",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "FI",
 			"countryFullName": "Finnland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "FR",
 			"countryFullName": "Frankreich",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GF",
 			"countryFullName": "Französisch-Guayana",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PF",
 			"countryFullName": "Französisch-Polynesien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TF",
 			"countryFullName": "Französische Süd- und Antarktisgebiete",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GA",
 			"countryFullName": "Gabun",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GM",
 			"countryFullName": "Gambia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GE",
 			"countryFullName": "Georgien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GH",
 			"countryFullName": "Ghana",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GI",
 			"countryFullName": "Gibraltar",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GD",
 			"countryFullName": "Grenada",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GR",
 			"countryFullName": "Griechenland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GL",
 			"countryFullName": "Grönland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GP",
 			"countryFullName": "Guadeloupe",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GU",
 			"countryFullName": "Guam",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GT",
 			"countryFullName": "Guatemala",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GG",
 			"countryFullName": "Guernsey",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GN",
 			"countryFullName": "Guinea",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GW",
 			"countryFullName": "Guinea-Bissau",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GY",
 			"countryFullName": "Guyana",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "HT",
 			"countryFullName": "Haiti",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "HM",
 			"countryFullName": "Heard und McDonaldinseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "HN",
 			"countryFullName": "Honduras",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "HK",
 			"countryFullName": "Hong Kong",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IN",
 			"countryFullName": "Indien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ID",
 			"countryFullName": "Indonesien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IQ",
 			"countryFullName": "Irak",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IR",
 			"countryFullName": "Iran",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IE",
 			"countryFullName": "Irland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IS",
 			"countryFullName": "Island",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IM",
 			"countryFullName": "Isle of Man",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "IL",
 			"countryFullName": "Israel",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "JM",
 			"countryFullName": "Jamaika",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "JP",
 			"countryFullName": "Japan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "YE",
 			"countryFullName": "Jemen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "JE",
 			"countryFullName": "Jersey",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "JO",
 			"countryFullName": "Jordanien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KH",
 			"countryFullName": "Kambodscha",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CM",
 			"countryFullName": "Kamerun",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CA",
 			"countryFullName": "Kanada",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CV",
 			"countryFullName": "Kap Verde",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KZ",
 			"countryFullName": "Kasachstan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "QA",
 			"countryFullName": "Katar",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KE",
 			"countryFullName": "Kenia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KG",
 			"countryFullName": "Kirgisistan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KI",
 			"countryFullName": "Kiribati",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CC",
 			"countryFullName": "Kokosinseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CO",
 			"countryFullName": "Kolumbien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KM",
 			"countryFullName": "Komoren",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "HR",
 			"countryFullName": "Kroatien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CU",
 			"countryFullName": "Kuba",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KW",
 			"countryFullName": "Kuwait",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LA",
 			"countryFullName": "Laos",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LS",
 			"countryFullName": "Lesotho",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LV",
 			"countryFullName": "Lettland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LB",
 			"countryFullName": "Libanon",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LR",
 			"countryFullName": "Liberia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LY",
 			"countryFullName": "Libyen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LT",
 			"countryFullName": "Litauen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MO",
 			"countryFullName": "Macau",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MG",
 			"countryFullName": "Madagaskar",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MW",
 			"countryFullName": "Malawi",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MY",
 			"countryFullName": "Malaysia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MV",
 			"countryFullName": "Malediven",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ML",
 			"countryFullName": "Mali",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MT",
 			"countryFullName": "Malta",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MA",
 			"countryFullName": "Marokko",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MH",
 			"countryFullName": "Marshallinseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MQ",
 			"countryFullName": "Martinique",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MR",
 			"countryFullName": "Mauretanien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MU",
 			"countryFullName": "Mauritius",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "YT",
 			"countryFullName": "Mayotte",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MX",
 			"countryFullName": "Mexico",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "FM",
 			"countryFullName": "Mikronesien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MD",
 			"countryFullName": "Moldau",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MC",
 			"countryFullName": "Monaco",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MN",
 			"countryFullName": "Mongolei",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ME",
 			"countryFullName": "Montenegro",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MS",
 			"countryFullName": "Montserrat",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MZ",
 			"countryFullName": "Mosambik",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MM",
 			"countryFullName": "Myanmar",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NA",
 			"countryFullName": "Namibia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NR",
 			"countryFullName": "Nauru",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NP",
 			"countryFullName": "Nepal",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NC",
 			"countryFullName": "Neukaledonien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NZ",
 			"countryFullName": "Neuseeland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NI",
 			"countryFullName": "Nicaragua",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NL",
 			"countryFullName": "Niederlande",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NE",
 			"countryFullName": "Niger",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NG",
 			"countryFullName": "Nigeria",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NU",
 			"countryFullName": "Niue",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KP",
 			"countryFullName": "Nordkorea",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MP",
 			"countryFullName": "Nördliche Marianen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MK",
 			"countryFullName": "Nordmazedonien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NF",
 			"countryFullName": "Norfolkinsel",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "NO",
 			"countryFullName": "Norwegen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "OM",
 			"countryFullName": "Oman",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TL",
 			"countryFullName": "Osttimor",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PK",
 			"countryFullName": "Pakistan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PS",
 			"countryFullName": "Palästina",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PW",
 			"countryFullName": "Palau",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PA",
 			"countryFullName": "Panama",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PG",
 			"countryFullName": "Papua-Neuguinea",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PY",
 			"countryFullName": "Paraguay",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PE",
 			"countryFullName": "Peru",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PH",
 			"countryFullName": "Philippinen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PN",
 			"countryFullName": "Pitcairninseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PL",
 			"countryFullName": "Polen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PT",
 			"countryFullName": "Portugal",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PR",
 			"countryFullName": "Puerto Rico",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CG",
 			"countryFullName": "Republik Kongo",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "RE",
 			"countryFullName": "Réunion",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "RW",
 			"countryFullName": "Ruanda",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "RO",
 			"countryFullName": "Rumänien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "RU",
 			"countryFullName": "Russland",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BQ",
 			"countryFullName": "Saba",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BL",
 			"countryFullName": "Saint-Barthélemy",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "MF",
 			"countryFullName": "Saint-Martin",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "PM",
 			"countryFullName": "Saint-Pierre und Miquelon",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SB",
 			"countryFullName": "Salomonen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ZM",
 			"countryFullName": "Sambia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "WS",
 			"countryFullName": "Samoa",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SM",
 			"countryFullName": "San Marino",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ST",
 			"countryFullName": "São Tomé und Príncipe",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SA",
 			"countryFullName": "Saudi-Arabien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SE",
 			"countryFullName": "Schweden",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SN",
 			"countryFullName": "Senegal",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "RS",
 			"countryFullName": "Serbien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SC",
 			"countryFullName": "Seychellen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SL",
 			"countryFullName": "Sierra Leone",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ZW",
 			"countryFullName": "Simbabwe",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SG",
 			"countryFullName": "Singapur",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "BQ",
 			"countryFullName": "Sint Eustatius",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SX",
 			"countryFullName": "Sint Maarten",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SK",
 			"countryFullName": "Slowakei",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SI",
 			"countryFullName": "Slowenien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SO",
 			"countryFullName": "Somalia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ES",
 			"countryFullName": "Spanien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SJ",
 			"countryFullName": "Spitzbergen und Jan Mayen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LK",
 			"countryFullName": "Sri Lanka",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SH",
 			"countryFullName": "St. Helena, Ascension und Tristan da Cunha",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KN",
 			"countryFullName": "St. Kitts und Nevis",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "LC",
 			"countryFullName": "St. Lucia",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "VC",
 			"countryFullName": "St. Vincent und die Grenadinen",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "ZA",
 			"countryFullName": "Südafrika",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SD",
 			"countryFullName": "Sudan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GS",
 			"countryFullName": "Südgeorgien und die Südlichen Sandwichinseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "KR",
 			"countryFullName": "Südkorea",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SS",
 			"countryFullName": "Südsudan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SR",
 			"countryFullName": "Suriname",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "SY",
 			"countryFullName": "Syrien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TJ",
 			"countryFullName": "Tadschikistan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TW",
 			"countryFullName": "Taiwan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TZ",
 			"countryFullName": "Tansania",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TH",
 			"countryFullName": "Thailand",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TG",
 			"countryFullName": "Togo",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TK",
 			"countryFullName": "Tokelau",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TO",
 			"countryFullName": "Tonga",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TT",
 			"countryFullName": "Trinidad und Tobago",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TD",
 			"countryFullName": "Tschad",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CZ",
 			"countryFullName": "Tschechien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TN",
 			"countryFullName": "Tunesien",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TR",
 			"countryFullName": "Türkei",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TM",
 			"countryFullName": "Turkmenistan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TC",
 			"countryFullName": "Turks- und Caicosinseln",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "TV",
 			"countryFullName": "Tuvalu",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "UG",
 			"countryFullName": "Uganda",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "UA",
 			"countryFullName": "Ukraine",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "HU",
 			"countryFullName": "Ungarn",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "UY",
 			"countryFullName": "Uruguay",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "UZ",
 			"countryFullName": "Usbekistan",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "VU",
 			"countryFullName": "Vanuatu",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "VA",
 			"countryFullName": "Vatikanstadt",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "VE",
 			"countryFullName": "Venezuela",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "AE",
 			"countryFullName": "Vereinigte Arabische Emirate",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "US",
 			"countryFullName": "Vereinigte Staaten",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "GB",
 			"countryFullName": "Vereinigtes Königreich",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "VN",
 			"countryFullName": "Vietnam",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CN",
 			"countryFullName": "Volksrepublik China",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "WF",
 			"countryFullName": "Wallis und Futuna",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CX",
 			"countryFullName": "Weihnachtsinsel",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "EH",
 			"countryFullName": "Westsahara",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		},
 		{
 			"group": "Infrequent",
 			"countryCode": "CY",
 			"countryFullName": "Zypern",
-			"postCodeValidation": "^.+$"
+			"postCodeValidation": "^.{1,16}$"
 		}
 	]
 }
