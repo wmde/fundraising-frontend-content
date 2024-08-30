@@ -306,7 +306,7 @@
   "donation_form_payment_interval_3": "quarterly",
   "donation_form_payment_interval_6": "twice yearly",
   "donation_form_payment_interval_title": "How often would you like to donate?",
-  "donation_form_SUB_payment_type_info": "A recurring payment by direct bank transfer is not possible.",
+  "donation_form_SUB_payment_type_info": "A recurring payment by Sofort Bank Transfer is not possible.",
   "donation_form_payment_summary": "You donate: {interval} {formattedAmount} via {paymentType}",
   "donation_form_payment_type_error": "What is your preferred payment method?",
   "donation_form_payment_type_title": "How would you like to donate?",
