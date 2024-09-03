@@ -89,6 +89,7 @@
   "donation_comment_popup_submit": "Send comment",
   "donation_comment_popup_thanks": "Thank you for your donation comment!",
   "donation_comment_popup_error": "Apologies, there seems to have been an error processing your comment.",
+  "donation_comment_popup_empty_error": "A comment is required.",
   "donation_comments_title": "Donation comments",
   "donation_comments_text": "You can add a comment after the donation process is completed.",
   "donation_comments_donor_headline": "{formattedAmount} by {donor}",

@@ -89,6 +89,7 @@
   "donation_comment_popup_submit": "Kommentar senden",
   "donation_comment_popup_thanks": "Danke für Ihren Spendenkommentar!",
   "donation_comment_popup_error": "Entschuldigung, es scheint ein Fehler beim Übermitteln des Kommentars aufgetreten zu sein.",
+  "donation_comment_popup_empty_error": "Bitte geben Sie einen Kommentar ein.",
   "donation_comments_title": "Spendenkommentare",
   "donation_comments_text": "Nach der Spende kann ein Kommentar geschrieben werden.",
   "donation_comments_donor_headline": "{formattedAmount} von {donor}",
