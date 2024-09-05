@@ -291,6 +291,8 @@
   "donation_form_payment_bankdata_account_iban_placeholder": "z. B. DE12345678909876543210",
   "donation_form_payment_bankdata_account_legacy_label": "Kontonummer",
   "donation_form_payment_bankdata_bank_default_label": "BIC (oder Bankleitzahl)",
+  "donation_form_payment_bankdata_account_iban_help_text": "Bitte geben Sie Ihre IBAN oder Kontonummer an.",
+  "donation_form_payment_bankdata_bank_legacy_help_text": "Wir haben in Ihrer obigen Eingabe eine deutsche Kontonummer erkannt. Bitte geben Sie zusätzlich ihre Bankleitzahl an.",
   "donation_form_payment_bankdata_bank_bic_label": "BIC",
   "donation_form_payment_bankdata_bank_bic_placeholder": "Wird automatisch ermittelt",
   "donation_form_payment_bankdata_bank_bic_placeholder2": "wird nicht benötigt",

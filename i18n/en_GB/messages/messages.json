@@ -294,6 +294,8 @@
   "donation_form_payment_bankdata_account_iban_placeholder": "e.g., DE12345678909876543210",
   "donation_form_payment_bankdata_account_legacy_label": "Account number",
   "donation_form_payment_bankdata_bank_default_label": "BIC (or bank code)",
+  "donation_form_payment_bankdata_account_iban_help_text": "Please enter your IBAN or German bank account number.",
+  "donation_form_payment_bankdata_bank_legacy_help_text": "It looks like you entered a German bank account number above, please enter your bank code.",
   "donation_form_payment_bankdata_bank_bic_label": "BIC",
   "donation_form_payment_bankdata_bank_bic_placeholder": "Automatically added",
   "donation_form_payment_bankdata_bank_bic_placeholder2": "not required",
