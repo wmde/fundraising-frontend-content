@@ -345,6 +345,18 @@
   "donation_form_zip_label": "Postleitzahl",
   "donation_form_zip_placeholder": "25950",
   "donation_form_zip_placeholder_warning": "Sind Sie sich sicher, dass Ihre Postleitzahl {value} ist?",
+  "donation_form_iban_calculator_button": "Berechnen Sie Ihre IBAN",
+  "donation_form_iban_calculator_title": "IBAN-Rechner",
+  "donation_form_iban_calculator_help_text": "Geben Sie Ihre Kontonummer und Bankleitzahl ein, um Ihre IBAN zu berechnen.",
+  "donation_form_account_number_error": "Bitte geben Sie eine gültige Kontonummer ein.",
+  "donation_form_bank_code_error": "Bitte geben Sie eine gültige Bankleitzahl ein.",
+  "donation_form_iban_calculator_result_lead": "Dies ist Ihre berechnete Bankverbindung:",
+  "donation_form_iban_calculator_result_bank_account": "Nummer des Bankkontos:",
+  "donation_form_iban_calculator_result_bank_code": "Bankleitzahl:",
+  "donation_form_iban_calculator_result_iban": "IBAN:",
+  "donation_form_iban_calculator_result_bic": "BIC:",
+  "donation_form_iban_calculator_result_bank_name": "Name der Bank:",
+  "donation_form_iban_calculator_result_cta": "Möchten Sie es benutzen?",
 
   "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach gespendet wird.",
 

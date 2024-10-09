@@ -348,6 +348,18 @@
   "donation_form_zip_label": "Postcode",
   "donation_form_zip_placeholder": "25950",
   "donation_form_zip_placeholder_warning": "Are your sure that your postcode is {value}?",
+  "donation_form_iban_calculator_button": "Calculate your IBAN",
+  "donation_form_iban_calculator_title": "IBAN Calculator",
+  "donation_form_iban_calculator_help_text": "Enter your bank account number and bank code to calculate your IBAN",
+  "donation_form_account_number_error": "Please enter a valid account number.",
+  "donation_form_bank_code_error": "Please ender a valid bank code.",
+  "donation_form_iban_calculator_result_lead": "This is your calculated bank information:",
+  "donation_form_iban_calculator_result_bank_account": "Bank Account Number:",
+  "donation_form_iban_calculator_result_bank_code": "Bank Code:",
+  "donation_form_iban_calculator_result_iban": "IBAN:",
+  "donation_form_iban_calculator_result_bic": "BIC:",
+  "donation_form_iban_calculator_result_bank_name": "Bank Name:",
+  "donation_form_iban_calculator_result_cta": "Would you like to use it?",
 
   "donation_rejected_limit": "You donated very recently. To avoid accidental repeat donations, you can only donate approximately once every 30 minutes.",
 
