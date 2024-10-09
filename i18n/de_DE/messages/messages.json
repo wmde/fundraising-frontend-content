@@ -285,7 +285,7 @@
   "donation_form_payment_amount_label": "Wunschbetrag",
   "donation_form_payment_amount_title": "Welchen Betrag möchten Sie spenden?",
   "donation_form_payment_amount_help_text": "Bitte wählen Sie einen Betrag aus der Liste oder geben Sie unten einen Wunschbetrag ein.",
-  "donation_form_payment_bankdata_title": "Wie lautet Ihre Bankverbindung?",
+  "donation_form_payment_bankdata_title": "Ihre Bankverbindung",
   "donation_form_payment_bankdata_account_default_label": "IBAN (oder Kontonummer)",
   "donation_form_payment_bankdata_account_iban_label": "IBAN",
   "donation_form_payment_bankdata_account_iban_placeholder": "z. B. DE12345678909876543210",
