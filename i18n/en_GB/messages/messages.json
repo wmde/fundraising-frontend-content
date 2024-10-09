@@ -348,6 +348,7 @@
   "donation_form_zip_label": "Postcode",
   "donation_form_zip_placeholder": "25950",
   "donation_form_zip_placeholder_warning": "Are your sure that your postcode is {value}?",
+  "donation_form_payment_iban_error" : "Please enter a valid IBAN.",
   "donation_form_iban_calculator_button": "Calculate your IBAN",
   "donation_form_iban_calculator_title": "IBAN Calculator",
   "donation_form_iban_calculator_help_text": "Enter your bank account number and bank code to calculate your IBAN",
