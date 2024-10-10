@@ -74,7 +74,7 @@
 		},
 		{
 			"question": "How can I change my address / bank details at Wikimedia?",
-			"visible_text": "You can update your personal data at any time via mail or fax, or via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a>. Alternatively you can call us from Monday to Friday between 10am and 4pm at (030) 577 11 62-19. Our mailing address and fax details can be found in our <a href=\"https://spenden.wikimedia.de/page/Impressum\">legal notice</a>.",
+			"visible_text": "You can update your personal data at any time via mail or fax, or via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a>. Alternatively you can call us from Monday to Friday between 9am and 5pm at (030) 577 11 62-19. Our mailing address and fax details can be found in our <a href=\"https://spenden.wikimedia.de/page/Impressum\">legal notice</a>.",
 			"topic": "2"
 		},
 		{
@@ -84,12 +84,12 @@
 		},
 		{
 			"question": "I am experiencing technical problems when trying to donate. Who can help me?",
-			"visible_text": "<p>You can inform us about your technical problems via email: <a href=\"mailto:spenden@wikimedia.de\">spenden@wikimedia.de</a></p><p>We would be very grateful if you were able to provide us with the following information:<ul><li>Did you use a desktop computer, a mobile phone or a tablet to make your donation?</li><li>Which browser and which operating system (please include the currently used version) did you use?</li><li>Can you visualize the problem with a screenshot?</li></ul><p>Monday to Friday from 10am to 4pm you can call us at (030) 577 11 62-19.</p><p>Alternatively you can also transfer your donation to the following account:</p><p>Account holder: <strong>Wikimedia</strong><br>IBAN: <strong>DE09 3702 0500 0003 2873 00</strong><br>BIC: <strong>BFSWDE33BER</strong><br>Bank: <strong>Bank für Sozialwirtschaft</strong></p><p>If you enclose your postal address in the reference field, you will receive a receipt via mail in March of the following year. In case you need the receipt earlier than that please let us know by sending an email to <a href=\"spenden@wikimedia.de\">spenden@wikimedia.de</a> or via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a> until February 7th.  Past this date you will have to wait until our major send-out in March.</p>",
+			"visible_text": "<p>You can inform us about your technical problems via email: <a href=\"mailto:spenden@wikimedia.de\">spenden@wikimedia.de</a></p><p>We would be very grateful if you were able to provide us with the following information:<ul><li>Did you use a desktop computer, a mobile phone or a tablet to make your donation?</li><li>Which browser and which operating system (please include the currently used version) did you use?</li><li>Can you visualize the problem with a screenshot?</li></ul><p>Monday to Friday from 9am to 5pm you can call us at (030) 577 11 62-19.</p><p>Alternatively you can also transfer your donation to the following account:</p><p>Account holder: <strong>Wikimedia</strong><br>IBAN: <strong>DE09 3702 0500 0003 2873 00</strong><br>BIC: <strong>BFSWDE33BER</strong><br>Bank: <strong>Bank für Sozialwirtschaft</strong></p><p>If you enclose your postal address in the reference field, you will receive a receipt via mail in March of the following year. In case you need the receipt earlier than that please let us know by sending an email to <a href=\"spenden@wikimedia.de\">spenden@wikimedia.de</a> or via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a> until February 7th.  Past this date you will have to wait until our major send-out in March.</p>",
 			"topic": "2, "
 		},
 		{
 			"question": "What is the difference between a recurring donation and a sponsoring membership?",
-			"visible_text": "Recurring donations and sponsoring memberships are the same in many ways,<ul><li>both are important for supporting Wikipedia and free knowledge,</li><li>both forms are tax deductible and</li><li>both can be cancelled immediately via mail, fax or e-mail.</ul><br><br>Sponsoring members, however, get added benefits like <ul><li>more information about Wikimedia and the promotion of free knowledge in Germany.</li><li>more opportunities to participate and thereby shape the work the organisation and<li>take part in improve the organisations standing in the public</li></ul><p>Further information about memberships at Wikimedia can be found at our <a href=\"https://www.wikimedia.de/mitglieder/\">website</a>. For additional questions you can also reach us via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a> or e-mail at <a href=\"mailto:mitglieder@wikimedia.de\">mitglieder@wikimedia.de</a>.  Alternatively, you can call us from Monday to Friday between 10am and 4pm at (030) 577 11 62-19</p>",
+			"visible_text": "Recurring donations and sponsoring memberships are the same in many ways,<ul><li>both are important for supporting Wikipedia and free knowledge,</li><li>both forms are tax deductible and</li><li>both can be cancelled immediately via mail, fax or e-mail.</ul><br><br>Sponsoring members, however, get added benefits like <ul><li>more information about Wikimedia and the promotion of free knowledge in Germany.</li><li>more opportunities to participate and thereby shape the work the organisation and<li>take part in improve the organisations standing in the public</li></ul><p>Further information about memberships at Wikimedia can be found at our <a href=\"https://www.wikimedia.de/mitglieder/\">website</a>. For additional questions you can also reach us via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a> or e-mail at <a href=\"mailto:mitglieder@wikimedia.de\">mitglieder@wikimedia.de</a>.  Alternatively, you can call us from Monday to Friday between 9am and 5pm at (030) 577 11 62-19</p>",
 			"topic": "2,6"
 		}, 
 		{
@@ -154,7 +154,7 @@
 		},
 		{
 			"question": "How can I change my personal data (e.g. address or bank account information) at Wikimedia?",
-			"visible_text": "<p>You can change your personal data at any time via mail, fax or simply via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a>. Alternatively, you can call us from Monday to Friday between 10am and 4pm at (030) 577 11 62-19.</p>Our mail address and fax details can be found in our <a href=\"https://spenden.wikimedia.de/page/Impressum\">legal notice</a>.",
+			"visible_text": "<p>You can change your personal data at any time via mail, fax or simply via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a>. Alternatively, you can call us from Monday to Friday between 9am and 5pm at (030) 577 11 62-19.</p>Our mail address and fax details can be found in our <a href=\"https://spenden.wikimedia.de/page/Impressum\">legal notice</a>.",
 			"topic": "6"
 		},
 		{
@@ -164,7 +164,7 @@
 		},
 		{
 			"question": "Who can I contact for technical problems with my membership application?",
-			"visible_text": "<p>You are welcome to inform us via e-mail at <a href=\"mailto:mitglieder@wikimedia.de\">mitglieder@wikimedia.de</a>.</p>Please answer the following questions:<ul><li>Were you trying to apply via desktop PC, mobile phone or tablet?</li><li>Which browser and operating system (incl. version number) did you use?</li><li>Can you visualize the problem with a screenshot?</li></ul><p>From Monday to Friday between 10am and 4pm you can also call us at (030) 577 11 62-19.",
+			"visible_text": "<p>You are welcome to inform us via e-mail at <a href=\"mailto:mitglieder@wikimedia.de\">mitglieder@wikimedia.de</a>.</p>Please answer the following questions:<ul><li>Were you trying to apply via desktop PC, mobile phone or tablet?</li><li>Which browser and operating system (incl. version number) did you use?</li><li>Can you visualize the problem with a screenshot?</li></ul><p>From Monday to Friday between 9am and 5pm you can also call us at (030) 577 11 62-19.",
 			"topic": "6"
 		},
 		{
