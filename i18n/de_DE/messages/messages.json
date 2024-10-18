@@ -37,7 +37,7 @@
   "bank_data_bic": "BIC",
   "bank_data_blz": "BLZ",
   "bank_data_iban": "IBAN",
-  "bank_data_operator_account_bic": "BFSWDE33BER",
+  "bank_data_operator_account_bic": "BFSWDE33XXX",
   "bank_data_operator_account_blz": "10020500",
   "bank_data_operator_account_iban": "DE09 3702 0500 0003 2873 00",
   "bank_data_operator_account_number": "1194700",
