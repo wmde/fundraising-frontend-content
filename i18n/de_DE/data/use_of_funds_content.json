@@ -108,20 +108,20 @@
 		"companies": [
 			{
 				"name": "Google",
-				"budget": 280,
-				"budgetString": "280 Mrd. $",
+				"budget": 306,
+				"budgetString": "306 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/"
 			},
 			{
 				"name": "Amazon",
-				"budget": 514,
-				"budgetString": "514 Mrd. $",
+				"budget": 575,
+				"budgetString": "575 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/"
 			},
 			{
 				"name": "Facebook",
-				"budget": 117,
-				"budgetString": "117 Mrd. $",
+				"budget": 135,
+				"budgetString": "135 Mrd. $",
 				"budgetCitation": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/"
 			},
 			{
