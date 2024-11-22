@@ -218,6 +218,9 @@
   "donation_form_provisional_address_choice_emailonly_notice_donation_receipt": "Sie verzichten auf eine Spendenquittung, erhalten aber eine Bestätigung per E-Mail.",
 
 
+  "donation_form_section_address_opt_out": "Möchten Sie Ihre Adresse angeben?",
+  "donation_form_section_address_opt_out_help_text": "Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
+
 
   "donation_confirmation_summary_title": "Ihre Spendenquittung erhalten Sie an folgende Adresse:",
   "donation_confirmation_summary_title_no_receipt_wanted": "Folgende Adresse haben wir von Ihnen erhalten:",
@@ -423,6 +426,7 @@
   "error_summary_address_type": "Bitte wählen Sie einen Adresstyp aus",
   "error_summary_interval": "Bitte wählen sie ein Zahlungsintervall aus",
   "error_summary_iban": "Bitte geben Sie eine korrekte IBAN oder Kontonummer an",
+  "error_summary_address_type_opt_out": "Bitte wählen Sie eine Adressoption aus",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 

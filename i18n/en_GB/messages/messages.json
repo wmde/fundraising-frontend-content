@@ -221,6 +221,9 @@
   "donation_form_provisional_address_choice_emailonly_notice_donation_receipt": "For this we only need name and e-mail address. However, you will not receive a donation receipt.",
 
 
+  "donation_form_section_address_opt_out": "Would you like to give us your address?",
+  "donation_form_section_address_opt_out_help_text": "You will receive a donation receipt by mail. You will also receive an e-mail confirmation of your donation.",
+
 
   "donation_confirmation_summary_title": "We will send your donation receipt to the following:",
   "donation_confirmation_summary_title_no_receipt_wanted": "We have received the following address from you:",
@@ -426,6 +429,7 @@
   "error_summary_address_type": "Please select an address type",
   "error_summary_interval": "Please select a payment interval",
   "error_summary_iban": "Please enter a correct IBAN",
+  "error_summary_address_type_opt_out": "Please choose an address option",
 
   "form_trust_message" : "Verschlüsselte Datenübertragung und sichere Bezahlung",
 
