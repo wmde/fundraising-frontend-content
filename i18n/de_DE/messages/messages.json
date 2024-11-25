@@ -219,7 +219,7 @@
 
 
   "donation_form_section_address_opt_out": "Möchten Sie Ihre Adresse angeben?",
-  "donation_form_section_address_opt_out_help_text": "Nur so können wir Ihnen eine Spendenquittung per Post zusenden. Außerdem erhalten Sie eine Bestätigung per E-Mail.",
+  "donation_form_section_address_opt_out_help_text": "Ohne Adresssangabe können wir Ihnen keine Spendenbescheinigung zustellen",
 
 
   "donation_confirmation_summary_title": "Ihre Spendenquittung erhalten Sie an folgende Adresse:",
