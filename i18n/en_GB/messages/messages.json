@@ -222,7 +222,7 @@
 
 
   "donation_form_section_address_opt_out": "Would you like to give us your address?",
-  "donation_form_section_address_opt_out_help_text": "You will receive a donation receipt by mail. You will also receive an e-mail confirmation of your donation.",
+  "donation_form_section_address_opt_out_help_text": "Without an adress, we can't send you a donation receipt",
 
 
   "donation_confirmation_summary_title": "We will send your donation receipt to the following:",
