@@ -1,0 +1,96 @@
+{
+	"title": "Where does my donation go?",
+	"summary": "It is for a Wikipedia that is always reliable in terms of organizational and technical aspects, now and in the future. For free access to encyclopedic, trustworthy knowledge at all times and wherever you are. It is also for you – and for all other people around the world.",
+	"callToAction": "Donate now",
+
+	"accordion": {
+		"items": [
+			{
+				"title": "Technik und IT in Deutschland",
+				"content": "Damit die Freiwilligen immer unter optimalen Bedingungen in Wikipedia & Co. arbeiten können, brauchen sie <strong>die beste technische Infrastruktur</strong>. Diese muss zudem einfach zu bedienen sein. Daher ist die Weiterentwicklung der Technik hinter den Projekten unser personell wie auch finanziell größter Aufgabenbereich. Dieses Engagement hat uns zum technischen Pionier der Bewegung für Freies Wissen gemacht."
+			},
+			{
+				"title": "Unterstützung der Freiwilligen",
+				"content": "Die Freiwilligen in unseren Projekten erhalten kein Geld, aber wir investieren viel in ihre Unterstützung. <strong>Wikimedia kommt da ins Spiel, wo freiwilliges Engagement allein nicht ausreicht:</strong> Wir organisieren z. B. Veranstaltungen, finanzieren Fachliteratur, ermöglichen Kooperationen oder stellen Fotoausrüstungen und Drohnen für die Bebilderung der Wikipedia zur Verfügung. Auch finanzieren wir in verschiedenen Städten in Deutschland lokale Räume für die Arbeit der Freiwilligen. Kurz: Wir sind für sie da, wo immer sie uns brauchen."
+			},
+			{
+				"title": "Weltweite Stärkung der Wikipedia-Projekte",
+				"content": "Wikipedia ist ein weltweites Projekt, mit mehr als 300 Sprachversionen. <strong>Die Sicherung und Weiterentwicklung der internationalen Aktivitäten</strong> erfordert daher unser beständiges finanzielles Engagement. Entscheidend ist eine leistungsfähige, datensparsame und sichere Technik. Wikimedia betreibt eigenständig weltweit sieben Serverfarmen, damit Wikipedia immer und überall schnell erreichbar ist und niemand Ihre Daten einsehen kann. Darüber hinaus helfen wir mit Zuschüssen, Rechtsbeistand und anderen Maßnahmen beim Aufbau lebendiger Gemeinschaften von Freiwilligen überall auf der Welt."
+			},
+			{
+				"title": "Operative Kosten",
+				"content": "Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere <strong>organisatorischen und finanziellen Prozesse</strong> zuverlässig funktionieren. Sie kümmern sich z. B. um die Bearbeitung der eingehenden Spenden und um die vielen unterschiedlichen Anliegen unserer Unterstützenden. Darüber hinaus beantworten sie die vielen Anfragen rund um unsere Projekte und sorgen dafür, dass diese in der Öffentlichkeit bekannter werden."
+			}
+		],
+		"summary": "Und das ist noch nicht alles: Wir arbeiten mit Kultureinrichtungen zusammen, sind Ansprechpartner für die Politik, engagieren uns auf europäischer Ebene und versuchen, noch mehr Freiwillige für unsere Projekte zu gewinnen. Immer mit dem Ziel: <strong>Mehr Freies Wissen zu schaffen – für uns alle!</strong>"
+	},
+
+	"benefits": {
+		"title": "How your donation makes a difference",
+		"items": [
+			{
+				"icon": "hand",
+				"content": "Your donation is a vital contribution to provide everybody around the world with free access to knowledge at all times."
+			},
+			{
+				"icon": "smartphone",
+				"content": "Your donation is a contribution to maintaining Wikipedia’s secure and stable infrastructure and user-friendly interface in the future."
+			},
+			{
+				"icon": "world",
+				"content": "Your donation backs our efforts to promote the global establishment of regional Wikipedia communities."
+			},
+			{
+				"icon": "megaphone",
+				"content": "Your donation is our most important source of income. It ensures that Wikipedia can remain independent of advertising, commercial interests or third-party funding."
+			},
+			{
+				"icon": "twentyfourseven",
+				"content": "Last, but not least, your donation is your contribution towards making sure you always have Wikipedia at your fingertips as your personal source of knowledge, offering a uniquely wide range of information to help you find answers to your questions."
+			}
+		]
+	},
+
+	"revenueComparison": {
+		"title": "Why we only need €9,300,000",
+		"content": [
+			"Our goal to reach €9.3 million in donations is an important part of our total planned revenue for 2025. Without a doubt, this is a lot of money.",
+			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 900 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
+		],
+		"companies": {
+			"title": "Annual revenue – a comparison",
+			"items": [
+				{
+					"name": "Google",
+					"budget": 306,
+					"budgetString": "$306b",
+					"link": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/",
+					"linkText": "Source"
+				},
+				{
+					"name": "Amazon",
+					"budget": 575,
+					"budgetString": "$575b",
+					"link": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/",
+					"linkText": "Source"
+				},
+				{
+					"name": "Facebook",
+					"budget": 135,
+					"budgetString": "$135b",
+					"link": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/",
+					"linkText": "Source"
+				},
+				{
+					"name": "Wikipedia",
+					"budget": 0.21,
+					"budgetString": "$0.21b",
+					"link": "",
+					"linkText": ""
+				}
+			]
+		}
+	},
+
+	"closingParagraph" : "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2023-2024\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Budget_2024\">activities in Germany</a>."
+}
