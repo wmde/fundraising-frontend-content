@@ -44,7 +44,7 @@
             "find i18n/*/mail i18n/*/shared -type f -name '*.twig' | sed -E 's#/mail/|/shared/# #' | sed 's|.twig||' | cut -d' ' -f1,2 | xargs -n 2 bash -c './vendor/bin/lint_content $0 $1'"
         ],
         "lint-wordlists": [
-            "if grep -oE '\\w+ {2,}\\w+' data/banned_terms.txt data/safe_terms.txt; then echo 'Words must only be separated by 1 space'; false; fi"
+            "if grep -oE '\\w+ {2,}\\w+' data/banned_terms.txt data/allowed_terms.txt; then echo 'Words must only be separated by 1 space'; false; fi"
         ]
     }
 }
