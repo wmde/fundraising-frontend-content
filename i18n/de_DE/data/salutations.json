@@ -23,7 +23,7 @@
 			}
 		},
 		{
-			"label": "Keine Anrede",
+			"label": "Keine Angabe",
 			"value": "Divers",
 			"export_value": "divers",
 			"display": "",
