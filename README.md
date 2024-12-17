@@ -21,6 +21,11 @@ This is a repository for the textual content of the fundraising application.
 
 ## Extracting "Use of funds" content for banners
 
+> [!NOTE]
+> This is for the pre-2024 Use of Funds Content. Please see below for 2024 onwards.
+
+### Before 2024
+
 Banners on wikipedia.org (managed with CentralNotice) need the "Use of
 funds" content (file `data/use_of_funds_content.json`) as data attributes
 in an HTML tag. You can extract the "use of funds" content with the script
@@ -41,8 +46,24 @@ php bin/extract_to_mediawiki en > tempOutput.txt
 	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2023_EN
 3. Edit the respective page and paste the output from step 1 and save the changes.
 
-
 Banners in wikipedia.de currently include the JSON directly.
+
+### After 2024
+
+Banners on wikipedia.org (managed with CentralNotice) need the "Use of
+funds" content (file `data/use_of_funds_2024.json`) as data attributes
+in an HTML tag. You can extract the "use of funds" content with the script
+`bin/extract_to_mediawiki_2024`. Follow these steps to for each language to
+make the content available for banners on CentralNotice. The banners will
+be able to include this content.
+
+1. Run the script to generate the files: `composer run uof`. This will generate 2 files in the project root:
+   - `mediawiki_use_of_funds.de.txt`
+   - `mediawiki_use_of_funds.en.txt`
+2. Go to the page for "use of funds" content on metaWiki. There are different pages (resources) for each year and each language:
+	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2025_DE
+	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2025_EN
+3. Edit the respective page and paste the output from step 1 and save the changes.
 
 ## FAQ 
 
