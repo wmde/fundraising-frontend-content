@@ -6,23 +6,23 @@
 	"accordion": {
 		"items": [
 			{
-				"title": "Technik und IT in Deutschland",
-				"content": "Damit die Freiwilligen immer unter optimalen Bedingungen in Wikipedia & Co. arbeiten können, brauchen sie <strong>die beste technische Infrastruktur</strong>. Diese muss zudem einfach zu bedienen sein. Daher ist die Weiterentwicklung der Technik hinter den Projekten unser personell wie auch finanziell größter Aufgabenbereich. Dieses Engagement hat uns zum technischen Pionier der Bewegung für Freies Wissen gemacht."
+				"title": "Technology and IT work in Germany",
+				"content": "In order for our volunteers to always be working under optimal conditions on Wikipedia and its fellow projects, they need <strong>the best technical infrastructure</strong>. Furthermore, that infrastructure needs to be easy to use. That's why further development of the technology behind the projects represents our greatest field of endeavor, both in terms of staffing and spending. Our commitment in this area has made us a technical pioneer in the free-knowledge movement."
 			},
 			{
-				"title": "Unterstützung der Freiwilligen",
-				"content": "Die Freiwilligen in unseren Projekten erhalten kein Geld, aber wir investieren viel in ihre Unterstützung. <strong>Wikimedia kommt da ins Spiel, wo freiwilliges Engagement allein nicht ausreicht:</strong> Wir organisieren z. B. Veranstaltungen, finanzieren Fachliteratur, ermöglichen Kooperationen oder stellen Fotoausrüstungen und Drohnen für die Bebilderung der Wikipedia zur Verfügung. Auch finanzieren wir in verschiedenen Städten in Deutschland lokale Räume für die Arbeit der Freiwilligen. Kurz: Wir sind für sie da, wo immer sie uns brauchen."
+				"title": "Supporting the volunteers",
+				"content": "Volunteers in our projects receive no money, but we make a large investment in supporting them. <strong>Wikimedia steps in where volunteer dedication alone isn't enough:</strong> We organize events, purchase specialist literature, enable collaborations and supply photo equipment and drones for photos on Wikipedia. We also provide funding for local spaces in various cities across Germany where volunteers can do their work. In short: We're there for them whenever they need us."
 			},
 			{
-				"title": "Weltweite Stärkung der Wikipedia-Projekte",
-				"content": "Wikipedia ist ein weltweites Projekt, mit mehr als 300 Sprachversionen. <strong>Die Sicherung und Weiterentwicklung der internationalen Aktivitäten</strong> erfordert daher unser beständiges finanzielles Engagement. Entscheidend ist eine leistungsfähige, datensparsame und sichere Technik. Wikimedia betreibt eigenständig weltweit sieben Serverfarmen, damit Wikipedia immer und überall schnell erreichbar ist und niemand Ihre Daten einsehen kann. Darüber hinaus helfen wir mit Zuschüssen, Rechtsbeistand und anderen Maßnahmen beim Aufbau lebendiger Gemeinschaften von Freiwilligen überall auf der Welt."
+				"title": "Strengthening Wikipedia projects across the world",
+				"content": "Wikipedia is a global project, with more than 300 language versions. If we are to <strong>secure and further develop these international activities</strong>, it demands of us a consistent financial commitment. Having performant, data-minimizing, secure technology is crucial. Wikimedia independently runs seven server farms across the globe. Beyond that we assist with grants, legal assistance and other measures in building thriving communities of volunteers all over the world."
 			},
 			{
-				"title": "Operative Kosten",
-				"content": "Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere <strong>organisatorischen und finanziellen Prozesse</strong> zuverlässig funktionieren. Sie kümmern sich z. B. um die Bearbeitung der eingehenden Spenden und um die vielen unterschiedlichen Anliegen unserer Unterstützenden. Darüber hinaus beantworten sie die vielen Anfragen rund um unsere Projekte und sorgen dafür, dass diese in der Öffentlichkeit bekannter werden."
+				"title": "Operational costs",
+				"content": "Our colleagues in the Berlin office make sure that our <strong>organizational and financial processes</strong> work reliably. They take care of matters such as processing incoming donations and handling the many and varied concerns of our supporters. They also respond to all the requests regarding our projects and see to raising their public profiles."
 			}
 		],
-		"summary": "Und das ist noch nicht alles: Wir arbeiten mit Kultureinrichtungen zusammen, sind Ansprechpartner für die Politik, engagieren uns auf europäischer Ebene und versuchen, noch mehr Freiwillige für unsere Projekte zu gewinnen. Immer mit dem Ziel: <strong>Mehr Freies Wissen zu schaffen – für uns alle!</strong>"
+		"summary": "And even that's not all: we work closely with cultural institutions, act as a political point of contact, stay active in European affairs and strive to gain even more volunteers for our projects. Always with the same goal: <strong>creating more Free Knowledge -- for us all!</strong>"
 	},
 
 	"benefits": {
