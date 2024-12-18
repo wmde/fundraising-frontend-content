@@ -4,3 +4,4 @@ composer.lock
 secrets.txt
 tempOutput*.txt
 .phpunit.result.cache
+mediawiki_use_of_funds*

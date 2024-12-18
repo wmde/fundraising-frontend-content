@@ -20,7 +20,7 @@ switch( $argv[1]?? '' ) {
 		die( "You must provide a language (de | en )!\n");
 }
 
-$contents = file_get_contents(__DIR__ ."/../i18n/$language/data/use_of_funds_2024.json" );
+$contents = file_get_contents(__DIR__ ."/../i18n/$language/data/use_of_funds_content.json" );
 $json = json_decode( $contents );
 $encodedContent = htmlspecialchars(
 	json_encode( $json ),
