@@ -501,6 +501,11 @@
   "donation_confirmation_survey_link_text": "Give feedback",
   "donation_confirmation_survey_link": "",
 
+  "membership_confirmation_survey_title": "What almost stopped you from becoming a member?",
+  "membership_confirmation_survey_content": "Your response helps us to improve our service and our website.",
+  "membership_confirmation_survey_link_text": "Give feedback",
+  "membership_confirmation_survey_link": "",
+
   "site_name": "{pageTitle} - Wikimedia Deutschland e V.",
   "access_denied_page_title": "Access denied",
   "address_update_success_page_title": "Address updated",
