@@ -481,16 +481,6 @@
   "subscription_confirmation_success": "Danke, dass Sie Ihre E-Mail Adresse bestätigt haben.",
   "subscription_confirmation_page_header": "Bestätigung Ihrer E-Mail-Adresse.",
 
-
-  "donation_page_feedback_box_mobile_feedback_tab": "Feedback",
-  "donation_page_feedback_box_mobile_content_headline": "Haben Sie Schwierigkeiten?",
-  "donation_page_feedback_box_desktop_feedback_button": "Schwierigkeiten beim Ausfüllen?",
-  "donation_page_feedback_box_desktop_content_headline": "Haben Sie evtl. Schwierigkeiten beim Ausfüllen des Formulars?",
-  "donation_page_feedback_box_content_text": "Wenn Sie Probleme beim Ausfüllen des Spendenformulars haben oder etwas vermissen, dann freuen wir uns über Ihr Feedback.",
-  "donation_page_feedback_box_content_option_decline": "Nein, alles gut",
-  "donation_page_feedback_box_content_option_feedback": "Ja, Feedback geben",
-  "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=de",
-
   "C24_WMDE_Desktop_DE_01_help_text": "Dazu erfahren Sie mehr über unsere Arbeit hinter der Wikipedia.",
   "C24_WMDE_Desktop_DE_01_receipt_error": "Bitte wählen Sie eine der beiden Optionen.",
   "C24_WMDE_Desktop_DE_01_contact_details_label": "Wie möchten Sie spenden?",
