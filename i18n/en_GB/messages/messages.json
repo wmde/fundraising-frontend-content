@@ -506,7 +506,7 @@
   "membership_confirmation_survey_title": "What almost stopped you from becoming a member?",
   "membership_confirmation_survey_content": "Your response helps us to improve our service and our website.",
   "membership_confirmation_survey_link_text": "Give feedback",
-  "membership_confirmation_survey_link": "https://wikimedia.limesurvey.de/just-a-test?track={tracking}",
+  "membership_confirmation_survey_link": "http://lime.wikimedia.de/index.php/571362?lang=en&Q02={tracking}",
 
   "site_name": "{pageTitle} - Wikimedia Deutschland e V.",
   "access_denied_page_title": "Access denied",
