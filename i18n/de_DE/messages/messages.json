@@ -379,6 +379,8 @@
 
   "membership_confirmation_thanks_text": "Vielen Dank für Ihr Engagement!",
   "membership_confirmation_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V.<br>und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong><br>als {address}",
+  "membership_confirmation_payment_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V. und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong>",
+  "membership_confirmation_address_head": "Wir haben folgende Adressdaten gespeichert:",
   "membership_confirmation_success_text": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket per Post. Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_success_text_bank_transfer": "Wir freuen uns, dass Sie dabei sind!",
@@ -481,16 +483,6 @@
   "subscription_confirmation_success": "Danke, dass Sie Ihre E-Mail Adresse bestätigt haben.",
   "subscription_confirmation_page_header": "Bestätigung Ihrer E-Mail-Adresse.",
 
-
-  "donation_page_feedback_box_mobile_feedback_tab": "Feedback",
-  "donation_page_feedback_box_mobile_content_headline": "Haben Sie Schwierigkeiten?",
-  "donation_page_feedback_box_desktop_feedback_button": "Schwierigkeiten beim Ausfüllen?",
-  "donation_page_feedback_box_desktop_content_headline": "Haben Sie evtl. Schwierigkeiten beim Ausfüllen des Formulars?",
-  "donation_page_feedback_box_content_text": "Wenn Sie Probleme beim Ausfüllen des Spendenformulars haben oder etwas vermissen, dann freuen wir uns über Ihr Feedback.",
-  "donation_page_feedback_box_content_option_decline": "Nein, alles gut",
-  "donation_page_feedback_box_content_option_feedback": "Ja, Feedback geben",
-  "donation_page_feedback_box_content_survey_link": "https://lime.wikimedia.de/index.php/426896?lang=de",
-
   "C24_WMDE_Desktop_DE_01_help_text": "Dazu erfahren Sie mehr über unsere Arbeit hinter der Wikipedia.",
   "C24_WMDE_Desktop_DE_01_receipt_error": "Bitte wählen Sie eine der beiden Optionen.",
   "C24_WMDE_Desktop_DE_01_contact_details_label": "Wie möchten Sie spenden?",
@@ -506,6 +498,11 @@
   "donation_confirmation_survey_content": "Ihre Antwort hilft uns, unseren Service und unsere Webseite zu verbessern.",
   "donation_confirmation_survey_link_text": "Feedback geben",
   "donation_confirmation_survey_link": "",
+
+  "membership_confirmation_survey_title": "Was hätte Sie fast davon abgehalten, Mitglied zu werden?",
+  "membership_confirmation_survey_content": "Ihre Antwort hilft uns, unseren Service und unsere Webseite zu verbessern.",
+  "membership_confirmation_survey_link_text": "Feedback geben",
+  "membership_confirmation_survey_link": "http://lime.wikimedia.de/index.php/571362?lang=de&Q02={tracking}",
 
   "site_name": "{pageTitle} - Wikimedia Deutschland e. V.",
   "access_denied_page_title": "Zugriff verweigert",
