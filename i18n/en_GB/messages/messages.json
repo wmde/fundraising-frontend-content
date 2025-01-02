@@ -383,7 +383,7 @@
   "membership_confirmation_thanks_text": "Thank you for your sponsorship!",
   "membership_confirmation_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V.<br>and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong><br>from {address}",
   "membership_confirmation_payment_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V. and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong>",
-  "membership_confirmation_address_head": "We have stored the following address",
+  "membership_confirmation_address_head": "We have stored the following address:",
   "membership_confirmation_success_text": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package by post. We are delighted to have you on board!",
   "membership_confirmation_success_text_incentive": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package with the Wikipedia tote bag by post. We are delighted to have you on board!",
   "membership_confirmation_success_text_bank_transfer": "We are delighted to have you on board!",
