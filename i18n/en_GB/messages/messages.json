@@ -49,7 +49,7 @@
   "contact_form_body_label": "Your message to us",
   "contact_form_body_error": "Message is required.",
   "contact_form_donation_number_label": "Donation number or address number",
-  "contact_form_donation_number_help_text": "This is an 8 digit number that can be found in your donation confirmation email",
+  "contact_form_donation_number_help_text": "This is an 6 to 8 digit number that can be found in your donation confirmation email",
   "contact_form_donation_number_placeholder": "1234567",
   "contact_form_donation_number_error": "Please review your donation number. Only numbers are allowed in this field.",
   "contact_form_error": "Please review your form input.",
