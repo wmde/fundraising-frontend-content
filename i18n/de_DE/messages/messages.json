@@ -49,7 +49,7 @@
   "contact_form_body_label": "Ihre Nachricht an uns",
   "contact_form_body_error": "Bitte füllen Sie das Feld für die Nachricht aus.",
   "contact_form_donation_number_label": "Spenden- oder Adressnummer",
-  "contact_form_donation_number_help_text": "Die Spendennnummer ist eine acht-stellige Zahl. Sie können diese in Ihrer Bestätigungsmail finden.",
+  "contact_form_donation_number_help_text": "Die Spendennnummer ist eine sechs- bis siebenstellige Zahl. Sie können diese in Ihrer Bestätigungsmail finden.",
   "contact_form_donation_number_placeholder": "1234567",
   "contact_form_donation_number_error": "Bitte prüfen Sie die Spendennummer. Hier sollten nur Ziffern stehen.",
   "contact_form_error": "Bitte Überprüfen Sie die Eingaben im Kontaktformular:",
