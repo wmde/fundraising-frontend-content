@@ -3,7 +3,7 @@
     "description": "i18n for FundraisingFrontend",
     "license": "CC0-1.0",
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.3"
     },
     "require-dev": {
         "wmde/fundraising-content-provider": "^6.0",
