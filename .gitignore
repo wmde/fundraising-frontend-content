@@ -1,6 +1,5 @@
 .idea/
 vendor/
-composer.lock
 secrets.txt
 tempOutput*.txt
 .phpunit.result.cache
