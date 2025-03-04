@@ -502,7 +502,7 @@
   "membership_confirmation_survey_title": "Was hätte Sie fast davon abgehalten, Mitglied zu werden?",
   "membership_confirmation_survey_content": "Ihre Antwort hilft uns, unseren Service und unsere Webseite zu verbessern.",
   "membership_confirmation_survey_link_text": "Feedback geben",
-  "membership_confirmation_survey_link": "http://lime.wikimedia.de/index.php/571362?lang=de&Q02={tracking}",
+  "membership_confirmation_survey_link": "",
 
   "site_name": "{pageTitle} - Wikimedia Deutschland e. V.",
   "access_denied_page_title": "Zugriff verweigert",
