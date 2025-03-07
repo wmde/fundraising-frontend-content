@@ -507,6 +507,8 @@
   "membership_confirmation_survey_content": "Your response helps us to improve our service and our website.",
   "membership_confirmation_survey_link_text": "Give feedback",
   "membership_confirmation_survey_link": "",
+  "membership_confirmation_exported_title" : "Address data no longer available",
+  "membership_confirmation_exported_content" : "Your data has been processed and can no longer be viewed or changed on this page. If you have any questions or want to add something, please contact our support.",
 
   "site_name": "{pageTitle} - Wikimedia Deutschland e V.",
   "access_denied_page_title": "Access denied",

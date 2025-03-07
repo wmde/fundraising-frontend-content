@@ -503,6 +503,8 @@
   "membership_confirmation_survey_content": "Ihre Antwort hilft uns, unseren Service und unsere Webseite zu verbessern.",
   "membership_confirmation_survey_link_text": "Feedback geben",
   "membership_confirmation_survey_link": "",
+  "membership_confirmation_exported_title" : "Daten erfolgreich verarbeitet",
+  "membership_confirmation_exported_content" : "Ihre Daten wurden verarbeitet und können an dieser Stelle nicht mehr eingesehen oder geändert werden. Bei Fragen oder Ergänzungen wenden Sie sich bitte an unseren Support.",
 
   "site_name": "{pageTitle} - Wikimedia Deutschland e. V.",
   "access_denied_page_title": "Zugriff verweigert",
