@@ -329,7 +329,7 @@
       "name": "Dr. Ing. Detlev Stupperich",
       "amount": "3.915 €",
       "comment": "Die derzeitge, global zu beobachtende Tendenz zu nationalistisch begründeten Abschottungen und die damit einhergehenden Vorurteile sowie vorsätzlich falschen Aussagen erinnern mich in sehr bedenktlicher Weise an Vergleichbares vor rund 100 Jahren. Wikipedia mit dem Ziel einer international gleichmäßigen und neutralen Verbreitung von belegbarem Wissen sind deshalb zweifellos wichtiger denn je."
-    }
+    },
     {
       "name": "Dr. Josef Wolff",
       "amount": "3.870 €",
@@ -419,8 +419,8 @@
       "name": "Jürgen Grether",
       "amount": "anonymous amount",
       "comment": "Freies Wissen für alle Menschen"
-    }
-   {
+    },
+    {
       "name": "Bernd Hansen",
       "amount": "anonymous amount",
       "comment": "Nur eine Wissensbasierte Gesellschaft kann erfolgreich sein. Dazu muß es allen zugänglich sein. Dazu trägt Wikimedia in großem Masse bei."
@@ -514,6 +514,6 @@
       "name": "Reinhard Wiesemann",
       "amount": "anonymous amount",
       "comment": ""
-    },
+    }
   ]
 }
