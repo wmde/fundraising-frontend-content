@@ -8,9 +8,9 @@
   "mail_subject_subscription": "Vielen Dank für Ihr Interesse",
   "mail_subject_subscription_confirmed": "Vielen Dank. Jetzt haben wir alles.",
 
-  "mail_subject_confirm_membership_application_active": "Ihr nachhaltiges Engagement als aktives Mitglied bei Wikimedia",
-  "mail_subject_confirm_membership_application_sustaining": "Ihr nachhaltiges Engagement als Fördermitglied bei Wikimedia",
-  "mail_subject_confirm_membership_application_cancellation": "Stornierung Ihres Mitgliedschaftsantrags bei Wikimedia Deutschland e. V.",
+  "mail_subject_confirm_membership_application_active": "Willkommen bei Wikimedia Deutschland! Ihr Engagement bewirkt viel.",
+  "mail_subject_confirm_membership_application_sustaining": "Willkommen bei Wikimedia Deutschland! Ihr Engagement bewirkt viel.",
+  "mail_subject_confirm_membership_application_cancellation": "Stornierung Ihres Mitgliedschaftsantrags bei Wikimedia Deutschland",
 
   "donation_payment_interval_0": "einmalig",
   "donation_payment_interval_1": "monatlich",
