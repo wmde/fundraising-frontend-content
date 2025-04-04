@@ -49,7 +49,7 @@
   "contact_form_body_label": "Ihre Nachricht an uns",
   "contact_form_body_error": "Bitte füllen Sie das Feld für die Nachricht aus.",
   "contact_form_donation_number_label": "Spenden- oder Adressnummer",
-  "contact_form_donation_number_help_text": "Die Spendennnummer ist eine sechs- bis siebenstellige Zahl. Sie können diese in Ihrer Bestätigungsmail finden.",
+  "contact_form_donation_number_help_text": "Die Spendennummer ist eine sechs- bis siebenstellige Zahl. Sie können diese in Ihrer Bestätigungsmail finden.",
   "contact_form_donation_number_placeholder": "1234567",
   "contact_form_donation_number_error": "Bitte prüfen Sie die Spendennummer. Hier sollten nur Ziffern stehen.",
   "contact_form_error": "Bitte Überprüfen Sie die Eingaben im Kontaktformular:",
@@ -503,6 +503,8 @@
   "membership_confirmation_survey_content": "Ihre Antwort hilft uns, unseren Service und unsere Webseite zu verbessern.",
   "membership_confirmation_survey_link_text": "Feedback geben",
   "membership_confirmation_survey_link": "",
+  "membership_confirmation_exported_title" : "Daten erfolgreich verarbeitet",
+  "membership_confirmation_exported_content" : "Ihre Daten wurden verarbeitet und können an dieser Stelle nicht mehr eingesehen oder geändert werden. Bei Fragen oder Ergänzungen wenden Sie sich bitte an unseren Support.",
 
   "site_name": "{pageTitle} - Wikimedia Deutschland e. V.",
   "access_denied_page_title": "Zugriff verweigert",
