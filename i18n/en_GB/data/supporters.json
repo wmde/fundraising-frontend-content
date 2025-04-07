@@ -361,13 +361,13 @@
       "comment": ""
     },
     {
-      "name": "Robin Stork",
-      "amount": "1.124 €",
+      "name": "Dr.-Ing. Mario Heiderich, Cure53",
+      "amount": "1.200 €",
       "comment": ""
     },
     {
-      "name": "Dr.-Ing. Mario Heiderich, Cure53",
-      "amount": "1.200 €",
+      "name": "Robin Stork",
+      "amount": "1.124 €",
       "comment": ""
     },
     {
@@ -451,11 +451,6 @@
       "comment": ""
     },
     {
-      "name": "Oswald Kurt",
-      "amount": "anonymous amount",
-      "comment": ""
-    },
-    {
       "name": "Axel Maier",
       "amount": "anonymous amount",
       "comment": ""
@@ -467,6 +462,11 @@
     },
     {
       "name": "Mobile Appliance GmbH",
+      "amount": "anonymous amount",
+      "comment": ""
+    },
+    {
+      "name": "Kurt Oswald",
       "amount": "anonymous amount",
       "comment": ""
     },
