@@ -1,8 +1,13 @@
+matrix:
+  CONTAINER_IMAGE:
+    - registry.gitlab.com/fun-tech/fundraising-frontend-docker:latest
+    # Use the following image in future (Jan/Feb 2026)
+    # - registry.gitlab.com/fun-tech/fundraising-frontend-docker:php-8.5
 steps:
   - name: ci
     when:
       event: [ push, pull_request, cron, manual ]
-    image: composer
+    image: ${CONTAINER_IMAGE}
     commands:
       - composer install --no-progress --no-suggest
 
