@@ -21,7 +21,7 @@ steps:
   - name: deploy
     when:
       - branch: [ test, production ]
-        event: [ push, pull_request, cron, manual ]
+        event: [ push, cron, manual ]
     image: wikimediade/ansible-deploy
     pull: false # Until we publish the image on a registry
     environment:
