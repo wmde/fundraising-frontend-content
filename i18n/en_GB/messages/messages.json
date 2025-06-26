@@ -530,6 +530,16 @@
   "update_address_page_title": "Update Address",
   "use_of_funds_page_title": "Use Of Funds",
 
-  "language_selection": "Open language selection"
+  "language_selection": "Open language selection",
 
+  "donation_form_summary_title": "Summary",
+  "donation_form_summary_headline": "You will donate:",
+  "donation_summary_via": " via",
+  "donation_summary_contact_data_header": "Your Contact Data",
+  "donation_form_summary_bank_details": "Your Bank Details",
+  "donation_form_summary_iban": "IBAN:",
+  "donation_form_summary_bic": "BIC:",
+  "donation_form_summary_bank_name": "Bank name:",
+  "address_salutation_academic_title": "{title}",
+  "address_salutation_no_academic_title": "{salutation}"
 }
