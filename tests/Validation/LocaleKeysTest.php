@@ -29,6 +29,7 @@ class LocaleKeysTest extends TestCase {
 			[ 'i18n/en_GB/data/salutations.json', 'i18n/de_DE/data/salutations.json' ],
 			[ 'i18n/en_GB/data/supporters.json', 'i18n/de_DE/data/supporters.json' ],
 			[ 'i18n/en_GB/data/validation.json', 'i18n/de_DE/data/validation.json' ],
+			[ 'i18n/en_GB/data/use_of_funds_content.json', 'i18n/de_DE/data/use_of_funds_content.json' ],
 			[ 'i18n/en_GB/messages/daysOfTheWeek.json', 'i18n/de_DE/messages/daysOfTheWeek.json' ],
 			[ 'i18n/en_GB/messages/mail.json', 'i18n/de_DE/messages/mail.json' ],
 			[ 'i18n/en_GB/messages/membershipTypes.json', 'i18n/de_DE/messages/membershipTypes.json' ],

@@ -1,0 +1,97 @@
+{
+	"title": "Wofür wird Ihre Spende verwendet?",
+	"summary": "Für eine organisatorisch und technisch stets verlässliche Wikipedia, heute und in Zukunft. Für freien Zugang zu umfassendem, vertrauenswürdigem Wissen immer und überall. Also für Sie – und alle Menschen weltweit.",
+	"callToAction": "Jetzt spenden",
+
+	"accordion": {
+		"items": [
+			{
+				"title": "Technik und IT in Deutschland",
+				"content": "Damit die Freiwilligen immer unter optimalen Bedingungen in Wikipedia & Co. arbeiten können, brauchen sie <strong>die beste technische Infrastruktur</strong>. Diese muss zudem einfach zu bedienen sein. Daher ist die Weiterentwicklung der Technik hinter den Projekten unser personell wie auch finanziell größter Aufgabenbereich. Dieses Engagement hat uns zum technischen Pionier der Bewegung für Freies Wissen gemacht."
+			},
+			{
+				"title": "Unterstützung der Freiwilligen",
+				"content": "Die Freiwilligen in unseren Projekten erhalten kein Geld, aber wir investieren viel in ihre Unterstützung. <strong>Wikimedia kommt da ins Spiel, wo freiwilliges Engagement allein nicht ausreicht:</strong> Wir organisieren z. B. Veranstaltungen, finanzieren Fachliteratur, ermöglichen Kooperationen oder stellen Fotoausrüstungen für die Bebilderung der Wikipedia zur Verfügung. Auch finanzieren wir in verschiedenen Städten in Deutschland lokale Räume für die Arbeit der Freiwilligen. Kurz: Wir sind für sie da, wo immer sie uns brauchen."
+			},
+			{
+				"title": "Weltweite Stärkung der Wikipedia-Projekte",
+				"content": "Wikipedia ist ein weltweites Projekt, mit mehr als 300 Sprachversionen. <strong>Die Sicherung und Weiterentwicklung der internationalen Aktivitäten</strong> erfordert daher unser beständiges finanzielles Engagement. Entscheidend ist eine leistungsfähige, datensparsame und sichere Technik. Wikimedia betreibt eigenständig weltweit sieben Serverfarmen, damit Wikipedia immer und überall schnell erreichbar ist und niemand Ihre Daten einsehen kann. Darüber hinaus helfen wir mit Zuschüssen, Rechtsbeistand und anderen Maßnahmen beim Aufbau lebendiger Gemeinschaften von Freiwilligen überall auf der Welt."
+			},
+			{
+				"title": "Operative Kosten",
+				"content": "Die Mitarbeitenden in unserer Geschäftsstelle in Berlin stellen sicher, dass unsere <strong>organisatorischen und finanziellen Prozesse</strong> zuverlässig funktionieren. Sie kümmern sich z. B. um die Bearbeitung der eingehenden Spenden und um die vielen unterschiedlichen Anliegen unserer Unterstützenden. Darüber hinaus beantworten sie die vielen Anfragen rund um unsere Projekte und sorgen dafür, dass diese in der Öffentlichkeit bekannter werden."
+			}
+		],
+		"summary": "Und das ist noch nicht alles: Wir arbeiten mit Kultureinrichtungen zusammen, sind Ansprechpartner für die Politik, engagieren uns auf europäischer Ebene und versuchen, noch mehr Freiwillige für unsere Projekte zu gewinnen. Immer mit dem Ziel: <strong>Mehr Freies Wissen zu schaffen – für uns alle!</strong>"
+	},
+
+	"benefits": {
+		"title": "Was Ihre Spende bewirkt",
+		"items": [
+			{
+				"icon": "hand",
+				"content": "Ihre Spende ist ein wichtiger Beitrag, um allen Menschen überall auf der Welt und zu jedem Zeitpunkt freien Zugang zu Wissen zu ermöglichen."
+			},
+			{
+				"icon": "smartphone",
+				"content": "Ihre Spende trägt dazu bei, die sichere, stabile Infrastruktur und einfache Bedienbarkeit von Wikipedia auch in Zukunft zu erhalten."
+			},
+			{
+				"icon": "world",
+				"content": "Ihre Spende unterstützt unsere Bemühungen, weltweit die Bildung regionaler Wikipedia-Communities zu fördern."
+			},
+			{
+				"icon": "megaphone",
+				"content": "Ihre Spende ist die wichtigste Einnahmequelle, die wir haben. Sie stellt sicher, dass Wikipedia auch weiterhin von Werbung, kommerziellen Interessen oder Drittmitteln unabhängig bleibt."
+			},
+			{
+				"icon": "twentyfourseven",
+				"content": "Ihre Spende ist nicht zuletzt der Beitrag, den Sie leisten, damit Wikipedia immer und überall für Sie persönlich da ist und in einzigartiger Breite Ihre Fragen beantworten kann."
+			}
+		]
+	},
+
+	"revenueComparison": {
+		"title": "Wie viel (oder wie wenig) wir brauchen",
+		"content": [
+			"Das Ziel unserer letzten Spendenkampagne betrug 9,3 Millionen €, ein wichtiger Teil der geplanten Gesamteinnahmen für das Jahr 2025. Das ist zweifelsohne viel Geld.",
+			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
+			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 900 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
+		],
+		"companies": {
+			"title": "Vergleich der Jahreseinnahmen (weltweit)",
+			"items": [
+				{
+					"name": "Google",
+					"budget": 306,
+					"budgetString": "306 Mrd. $",
+					"link": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/",
+					"linkText": "Quelle"
+				},
+				{
+					"name": "Amazon",
+					"budget": 575,
+					"budgetString": "575 Mrd. $",
+					"link": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/",
+					"linkText": "Quelle"
+				},
+				{
+					"name": "Facebook",
+					"budget": 135,
+					"budgetString": "135 Mrd. $",
+					"link": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/",
+					"linkText": "Quelle"
+				},
+				{
+					"name": "Wikipedia",
+					"budget": 0.21,
+					"budgetString": "0,21 Mrd. $",
+					"link": "",
+					"linkText": ""
+				}
+			]
+		}
+	},
+
+	"closingParagraph" : "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2024-2025\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2025\">Aktivitäten in Deutschland</a>."
+}
