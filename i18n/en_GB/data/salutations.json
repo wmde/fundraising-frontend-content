@@ -24,7 +24,7 @@
 		},
 		{
 			"label": "No Specification",
-			"value": "No Title",
+			"value": "",
 			"export_value": "divers",
 			"display": "",
 			"greetings" : {

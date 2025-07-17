@@ -24,7 +24,7 @@
 		},
 		{
 			"label": "Keine Angabe",
-			"value": "Divers",
+			"value": "",
 			"export_value": "divers",
 			"display": "",
 			"greetings" : {
