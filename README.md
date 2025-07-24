@@ -21,49 +21,66 @@ This is a repository for the textual content of the fundraising application.
 
 ## Extracting "Use of funds" content for banners
 
-> [!NOTE]
-> This is for the pre-2024 Use of Funds Content. Please see below for 2024 onwards.
+> [!Note]
+> Banners in [`wikipedia.de`](https://github.com/wmde/wikipedia.de-banners/) currently include the JSON directly.
 
-### Before 2024
+Banners on `wikipedia.org` (managed with 'CentralNotice') need the "Use of funds" content as data attributes in an HTML tag.
 
-Banners on wikipedia.org (managed with CentralNotice) need the "Use of
-funds" content (file `data/use_of_funds_content.json`) as data attributes
-in an HTML tag. You can extract the "use of funds" content with the script
-`bin/extract_to_mediawiki`. Follow these steps to for each language to
-make the content available for banners on CentralNotice. The banners will
-be able to include this content.
+First, make sure the source JSON files in `i18n/de_DE/data` and `i18n/en_GB/data` folder contain the latest changes. The source JSON files use the following filename convention: <br>
+`use_of_funds_content[_YYYY].json ` <br>
+e.g. `use_of_funds_content.json` or `use_of_funds_content_2025.json`
 
-1. Run the script to generate wikitext from the use of funds content.
-By default, the script will output the generated "Use of funds" MediaWiki page (in wikitext) to the standard output shell.
-In order to copy this output you can use shell pipes:
-```shell
-php bin/extract_to_mediawiki de | xclip -sel c 
-#or alternatively, to copy it with a text editor:
-php bin/extract_to_mediawiki en > tempOutput.txt
-```
-2. Go to the page for "use of funds" content on metaWiki. There are different pages (resources) for each year and each language:
-	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2023_DE
-	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2023_EN
-3. Edit the respective page and paste the output from step 1 and save the changes.
+Here, `_YYYY` is optional
 
-Banners in wikipedia.de currently include the JSON directly.
+The source JSON file without the `_YYYY` suffix will always exist. Sometimes, we are in a transition phase, where we have an *additional* source file with the suffix, with new and improved content. 
+During this transition phase, the [fundraising-application](https://github.com/wmde/fundraising-application/blob/6df3f6261981f0fd2582961f87db042eed6298cb/src/Factories/FunFunFactory.php#L438) links to either the file with or without the suffix. During that time, the content repository needs to contain both files, to support the content deployment independent of application deployment. 
+See section "[Clean up UoF source JSON file](#clean-up-uof-source-json-file)" to see what happens after the transition phase.
 
-### After 2024
+The following text explains how to generate the “Use of Funds” text for MediaWiki for both German and English language
+(using `bin/extract_to_mediawiki` script and `Composer` command).
 
-Banners on wikipedia.org (managed with CentralNotice) need the "Use of
-funds" content (file `data/use_of_funds_2024.json`) as data attributes
-in an HTML tag. You can extract the "use of funds" content with the script
-`bin/extract_to_mediawiki_2024`. Follow these steps to for each language to
-make the content available for banners on CentralNotice. The banners will
-be able to include this content.
+#### Composer command
 
-1. Run the script to generate the files: `composer run uof`. This will generate 2 files in the project root:
-   - `mediawiki_use_of_funds.de.txt`
-   - `mediawiki_use_of_funds.en.txt`
-2. Go to the page for "use of funds" content on metaWiki. There are different pages (resources) for each year and each language:
-	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2025_DE
-	* https://meta.wikimedia.org/wiki/MediaWiki:WMDE_Fundraising/UseOfFunds_2025_EN
-3. Edit the respective page and paste the output from step 1 and save the changes.
+- Default (no year): `composer uof`
+- With year: `composer uof -- [YYYY]`
+  -  e.g. `composer uof -- 2023`
+
+**Note**: The `--` ensures Composer forwards `YYYY` to each script entry
+
+#### File‑naming conventions
+
+| JSON source file                 | Output file                                                                      |
+|----------------------------------|----------------------------------------------------------------------------------|
+| use_of_funds_content.json        | 	mediawiki_use_of_funds_de.txt /<br/> mediawiki_use_of_funds_en.txt            |
+| use_of_funds_content_2025.json   | 	mediawiki_use_of_funds_de_2025.txt /<br/> mediawiki_use_of_funds_en_2025.txt  |
+
+The [Composer command](#composer-command) will only generate the files with the suffix `_YYYY` when you pass a year (`YYYY`) in.
+> [!TIP]
+> If you don't want to open the files in a text editor to copy them into MediaWiki, you can copy them directly to the clipboard with the following commands:<br/> `cat mediawiki_use_of_funds_de.txt | xclip -sel c` (Linux) and <br/> `cat mediawiki_use_of_funds_de.txt | pbcopy` (Mac)
+#### What is happening behind the scenes?
+
+#### Script: `bin/extract_to_mediawiki`
+
+- Default (no year): `php bin/extract_to_mediawiki <de|en>`
+  - `<de|en>`- which language folder to read (de_DE or en_GB).
+  - e.g. `php bin/extract_to_mediawiki de` Or `php bin/extract_to_mediawiki en`
+
+- With year: `php bin/extract_to_mediawiki <de|en> [YYYY]`
+  - `YYYY` (optional) - four‑digit year
+  - e.g. `php bin/extract_to_mediawiki de 2023` Or `php bin/extract_to_mediawiki en 2023`
+
+**Output:**
+It writes the output file in the repo's root: `mediawiki_use_of_funds_<lang>[_YYYY].txt`
+
+e.g. `mediawiki_use_of_funds_de.txt` / `mediawiki_use_of_funds_en.txt` Or <br>
+&emsp;&emsp;`mediawiki_use_of_funds_de_2025.txt` / `mediawiki_use_of_funds_en_2025.txt`
+
+## Clean up UoF source JSON file
+
+When the [fundraising-application](https://github.com/wmde/fundraising-application/) uses the "latest" UoF, it's time 
+ to clean up the duplicate UoF JSON file. Please follow the ticket below to achieve that:
+
+[Remove old UoF content and scripts from content repo](https://phabricator.wikimedia.org/T398431)
 
 ## FAQ 
 
