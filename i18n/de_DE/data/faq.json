@@ -98,13 +98,8 @@
 			"topic": "2"
 		},
 		{
-			"question": "Wie kann ich euch mit einer SMS unterstützen?",
-			"visible_text": "<p>Wenn Sie das Wort “WIKI” an die 81190 senden, dann werden automatisch 5 Euro zu Ihrer Handyrechnung hinzugefügt. Dabei gehen 4,83 Euro direkt an Wikimedia und 17 Cent erhält der Anbieter. Zusätzlich fallen Ihnen die Kosten einer Standard-SMS entsprechend den Konditionen Ihres Mobilfunkvertrags an. </p>Der Betrag wird nur einmal abgebucht, Sie gehen durch uns keine weiteren Verpflichtungen ein. Bitte beachten Sie, dass Zuwendungen per SMS steuerlich nicht als Spende abgesetzt werden können.",	
-			"topic": "3"
-		},
-		{
 			"question": "Kann ich auch mit anderen Zahlungsarten spenden?",
-			"visible_text": "<p>Leider Nein. Eine Spende via Bitcoin, ApplePay, GooglePay oder ähnlichem ist derzeit nicht möglich. Sie können uns per Überweisung, Lastschrift, PayPal, Sofort-Überweisung, SMS und Kreditkarte unterstützen.</p>",
+			"visible_text": "<p>Leider Nein. Eine Spende z.B. via SMS, Bitcoin, ApplePay, GooglePay oder ähnlichem ist derzeit nicht möglich. Sie können uns per Banküberweisung, Lastschrift, PayPal und Kreditkarte unterstützen.</p>",
 			"topic": "3"
 		},
 		{
