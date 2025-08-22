@@ -98,13 +98,8 @@
 			"topic": "2"
 		},
 		{
-			"question": "How can I support you via text message?",
-			"visible_text": "For sending the word “WIKI” to the number 81190 your mobile service provider charges your phone bill with 5 euros. Most of that (4,83 euros) will directly go to Wikimedia and 17 cents will be kept by your net provider. Additionally you’ll have to pay the costs for a standard text message according to your mobile phone contract.The amount will be deducted only once and there will be no additional commitment attached. Please note that a donation via text message is not tax-relevant.",
-			"topic": "3"
-		},
-		{
 			"question": "Can I donate using other payment methods?",
-			"visible_text": "Sadly not. A donation via bitcoin, ApplePay, GooglePay or others is not possible at the moment. You can choose between bank transfer, direct debit, PayPal, text message and credit card.",
+			"visible_text": "Sadly not. A donation via text message, bitcoin, ApplePay, GooglePay or others is not possible at the moment. You can choose between bank transfer, direct debit, PayPal and credit card.",
 			"topic": "3"
 		},
 		{
