@@ -539,5 +539,18 @@
   "donation_form_summary_bic": "BIC:",
   "donation_form_summary_bank_name": "Bankname:",
   "address_salutation_academic_title": "{salutation} {title}",
-  "address_salutation_no_academic_title": "{salutation}"
+  "address_salutation_no_academic_title": "{salutation}",
+  "form_summary_title": "Zusammenfassung",
+  "membership_form_summary_thanks_headline": "Vielen Dank für Ihr Engagement!",
+  "membership_form_summary_headline": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V. und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong>",
+  "form_summary_contact_details_header": "Ihre Kontaktdaten",
+  "form_summary_bank_details_header": "Ihre Bankverbindung",
+  "form_summary_iban": "IBAN:",
+  "form_summary_bic": "BIC:",
+  "form_summary_bank_name": "Bankname:",
+  "form_payment_interval_0": "einmalig",
+  "form_payment_interval_1": "monatlich",
+  "form_payment_interval_3": "vierteljährlich",
+  "form_payment_interval_6": "halbjährlich",
+  "form_payment_interval_12": "jährlich"
 }

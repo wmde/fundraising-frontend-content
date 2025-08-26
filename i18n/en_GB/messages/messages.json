@@ -543,5 +543,18 @@
   "donation_form_summary_bic": "BIC:",
   "donation_form_summary_bank_name": "Bank name:",
   "address_salutation_academic_title": "{title}",
-  "address_salutation_no_academic_title": "{salutation}"
+  "address_salutation_no_academic_title": "{salutation}",
+  "form_summary_title": "Summary",
+  "membership_form_summary_thanks_headline": "Thank you for your sponsorship!",
+  "membership_form_summary_headline": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V. and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong>",
+  "form_summary_contact_details_header": "Your Contact Data",
+  "form_summary_bank_details_header": "Your Bank Details",
+  "form_summary_iban": "IBAN:",
+  "form_summary_bic": "BIC:",
+  "form_summary_bank_name": "Bank name:",
+  "form_payment_interval_0": "single payment",
+  "form_payment_interval_1": "monthly",
+  "form_payment_interval_3": "quarterly",
+  "form_payment_interval_6": "twice yearly",
+  "form_payment_interval_12": "annually"
 }
