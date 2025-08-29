@@ -524,6 +524,8 @@
   "faq_page_title": "FAQ",
   "membership_application_confirmation_page_title": "Membership Application Confirmation",
   "membership_application_page_title": "Membership Application Form",
+  "membership_fee_upgrade_page_headline": "Adjust membership fee",
+  "membership_fee_upgrade_submit_button": "Confirm",
   "page_not_found_page_title": "Page Not Found",
   "subscription_confirmation_page_title": "Subscription Confirmation",
   "system_message_page_title": "System Message",

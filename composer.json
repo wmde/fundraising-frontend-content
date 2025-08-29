@@ -29,8 +29,8 @@
             "@test"
         ],
         "uof": [
-            "php bin/extract_to_mediawiki de > mediawiki_use_of_funds.de.txt",
-            "php bin/extract_to_mediawiki en > mediawiki_use_of_funds.en.txt"
+            "php bin/extract_to_mediawiki de",
+            "php bin/extract_to_mediawiki en"
         ],
         "test": [
             "vendor/bin/phpunit"
