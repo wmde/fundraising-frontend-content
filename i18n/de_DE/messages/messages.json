@@ -522,7 +522,7 @@
   "membership_application_page_title": "Mitglied werden",
 
   "membership_fee_upgrade_page_title": "Mitgliedschaftsbeitrag anpassen",
-	"membership_fee_upgrade_page_headline": "Ich erhöhe meinen {{currentInterval}}en Mitgliedsbeitrag:",
+	"membership_fee_upgrade_page_headline": "Ich erhöhe meinen {currentInterval}en Mitgliedsbeitrag:",
   "membership_fee_upgrade_submit_button": "Beitragsänderung abschicken",
   "membership_fee_upgrade_amount_suggestion_label": "Empfehlung:",
 	"membership_fee_upgrade_custom_amount_label": "Anderer Betrag:",

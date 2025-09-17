@@ -526,7 +526,7 @@
   "membership_application_page_title": "Membership Application Form",
 
 	"membership_fee_upgrade_page_title": "Change your membership fee",
-	"membership_fee_upgrade_page_headline": "I will change my {{currentInterval}} membership fee:",
+	"membership_fee_upgrade_page_headline": "I will change my {currentInterval} membership fee:",
 	"membership_fee_upgrade_submit_button": "Submit",
 	"membership_fee_upgrade_amount_suggestion_label": "Suggestion:",
 	"membership_fee_upgrade_custom_amount_label": "Other amount:",
