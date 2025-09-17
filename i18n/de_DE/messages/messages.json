@@ -535,7 +535,7 @@
 	"membership_fee_upgrade_sidebar_headline": "Ihre Mitgliedsnummer:",
 
 	"membership_fee_upgrade_confirmation_headline": "Herzlichen Dank für Ihre Erhöhung",
-	"membership_fee_upgrade_confirmation_summary_box": "Ab sofort stärken Sie uns mit: {currentInterval} {amountInEuro} Euro",
+	"membership_fee_upgrade_confirmation_summary_box": "Ab sofort stärken Sie uns mit:",
 	"membership_fee_upgrade_confirmation_text": "Ihre Bestätigung ist auf dem Weg zu Ihnen.\n In 1-2 Tagen sollte sie bei Ihnen im Briefkasten liegen.",
 
 	"membership_fee_upgrade_returning_page_headline": "Sie haben bereits einen großartigen Beitrag geleistet - Vielen Dank!",
