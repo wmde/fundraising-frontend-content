@@ -530,7 +530,7 @@
 	"membership_fee_upgrade_submit_button": "Submit",
 	"membership_fee_upgrade_amount_suggestion_label": "Suggestion:",
 	"membership_fee_upgrade_custom_amount_label": "Other amount:",
-	"membership_fee_upgrade_custom_amount_placeholder": "e.g. €42",
+	"membership_fee_upgrade_custom_amount_placeholder": "e.g. 42",
 	"membership_fee_upgrade_member_name_label": "Full name (to confirm):",
 	"membership_fee_upgrade_member_name_error_message": "Please enter your full name.",
 

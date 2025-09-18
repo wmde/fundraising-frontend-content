@@ -526,7 +526,7 @@
   "membership_fee_upgrade_submit_button": "Beitragsänderung abschicken",
   "membership_fee_upgrade_amount_suggestion_label": "Empfehlung:",
 	"membership_fee_upgrade_custom_amount_label": "Anderer Betrag:",
-	"membership_fee_upgrade_custom_amount_placeholder": "z.B. 42 €",
+	"membership_fee_upgrade_custom_amount_placeholder": "z.B. 42",
 	"membership_fee_upgrade_member_name_label": "Vor- und Nachname (zur Bestätigung):",
 	"membership_fee_upgrade_member_name_error_message": "Bitte geben Sie ihren vollen Namen an.",
 
