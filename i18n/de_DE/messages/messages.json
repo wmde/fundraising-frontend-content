@@ -528,7 +528,7 @@
 	"membership_fee_upgrade_custom_amount_label": "Anderer Betrag:",
 	"membership_fee_upgrade_custom_amount_placeholder": "z.B. 42",
 	"membership_fee_upgrade_member_name_label": "Vor- und Nachname (zur Bestätigung):",
-	"membership_fee_upgrade_member_name_error_message": "Bitte geben Sie ihren vollen Namen an.",
+	"membership_fee_upgrade_member_name_error_message": "Bitte geben Sie Ihren vollen Namen an.",
 
 	"membership_fee_upgrade_iban_changed_headline": "Hat sich Ihre IBAN geändert?",
 	"membership_fee_upgrade_iban_changed_label": "Meine neue IBAN lautet:",
