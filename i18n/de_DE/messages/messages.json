@@ -520,9 +520,31 @@
   "faq_page_title": "Häufige Fragen",
   "membership_application_confirmation_page_title": "Mitgliedschaftsantrag bestätigt",
   "membership_application_page_title": "Mitglied werden",
-  "membership_fee_upgrade_page_headline": "Mitgliedschaftsbeitrag anpassen",
+
+  "membership_fee_upgrade_page_title": "Mitgliedschaftsbeitrag anpassen",
+	"membership_fee_upgrade_page_headline": "Ich erhöhe meinen {currentInterval}en Mitgliedsbeitrag:",
   "membership_fee_upgrade_submit_button": "Beitragsänderung abschicken",
-  "page_not_found_page_title": "Seite nicht gefunden",
+  "membership_fee_upgrade_amount_suggestion_label": "Empfehlung:",
+	"membership_fee_upgrade_custom_amount_label": "Anderer Betrag:",
+	"membership_fee_upgrade_custom_amount_placeholder": "z.B. 42",
+	"membership_fee_upgrade_member_name_label": "Vor- und Nachname (zur Bestätigung):",
+	"membership_fee_upgrade_member_name_error_message": "Bitte geben Sie Ihren vollen Namen an.",
+
+	"membership_fee_upgrade_iban_changed_headline": "Hat sich Ihre IBAN geändert?",
+	"membership_fee_upgrade_iban_changed_label": "Meine neue IBAN lautet:",
+	"membership_fee_upgrade_sidebar_headline": "Ihre Mitgliedsnummer:",
+
+	"membership_fee_upgrade_confirmation_headline": "Herzlichen Dank für Ihre Erhöhung",
+	"membership_fee_upgrade_confirmation_summary_box": "Ab sofort stärken Sie uns mit:",
+	"membership_fee_upgrade_confirmation_text": "Ihre Bestätigung ist auf dem Weg zu Ihnen.\n In 1-2 Tagen sollte sie bei Ihnen im Briefkasten liegen.",
+
+	"membership_fee_upgrade_returning_page_headline": "Sie haben bereits einen großartigen Beitrag geleistet - Vielen Dank!",
+	"membership_fee_upgrade_returning_page_text": "Eine weitere Erhöhung ist aktuell nicht möglich.",
+
+	"membership_fee_upgrade_error_page_headline": "Die angeforderte Seite kann nicht angezeigt werden",
+	"membership_fee_upgrade_error_page_text": "Gerne helfen wir Ihnen persönlich, bitte kontaktieren Sie uns über unser Kontaktformular oder rufen Sie uns an.",
+
+	"page_not_found_page_title": "Seite nicht gefunden",
   "subscription_confirmation_page_title": "E-Mail-Adresse bestätigt",
   "system_message_page_title": "Systemmeldung",
   "update_address_page_title": "Adresse aktualisieren",

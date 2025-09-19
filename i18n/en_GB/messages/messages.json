@@ -524,8 +524,30 @@
   "faq_page_title": "FAQ",
   "membership_application_confirmation_page_title": "Membership Application Confirmation",
   "membership_application_page_title": "Membership Application Form",
-  "membership_fee_upgrade_page_headline": "Adjust membership fee",
-  "membership_fee_upgrade_submit_button": "Confirm",
+
+	"membership_fee_upgrade_page_title": "Change your membership fee",
+	"membership_fee_upgrade_page_headline": "I will change my {currentInterval} membership fee:",
+	"membership_fee_upgrade_submit_button": "Submit",
+	"membership_fee_upgrade_amount_suggestion_label": "Suggestion:",
+	"membership_fee_upgrade_custom_amount_label": "Other amount:",
+	"membership_fee_upgrade_custom_amount_placeholder": "e.g. 42",
+	"membership_fee_upgrade_member_name_label": "Full name (to confirm):",
+	"membership_fee_upgrade_member_name_error_message": "Please enter your full name.",
+
+	"membership_fee_upgrade_iban_changed_headline": "Would you like to change your IBAN?",
+	"membership_fee_upgrade_iban_changed_label": "My new IBAN is:",
+	"membership_fee_upgrade_sidebar_headline": "Your membership ID:",
+
+	"membership_fee_upgrade_confirmation_headline": "Thank you for upgrading your fee",
+	"membership_fee_upgrade_confirmation_summary_box": "Ab sofort stärken Sie uns mit:",
+	"membership_fee_upgrade_confirmation_text": "Ihre Bestätigung ist auf dem Weg zu Ihnen.\n In 1-2 Tagen sollte sie bei Ihnen im Briefkasten liegen.",
+
+	"membership_fee_upgrade_returning_page_headline": "Sie haben bereits einen großartigen Beitrag geleistet - Vielen Dank!",
+	"membership_fee_upgrade_returning_page_text": "Eine weitere Erhöhung ist aktuell nicht möglich.",
+
+	"membership_fee_upgrade_error_page_headline": "Die angeforderte Seite kann nicht angezeigt werden",
+	"membership_fee_upgrade_error_page_text": "Gerne helfen wir Ihnen persönlich, bitte kontaktieren Sie uns über unser Kontaktformular oder rufen Sie uns an.",
+
   "page_not_found_page_title": "Page Not Found",
   "subscription_confirmation_page_title": "Subscription Confirmation",
   "system_message_page_title": "System Message",
