@@ -539,14 +539,14 @@
 	"membership_fee_upgrade_sidebar_headline": "Your membership ID:",
 
 	"membership_fee_upgrade_confirmation_headline": "Thank you for upgrading your fee",
-	"membership_fee_upgrade_confirmation_summary_box": "Ab sofort stärken Sie uns mit:",
-	"membership_fee_upgrade_confirmation_text": "Ihre Bestätigung ist auf dem Weg zu Ihnen.\n In 1-2 Tagen sollte sie bei Ihnen im Briefkasten liegen.",
+	"membership_fee_upgrade_confirmation_summary_box": "From now on, you will support us with:",
+	"membership_fee_upgrade_confirmation_text": "As soon as we have changed your fee in our database, you will receive a confirmation via email.",
 
-	"membership_fee_upgrade_returning_page_headline": "Sie haben bereits einen großartigen Beitrag geleistet - Vielen Dank!",
-	"membership_fee_upgrade_returning_page_text": "Eine weitere Erhöhung ist aktuell nicht möglich.",
+	"membership_fee_upgrade_returning_page_headline": "You have already made a great contribution - thank you!",
+	"membership_fee_upgrade_returning_page_text": "A further increase is currently not possible.",
 
-	"membership_fee_upgrade_error_page_headline": "Die angeforderte Seite kann nicht angezeigt werden",
-	"membership_fee_upgrade_error_page_text": "Gerne helfen wir Ihnen persönlich, bitte kontaktieren Sie uns über unser Kontaktformular oder rufen Sie uns an.",
+	"membership_fee_upgrade_error_page_headline": "The requested page cannot be displayed",
+	"membership_fee_upgrade_error_page_text": "We would be happy to help you personally. Please contact us using our contact form or give us a call.",
 
   "page_not_found_page_title": "Page Not Found",
   "subscription_confirmation_page_title": "Subscription Confirmation",
