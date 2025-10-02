@@ -77,9 +77,9 @@
   "contact_form_topic_5": "Change my bank details",
   "contact_form_topic_6": "Questions about my membership/donation",
   "contact_form_topic_7": "Other matters",
-  "contact_form_topic_label": "Subject",
+  "contact_form_topic_label": "Topic",
   "contact_form_topic_placeholder": "Please select a topic",
-  "contact_form_topic_error": "Please select a topic.",
+  "contact_form_topic_error": "You must select a topic.",
 
   "donation_comment_popup_title": "Leave a donation comment",
   "donation_comment_popup_explanation": "If you like, please tell us the reason for your donation. How are you involved with Wikipedia? Your story helps to illustrate Wikipedia's significance for millions of people who use the site every day.",

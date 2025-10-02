@@ -77,9 +77,9 @@
   "contact_form_topic_5": "Änderung meiner Bankverbindung",
   "contact_form_topic_6": "Fragen zu meiner Mitgliedschaft/Spende",
   "contact_form_topic_7": "Sonstiges",
-  "contact_form_topic_label": "Betreff",
+  "contact_form_topic_label": "Thema",
   "contact_form_topic_placeholder": "Bitte wählen Sie ein Thema aus",
-  "contact_form_topic_error": "Bitte wählen Sie ein Thema aus.",
+  "contact_form_topic_error": "Sie müssen ein Thema auswählen.",
 
   "donation_comment_popup_title": "Spendenkommentar schreiben",
   "donation_comment_popup_explanation": "Erzählen Sie, warum Sie gespendet haben. Was verbindet Sie mit Wikipedia? Ihre Geschichte hilft uns, den Millionen Menschen, die Wikipedia täglich nutzen, die Bedeutung Wikipedias zu veranschaulichen.",
