@@ -348,6 +348,7 @@
   "donation_form_street_name_list_label": "Street names",
   "donation_form_building_number_error": "Please enter a building number.",
   "donation_form_building_number_label": "Building number",
+  "donation_form_building_number_label_short": "No",
   "donation_form_building_number_placeholder": "99a",
   "donation_form_summary_external_payment": "After selecting \"Donate now\", you will be transferred to the website of our payment service provider.",
   "donation_form_summary_bank_transfer_payment": "After selecting \"Donate now\", we will provide you with our account details and an individual reference code for your bank transfer.",
@@ -368,6 +369,8 @@
   "donation_form_iban_calculator_result_bic": "BIC:",
   "donation_form_iban_calculator_result_bank_name": "Bank Name:",
   "donation_form_iban_calculator_result_cta": "Would you like to use it?",
+
+  "donation_form_behalf_of_company": "I'm donating on behalf of a company",
 
   "donation_rejected_limit": "You donated very recently. To avoid accidental repeat donations, you can only donate approximately once every 30 minutes.",
 
