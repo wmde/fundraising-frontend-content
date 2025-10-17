@@ -370,6 +370,7 @@
   "donation_form_iban_calculator_result_bank_name": "Bank Name:",
   "donation_form_iban_calculator_result_cta": "Would you like to use it?",
 
+  "donation_form_last_step": "One last step – then you're finished.",
   "donation_form_behalf_of_company": "I'm donating on behalf of a company",
 
   "donation_rejected_limit": "You donated very recently. To avoid accidental repeat donations, you can only donate approximately once every 30 minutes.",
