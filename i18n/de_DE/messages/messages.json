@@ -337,7 +337,7 @@
   "donation_form_section_overview_title": "Übersicht",
   "donation_form_street_error": "Bitte geben Sie eine Straße an.",
   "donation_form_street_label": "Straße und Hausnummer",
-  "donation_form_street_number_warning": "Wir haben hier eine Hausnummer erwartet. Falls diese noch fehlt, ergänzen Sie bitte Ihre Eingabe.",
+  "donation_form_street_number_warning": "Hausnummer vielleicht vergessen?",
   "donation_form_street_placeholder": "Musterstraße 12",
   "donation_form_street_placeholder_warning": "Sind Sie sich sicher, dass Sie in der {value} wohnen?",
   "donation_form_street_name_label": "Straße",

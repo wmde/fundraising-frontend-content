@@ -340,7 +340,7 @@
   "donation_form_section_overview_title": "Summary",
   "donation_form_street_error": "Please enter a street.",
   "donation_form_street_label": "Street name and number",
-  "donation_form_street_number_warning": "If applicable, please provide a street number here.",
+  "donation_form_street_number_warning": "Did you forget your street number?",
   "donation_form_street_placeholder": "Main Street 12",
   "donation_form_street_placeholder_warning": "Are you sure you live in {value}?",
   "donation_form_street_name_label": "Street name",
