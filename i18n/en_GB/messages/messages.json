@@ -375,6 +375,13 @@
 
   "donation_rejected_limit": "You donated very recently. To avoid accidental repeat donations, you can only donate approximately once every 30 minutes.",
 
+  "compact_donation_form_payment_heading": "In Brief",
+  "compact_donation_form_payment_blurb": "Your donation helps keep free knowledge accessible to everyone. Thank you!",
+  "compact_donation_form_name_heading": "Name & Email",
+  "compact_donation_form_name_blurb": "Almost there.",
+  "compact_donation_form_other_info_heading": "Further Information",
+  "compact_donation_form_other_info_blurb": "One last step – then everything is complete.",
+
   "errors_summary_title": "Please correct the errors in the form",
 
   "error_page_header": "Unfortunately, an error has occurred.",
