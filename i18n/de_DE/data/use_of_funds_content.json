@@ -63,22 +63,22 @@
 			"items": [
 				{
 					"name": "Google",
-					"budget": 306,
-					"budgetString": "306 Mrd. $",
+					"budget": 348,
+					"budgetString": "348 Mrd. $",
 					"link": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/",
 					"linkText": "Quelle"
 				},
 				{
 					"name": "Amazon",
-					"budget": 575,
-					"budgetString": "575 Mrd. $",
+					"budget": 637,
+					"budgetString": "637 Mrd. $",
 					"link": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/",
 					"linkText": "Quelle"
 				},
 				{
 					"name": "Facebook",
-					"budget": 135,
-					"budgetString": "135 Mrd. $",
+					"budget": 164,
+					"budgetString": "164 Mrd. $",
 					"link": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/",
 					"linkText": "Quelle"
 				},
