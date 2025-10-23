@@ -52,9 +52,9 @@
 	},
 
 	"revenueComparison": {
-		"title": "Wie viel (oder wie wenig) wir brauchen",
+		"title": "Warum wir nur 8.000.000 € brauchen",
 		"content": [
-			"Das Ziel unserer letzten Spendenkampagne betrug 9,3 Millionen €, ein wichtiger Teil der geplanten Gesamteinnahmen für das Jahr 2025. Das ist zweifelsohne viel Geld.",
+			"Unser Spendenziel von 8,0 Millionen € ist ein wichtiger Teil unserer für das Jahr 2025 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
 			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
 			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, alle Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 900 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
 		],
@@ -63,22 +63,22 @@
 			"items": [
 				{
 					"name": "Google",
-					"budget": 306,
-					"budgetString": "306 Mrd. $",
+					"budget": 348,
+					"budgetString": "348 Mrd. $",
 					"link": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/",
 					"linkText": "Quelle"
 				},
 				{
 					"name": "Amazon",
-					"budget": 575,
-					"budgetString": "575 Mrd. $",
+					"budget": 637,
+					"budgetString": "637 Mrd. $",
 					"link": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/",
 					"linkText": "Quelle"
 				},
 				{
 					"name": "Facebook",
-					"budget": 135,
-					"budgetString": "135 Mrd. $",
+					"budget": 164,
+					"budgetString": "164 Mrd. $",
 					"link": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/",
 					"linkText": "Quelle"
 				},

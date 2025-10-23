@@ -340,7 +340,7 @@
   "donation_form_section_overview_title": "Summary",
   "donation_form_street_error": "Please enter a street.",
   "donation_form_street_label": "Street name and number",
-  "donation_form_street_number_warning": "If applicable, please provide a street number here.",
+  "donation_form_street_number_warning": "Did you forget your street number?",
   "donation_form_street_placeholder": "Main Street 12",
   "donation_form_street_placeholder_warning": "Are you sure you live in {value}?",
   "donation_form_street_name_label": "Street name",
@@ -348,7 +348,7 @@
   "donation_form_street_name_list_label": "Street names",
   "donation_form_building_number_error": "Please enter a building number.",
   "donation_form_building_number_label": "Building number",
-  "donation_form_building_number_label_short": "No",
+  "donation_form_building_number_label_short": "Nr.",
   "donation_form_building_number_placeholder": "99a",
   "donation_form_summary_external_payment": "After selecting \"Donate now\", you will be transferred to the website of our payment service provider.",
   "donation_form_summary_bank_transfer_payment": "After selecting \"Donate now\", we will provide you with our account details and an individual reference code for your bank transfer.",
@@ -374,6 +374,13 @@
   "donation_form_behalf_of_company": "I'm donating on behalf of a company",
 
   "donation_rejected_limit": "You donated very recently. To avoid accidental repeat donations, you can only donate approximately once every 30 minutes.",
+
+  "compact_donation_form_payment_heading": "In Brief",
+  "compact_donation_form_payment_blurb": "Your donation helps strengthen free access to knowledge. Thank you!",
+  "compact_donation_form_name_heading": "Name & E-Mail",
+  "compact_donation_form_name_blurb": "Almost there.",
+  "compact_donation_form_other_info_heading": "Further Information",
+  "compact_donation_form_other_info_blurb": "One last step – then everything is complete.",
 
   "errors_summary_title": "Please correct the errors in the form",
 

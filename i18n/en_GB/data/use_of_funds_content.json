@@ -52,9 +52,9 @@
 	},
 
 	"revenueComparison": {
-		"title": "How much (or how little) we need",
+		"title": "Why we only need €8,000,000 ",
 		"content": [
-			"Our goal of the last fundraising campaign was to reach €9.3 million in donations, an important part of our total planned revenue for 2025. Without a doubt, this is a lot of money.",
+			"Our goal to reach €8.0 million in donations is an important part of our total planned revenue for 2025. Without a doubt, this is a lot of money.",
 			"However, if you consider that Wikipedia ranks as the fifth most visited website worldwide, this figure is put into perspective. Because compared to other top websites, we only need an extraordinarily small budget to cover our running costs and for investments into the future. The only reason why this is possible is because Wikipedia does not pursue a “business model”, all contributions to Wikipedia are written by volunteers and we only have around 900 members of staff worldwide. In addition, we are a non-profit organization, which obliges us to handle our revenue responsibly and efficiently."
 		],
 		"companies": {
@@ -62,22 +62,22 @@
 			"items": [
 				{
 					"name": "Google",
-					"budget": 306,
-					"budgetString": "$306b",
+					"budget": 348,
+					"budgetString": "$348b",
 					"link": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/",
 					"linkText": "Source"
 				},
 				{
 					"name": "Amazon",
-					"budget": 575,
-					"budgetString": "$575b",
+					"budget": 637,
+					"budgetString": "$637b",
 					"link": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/",
 					"linkText": "Source"
 				},
 				{
 					"name": "Facebook",
-					"budget": 135,
-					"budgetString": "$135b",
+					"budget": 164,
+					"budgetString": "$164b",
 					"link": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/",
 					"linkText": "Source"
 				},
@@ -92,5 +92,5 @@
 		}
 	},
 
-	"closingParagraph" : "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2025-2026\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2024/Budget_2024\">activities in Germany</a>."
+	"closingParagraph" : "The annual plans of Wikimedia Deutschland and the Wikimedia Foundation provide a detailed insight into our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2025-2026\">international activities</a> and our <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2025/en\",>activities in Germany</a>."
 }

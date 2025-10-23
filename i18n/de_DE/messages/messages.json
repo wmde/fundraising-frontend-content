@@ -337,7 +337,7 @@
   "donation_form_section_overview_title": "Übersicht",
   "donation_form_street_error": "Bitte geben Sie eine Straße an.",
   "donation_form_street_label": "Straße und Hausnummer",
-  "donation_form_street_number_warning": "Wir haben hier eine Hausnummer erwartet. Falls diese noch fehlt, ergänzen Sie bitte Ihre Eingabe.",
+  "donation_form_street_number_warning": "Hausnummer vielleicht vergessen?",
   "donation_form_street_placeholder": "Musterstraße 12",
   "donation_form_street_placeholder_warning": "Sind Sie sich sicher, dass Sie in der {value} wohnen?",
   "donation_form_street_name_label": "Straße",
@@ -345,7 +345,7 @@
   "donation_form_street_name_placeholder": "Musterstraße",
   "donation_form_building_number_error": "Bitte geben Sie eine Hausnummer an.",
   "donation_form_building_number_label": "Hausnummer",
-  "donation_form_building_number_label_short": "No",
+  "donation_form_building_number_label_short": "Nr.",
   "donation_form_building_number_placeholder": "99a",
   "donation_form_summary_external_payment": "Sie werden nach der Auswahl von „Jetzt spenden” auf die Seite unseres Zahlungsdienstleisters weitergeleitet.",
   "donation_form_summary_bank_transfer_payment": "Nach der Auswahl von „Jetzt spenden” erhalten Sie unsere Kontoverbindung sowie einen individuellen Verwendungszweck, die Sie für Ihre Überweisung benötigen.",
@@ -371,6 +371,13 @@
   "donation_form_behalf_of_company": "Ich spende als Firma",
 
   "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach gespendet wird.",
+
+  "compact_donation_form_payment_heading": "Kurz zusammengefasst",
+  "compact_donation_form_payment_blurb": "Ihre Spende stärkt den freien Zugang zu Wissen. Vielen Dank!",
+  "compact_donation_form_name_heading": "Name & E-Mail",
+  "compact_donation_form_name_blurb": "Fast geschafft.",
+  "compact_donation_form_other_info_heading": "Weitere Informationen",
+  "compact_donation_form_other_info_blurb": "Ein letzter Schritt – dann ist alles rund.",
 
   "errors_summary_title": "Bitte korrigieren Sie die Fehler im Formular",
 
