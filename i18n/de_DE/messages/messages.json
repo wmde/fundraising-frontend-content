@@ -304,7 +304,8 @@
   "donation_form_payment_bankdata_bank_bic_placeholder2": "wird nicht benötigt",
   "donation_form_payment_bankdata_bank_bic_placeholder_full": "Die BIC wird nicht benötigt",
   "donation_form_payment_bankdata_bank_legacy_label": "Bankleitzahl",
-  "donation_form_payment_bankdata_bank_legacy_placeholder": "z. B. 50012345",
+  "donation_form_payment_bankdata_bank_legacy_placeholder": "50012345",
+  "donation_form_payment_bankdata_bank_account_number_legacy_placeholder": "0137075030",
   "donation_form_payment_bankdata_error": "Könnten Sie bitte Ihre Kontodaten überprüfen? Da scheint es einen Fehler zu geben.",
   "donation_form_payment_interval_0": "einmalig",
   "donation_form_payment_interval_1": "monatlich",
@@ -402,7 +403,7 @@
   "membership_confirmation_cancel_button": "Mitgliedschaft stornieren",
 
   "membership_form_birth_date_label": "Geburtsdatum (optional)",
-  "membership_form_birth_date_placeholder": "z. B. 25.03.1986",
+  "membership_form_birth_date_placeholder": "25.03.1986",
   "membership_form_birth_date_help_text": "Bitte im Format tt.mm.jjjj eingeben",
   "membership_form_birth_date_error": "Bitte überprüfen Sie das Geburtsdatum. Es muss im Format Tag.Monat.Jahr (tt.mm.jjjj) angegeben werden.",
   "membership_form_finalize": "Jetzt Mitglied werden",

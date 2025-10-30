@@ -307,7 +307,8 @@
   "donation_form_payment_bankdata_bank_bic_placeholder2": "not required",
   "donation_form_payment_bankdata_bank_bic_placeholder_full": "BIC is not required",
   "donation_form_payment_bankdata_bank_legacy_label": "Bank code",
-  "donation_form_payment_bankdata_bank_legacy_placeholder": "e.g., 50012345",
+  "donation_form_payment_bankdata_bank_legacy_placeholder": "50012345",
+  "donation_form_payment_bankdata_bank_account_number_legacy_placeholder": "0137075030",
   "donation_form_payment_bankdata_error": "Please review your bank details.",
   "donation_form_payment_interval_0": "single payment",
   "donation_form_payment_interval_1": "monthly",
@@ -405,7 +406,7 @@
   "membership_confirmation_cancel_button": "Cancel membership",
 
   "membership_form_birth_date_label": "Date of birth (optional)",
-  "membership_form_birth_date_placeholder": "e.g., 25/03/1986",
+  "membership_form_birth_date_placeholder": "25/03/1986",
   "membership_form_birth_date_help_text": "Please enter in the format dd/mm/yyyy",
   "membership_form_birth_date_error": "Please check your date of birth. It should be entered in the format day/month/year (dd/mm/yyyy).",
   "membership_form_finalize": "Become a member now",
@@ -544,7 +545,7 @@
 	"membership_fee_upgrade_submit_button": "Submit",
 	"membership_fee_upgrade_amount_suggestion_label": "Suggestion:",
 	"membership_fee_upgrade_custom_amount_label": "Other amount:",
-	"membership_fee_upgrade_custom_amount_placeholder": "e.g. 42",
+	"membership_fee_upgrade_custom_amount_placeholder": "42",
 	"membership_fee_upgrade_member_name_label": "Full name (to confirm):",
 	"membership_fee_upgrade_member_name_error_message": "Please enter your full name.",
 
