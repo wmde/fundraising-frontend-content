@@ -54,9 +54,9 @@
 	"revenueComparison": {
 		"title": "Warum wir nur 8.000.000 € brauchen",
 		"content": [
-			"Unser Spendenziel von 8,0 Millionen € ist ein wichtiger Teil unserer für das Jahr 2025 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
+			"Unser Spendenziel von 8,0 Millionen € ist ein wichtiger Teil unserer für das Jahr 2026 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
 			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
-			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt, die Beiträge in Wikipedia ehrenamtlich erstellt werden und wir weltweit nur rund 900 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
+			"Dies ist allein deshalb möglich, weil Wikipedia kein „Geschäftsmodell“ verfolgt. Das Projekt wird ehrenamtlich erstellt, während wir als Organisation dahinter weltweit nur rund 900 Mitarbeitende haben. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
 		],
 		"companies": {
 			"title": "Vergleich der Jahreseinnahmen (weltweit)",
@@ -93,5 +93,5 @@
 		}
 	},
 
-	"closingParagraph" : "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2025-2026\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2025\">Aktivitäten in Deutschland</a>."
+	"closingParagraph" : "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2025-2026\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2026\">Aktivitäten in Deutschland</a>."
 }
