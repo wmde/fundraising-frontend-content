@@ -370,6 +370,8 @@
 
   "donation_form_last_step": "Ein letzter Schritt – dann ist alles rund.",
   "donation_form_behalf_of_company": "Ich spende als Firma",
+  "donation_form_optional_address_message": "Wenn du eine Adresse angibst, dann bitte vollständig - sonst können wir sie nicht speichern.",
+  "donation_form_clear_all_address": "Alles löschen",
 
   "donation_rejected_limit": "Sie haben vor sehr kurzer Zeit bereits gespendet. Bitte warten Sie ca. 30 Minuten. Damit wollen wir sicherstellen, dass nicht aus Versehen mehrfach gespendet wird.",
 
