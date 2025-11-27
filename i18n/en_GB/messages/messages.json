@@ -31,6 +31,7 @@
 
   "back_to_donation_summary": "Back to donation summary",
 
+  "bank_data_title_new_prefix": "New",
   "bank_data_title": "Donation Account",
   "bank_data_account_number": "Account number",
   "bank_data_account_owner": "Account holder",
@@ -373,6 +374,8 @@
 
   "donation_form_last_step": "One last step – then you're finished.",
   "donation_form_behalf_of_company": "I'm donating on behalf of a company",
+  "donation_form_optional_address_message": "If you want to enter an address you must fill out all fields, otherwise we will not be able to save it.",
+  "donation_form_clear_all_address": "Clear address",
 
   "donation_rejected_limit": "You donated very recently. To avoid accidental repeat donations, you can only donate approximately once every 30 minutes.",
 
