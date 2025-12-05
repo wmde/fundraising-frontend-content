@@ -3,4 +3,5 @@ vendor/
 secrets.txt
 tempOutput*.txt
 .phpunit.result.cache
-mediawiki_use_of_funds*
+use-of-funds*
+thank-you*

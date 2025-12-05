@@ -1,0 +1,42 @@
+{
+	"mini-thank-you": "Danke!",
+	"mini-message" : "Rund 317.000 Menschen haben in den letzten Wochen gespendet und Wikipedia ihre Wertschätzung erwiesen. Ihnen allen danken wir von ganzem Herzen!",
+	"mini-button" : "Was Sie bewirken",
+	"close" : "schließen",
+	"read-more" : "Weiterlesen",
+	"read-less" : "Weniger lesen",
+	"photo-credit" : "Foto: Jason Krüger für Wikimedia Deutschland / Portrait - 2334545",
+	"more-info" : "Weitere Informationen auf unserer Webseite",
+	"use-of-funds" : "Was Ihre Spende bewirkt",
+	"main-message-title": "Danke!",
+	"main-message-content": "Sie alle haben Wikipedia in diesen bewegten Zeiten den Rücken gestärkt – ob Sie nun gespendet oder mit dem Lesen von Artikeln die ungebrochene Relevanz dieses einzigartigen Projektes bewiesen haben! Ein kraftvolles Signal für unabhängiges und verlässliches Wissen, gerade zum bevorstehenden 25. Geburtstag von Wikipedia.",
+	"main-message-name": "Ihre Franziska Heine",
+	"main-message-position": "Geschäftsführende Vorständin Wikimedia Deutschland e. V.",
+	"knowledge-title": "Wissen ist menschlich.",
+	"knowledge-subtitle": "In Zeiten von KI und Desinformation braucht Wissen Schutz – durch Menschen, nicht Maschinen.",
+	"knowledge-content": [
+		"In wenigen Tagen wird Wikipedia 25. Wir feiern die vielen Freiwilligen, die seither die größte Enzyklopädie aller Zeiten geschaffen haben. In ihrer Freizeit schreiben und pflegen sie Millionen von Artikeln: gemeinschaftlich und nach festen Regeln. Der Neutralität verpflichtet, auf Fakten gestützt und mit Quellen belegt. Dafür steht die Wikipedia seit ihrer Gründung. Es sind echte Menschen, deren Arbeit wir vertrauen können – weil sie transparent und überprüfbar ist.",
+		"Heute verändert sich die Suche nach Wissen durch KI-Chatbots grundlegend. Auch wenn sie verlässlich erscheinen, sind sie Maschinen ohne Bewusstsein für richtig und falsch. Bei dem, was sie als Fakten und Wissen ausgeben, ist immer Vorsicht geboten. Wie auch gegenüber jenen, die sie als Geschäftsmodell betreiben. Solchen Algorithmen und ihren Besitzern mit eigenen Interessen dürfen wir das Wissen der Menschheit nicht überlassen. Mehr denn je brauchen wir eine Wikipedia, hinter der vertrauenswürdige Menschen stehen!"
+	],
+	"help-title": "Helfen auch.",
+	"help-subtitle": "Als Fördermitglied bleiben Sie dauerhaft Teil unserer Idee von freiem Wissen.",
+	"help-content": [
+		"Als deutscher Förderverein hinter Wikipedia stärken wir den Freiwilligen den Rücken und sichern die technische Infrastruktur. Das ist nur möglich dank der vielen tollen Menschen, die in den vergangenen Wochen gespendet haben. Noch mehr Planungssicherheit ermöglicht uns allerdings die regelmäßige Unterstützung engagierter Fördermitglieder.",
+		"Deshalb meine Bitte: Werden Sie Fördermitglied von Wikimedia Deutschland und helfen Sie mit Ihrem Beitrag, die Zukunft und Weiterentwicklung von Wikipedia langfristig zu sichern.",
+		"Als Fördermitglied tragen Sie dazu bei, dass Wikipedia ein Bollwerk des verlässlichen Wissens bleibt. Unabhängig, kostenlos – und im besten Sinne menschlich."
+	],
+	"help-thank-you": "Vielen Dank!",
+	"stats": [
+		{ "number": "111.500", "text": "fördernde Mitglieder" },
+		{ "number": "5 €", "text": "durchschnittlicher Monatsbeitrag" },
+		{ "number": "2 €", "text": "Mindestbeitrag im Monat" }
+	],
+	"cta-donate-5": "Mit 5 € im Monat fördern",
+	"cta-donate-other": "Mit einem anderen Betrag fördern",
+	"reasons": [
+		"Mitgliedsbeiträge sind steuerlich absetzbar",
+		"Automatische Zuwendungsbescheinigung",
+		"Kein Risiko: Kündigung jederzeit einfach möglich",
+		"Auf Wunsch: Unser exklusiver Wikipedia-Stoffbeutel"
+	]
+}
