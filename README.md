@@ -41,18 +41,20 @@ The following text explains how to generate the “Use of Funds” text for Medi
 
 #### Composer command
 
-- Default (no year): `composer uof`
-- With year: `composer uof -- [YYYY]`
-  -  e.g. `composer uof -- 2023`
+- Default (no year): `composer mediawiki`
+- With year: `composer mediawiki -- [YYYY]`
+  -  e.g. `composer mediawiki -- 2026`
 
 **Note**: The `--` ensures Composer forwards `YYYY` to each script entry
 
 #### File‑naming conventions
 
-| JSON source file                 | Output file                                                                      |
-|----------------------------------|----------------------------------------------------------------------------------|
-| use_of_funds_content.json        | 	mediawiki_use_of_funds_de.txt /<br/> mediawiki_use_of_funds_en.txt            |
-| use_of_funds_content_2025.json   | 	mediawiki_use_of_funds_de_2025.txt /<br/> mediawiki_use_of_funds_en_2025.txt  |
+| JSON source file               | Output file                                                     |
+|--------------------------------|-----------------------------------------------------------------|
+| use_of_funds_content.json      | 	use-of-funds-de_DE.txt /<br/> use-of-funds-en_GB.txt           |
+| use_of_funds_content_2025.json | 	use-of-funds-de_DE-2025.txt /<br/> use-of-funds-de_DE-2025.txt |
+| thank_you_content.json         | 	thank-you-de_DE.txt /<br/> thank-you-en_GB.txt                 |
+| thank_you_content_2025.json    | 	thank-you-de_DE-2025.txt /<br/> thank-you-de_DE-en_GB-2025.txt |
 
 The [Composer command](#composer-command) will only generate the files with the suffix `_YYYY` when you pass a year (`YYYY`) in.
 > [!TIP]
@@ -72,8 +74,8 @@ The [Composer command](#composer-command) will only generate the files with the 
 **Output:**
 It writes the output file in the repo's root: `mediawiki_use_of_funds_<lang>[_YYYY].txt`
 
-e.g. `mediawiki_use_of_funds_de.txt` / `mediawiki_use_of_funds_en.txt` Or <br>
-&emsp;&emsp;`mediawiki_use_of_funds_de_2025.txt` / `mediawiki_use_of_funds_en_2025.txt`
+e.g. `use-of-funds-de_DE.txt` / `use-of-funds-en_GB.txt` Or <br>
+&emsp;&emsp;`use-of-funds-de_DE-2025.txt` / `use-of-funds-de_DE-2025.txt`
 
 ## Clean up UoF source JSON file
 
