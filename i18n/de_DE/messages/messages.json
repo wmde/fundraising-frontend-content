@@ -5,6 +5,9 @@
   "close": "Schließen Sie",
   "opens_in_new_tab": "Opens in a new browser tab",
 
+  "read_more" : "Weiterlesen",
+  "read_less" : "Weniger lesen",
+
   "aria_main_navigation_label": "Hauptmenü",
   "aria_footer_navigation_label": "Fußzeile",
   "aria_navigation_toggle_label_closed": "Navigationsmenü anzeigen",
@@ -405,6 +408,32 @@
   "membership_confirmation_success_text_bank_transfer": "Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_cancel_button": "Mitgliedschaft stornieren",
 
+
+  "membership_form_detailed_info_box_heading": "Fördermitgliedschaft wirkt",
+  "membership_form_detailed_info_box_collapsed_info_text": "Regelmäßige Förderbeiträge unterstützen unseren gemeinnützigen Verein besonders nachhaltig. Sie ermöglichen eine verlässliche Planung unserer Aktivitäten für die langfristige Entwicklung von Wikipedia und der anderen Wikimedia-Projekte.",
+  "membership_form_detailed_info_box_expanded_info_text": "Regelmäßige Förderbeiträge unterstützen unseren gemeinnützigen Verein besonders nachhaltig. Sie ermöglichen eine verlässliche Planung unserer Aktivitäten für die langfristige Entwicklung von Wikipedia und der anderen Wikimedia-Projekte.",
+
+  "membership_form_detailed_info_box_category_1": "Weiterentwicklung",
+  "membership_form_detailed_info_box_category_1_headline": " von Technik und Software",
+  "membership_form_detailed_info_box_category_1_text_expanded": "Sie helfen, die technische Infrastruktur von Wikipedia & Co. immer weiter zu verbessern, z.B. durch Softwarelösungen und global verteilte Server, die die Datensicherheit und Leistungsfähigkeit von Wikipedia gewährleisten.",
+
+  "membership_form_detailed_info_box_category_2": "Schutz",
+  "membership_form_detailed_info_box_category_2_headline": " der Freiwilligen",
+  "membership_form_detailed_info_box_category_2_text_expanded": "Sie helfen uns, die Freiwilligen vor Versuchen von Einschüchterung zu schützen: technisch, aber auch juristisch. Das wird in Zeiten „alternative Fakten“ immer wichtiger.",
+
+  "membership_form_detailed_info_box_category_3": "Wissensgerechtigkeit",
+  "membership_form_detailed_info_box_category_3_headline": " für alle – weltweit",
+  "membership_form_detailed_info_box_category_3_text_expanded": "Sie tragen dazu bei, dass unsere Projekte vielfältiger, umfangreicher und besser werden. Und Sie stellen sicher, dass alle Menschen weiterhin kostenlosen Zugang zu vertrauenswürdigem Wissen haben.",
+
+  "membership_form_reasons_01": "Mitgliedsbeiträge sind steuerlich absetzbar",
+  "membership_form_reasons_02": "Automatische Zuwendungsbescheinigung",
+  "membership_form_reasons_03": "Kein Risiko: Kündigung jederzeit einfach möglich",
+  "membership_form_reasons_04": "Auf Wunsch: Unser exklusiver Wikipedia-Stoffbeutel",
+
+  "membership_form_sidebar_title": "In bester Gesellschaft",
+  "membership_form_sidebar_text": "Über 116.000 Menschen unterstützen uns als Fördermitglieder. Als Teil  dieser Gemeinschaft können Sie mitreden und bekommen einen exklusiven Einblick in die Welt hinter Wikipedia.",
+
+
   "membership_form_birth_date_label": "Geburtsdatum (optional)",
   "membership_form_birth_date_placeholder": "25.03.1986",
   "membership_form_birth_date_help_text": "Bitte im Format tt.mm.jjjj eingeben",
@@ -479,6 +508,7 @@
 
   "sidebar_data_encryption_notice": "Verschlüsselte Datenübertragung",
   "sidebar_getintouch_headline": "Frage zum Spenden?",
+  "sidebar_getintouch_headline_memberships": "Frage zur Mitgliedschaft?",
   "sidebar_getintouch_text": "Rufen Sie uns an oder nutzen Sie das <a href=\"/contact/get-in-touch\">Kontaktformular</a>",
   "sidebar_getintouch_text_phone": "(030) 577 11 62-19",
   "sidebar_getintouch_mixed": "Nutzen Sie unser <a href=\"/contact/get-in-touch\">Kontaktformular</a> oder rufen Sie uns an: <a href=\"tel:+4930577116219\" aria-label=\"0 3 0 5 7 7 1 1 6 2 1 9\">(030) 577 11 62-19</a>",

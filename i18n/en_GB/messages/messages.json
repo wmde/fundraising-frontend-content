@@ -5,6 +5,9 @@
   "close": "Close",
   "opens_in_new_tab": "öffnet sich in einem neuen Browser-Tab",
 
+  "read_more" : "Read More",
+  "read_less" : "Read Less",
+
   "aria_main_navigation_label": "Main",
   "aria_footer_navigation_label": "Footer",
   "aria_navigation_toggle_label_closed": "Show Navigation Menu",
@@ -408,6 +411,31 @@
   "membership_confirmation_success_text_bank_transfer": "We are delighted to have you on board!",
   "membership_confirmation_cancel_button": "Cancel membership",
 
+  "membership_form_detailed_info_box_heading": "Supporting membership works",
+  "membership_form_detailed_info_box_collapsed_info_text": "Recurring contributions support our charitable organization in a very sustainable way. They permit us to reliably plan our activities in support of Wikipedia's long-term development and that of the other Wikimedia projects.",
+  "membership_form_detailed_info_box_expanded_info_text": "Recurring contributions support our charitable organization in a very sustainable way. They permit us to reliably plan our activities in support of Wikipedia's long-term development and that of the other Wikimedia projects.",
+
+  "membership_form_detailed_info_box_category_1": "Ongoing development",
+  "membership_form_detailed_info_box_category_1_headline": " of technology and software",
+  "membership_form_detailed_info_box_category_1_text_expanded": "They assist us in making the technical infrastructure of Wikipedia & co. ever better through, for example, software solutions and globally distributed servers that ensure Wikipedia's data security and performance.",
+
+  "membership_form_detailed_info_box_category_2": "Protecting",
+  "membership_form_detailed_info_box_category_2_headline": " volunteers",
+  "membership_form_detailed_info_box_category_2_text_expanded": "Sie helfen uns, die Freiwilligen vor Versuchen von Einschüchterung zu schützen: technisch, aber auch juristisch. Das wird in Zeiten „alternative Fakten“ immer wichtiger.",
+
+  "membership_form_detailed_info_box_category_3": "Providing knowledge equity",
+  "membership_form_detailed_info_box_category_3_headline": " for all -- across the world",
+  "membership_form_detailed_info_box_category_3_text_expanded": "They help make our projects better -- more diverse and greater in scope. And they ensure that all of humanity retains free access to reliable knowledge.",
+
+  "membership_form_reasons_01": "Membership fees are tax deductible",
+  "membership_form_reasons_02": "Automatic donation receipt",
+  "membership_form_reasons_03": "No risk: You can cancel at any time",
+  "membership_form_reasons_04": "Free gift: our exclusive Wikipedia tote-bag",
+
+  "membership_form_sidebar_title": "In the best company",
+  "membership_form_sidebar_text": "Over 116,000 people help sustain us as supporting members. As part of this community you can take part and get an exclusive look into the world behind Wikipedia.",
+
+
   "membership_form_birth_date_label": "Date of birth (optional)",
   "membership_form_birth_date_placeholder": "25/03/1986",
   "membership_form_birth_date_help_text": "Please enter in the format dd/mm/yyyy",
@@ -482,6 +510,7 @@
 
   "sidebar_data_encryption_notice": "Encrypted data transfer",
   "sidebar_getintouch_headline": "Any questions about making a donation?",
+  "sidebar_getintouch_headline_memberships": "Any questions about becoming a member?",
   "sidebar_getintouch_text": "Please call us or use the <a href=\"/contact/get-in-touch\">contact form</a>",
   "sidebar_getintouch_text_phone": "(030) 577 11 62-19",
   "sidebar_getintouch_mixed": "Please contact us using the <a href=\"/contact/get-in-touch\">contact form</a> or by calling: <a href=\"tel:+4930577116219\" aria-label=\"0 3 0 5 7 7 1 1 6 2 1 9\">(030) 577 11 62-19</a>",
