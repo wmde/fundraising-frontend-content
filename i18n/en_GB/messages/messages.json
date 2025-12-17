@@ -408,29 +408,29 @@
   "membership_confirmation_success_text_bank_transfer": "We are delighted to have you on board!",
   "membership_confirmation_cancel_button": "Cancel membership",
 
-  "membership_form_detailed_info_box_heading": "Fördermitgliedschaft wirkt",
-  "membership_form_detailed_info_box_collapsed_info_text": "Regelmäßige Förderbeiträge unterstützen unseren gemeinnützigen Verein besonders nachhaltig. Sie ermöglichen eine verlässliche Planung unserer Aktivitäten für die langfristige Entwicklung von Wikipedia und der anderen Wikimedia-Projekte.",
-  "membership_form_detailed_info_box_expanded_info_text": "Regelmäßige Förderbeiträge unterstützen unseren gemeinnützigen Verein besonders nachhaltig. Sie ermöglichen eine verlässliche Planung unserer Aktivitäten für die langfristige Entwicklung von Wikipedia und der anderen Wikimedia-Projekte.",
+  "membership_form_detailed_info_box_heading": "Supporting membership works",
+  "membership_form_detailed_info_box_collapsed_info_text": "Recurring contributions support our charitable organization in a very sustainable way. They permit us to reliably plan our activities in support of Wikipedia's long-term development and that of the other Wikimedia projects.",
+  "membership_form_detailed_info_box_expanded_info_text": "Recurring contributions support our charitable organization in a very sustainable way. They permit us to reliably plan our activities in support of Wikipedia's long-term development and that of the other Wikimedia projects.",
 
-  "membership_form_detailed_info_box_category_1": "Weiterentwicklung",
-  "membership_form_detailed_info_box_category_1_headline": " von Technik und Software",
-  "membership_form_detailed_info_box_category_1_text_expanded": "Sie helfen, die technische Infrastruktur von Wikipedia & Co. immer weiter zu verbessern, z.B. durch Softwarelösungen und global verteilte Server, die die Datensicherheit und Leistungsfähigkeit von Wikipedia gewährleisten.",
+  "membership_form_detailed_info_box_category_1": "Ongoing development",
+  "membership_form_detailed_info_box_category_1_headline": " of technology and software",
+  "membership_form_detailed_info_box_category_1_text_expanded": "They assist us in making the technical infrastructure of Wikipedia & co. ever better through, for example, software solutions and globally distributed servers that ensure Wikipedia's data security and performance.",
 
-  "membership_form_detailed_info_box_category_2": "Schutz",
-  "membership_form_detailed_info_box_category_2_headline": " der Freiwilligen",
+  "membership_form_detailed_info_box_category_2": "Protecting",
+  "membership_form_detailed_info_box_category_2_headline": " volunteers",
   "membership_form_detailed_info_box_category_2_text_expanded": "Sie helfen uns, die Freiwilligen vor Versuchen von Einschüchterung zu schützen: technisch, aber auch juristisch. Das wird in Zeiten „alternative Fakten“ immer wichtiger.",
 
-  "membership_form_detailed_info_box_category_3": "Wissensgerechtigkeit",
-  "membership_form_detailed_info_box_category_3_headline": " für alle – weltweit",
-  "membership_form_detailed_info_box_category_3_text_expanded": "Sie tragen dazu bei, dass unsere Projekte vielfältiger, umfangreicher und besser werden. Und Sie stellen sicher, dass alle Menschen weiterhin kostenlosen Zugang zu vertrauenswürdigem Wissen haben.",
+  "membership_form_detailed_info_box_category_3": "Providing knowledge equity",
+  "membership_form_detailed_info_box_category_3_headline": " for all -- across the world",
+  "membership_form_detailed_info_box_category_3_text_expanded": "They help make our projects better -- more diverse and greater in scope. And they ensure that all of humanity retains free access to reliable knowledge.",
 
   "membership_form_reasons_01": "Membership fees are tax deductible",
   "membership_form_reasons_02": "Automatic donation receipt",
   "membership_form_reasons_03": "No risk: You can cancel at any time",
   "membership_form_reasons_04": "Free gift: our exclusive Wikipedia tote-bag",
 
-  "membership_form_sidebar_title": "In good company",
-  "membership_form_sidebar_text": "Over 100,000 people support us as sustaining members. As part of this community, you can have your say and gain exclusive insight into the world behind Wikipedia.",
+  "membership_form_sidebar_title": "In the best company",
+  "membership_form_sidebar_text": "Over 116,000 people help sustain us as supporting members. As part of this community you can take part and get an exclusive look into the world behind Wikipedia.",
 
 
   "membership_form_birth_date_label": "Date of birth (optional)",
