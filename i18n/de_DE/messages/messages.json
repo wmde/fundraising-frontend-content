@@ -5,6 +5,9 @@
   "close": "Schließen Sie",
   "opens_in_new_tab": "Opens in a new browser tab",
 
+  "read_more" : "Weiterlesen",
+  "read_less" : "Weniger lesen",
+
   "aria_main_navigation_label": "Hauptmenü",
   "aria_footer_navigation_label": "Fußzeile",
   "aria_navigation_toggle_label_closed": "Navigationsmenü anzeigen",
