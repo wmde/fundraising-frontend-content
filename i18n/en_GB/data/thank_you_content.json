@@ -30,7 +30,7 @@
 	],
 	"help-thank-you": "Thank you so much!",
 	"stats": [
-		{ "number": "116.000", "text": "Supporting Members" },
+		{ "number": "113.000", "text": "Supporting Members" },
 		{ "number": "5 €", "text": "Average monthly membership fee" },
 		{ "number": "2 €", "text": "Monthly minimum contribution" }
 	],
@@ -40,6 +40,8 @@
 		"Membership fees are tax deductible",
 		"Automatic donation receipt",
 		"No risk: You can cancel at any time",
-		"Free gift: Our exclusive Wikipedia tote-bag"
+		"Free gift: Our exclusive Wikipedia tote-bag",
+		"Insights into our projects",
+		"Invitations to Wikimedia events"
 	]
 }
