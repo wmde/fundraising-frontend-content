@@ -30,16 +30,16 @@
 	],
 	"help-thank-you": "Thank you so much!",
 	"stats": [
-		{ "number": "116.000", "text": "Fördermitglieder" },
-		{ "number": "5 €", "text": "durchschnittlicher Monatsbeitrag" },
-		{ "number": "2 €", "text": "Mindestbeitrag im Monat" }
+		{ "number": "116.000", "text": "Supporting Members" },
+		{ "number": "5 €", "text": "Average monthly membership fee" },
+		{ "number": "2 €", "text": "Monthly minimum contribution" }
 	],
-	"cta-donate-5": "Mit 5 € im Monat fördern",
-	"cta-donate-other": "Mit einem anderen Betrag fördern",
+	"cta-donate-5": "Support with €5 per month",
+	"cta-donate-other": "Support with a different amount",
 	"reasons": [
-		"Mitgliedsbeiträge sind steuerlich absetzbar",
-		"Automatische Zuwendungsbescheinigung",
-		"Kein Risiko: Kündigung jederzeit einfach möglich",
-		"Auf Wunsch: Unser exklusiver Wikipedia-Stoffbeutel"
+		"Membership fees are tax deductible",
+		"Automatic donation receipt",
+		"No risk: You can cancel at any time",
+		"Free gift: Our exclusive Wikipedia tote-bag"
 	]
 }
