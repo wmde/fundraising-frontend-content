@@ -120,7 +120,7 @@
   "donation_confirmation_comment_button": "Spendenkommentar schreiben",
   "donation_confirmation_newsletter_confirmation": "Sie erhalten von uns Informationen zu Ihrer Spende und wenn Wikipedia wieder Ihre Hilfe braucht. Dies können Sie jederzeit widerrufen.",
   "donation_confirmation_membership_button": "Mitglied werden",
-  "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Rund 112.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
+  "donation_confirmation_membership_call_to_action_text": "Gemeinsam erreichen wir mehr: Rund 113.000 Menschen haben sich bereits für eine Fördermitgliedschaft entschieden. Zusammen bilden sie ein stabiles Fundament für die Finanzierung und Weiterentwicklung unserer Projekte.",
   "donation_confirmation_membership_call_to_action_title": "Mit einer Fördermitgliedschaft mehr bewirken!",
   "donation_confirmation_payment_bank_transfer": "Bitte überweisen Sie: {interval}, {formattedAmount} per Banküberweisung",
   "donation_confirmation_payment_bank_transfer_details": "Ihre Überweisungsdaten",
@@ -434,7 +434,7 @@
   "membership_form_reasons_06": "Einladungen zu Wikimedia-Veranstaltungen",
 
   "membership_form_sidebar_title": "In bester Gesellschaft",
-  "membership_form_sidebar_text": "Über 116.000 Menschen unterstützen uns als Fördermitglieder. Als Teil  dieser Gemeinschaft können Sie mitreden und bekommen einen exklusiven Einblick in die Welt hinter Wikipedia.",
+  "membership_form_sidebar_text": "Über 112.000 Menschen unterstützen uns als Fördermitglieder. Als Teil  dieser Gemeinschaft können Sie mitreden und bekommen einen exklusiven Einblick in die Welt hinter Wikipedia.",
 
 
   "membership_form_birth_date_label": "Geburtsdatum (optional)",
