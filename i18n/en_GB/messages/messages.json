@@ -120,7 +120,7 @@
   "donation_confirmation_comment_button": "Write a donation comment",
   "donation_confirmation_newsletter_confirmation": "As you requested, we'll send you information about the donation campaign. You can cancel your request at any time.",
   "donation_confirmation_membership_button": "Become a member",
-  "donation_confirmation_membership_call_to_action_text": "Together, we can achieve more: over 109,000 people have already opted for a supporting membership. Together, they form a solid foundation to fund and develop our projects further.",
+  "donation_confirmation_membership_call_to_action_text": "Together, we can achieve more: over 112,000 people have already opted for a supporting membership. Together, they form a solid foundation to fund and develop our projects further.",
   "donation_confirmation_membership_call_to_action_title": "Achieve more through a supporting membership!",
   "donation_confirmation_payment_bank_transfer": "Please transfer: {interval}, {formattedAmount} by bank transfer",
   "donation_confirmation_payment_bank_transfer_details": "Your transfer details",
@@ -421,16 +421,19 @@
 
   "membership_form_detailed_info_box_category_2": "Protecting",
   "membership_form_detailed_info_box_category_2_headline": " volunteers",
-  "membership_form_detailed_info_box_category_2_text_expanded": "Sie helfen uns, die Freiwilligen vor Versuchen von Einschüchterung zu schützen: technisch, aber auch juristisch. Das wird in Zeiten „alternative Fakten“ immer wichtiger.",
+  "membership_form_detailed_info_box_category_2_text_expanded": "You help us protect volunteers from attempts at intimidation: technically, but also legally. This is becoming increasingly important in times of “alternative facts.”",
 
   "membership_form_detailed_info_box_category_3": "Providing knowledge equity",
   "membership_form_detailed_info_box_category_3_headline": " for all -- across the world",
   "membership_form_detailed_info_box_category_3_text_expanded": "They help make our projects better -- more diverse and greater in scope. And they ensure that all of humanity retains free access to reliable knowledge.",
 
+  "membership_form_reasons_title": "Membership Benefits",
   "membership_form_reasons_01": "Membership fees are tax deductible",
   "membership_form_reasons_02": "Automatic donation receipt",
   "membership_form_reasons_03": "No risk: You can cancel at any time",
   "membership_form_reasons_04": "Free gift: Our exclusive Wikipedia tote-bag",
+  "membership_form_reasons_05": "Insights into our projects",
+  "membership_form_reasons_06": "Invitations to Wikimedia events",
 
   "membership_form_sidebar_title": "In the best company",
   "membership_form_sidebar_text": "Over 116,000 people help sustain us as supporting members. As part of this community you can take part and get an exclusive look into the world behind Wikipedia.",
