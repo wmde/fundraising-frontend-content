@@ -30,7 +30,7 @@
 	],
 	"help-thank-you": "Vielen Dank!",
 	"stats": [
-		{ "number": "111.500", "text": "fördernde Mitglieder" },
+		{ "number": "113.000", "text": "fördernde Mitglieder" },
 		{ "number": "5 €", "text": "durchschnittlicher Monatsbeitrag" },
 		{ "number": "2 €", "text": "Mindestbeitrag im Monat" }
 	],
@@ -40,6 +40,8 @@
 		"Mitgliedsbeiträge sind steuerlich absetzbar",
 		"Automatische Zuwendungsbescheinigung",
 		"Kein Risiko: Kündigung jederzeit einfach möglich",
-		"Auf Wunsch: Unser exklusiver Wikipedia-Stoffbeutel"
+		"Auf Wunsch: Unser exklusiver Wikipedia-Stoffbeutel",
+		"Einblicke in spannende Projekte",
+		"Einladungen zu Wikimedia-Veranstaltungen"
 	]
 }
