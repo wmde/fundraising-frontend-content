@@ -28,9 +28,11 @@
 			"@lint",
             "@test"
         ],
-        "uof": [
-            "php bin/extract_to_mediawiki de",
-            "php bin/extract_to_mediawiki en"
+        "mediawiki": [
+            "php bin/extract_to_mediawiki use_of_funds_content use-of-funds de",
+            "php bin/extract_to_mediawiki use_of_funds_content use-of-funds en",
+            "php bin/extract_to_mediawiki thank_you_content thank-you de",
+            "php bin/extract_to_mediawiki thank_you_content thank-you en"
         ],
         "test": [
             "vendor/bin/phpunit"
