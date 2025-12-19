@@ -30,7 +30,7 @@
 	],
 	"help-thank-you": "Thank you so much!",
 	"stats": [
-		{ "number": "113.000", "text": "Supporting Members" },
+		{ "number": "113.000", "text": "Supporting members" },
 		{ "number": "5 €", "text": "Average monthly membership fee" },
 		{ "number": "2 €", "text": "Monthly minimum contribution" }
 	],

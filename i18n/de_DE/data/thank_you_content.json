@@ -30,7 +30,7 @@
 	],
 	"help-thank-you": "Vielen Dank!",
 	"stats": [
-		{ "number": "113.000", "text": "fördernde Mitglieder" },
+		{ "number": "113.000", "text": "Fördermitglieder" },
 		{ "number": "5 €", "text": "durchschnittlicher Monatsbeitrag" },
 		{ "number": "2 €", "text": "Mindestbeitrag im Monat" }
 	],
