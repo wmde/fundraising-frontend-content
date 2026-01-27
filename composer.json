@@ -8,7 +8,7 @@
     "require-dev": {
         "wmde/fundraising-content-provider": "^6.0",
         "seld/jsonlint": "^1.6",
-        "phpunit/phpunit": "~9.5.0"
+        "phpunit/phpunit": "~9.6.33"
     },
     "repositories": [
         {
