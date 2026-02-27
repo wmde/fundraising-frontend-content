@@ -85,6 +85,12 @@
   "contact_form_topic_placeholder": "Bitte wählen Sie ein Thema aus",
   "contact_form_topic_error": "Sie müssen ein Thema auswählen.",
 
+  "contact_sidebar_title": "Fragen oder Anmerkungen?",
+  "contact_sidebar_subtitle": "Unser Service-Team hilft gerne",
+  "contact_sidebar_opening": "Montag bis Freitag, 9:00 - 17:00 Uhr",
+  "contact_sidebar_phone": "(030) 577 11 62-19",
+  "contact_sidebar_email": "kontakt@wikimedia.de",
+
   "donation_comment_popup_title": "Spendenkommentar schreiben",
   "donation_comment_popup_explanation": "Erzählen Sie, warum Sie gespendet haben. Was verbindet Sie mit Wikipedia? Ihre Geschichte hilft uns, den Millionen Menschen, die Wikipedia täglich nutzen, die Bedeutung Wikipedias zu veranschaulichen.",
   "donation_comment_popup_label": "Kommentar",
