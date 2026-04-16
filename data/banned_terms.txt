@@ -416,3 +416,9 @@ zigeuner
 zyklopenfotze
 ärsche
 ölauge
+muster
+mustermann
+musterstr
+musterland
+musterstadt
+musterfirma
