@@ -4,13 +4,12 @@ declare( strict_types = 1 );
 
 namespace WMDE\Fundraising\Content\Tests\Validation;
 
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 
 class RegExPatternValidationTest extends TestCase {
 
-	/**
-	 * @dataProvider validStreetNameProvider
-	 */
+	#[DataProvider( 'validStreetNameProvider' )]
 	public function testValidStreetNames( string $streetName ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['street'];
@@ -18,9 +17,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertMatchesRegularExpression( "/$pattern/", $streetName);
 	}
 
-	/**
-	 * @dataProvider invalidStreetNameProvider
-	 */
+	#[DataProvider( 'invalidStreetNameProvider' )]
 	public function testInvalidStreetNames( string $streetName ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['street'];
@@ -28,7 +25,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertDoesNotMatchRegularExpression( "/$pattern/", $streetName);
 	}
 
-	public function validStreetNameProvider(): \Generator {
+	public static function validStreetNameProvider(): \Generator {
 		yield [ 'Hundestraße 2' ];
 		yield [ 'Hundestraße ' ];
 		yield [ 'Hundestrasse AAA' ];
@@ -41,15 +38,13 @@ class RegExPatternValidationTest extends TestCase {
 		yield [ '40hao Lou 40dan Yuan 1201' ];
 	}
 
-	public function invalidStreetNameProvider(): \Generator {
+	public static function invalidStreetNameProvider(): \Generator {
 		yield [ '.' ];
 		yield [ ',7' ];
 		yield [ '..ß' ];
 	}
 
-	/**
-	 * @dataProvider validCityNameProvider
-	 */
+	#[DataProvider( 'validCityNameProvider' )]
 	public function testValidCityNames( string $cityName ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['city'];
@@ -57,9 +52,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertMatchesRegularExpression( "/$pattern/u", $cityName);
 	}
 
-	/**
-	 * @dataProvider invalidCityNameProvider
-	 */
+	#[DataProvider( 'invalidCityNameProvider' )]
 	public function testInvalidCityNames( string $cityName ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['city'];
@@ -67,7 +60,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertDoesNotMatchRegularExpression( "/$pattern/u", $cityName);
 	}
 
-	public function validCityNameProvider(): \Generator {
+	public static function validCityNameProvider(): \Generator {
 		yield [ 'Augsburg' ];
 		yield [ 'Augsburg ' ];
 		yield [ ' Augsburg' ];
@@ -80,16 +73,14 @@ class RegExPatternValidationTest extends TestCase {
 		yield [ 'Ставрополь' ];
 	}
 
-	public function invalidCityNameProvider(): \Generator {
+	public static function invalidCityNameProvider(): \Generator {
 		yield [ '4' ];
 		yield [ '---' ];
 		yield [ '.,,' ];
 		yield [ ',' ];
 	}
 
-	/**
-	 * @dataProvider validPostcodeProvider
-	 */
+	#[DataProvider( 'validPostcodeProvider' )]
 	public function testValidPostcodes( string $postcode ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['postcode'];
@@ -97,9 +88,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertMatchesRegularExpression( "/$pattern/u", $postcode );
 	}
 
-	/**
-	 * @dataProvider invalidPostcodeProvider
-	 */
+	#[DataProvider( 'invalidPostcodeProvider' )]
 	public function testInvalidPostcodes( string $postcode ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['postcode'];
@@ -107,7 +96,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertDoesNotMatchRegularExpression( "/$pattern/u", $postcode );
 	}
 
-	public function validPostcodeProvider(): \Generator {
+	public static function validPostcodeProvider(): \Generator {
 		yield [ '2343545646' ];
 		yield [ 'abc abc 1' ];
 		yield [ 'AB-CD' ];
@@ -116,7 +105,7 @@ class RegExPatternValidationTest extends TestCase {
 		yield [ '市区-崇文区 123 ' ];
 	}
 
-	public function invalidPostcodeProvider(): \Generator {
+	public static function invalidPostcodeProvider(): \Generator {
 		yield [ ' 3 ' ];
 		yield [ ' a' ];
 		yield [ '/' ];
@@ -125,9 +114,7 @@ class RegExPatternValidationTest extends TestCase {
 		yield [ ',3' ];
 	}
 
-	/**
-	 * @dataProvider validCountryProvider
-	 */
+	#[DataProvider( 'validCountryProvider' )]
 	public function testValidCountries( string $country ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['country'];
@@ -135,9 +122,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertMatchesRegularExpression( "/$pattern/u", $country );
 	}
 
-	/**
-	 * @dataProvider invalidCountryProvider
-	 */
+	#[DataProvider( 'invalidCountryProvider' )]
 	public function testInvalidCountries( string $country ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['country'];
@@ -145,7 +130,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertDoesNotMatchRegularExpression( "/$pattern/u", $country );
 	}
 
-	public function validCountryProvider(): \Generator {
+	public static function validCountryProvider(): \Generator {
 		yield [ 'Deutschland ' ];
 		yield [ ' Süd Korea ' ];
 		yield [ 'България	' ];
@@ -156,7 +141,7 @@ class RegExPatternValidationTest extends TestCase {
 		yield [ '中国' ];
 	}
 
-	public function invalidCountryProvider(): \Generator {
+	public static function invalidCountryProvider(): \Generator {
 		yield [ '/' ];
 		yield [ '---' ];
 		yield [ '.,,' ];
@@ -164,9 +149,7 @@ class RegExPatternValidationTest extends TestCase {
 		yield [ ',d' ];
 	}
 
-	/**
-	 * @dataProvider validEmailProvider
-	 */
+	#[DataProvider( 'validEmailProvider' )]
 	public function testEmailValidation( string $email ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['email'];
@@ -174,9 +157,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertMatchesRegularExpression( "/$pattern/u", $email );
 	}
 
-	/**
-	 * @dataProvider invalidEmailProvider
-	 */
+	#[DataProvider( 'invalidEmailProvider' )]
 	public function testInvalidEmails( string $email ): void {
 		$addressValidationObject_DE =  $this->loadAddressValidationPatternsFromFile( 'de_DE/data/validation.json' );
 		$pattern = $addressValidationObject_DE['email'];
@@ -184,7 +165,7 @@ class RegExPatternValidationTest extends TestCase {
 		$this->assertDoesNotMatchRegularExpression( "/$pattern/u", $email );
 	}
 
-	public function validEmailProvider(): \Generator {
+	public static function validEmailProvider(): \Generator {
 		yield [ 'abc@gmail.com' ];
 		yield [ 'a.nonymous@example.com ' ];
 		yield [ 'name+tag@example.com' ];
@@ -195,7 +176,7 @@ class RegExPatternValidationTest extends TestCase {
 		yield [ 'δοκιμή@παράδειγμα.δοκιμή' ];
 	}
 
-	public function invalidEmailProvider(): \Generator {
+	public static function invalidEmailProvider(): \Generator {
 		yield [ 'me@' ];
 		yield [ '@example.com' ];
 		//yield [ 'me.@example.com' ];
