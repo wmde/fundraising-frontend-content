@@ -4,13 +4,12 @@ declare( strict_types = 1 );
 
 namespace WMDE\Fundraising\Content\Tests\Validation;
 
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 
 class SalutationsTest extends TestCase {
-	/**
-	 * @dataProvider salutationsDataProvider
-	 */
-	public function testSalutationsHaveRequiredStructure( array $salutation ): void {
+	#[DataProvider( 'salutationsDataProvider' )]
+	public function testSalutationsHaveRequiredStructure( array $salutation, string $locale ): void {
 		$this->assertArrayHasKey( 'label', $salutation );
 		$this->assertArrayHasKey( 'value', $salutation );
 		$this->assertArrayHasKey( 'export_value', $salutation );
@@ -21,10 +20,8 @@ class SalutationsTest extends TestCase {
 		$this->assertArrayHasKey( 'last_name_informal', $salutation['greetings'] );
 	}
 
-	/**
-	 * @dataProvider salutationsDataProvider
-	 */
-	public function testSalutationsValuesAreStrings( array $salutation ): void {
+	#[DataProvider( 'salutationsDataProvider' )]
+	public function testSalutationsValuesAreStrings( array $salutation, string $locale ): void {
 		$this->assertIsString( $salutation['label'] );
 		$this->assertIsString( $salutation['value'] );
 		$this->assertIsString( $salutation['export_value'] );
@@ -34,9 +31,7 @@ class SalutationsTest extends TestCase {
 		$this->assertIsString( $salutation['greetings']['last_name_informal'] );
 	}
 
-	/**
-	 * @dataProvider salutationsDataProvider
-	 */
+	#[DataProvider( 'salutationsDataProvider' )]
 	public function testGreetingsItemsExist( array $salutation, string $locale ): void {
 		$file = file_get_contents( __DIR__ . "/../../i18n/{$locale}/messages/mail.json" );
 		$mailData = json_decode( $file, true );
@@ -46,16 +41,16 @@ class SalutationsTest extends TestCase {
 		$this->assertArrayHasKey( $salutation['greetings']['last_name_informal'], $mailData );
 	}
 
-	public function salutationsDataProvider(): \Generator {
-		foreach ( $this->loadSalutationsFromFile( 'de_DE/data/salutations.json' ) as $salutation ) {
+	public static function salutationsDataProvider(): \Generator {
+		foreach ( self::loadSalutationsFromFile( 'de_DE/data/salutations.json' ) as $salutation ) {
 			yield [ $salutation, 'de_DE' ];
 		}
-		foreach ( $this->loadSalutationsFromFile( 'en_GB/data/salutations.json' ) as $salutation ) {
+		foreach ( self::loadSalutationsFromFile( 'en_GB/data/salutations.json' ) as $salutation ) {
 			yield [ $salutation, 'en_GB' ];
 		}
 	}
 
-	private function loadSalutationsFromFile( string $path ): array {
+	private static function loadSalutationsFromFile( string $path ): array {
 		$file = file_get_contents( __DIR__ . '/../../i18n/' . $path );
 		$data = json_decode( $file, true );
 		return $data['salutations'];
