@@ -158,6 +158,11 @@
 			"topic": "6"
 		},
 		{
+			"question": "Kann ich meine PayPal-Spende selbst ändern?",
+			"visible_text": "<p>Ja, in Ihrem PayPal-Konto ist es Ihnen jederzeit möglich, das Spendenabonnement selbstständig zu beenden. Dafür ist keine Nachricht an uns nötig. Eine Änderung der Höhe oder Zahlweise der Spende ist jedoch nicht möglich. Dafür müsste Ihre bisherige Spende in Ihrem PayPal-Konto selbständig beendet und eine neue Spende, z. B. über unser Spendenformular, angelegt werden.",
+			"topic": "6"
+		},
+		{
 			"question": "Wie kann ich meine Mitgliedschaft kündigen?",
 			"visible_text": "<p>Eine Mitgliedschaft kann jederzeit per E-Mail an <a href=\"mailto:mitglieder@wikimedia.de\">mitglieder@wikimedia.de</a> beendet werden. Beachten Sie, dass eine Fördermitgliedschaft per sofort beendet werden kann, eine aktive Mitgliedschaft allerdings zum Kalenderjahresende.</p><p>Sie können natürlich auch unser <a href=\"/contact/get-in-touch\">Kontaktformular</a> nutzen oder Ihre Mitgliedschaft per Post bzw. Fax beenden:</p><p>Wikimedia Deutschland – Gesellschaft zur Förderung Freien Wissens e. V.<br>Tempelhofer Ufer 23/24<br>10963 Berlin<br><br>Fax: (030) 577 11 62-99</p>",
 			"topic": "6"
