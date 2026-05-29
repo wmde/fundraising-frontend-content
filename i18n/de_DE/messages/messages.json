@@ -411,9 +411,14 @@
   "membership_confirmation_payment_data_text": "Sie werden <strong>{membershipType}</strong> bei Wikimedia Deutschland e. V. und zahlen <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} per <strong>{paymentType}</strong>",
   "membership_confirmation_address_head": "Wir haben folgende Adressdaten gespeichert:",
   "membership_confirmation_success_text": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket per Post. Wir freuen uns, dass Sie dabei sind!",
+  "membership_confirmation_success_text_after_address_change": "Wir haben Ihnen gerade die Bestätigung mit der neuen Adresse per E-Mail gesendet.",
   "membership_confirmation_success_text_incentive": "Wir haben Ihnen soeben die Bestätigung per E-Mail geschickt. Sie erhalten zudem in Kürze unser Willkommenspaket mit dem Wikipedia-Stoffbeutel per Post. Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_success_text_bank_transfer": "Wir freuen uns, dass Sie dabei sind!",
   "membership_confirmation_cancel_button": "Mitgliedschaft stornieren",
+  "membership_confirmation_summary_title": "Ihre Mitgliedschaft erhalten Sie an folgende Adresse:",
+  "membership_confirmation_summary_title_no_receipt_wanted": "Folgende Adresse haben wir von Ihnen erhalten:",
+  "membership_confirmation_address_person": "<strong>Adresse:</strong> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "membership_confirmation_address_company": "<strong>Adresse:</strong> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
 
 
   "membership_form_detailed_info_box_heading": "Fördermitgliedschaft wirkt",
@@ -635,5 +640,9 @@
   "form_payment_interval_1": "monatlich",
   "form_payment_interval_3": "vierteljährlich",
   "form_payment_interval_6": "halbjährlich",
-  "form_payment_interval_12": "jährlich"
+  "form_payment_interval_12": "jährlich",
+
+  "confirmation_page_email": "<strong>Email:</strong> {email}",
+  "confirmation_page_address_update": "Falsche Daten eingegeben?",
+  "confirmation_page_address_update_link": "Hier ändern"
 }
