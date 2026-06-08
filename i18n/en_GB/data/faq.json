@@ -78,6 +78,11 @@
 			"topic": "2"
 		},
 		{
+			"question": "Can I change my PayPal donation myself?",
+			"visible_text": "<p>Yes, you can cancel your donation subscription yourself at any time in your PayPal account. No message to us is necessary. However, changing the amount or payment method of the donation is not possible. To do this, you would need to cancel your existing donation in your PayPal account and create a new one, for example, via our donation form.",
+			"topic": "2"
+		},
+		{
 			"question": "Your donation accounts have changed. Do I need to update my standing order?",
 			"visible_text": "<p>Yes, please. Due to changes at the SozialBank, which works for many non-profit associations in Germany, our donation accounts have changed. The new donation account belongs to the non-profit organisation Wikimedia Deutschland e. V., which collects donations for Wikipedia in Germany and issues the donation receipts. The old donation accounts will be closed after a transitional period. Please transfer your standing order to the following donation account:</p><p>Recipient: <strong>Wikimedia Deutschland e. V.</strong><br />IBAN: <strong>DE09 3702 0500 0003 2873 00</strong><br />BIC: <strong>BFSWDE33XXX</strong><br />Bank: <strong>SozialBank</strong></p><p>Apart from the new IBAN and the change of recipient, everything else remains the same. All donations benefit Wikipedia and Free Knowledge and are tax deductible.</p>",
 			"topic": "2"
@@ -150,6 +155,11 @@
 		{
 			"question": "How can I change my personal data (e.g. address or bank account information) at Wikimedia?",
 			"visible_text": "<p>You can change your personal data at any time via mail, fax or simply via our <a href=\"https://spenden.wikimedia.de/contact/get-in-touch\">contact form</a>. Alternatively, you can call us from Monday to Friday between 10am and 4pm at (030) 577 11 62-19.</p>Our mail address and fax details can be found in our <a href=\"https://spenden.wikimedia.de/page/Impressum\">legal notice</a>.",
+			"topic": "6"
+		},
+		{
+			"question": "Can I change my PayPal donation myself?",
+			"visible_text": "<p>Yes, you can cancel your donation subscription yourself at any time in your PayPal account. No message to us is necessary. However, changing the amount or payment method of the donation is not possible. To do this, you would need to cancel your existing donation in your PayPal account and create a new one, for example, via our donation form.",
 			"topic": "6"
 		},
 		{

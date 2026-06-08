@@ -4,6 +4,7 @@ declare( strict_types = 1 );
 
 namespace WMDE\Fundraising\Content\Tests\Validation;
 
+use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 use WMDE\Fundraising\Content\Tests\Fixtures\JsonValidator;
 
@@ -15,12 +16,12 @@ class LocaleKeysTest extends TestCase {
 		$this->jsonValidator = new JsonValidator( $this );
 	}
 
-	/** @dataProvider messageKeysDataProvider */
+	#[DataProvider( 'messageKeysDataProvider' )]
 	public function testMessagesKeysMatch( string $jsonFileA, string $jsonFileB): void {
 		$this->jsonValidator->assertJsonFilesHaveMatchingKeys( $jsonFileA, $jsonFileB );
 	}
 
-	public function messageKeysDataProvider(): array {
+	public static function messageKeysDataProvider(): array {
 		return [
 			[ 'i18n/en_GB/data/contact_categories.json', 'i18n/de_DE/data/contact_categories.json' ],
 			[ 'i18n/en_GB/data/countries.json', 'i18n/de_DE/data/countries.json' ],

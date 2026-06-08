@@ -78,6 +78,11 @@
 			"topic": "2"
 		},
 		{
+			"question": "Kann ich meine PayPal-Spende selbst ändern?",
+			"visible_text": "<p>Ja, in Ihrem PayPal-Konto ist es Ihnen jederzeit möglich, das Spendenabonnement selbstständig zu beenden. Dafür ist keine Nachricht an uns nötig. Eine Änderung der Höhe oder Zahlweise der Spende ist jedoch nicht möglich. Dafür müsste Ihre bisherige Spende in Ihrem PayPal-Konto selbständig beendet und eine neue Spende, z. B. über unser Spendenformular, angelegt werden.",
+			"topic": "2"
+		},
+		{
 			"question": "Eure Spendenkonten haben sich geändert. Muss ich meinen Dauerauftrag nun ändern?",
 			"visible_text": "<p>Ja, bitte. Aufgrund von Veränderungen bei der SozialBank, die neben uns für viele gemeinnützige Vereine in Deutschland arbeitet, haben sich unsere Spendenkonten geändert. Das neue Spendenkonto gehört dem gemeinnützigen Verein Wikimedia Deutschland, der in Deutschland Spenden für Wikipedia sammelt und die Spendenquittungen ausstellt. Die alten Spendenkonten werden in einiger Zeit nicht mehr zur Verfügung stehen. Daher bitten wir Sie, Ihren Dauerauftrag auf folgendes Spendenkonto einzurichten:</p><p>Empfänger: <strong>Wikimedia Deutschland e. V.</strong><br />IBAN: <strong>DE09 3702 0500 0003 2873 00</strong><br />BIC: <strong>BFSWDE33XXX</strong><br />Bank: <strong>SozialBank</strong></p>",
 			"topic": "2"
