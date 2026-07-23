@@ -1,5 +1,5 @@
 {
-  "supporters": [   
+  "supporters": [
     {
       "name": "Algorithmus Schmiede (Dr. M. Dutschke)",
       "amount": "2.800 €",
@@ -118,7 +118,7 @@
     {
       "name": "Dr. Ing. Detlev Stupperich",
       "amount": "7.015 €",
-      "comment": "Nach bestem Wissen und Gewissen den aktuellen Stand der Kenntnisse allen Menschen zugänglich machen! Dann und nur dann hat eine Mehrheit die Chance in subjektiver Zufriedenheit und relativem Wohlstand leben zu können. Wehret den "Wahrheitsministerien" wie sie schon George Orwell beschrieben hat!"
+      "comment": "Nach bestem Wissen und Gewissen den aktuellen Stand der Kenntnisse allen Menschen zugänglich machen! Dann und nur dann hat eine Mehrheit die Chance in subjektiver Zufriedenheit und relativem Wohlstand leben zu können. Wehret den \"Wahrheitsministerien\" wie sie schon George Orwell beschrieben hat!"
     },
     {
       "name": "Dirk Woessner",
@@ -394,12 +394,12 @@
       "name": "Rainer Schwab",
       "amount": "1.050 €",
       "comment": ""
-    } 
+    },
     {
       "name": "Reinhard Wiesemann",
       "amount": "anonymous amount",
       "comment": ""
-    }
+    },
     {
       "name": "Relaxdays GmbH",
       "amount": "13.000 €",
@@ -464,16 +464,16 @@
       "name": "Yoshimune Feldmeier",
       "amount": "anonymous amount",
       "comment": ""
-    }, 
+    },
     {
       "name": "yWorks GmbH",
       "amount": "anonymous amount",
       "comment": ""
-    }, 
+    },
     {
       "name": "Zahnarztpraxis Dres. Dajka",
       "amount": "10.100 €",
       "comment": ""
-    }, 
+    }
   ]
 }

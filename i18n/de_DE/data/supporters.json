@@ -394,12 +394,12 @@
       "name": "Rainer Schwab",
       "amount": "1.050 €",
       "comment": ""
-    }
+    },
     {
       "name": "Reinhard Wiesemann",
       "amount": "Betrag anonym",
       "comment": ""
-    }
+    },
     {
       "name": "Relaxdays GmbH",
       "amount": "13.000 €",
@@ -474,6 +474,6 @@
       "name": "Zahnarztpraxis Dres. Dajka",
       "amount": "10.100 €",
       "comment": ""
-    },
+    }
   ]
 }
