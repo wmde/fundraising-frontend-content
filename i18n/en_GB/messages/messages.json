@@ -647,5 +647,6 @@
 
   "confirmation_page_email": "<strong>Email:</strong> {email}",
   "confirmation_page_address_update": "Entered the wrong address?",
-  "confirmation_page_address_update_link": "Update here"
+  "confirmation_page_address_update_link": "Update here",
+  "confirmation_page_update_address_form_header": "Enter postal address."
 }

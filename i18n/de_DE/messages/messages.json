@@ -644,5 +644,6 @@
 
   "confirmation_page_email": "<strong>Email:</strong> {email}",
   "confirmation_page_address_update": "Falsche Daten eingegeben?",
-  "confirmation_page_address_update_link": "Hier ändern"
+  "confirmation_page_address_update_link": "Hier ändern",
+  "confirmation_page_update_address_form_header": "Postadresse angeben"
 }
