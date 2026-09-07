@@ -422,7 +422,31 @@
   "membership_confirmation_summary_title_no_receipt_wanted": "Folgende Adresse haben wir von Ihnen erhalten:",
   "membership_confirmation_address_person": "<strong>Adresse:</strong> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
   "membership_confirmation_address_company": "<strong>Adresse:</strong> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
-
+  "membership_form_salutation_label": "Anrede",
+  "membership_form_salutation_error": "Bitte teilen Sie uns mit, wie Sie angesprochen werden möchten.",
+  "membership_form_academic_title_label": "Titel",
+  "membership_form_academic_title_option_none": "Kein Titel",
+  "membership_form_firstname_error": "Bitte geben Sie Ihren Vornamen an.",
+  "membership_form_firstname_label": "Vorname",
+  "membership_form_firstname_placeholder": "Max oder Erika",
+  "membership_form_lastname_error": "Bitte geben Sie Ihren Nachnamen an.",
+  "membership_form_lastname_label": "Name",
+  "membership_form_lastname_placeholder": "Mustername",
+  "membership_form_lastname_placeholder_warning": "Sind Sie sich sicher, dass Ihr Nachname {value} ist?",
+  "membership_form_companyname_error": "Bitte geben Sie einen Firmennamen an.",
+  "membership_form_companyname_label": "Firmenname",
+  "membership_form_companyname_placeholder": "Musterfirma",
+  "membership_form_addresstype_option_private": "Privatperson",
+  "membership_form_addresstype_option_company": "Firma",
+  "membership_form_address_choice_title_addresstype_basic": "Wie möchten Sie spenden?",
+  "membership_form_section_address_error": "Bitte wählen Sie eine der Adressoptionen.",
+  "membership_confirmation_address_update_cancel": "Abbrechen",
+  "membership_confirmation_address_update_confirm": "Kontaktdaten senden",
+  "membership_form_street_error": "Bitte geben Sie eine Straße an.",
+  "membership_form_zip_error": "Bitte geben Sie eine gültige Postleitzahl an.",
+  "membership_form_city_error": "Bitte geben Sie einen Ort an.",
+  "membership_form_country_error": "Bitte geben Sie ein Land an.",
+  "membership_form_email_error": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
 
   "membership_form_detailed_info_box_heading": "Fördermitgliedschaft wirkt",
   "membership_form_detailed_info_box_collapsed_info_text": "Regelmäßige Förderbeiträge unterstützen unseren gemeinnützigen Verein besonders nachhaltig. Sie ermöglichen eine verlässliche Planung unserer Aktivitäten für die langfristige Entwicklung von Wikipedia und der anderen Wikimedia-Projekte.",
@@ -647,5 +671,6 @@
 
   "confirmation_page_email": "<strong>Email:</strong> {email}",
   "confirmation_page_address_update": "Falsche Daten eingegeben?",
-  "confirmation_page_address_update_link": "Hier ändern"
+  "confirmation_page_address_update_link": "Hier ändern",
+  "confirmation_page_update_address_form_header": "Postadresse angeben"
 }
