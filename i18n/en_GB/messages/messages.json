@@ -417,9 +417,14 @@
   "membership_confirmation_payment_data_text": "You are becoming a <strong>{membershipType}</strong> with Wikimedia Deutschland e. V. and pay <strong>{membershipFeeFormatted} {paymentInterval}</strong> {membershipFeeYearlyFormatted} by <strong>{paymentType}</strong>",
   "membership_confirmation_address_head": "We have stored the following address:",
   "membership_confirmation_success_text": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package by post. We are delighted to have you on board!",
+  "membership_confirmation_success_text_after_address_change": "We have just sent you a confirmation by email with the new address.",
   "membership_confirmation_success_text_incentive": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package with the Wikipedia tote bag by post. We are delighted to have you on board!",
   "membership_confirmation_success_text_bank_transfer": "We are delighted to have you on board!",
   "membership_confirmation_cancel_button": "Cancel membership",
+  "membership_confirmation_summary_title": "We will send your ?membership receipt? to the following address:",
+  "membership_confirmation_summary_title_no_receipt_wanted": "We have received the following address from you:",
+  "membership_confirmation_address_person": "<strong>Address:</strong> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
+  "membership_confirmation_address_company": "<strong>Address:</strong> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
 
   "membership_form_detailed_info_box_heading": "Supporting membership works",
   "membership_form_detailed_info_box_collapsed_info_text": "Recurring contributions support our charitable organization in a very sustainable way. They permit us to reliably plan our activities in support of Wikipedia's long-term development and that of the other Wikimedia projects.",
@@ -641,5 +646,10 @@
   "form_payment_interval_1": "monthly",
   "form_payment_interval_3": "quarterly",
   "form_payment_interval_6": "twice yearly",
-  "form_payment_interval_12": "annually"
+  "form_payment_interval_12": "annually",
+
+  "confirmation_page_email": "<strong>Email:</strong> {email}",
+  "confirmation_page_address_update": "Entered the wrong address?",
+  "confirmation_page_address_update_link": "Update here",
+  "confirmation_page_update_address_form_header": "Enter postal address."
 }
