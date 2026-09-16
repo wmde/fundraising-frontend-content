@@ -418,7 +418,9 @@
   "membership_confirmation_success_text_incentive": "We have just sent you a confirmation by email. In the near future, you will also receive our welcome package with the Wikipedia tote bag by post. We are delighted to have you on board!",
   "membership_confirmation_success_text_bank_transfer": "We are delighted to have you on board!",
   "membership_confirmation_cancel_button": "Cancel membership",
-  "membership_confirmation_summary_title": "We will send your ?membership receipt? to the following address:",
+  "membership_confirmation_address_update": "Entered the wrong address?",
+  "membership_confirmation_address_update_link": "Update here",
+  "membership_page_update_address_form_header": "Enter postal address.",
   "membership_confirmation_summary_title_no_receipt_wanted": "We have received the following address from you:",
   "membership_confirmation_address_person": "<strong>Address:</strong> {salutation} {fullName}, {streetAddress}, {postalCode} {city}, {country}",
   "membership_confirmation_address_company": "<strong>Address:</strong> {fullName}, {streetAddress}, {postalCode} {city}, {country}",
@@ -668,10 +670,5 @@
   "form_payment_interval_1": "monthly",
   "form_payment_interval_3": "quarterly",
   "form_payment_interval_6": "twice yearly",
-  "form_payment_interval_12": "annually",
-
-  "confirmation_page_email": "<strong>Email:</strong> {email}",
-  "confirmation_page_address_update": "Entered the wrong address?",
-  "confirmation_page_address_update_link": "Update here",
-  "confirmation_page_update_address_form_header": "Enter postal address."
+  "form_payment_interval_12": "annually"
 }
