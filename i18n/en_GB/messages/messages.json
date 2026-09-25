@@ -84,6 +84,13 @@
   "contact_form_topic_label": "Topic",
   "contact_form_topic_placeholder": "Please select a topic",
   "contact_form_topic_error": "You must select a topic.",
+  "contact_form_reason_1": "First fictional rationale",
+  "contact_form_reason_2": "Second fictional rationale",
+  "contact_form_reason_3": "Third fictional rationale",
+  "contact_form_reason_4": "Other",
+  "contact_form_reason_label": "Rationale",
+  "contact_form_reason_placeholder": "Please select a rationale",
+  "contact_form_reason_error": "You must select a rationale.",
 
   "contact_sidebar_title": "Questions or Comments?",
   "contact_sidebar_image_alt": "Our service team",
