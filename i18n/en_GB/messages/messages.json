@@ -90,6 +90,8 @@
   "contact_form_reason_4": "Other",
   "contact_form_reason_label": "Rationale",
   "contact_form_reason_placeholder": "Please select a rationale",
+  "contact_form_reason_other_label": "Other rationale",
+  "contact_form_reason_other_placeholder": "Please enter a rationale",
   "contact_form_reason_error": "You must select a rationale.",
 
   "contact_sidebar_title": "Questions or Comments?",

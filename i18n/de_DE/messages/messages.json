@@ -90,6 +90,8 @@
   "contact_form_reason_4": "Sonstiges",
   "contact_form_reason_label": "Grund",
   "contact_form_reason_placeholder": "Bitte wählen Sie einen Grund aus",
+  "contact_form_reason_other_label": "Sonstiger Grund",
+  "contact_form_reason_other_placeholder": "Bitte geben Sie einen Grund ein",
   "contact_form_reason_error": "Sie müssen einen Grund auswählen.",
 
   "contact_sidebar_title": "Fragen oder Anmerkungen?",
