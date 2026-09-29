@@ -11,6 +11,7 @@
 	"mail_subject_confirm_membership_application_active": "Your continued commitment as an active member of Wikimedia",
 	"mail_subject_confirm_membership_application_sustaining": "Your continued commitment as a Sponsoring Member at Wikimedia",
 	"mail_subject_confirm_membership_application_cancellation": "Cancellation of your membership to Wikimedia Deutschland e. V.",
+	"mail_subject_update_membership": "Your membership changes for Wikipedia and Free Knowledge.",
 
 	"donation_payment_interval_0": "once",
 	"donation_payment_interval_1": "monthly",

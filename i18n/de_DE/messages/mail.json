@@ -11,6 +11,7 @@
   "mail_subject_confirm_membership_application_active": "Willkommen bei Wikimedia Deutschland! Ihr Engagement bewirkt viel.",
   "mail_subject_confirm_membership_application_sustaining": "Willkommen bei Wikimedia Deutschland! Ihr Engagement bewirkt viel.",
   "mail_subject_confirm_membership_application_cancellation": "Stornierung Ihres Mitgliedschaftsantrags bei Wikimedia Deutschland",
+  "mail_subject_update_membership": "Ihre Änderungen zur Mitgliedschaft für Wikipedia und Freies Wissen.",
 
   "donation_payment_interval_0": "einmalig",
   "donation_payment_interval_1": "monatlich",
