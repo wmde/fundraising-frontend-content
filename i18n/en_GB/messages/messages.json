@@ -51,6 +51,9 @@
   "bank_data_transfer_code": "Reference",
   "bank_data_transfer_amount_label": "Amount",
 
+  "copy_click_message": "click to copy",
+  "copy_popup": "Copied!",
+
   "contact_form_body_label": "Your message to us",
   "contact_form_body_error": "Message is required.",
   "contact_form_donation_number_label": "Donation number or address number",
