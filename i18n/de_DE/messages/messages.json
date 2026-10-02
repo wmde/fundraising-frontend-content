@@ -51,6 +51,9 @@
   "bank_data_transfer_code": "Verwendungszweck",
   "bank_data_transfer_amount_label": "Betrag",
 
+  "copy_click_message": "Zum Kopieren klicken",
+  "copy_popup": "Kopiert!",
+
   "contact_form_body_label": "Ihre Nachricht an uns",
   "contact_form_body_error": "Bitte füllen Sie das Feld für die Nachricht aus.",
   "contact_form_donation_number_label": "Spenden- oder Adressnummer",
@@ -88,7 +91,7 @@
   "contact_sidebar_title": "Fragen oder Anmerkungen?",
   "contact_sidebar_image_alt": "Unser Service-Team",
   "contact_sidebar_subtitle": "Unser Service-Team hilft gerne",
-  "contact_sidebar_opening": "Montag bis Freitag, 10:00 - 16:00 Uhr",
+  "contact_sidebar_opening": "Montag bis Freitag, 10:00 - 17:00 Uhr",
   "contact_sidebar_phone": "(030) 577 11 62-19",
   "contact_sidebar_email": "spenden{'@'}wikimedia.de",
 
