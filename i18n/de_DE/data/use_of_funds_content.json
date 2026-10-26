@@ -52,33 +52,33 @@
 	},
 
 	"revenueComparison": {
-		"title": "Wie viel (oder wie wenig) wir brauchen",
+		"title": "Warum wir nur 8.400.000 € brauchen",
 		"content": [
-			"Das Ziel unserer letzten Spendenkampagne betrug 8,0 Millionen €, ein wichtiger Teil der geplanten Gesamteinnahmen für das Jahr 2026. Das ist zweifelsohne viel Geld.",
+			"Unser Spendenziel von 8,4 Millionen € ist ein wichtiger Teil unserer für das Jahr 2027 geplanten Gesamteinnahmen. Das ist zweifelsohne viel Geld.",
 			"Berücksichtigt man allerdings, dass Wikipedia zu den Top-10-Webseiten gehört, so relativieren sich diese Zahlen. Denn im Vergleich zu anderen Top-Webseiten benötigen wir ein außergewöhnlich geringes Budget für den laufenden Betrieb und für Investitionen in die Zukunft.",
-			"Dies ist allein deshalb möglich, weil Wikipedia kein „Gewinnmaximierung“ verfolgt. Das Projekt wird ehrenamtlich erstellt, während wir dahinter weltweit nur rund 900 Mitarbeitende beschäftigen. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
+			"Dies ist allein deshalb möglich, weil Wikipedia keine „Gewinnmaximierung“ verfolgt. Das Projekt wird ehrenamtlich erstellt, während wir dahinter weltweit nur rund 900 Mitarbeitende beschäftigen. Zudem sind wir gemeinnützig, das verpflichtet uns zu einem verantwortungsbewussten und effizienten Umgang mit den Einnahmen."
 		],
 		"companies": {
 			"title": "Vergleich der Jahreseinnahmen (weltweit)",
 			"items": [
 				{
 					"name": "Google",
-					"budget": 348,
-					"budgetString": "348 Mrd. $",
+					"budget": 402,
+					"budgetString": "402 Mrd. $",
 					"link": "https://www.statista.com/statistics/266206/googles-annual-global-revenue/",
 					"linkText": "Quelle"
 				},
 				{
 					"name": "Amazon",
-					"budget": 637,
-					"budgetString": "637 Mrd. $",
+					"budget": 716,
+					"budgetString": "716 Mrd. $",
 					"link": "https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/",
 					"linkText": "Quelle"
 				},
 				{
 					"name": "Facebook",
-					"budget": 164,
-					"budgetString": "164 Mrd. $",
+					"budget": 200,
+					"budgetString": "200 Mrd. $",
 					"link": "https://www.statista.com/statistics/268604/annual-revenue-of-facebook/",
 					"linkText": "Quelle"
 				},
@@ -93,5 +93,5 @@
 		}
 	},
 
-	"closingParagraph" : "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2025-2026\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2026\">Aktivitäten in Deutschland</a>."
+	"closingParagraph" : "Die Jahrespläne von Wikimedia Deutschland und der Wikimedia Foundation enthalten weitere Informationen über unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Foundation_Annual_Plan/2026-2027\" target=\"_blank\">internationalen Aktivitäten</a> und unsere <a href=\"https://meta.wikimedia.org/wiki/Wikimedia_Deutschland/Plan_2026\" target=\"_blank\">Aktivitäten in Deutschland</a>."
 }
