@@ -457,6 +457,7 @@
   "membership_form_city_error": "Please enter the name of your city.",
   "membership_form_country_error": "Please state a country.",
   "membership_form_email_error": "Please enter a valid email address.",
+  "membership_form_address_type_company_disabled_info": "Active membership is only available to private individuals.",
 
   "membership_form_detailed_info_box_heading": "Supporting membership works",
   "membership_form_detailed_info_box_collapsed_info_text": "Recurring contributions support our charitable organization in a very sustainable way. They permit us to reliably plan our activities in support of Wikipedia's long-term development and that of the other Wikimedia projects.",

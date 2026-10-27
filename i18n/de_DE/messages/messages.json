@@ -454,6 +454,7 @@
   "membership_form_city_error": "Bitte geben Sie einen Ort an.",
   "membership_form_country_error": "Bitte geben Sie ein Land an.",
   "membership_form_email_error": "Bitte geben Sie eine gültige E-Mail-Adresse an.",
+  "membership_form_address_type_company_disabled_info": "Die aktive Mitgliedschaft steht nur Privatpersonen offen.",
 
   "membership_form_detailed_info_box_heading": "Fördermitgliedschaft wirkt",
   "membership_form_detailed_info_box_collapsed_info_text": "Regelmäßige Förderbeiträge unterstützen unseren gemeinnützigen Verein besonders nachhaltig. Sie ermöglichen eine verlässliche Planung unserer Aktivitäten für die langfristige Entwicklung von Wikipedia und der anderen Wikimedia-Projekte.",
